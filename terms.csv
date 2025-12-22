@@ -1,6 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.7743418859674397,0,2,pt,WAF,Africa
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2025-12-10T03:45:00+00:00,Brazil,0.7392620241043082,1,3,pt,SAM,South-America
 'b6a9f7bc41',extremes,Snow&Ice,#d60d2b,wmo,avalanche portugal,2025-12-12T03:45:00+00:00,Portugal,0.7381122538342025,1,2,pt,MED,Europe
+'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2025-12-02T03:41:00+00:00,Portugal,0.7334231717116367,0,2,pt,MED,Europe
 '580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2025-12-02T03:41:00+00:00,Portugal,0.7140267715465763,0,2,pt,MED,Europe
 '1a9efc956b',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2025-12-07T03:47:00+00:00,Portugal,0.7139083983542313,0,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.6961582920015472,0,2,pt,MED,Europe
@@ -10,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2025-12-02T03:41:00+00:00,Portugal,0.6844317507111536,0,2,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.6808591306400361,0,2,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2025-12-12T03:45:00+00:00,Portugal,0.6802820196747612,0,2,pt,MED,Europe
+'80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2025-12-06T03:32:00+00:00,Portugal,0.6772875765198413,0,2,pt,MED,Europe
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2025-12-12T03:45:00+00:00,Portugal,0.6755830296436535,0,2,pt,MED,Europe
 '59daf9e5cf',extremes,Snow&Ice,#d60d2b,wmo,avalanche madeira regiões montanhosas,2025-12-13T03:38:00+00:00,Portugal,0.6746860152981533,0,2,pt,MED,Europe
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2025-12-08T03:44:00+00:00,Portugal,0.6735472713958611,0,2,pt,MED,Europe
@@ -62,7 +65,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2025-12-06T03:32:00+00:00,Portugal,0.5954341134878081,0,2,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2025-12-07T03:47:00+00:00,Brazil,0.5951227218757532,0,2,pt,SAM,South-America
 'a9f5de0046',extremes,Snow&Ice,#d60d2b,wmo,gelo castelo branco,2025-12-11T03:46:00+00:00,Portugal,0.5936412895624631,0,2,pt,MED,Europe
+'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2025-12-05T03:41:00+00:00,Portugal,0.5888626777046198,0,2,pt,MED,Europe
+'2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2025-12-06T03:32:00+00:00,Portugal,0.5878027608989554,0,2,pt,MED,Europe
+'9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.5871498922043433,0,2,pt,MED,Europe
+'1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2025-12-06T03:32:00+00:00,Portugal,0.587051814499361,0,2,pt,MED,Europe
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2025-12-02T03:41:00+00:00,Portugal,0.5870420466162977,1,1,pt,MED,Europe
+'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2025-12-06T03:32:00+00:00,Portugal,0.5850185888089907,0,2,pt,MED,Europe
+'d154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.5835059427340037,0,2,pt,MED,Europe
+'bcc2ae1044',extremes,Snow&Ice,#d60d2b,wmo,avalanche castelo branco,2025-12-19T03:46:00+00:00,Portugal,0.5834613203144454,0,2,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-05T03:41:00+00:00,Portugal,0.5811852460301784,1,1,pt,MED,Europe
 '3b23de1a2c',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2025-12-06T03:32:00+00:00,Portugal,0.5661539367196936,1,1,pt,MED,Europe
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-05T03:41:00+00:00,Guinea-Bissau,0.5571015201923033,1,1,pt,WAF,Africa
