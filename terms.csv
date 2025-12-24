@@ -71,12 +71,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b23de1a2c',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2025-12-06T03:32:00+00:00,Portugal,0.5661539367196936,1,1,pt,MED,Europe
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2025-12-09T03:41:00+00:00,Portugal,0.565793451294473,0,2,pt,MED,Europe
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2025-12-16T03:47:00+00:00,Portugal,0.5654585805081884,1,1,pt,MED,Europe
-'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.5644808687899869,0,2,pt,MED,Europe
 '28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2025-12-12T03:45:00+00:00,Portugal,0.5639075471416137,1,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2025-12-03T03:40:00+00:00,Angola,0.5633861850176614,1,1,pt,WSAF,Africa
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2025-12-06T03:32:00+00:00,Portugal,0.5614177660217265,1,1,pt,MED,Europe
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2025-12-09T03:41:00+00:00,Guinea-Bissau,0.5608591250917648,0,2,pt,WAF,Africa
-'731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2025-12-08T03:44:00+00:00,Timor Leste,0.5592171966522206,0,2,pt,SEA,Asia
 '3b5a32e02d',extremes,Precipitation,#d60d2b,wmo,precipitação lisboa,2025-12-12T03:45:00+00:00,Portugal,0.5582719335825603,0,2,pt,MED,Europe
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-05T03:41:00+00:00,Guinea-Bissau,0.5571015201923033,1,1,pt,WAF,Africa
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2025-12-08T03:44:00+00:00,Portugal,0.5567278173028205,1,1,pt,MED,Europe
@@ -100,6 +98,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86b60d837d',extremes,Precipitation,#d60d2b,wmo,aguaceiro beja,2025-12-08T03:44:00+00:00,Portugal,0.5287566302871003,0,2,pt,MED,Europe
 '5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2025-12-12T03:45:00+00:00,Portugal,0.5280161269474078,0,2,pt,MED,Europe
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2025-12-14T03:49:00+00:00,Portugal,0.5077399367845611,1,1,pt,MED,Europe
+'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.49630888847148885,1,2,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2025-12-02T03:41:00+00:00,Portugal,0.4945019398888085,2,1,pt,MED,Europe
 '1df73acddb',extremes,Precipitation,#d60d2b,wmo,chuva torrencial açores grupo oriental,2025-12-07T03:47:00+00:00,Portugal,0.4907831198110004,1,1,pt,MED,Europe
+'731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2025-12-08T03:44:00+00:00,Timor Leste,0.47533461715438746,1,1,pt,SEA,Asia
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2025-11-30T03:46:00+00:00,Timor Leste,0.4537956514512155,1,1,pt,SEA,Asia
