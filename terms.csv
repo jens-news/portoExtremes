@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.7743418859674397,0,2,pt,WAF,Africa
-'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2025-12-05T03:41:00+00:00,Angola,0.7222708032827323,1,2,pt,WSAF,Africa
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-05T03:41:00+00:00,Portugal,0.6873471886163384,0,2,pt,MED,Europe
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2025-12-12T03:45:00+00:00,Portugal,0.673006906375894,0,2,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.6706484725272737,0,2,pt,MED,Europe
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2025-12-02T03:41:00+00:00,Portugal,0.668635811494339,1,3,pt,NAO,Atlantic Ocean
-'0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-05T03:41:00+00:00,Portugal,0.6607275618041515,0,2,pt,MED,Europe
 '142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-07T03:47:00+00:00,Portugal,0.6574786686981117,0,2,pt,MED,Europe
 'd1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2025-12-07T03:47:00+00:00,Portugal,0.6544464284819971,0,2,pt,MED,Europe
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2025-12-02T03:41:00+00:00,Portugal,0.6530505300248354,0,2,pt,MED,Europe
@@ -29,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.6171174623681953,2,3,pt,MED,Europe
 'bd0c34a4e9',extremes,Snow&Ice,#d60d2b,wmo,neve castelo branco,2025-12-18T03:44:00+00:00,Portugal,0.6164882892450516,0,2,pt,MED,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6157670544483721,0,2,pt,WAF,Africa
+'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2025-12-05T03:41:00+00:00,Angola,0.6140801977903224,2,2,pt,WSAF,Africa
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2025-12-04T03:42:00+00:00,Guinea-Bissau,0.6106002190166727,0,2,pt,WAF,Africa
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2025-12-05T03:41:00+00:00,Portugal,0.6103836960489267,1,3,pt,MED,Europe
 '580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2025-12-02T03:41:00+00:00,Portugal,0.6069227558145899,1,1,pt,MED,Europe
@@ -38,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fb8010a56',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2025-12-08T03:44:00+00:00,Portugal,0.6017595891209059,0,2,pt,MED,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2025-12-18T03:44:00+00:00,Portugal,0.6010460492763157,0,2,pt,MED,Europe
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-10T03:45:00+00:00,Portugal,0.6003109108928852,1,1,pt,MED,Europe
-'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.5991813076645275,0,2,pt,WAF,Africa
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2025-12-10T03:45:00+00:00,Brazil,0.5982301471199082,3,3,pt,SAM,South-America
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2025-12-06T03:32:00+00:00,Portugal,0.5954341134878081,0,2,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2025-12-07T03:47:00+00:00,Brazil,0.5951227218757532,0,2,pt,SAM,South-America
@@ -71,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2025-12-16T03:47:00+00:00,Portugal,0.5654585805081884,1,1,pt,MED,Europe
 '28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2025-12-12T03:45:00+00:00,Portugal,0.5639075471416137,1,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2025-12-03T03:40:00+00:00,Angola,0.5633861850176614,1,1,pt,WSAF,Africa
+'0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-05T03:41:00+00:00,Portugal,0.5616184275335288,1,1,pt,MED,Europe
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2025-12-06T03:32:00+00:00,Portugal,0.5614177660217265,1,1,pt,MED,Europe
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2025-12-09T03:41:00+00:00,Guinea-Bissau,0.5608591250917648,0,2,pt,WAF,Africa
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2025-12-09T03:41:00+00:00,Cabo Verde,0.5584871458956251,1,1,pt,NAO,Atlantic Ocean
@@ -104,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2025-12-15T03:54:00+00:00,Bermuda,0.5144253143279113,0,2,pt,NAO,Atlantic Ocean
 '47d1948db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo ocidental,2025-12-10T03:45:00+00:00,Portugal,0.5119935370192629,0,2,pt,MED,Europe
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-03T03:40:00+00:00,Sao Tome and Principe,0.5117161190725715,0,2,pt,WAF,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.5093041115148483,1,1,pt,WAF,Africa
 '13ee351c11',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo central,2025-12-06T03:32:00+00:00,Portugal,0.5080817994683925,0,2,pt,MED,Europe
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2025-12-14T03:49:00+00:00,Portugal,0.5077399367845611,1,1,pt,MED,Europe
 'b909d56303',extremes,Precipitation,#d60d2b,wmo,aguaceiro castelo branco,2025-12-08T03:44:00+00:00,Portugal,0.506021914574284,0,2,pt,MED,Europe
@@ -121,9 +120,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2025-12-06T03:32:00+00:00,Macao,0.4705954774905082,0,2,pt,EAS,Asia
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2025-12-12T03:46:00+00:00,Angola,0.4582686531886426,0,2,pt,WSAF,Africa
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2025-11-30T03:46:00+00:00,Timor Leste,0.4537956514512155,1,1,pt,SEA,Asia
-'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-13T03:38:00+00:00,Guinea-Bissau,0.45238312431519867,0,2,pt,WAF,Africa
+'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-13T03:38:00+00:00,Guinea-Bissau,0.4523831243151986,0,2,pt,WAF,Africa
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2025-12-04T03:42:00+00:00,Timor Leste,0.4424879554107812,0,2,pt,SEA,Oceania
-'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.43928670767898986,0,2,pt,NAO,Atlantic Ocean
-'92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.40558264659056553,0,2,pt,SEA,Oceania
-'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.36373127584412845,0,2,pt,EAS,Asia
+'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.4392867076789898,0,2,pt,NAO,Atlantic Ocean
+'92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.4055826465905655,0,2,pt,SEA,Oceania
+'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3637312758441284,0,2,pt,EAS,Asia
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcão puracé colômbia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,pt,NWS,South-America
