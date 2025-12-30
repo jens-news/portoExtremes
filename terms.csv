@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.7743418859674397,0,2,pt,WAF,Africa
+'6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.6808591306400361,0,2,pt,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.639871497006008,1,3,pt,SAM,South-America
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2025-12-03T03:40:00+00:00,Brazil,0.6395118545388363,0,2,pt,SAM,South-America
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2025-12-02T03:41:00+00:00,Portugal,0.6353428268596286,1,2,pt,MED,Europe
@@ -122,7 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.4392867076789898,0,2,pt,NAO,Atlantic Ocean
 'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2025-12-12T03:45:00+00:00,Portugal,0.4196269151314291,1,1,pt,MED,Europe
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.4055826465905655,0,2,pt,SEA,Oceania
-'4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2025-11-30T03:46:00+00:00,Timor Leste,0.38572630373353317,2,1,pt,SEA,Asia
+'4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2025-11-30T03:46:00+00:00,Timor Leste,0.3857263037335331,2,1,pt,SEA,Asia
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3637312758441284,0,2,pt,EAS,Asia
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcão puracé colômbia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,pt,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,pt,SPO,Pacific Ocean
@@ -176,3 +178,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Madagáscar,2025-12-06T03:32:00+00:00,Madagascar,0.3043542924664859,0,2,pt,MDG,Africa
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,pt,EAO,Atlantic Ocean
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,incêndio florestal madhya pradesh,2025-11-30T03:46:00+00:00,India,0.3043410708066347,0,2,pt,SAS,Asia
+'dc8be80c47',extremes,Drought,#edc291,edo,seca ilhas faroé,2025-12-05T03:41:00+00:00,Faroe Islands,0.30429413159985474,0,2,pt,NEU,Europe
+'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,chuva torrencial على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,pt,SAH,Africa
+'a2c72301a8',extremes,Drought,#edc291,edo,seca nos Camarões,2025-12-08T03:45:00+00:00,Cameroon,0.30425338546101616,0,2,pt,CAF,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2025-12-01T04:02:00+00:00,South Africa,0.30419798091588524,0,2,pt,WSAF,Africa
+'8be002d270',extremes,Drought,#edc291,edo,falta de chuva venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.30418467408514355,0,2,pt,NSA,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2025-11-30T03:46:00+00:00,Paraguay,0.30416853638142277,0,2,pt,SES,South-America
+'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,aguaceiro maldivas,2025-11-30T03:46:00+00:00,Maldives,0.3041559310830806,0,2,pt,EIO,Indian Ocean
+'9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche Canadá,2025-12-10T03:45:00+00:00,Canada,0.3041520329813526,0,2,pt,NEN,North-America
