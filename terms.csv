@@ -110,7 +110,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2025-12-09T03:41:00+00:00,Portugal,0.480924433600302,1,1,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2025-12-13T03:38:00+00:00,Portugal,0.4807547200498453,0,2,pt,NAO,Atlantic Ocean
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2025-12-08T03:44:00+00:00,Timor Leste,0.4753346171543874,1,1,pt,SEA,Asia
-'6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2025-12-09T03:41:00+00:00,Portugal,0.4727821940012783,1,1,pt,MED,Europe
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2025-12-06T03:32:00+00:00,Macao,0.4705954774905082,0,2,pt,EAS,Asia
 '14a197e007',extremes,Precipitation,#d60d2b,wmo,precipitação portalegre,2025-12-12T03:45:00+00:00,Portugal,0.4667231392063383,1,1,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2025-12-12T03:46:00+00:00,Angola,0.4582686531886426,0,2,pt,WSAF,Africa
@@ -123,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b909d56303',extremes,Precipitation,#d60d2b,wmo,aguaceiro castelo branco,2025-12-08T03:44:00+00:00,Portugal,0.4301186273881414,1,1,pt,MED,Europe
 'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2025-12-12T03:45:00+00:00,Portugal,0.4196269151314291,1,1,pt,MED,Europe
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.4055826465905655,0,2,pt,SEA,Oceania
+'6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2025-12-09T03:41:00+00:00,Portugal,0.4026149999010865,2,1,pt,MED,Europe
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2025-11-30T03:46:00+00:00,Timor Leste,0.3857263037335331,2,1,pt,SEA,Asia
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3637312758441284,0,2,pt,EAS,Asia
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcão puracé colômbia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,pt,NWS,South-America
