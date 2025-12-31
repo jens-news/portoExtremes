@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.7743418859674397,0,2,pt,WAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.6897510483641976,2,3,pt,SAM,South-America
+'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2025-12-03T03:40:00+00:00,Brazil,0.6395118545388363,0,2,pt,SAM,South-America
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2025-12-02T03:41:00+00:00,Portugal,0.6353428268596286,1,2,pt,MED,Europe
 '722490b387',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2025-12-11T03:46:00+00:00,Portugal,0.6321052508366455,0,2,pt,MED,Europe
 '3da70d2eb1',extremes,Snow&Ice,#d60d2b,wmo,neve portugal,2025-12-02T03:41:00+00:00,Portugal,0.6247999297380797,1,2,pt,MED,Europe
@@ -22,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2025-12-06T03:32:00+00:00,Portugal,0.5954341134878081,0,2,pt,MED,Europe
 'a9f5de0046',extremes,Snow&Ice,#d60d2b,wmo,gelo castelo branco,2025-12-11T03:46:00+00:00,Portugal,0.5936412895624631,0,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.5917345482013151,1,1,pt,MED,Europe
+'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2025-12-05T03:41:00+00:00,Portugal,0.5888626777046198,0,2,pt,MED,Europe
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2025-12-06T03:32:00+00:00,Portugal,0.5878027608989554,0,2,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.5875046642507313,2,3,pt,SAM,South-America
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2025-12-01T04:02:00+00:00,Mozambique,0.5871963686794388,1,1,pt,ESAF,Africa
@@ -191,4 +194,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,inundação repentina Canadá,2025-12-03T03:40:00+00:00,Canada,0.3038022408685381,0,2,pt,NEN,North-America
 'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,granizo Maldivas,2025-12-02T03:41:00+00:00,Maldives,0.3037916892117636,0,2,pt,EIO,Indian Ocean
 '8982a15e86',extremes,Wildfire,#d60d2b,wmo,incêndio florestal território norte latido norte,2025-12-01T04:02:00+00:00,Australia,0.3037706234717715,0,2,pt,CAU,Oceania
+'3e99480ef7',extremes,Drought,#edc291,edo,falta de chuva no Uzbequistão,2025-12-06T03:32:00+00:00,Uzbekistan,0.30369801088074877,0,2,pt,WCA,Asia
+'ebb583160c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nas terras altas e partes orientais,2025-12-06T03:32:00+00:00,Madagascar,0.30369499541747097,0,2,pt,MDG,Africa
+'1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,nevoeiro Lituânia,2025-11-30T03:46:00+00:00,Lithuania,0.30369093615611187,0,2,pt,WCE,Europe
+'d61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2025-12-09T03:41:00+00:00,Chile,0.30366952990185725,0,2,pt,SWS,South-America
+'06285e171c',extremes,Flood,#030ba1,wmo,inundação na Noruega,2025-12-02T03:41:00+00:00,Norway,0.3036267732979363,0,2,pt,NEU,Europe
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2025-12-06T03:32:00+00:00,Algeria,0.30357946485773724,0,2,pt,SAH,Africa
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.30357700412013927,0,2,pt,SPO,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,congelando a Índia,2025-12-07T03:47:00+00:00,India,0.2629949437031582,1,1,pt,SAS,Asia
