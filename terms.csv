@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.7743418859674397,0,2,pt,WAF,Africa
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.7469650553011858,0,2,pt,SAM,South-America
 'b6a9f7bc41',extremes,Snow&Ice,#d60d2b,wmo,avalanche portugal,2025-12-12T03:45:00+00:00,Portugal,0.6240362976452113,3,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2025-12-02T03:41:00+00:00,Portugal,0.6234099959548912,1,1,pt,MED,Europe
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2025-12-08T03:44:00+00:00,Portugal,0.6229652256864819,1,2,pt,MED,Europe
@@ -14,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-10T03:45:00+00:00,Portugal,0.6003109258928853,1,1,pt,MED,Europe
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2025-12-11T03:46:00+00:00,Portugal,0.5969949947025186,1,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.5917345482013151,1,1,pt,MED,Europe
+'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2025-12-05T03:41:00+00:00,Portugal,0.5888626777046198,0,2,pt,MED,Europe
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2025-12-06T03:32:00+00:00,Portugal,0.5878027608989554,0,2,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.5875046642507313,2,3,pt,SAM,South-America
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2025-12-01T04:02:00+00:00,Mozambique,0.5871963686794388,1,1,pt,ESAF,Africa
@@ -206,4 +209,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,tempo severo Zimbábue,2025-12-05T03:41:00+00:00,Zimbabwe,0.3033921148636194,0,2,pt,ESAF,Africa
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,onda de calor rio quarto e arredores,2025-12-07T03:47:00+00:00,Argentina,0.3033033330358391,0,2,pt,SES,South-America
 '515277a569',extremes,Flood,#030ba1,wmo,inundação reino unido,2025-12-01T04:02:00+00:00,United Kingdom,0.3032784490610096,0,2,pt,NEU,Europe
+'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2025-12-01T04:02:00+00:00,Latvia,0.3032550112521488,0,2,pt,WCE,Europe
+'42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitação Líbia,2025-12-04T03:42:00+00:00,Libya,0.30325287618791996,0,2,pt,SAH,Africa
+'4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,chuva Ilhas Salomão,2025-12-09T03:41:00+00:00,Solomon Islands,0.3032073760665366,0,2,pt,EPO,Oceania
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2025-12-07T03:47:00+00:00,South Africa,0.3031929207232305,0,2,pt,WSAF,Africa
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2025-12-07T03:46:00+00:00,Alaska,0.30304434320064644,0,2,pt,NWN,North-America
+'0631ca1034',extremes,Wildfire,#d60d2b,wmo,"incêndio florestal na república da ossétia do norte, alânia",2025-12-04T03:42:00+00:00,Russia,0.3029980307467519,0,2,pt,ESB,Europe
+'19431f7bd9',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Daguestão,2025-11-30T03:46:00+00:00,Russia,0.3029179270137412,0,2,pt,ESB,Europe
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,congelando a Índia,2025-12-07T03:47:00+00:00,India,0.2629949437031582,1,1,pt,SAS,Asia
