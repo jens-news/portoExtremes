@@ -15,14 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-10T03:45:00+00:00,Portugal,0.6003109258928853,1,1,pt,MED,Europe
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2025-12-11T03:46:00+00:00,Portugal,0.5969949947025186,1,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.5917345482013151,1,1,pt,MED,Europe
-'2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2025-12-06T03:32:00+00:00,Portugal,0.5878027608989554,0,2,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2025-12-14T03:49:00+00:00,Brazil,0.5875046642507313,2,3,pt,SAM,South-America
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2025-12-01T04:02:00+00:00,Mozambique,0.5871963686794388,1,1,pt,ESAF,Africa
-'9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.5871498922043433,0,2,pt,MED,Europe
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2025-12-02T03:41:00+00:00,Portugal,0.5870420466162977,1,1,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.5852127477592937,1,2,pt,MED,Europe
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2025-12-06T03:32:00+00:00,Portugal,0.5850185888089907,0,2,pt,MED,Europe
-'d154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.5835059427340037,0,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-04T03:42:00+00:00,Portugal,0.5822698107553388,1,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-05T03:41:00+00:00,Portugal,0.5811852460301784,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2025-12-02T03:41:00+00:00,Angola,0.5791775539938112,0,2,pt,WSAF,Africa
@@ -84,9 +81,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2025-12-14T03:49:00+00:00,Portugal,0.5077399367845611,1,1,pt,MED,Europe
 'a9f5de0046',extremes,Snow&Ice,#d60d2b,wmo,gelo castelo branco,2025-12-11T03:46:00+00:00,Portugal,0.5045953061280936,1,1,pt,MED,Europe
 'e54fff9be0',extremes,Precipitation,#d60d2b,wmo,precipitação madeira costa norte,2025-12-13T03:38:00+00:00,Portugal,0.5012143892283554,0,2,pt,MED,Europe
+'9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.4990774233736918,1,1,pt,MED,Europe
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2025-12-06T03:32:00+00:00,Portugal,0.4989940423244567,1,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2025-12-13T03:38:00+00:00,Cabo Verde,0.4988688512761761,0,2,pt,NAO,Atlantic Ocean
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2025-12-05T03:41:00+00:00,Timor Leste,0.4979553272665032,0,2,pt,SEA,Oceania
+'d154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
 'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.4963088884714888,1,2,pt,MED,Europe
 'bcc2ae1044',extremes,Snow&Ice,#d60d2b,wmo,avalanche castelo branco,2025-12-19T03:46:00+00:00,Portugal,0.4959421222672786,1,1,pt,MED,Europe
 '42f57c351b',extremes,Precipitation,#d60d2b,wmo,precipitação viseu,2025-12-18T03:44:00+00:00,Portugal,0.4955244119444937,0,2,pt,MED,Europe
@@ -213,4 +212,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19431f7bd9',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Daguestão,2025-11-30T03:46:00+00:00,Russia,0.3029179270137412,0,2,pt,ESB,Europe
 'cc855d70a2',extremes,Drought,#edc291,edo,seca tajiquistão,2025-12-08T03:45:00+00:00,Tajikistan,0.2635445036786648,1,2,pt,WCA,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,congelando a Índia,2025-12-07T03:47:00+00:00,India,0.2629949437031582,1,1,pt,SAS,Asia
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2025-12-05T03:41:00+00:00,Australia,0.26244644941748224,1,1,pt,SAU,Oceania
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2025-12-05T03:41:00+00:00,Australia,0.2624464494174822,1,1,pt,SAU,Oceania
