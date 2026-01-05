@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2025-12-02T03:41:00+00:00,Portugal,0.6234099959548912,1,1,pt,MED,Europe
-'d68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2025-12-01T04:02:00+00:00,Cabo Verde,0.6210220281633495,1,1,pt,NAO,Atlantic Ocean
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2025-12-02T03:41:00+00:00,Portugal,0.6204287998068243,1,2,pt,MED,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2025-12-05T03:41:00+00:00,Angola,0.6140801977903224,2,2,pt,WSAF,Africa
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-05T03:41:00+00:00,Portugal,0.6105177675461099,1,2,pt,MED,Europe
@@ -115,9 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.3733937015271413,1,1,pt,NAO,Atlantic Ocean
 '6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2025-12-09T03:41:00+00:00,Portugal,0.3681228999159235,3,1,pt,MED,Europe
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2025-12-06T03:32:00+00:00,Portugal,0.3656709749457,3,1,pt,MED,Europe
-'92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.34474524960198066,1,1,pt,SEA,Oceania
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,pt,SAU,Oceania
-'291335c911',extremes,Drought,#edc291,edo,falta de chuva Gabão,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,pt,CAF,Africa
+'92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 'da5c6d0821',extremes,Drought,#edc291,edo,falta de chuva Quirguistão,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,pt,WCA,Asia
 '99251f8aa7',extremes,Drought,#edc291,edo,falta de chuva na Libéria,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,pt,WAF,Africa
@@ -151,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,pt,EAO,Atlantic Ocean
 'dc8be80c47',extremes,Drought,#edc291,edo,seca ilhas faroé,2025-12-05T03:41:00+00:00,Faroe Islands,0.3042941315998547,0,2,pt,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,chuva torrencial على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,pt,SAH,Africa
-'a2c72301a8',extremes,Drought,#edc291,edo,seca nos Camarões,2025-12-08T03:45:00+00:00,Cameroon,0.3042533854610161,0,2,pt,CAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2025-12-01T04:02:00+00:00,South Africa,0.3041979809158852,0,2,pt,WSAF,Africa
 '8be002d270',extremes,Drought,#edc291,edo,falta de chuva venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.3041846740851435,0,2,pt,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2025-11-30T03:46:00+00:00,Paraguay,0.3041685363814227,0,2,pt,SES,South-America
@@ -189,8 +185,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0631ca1034',extremes,Wildfire,#d60d2b,wmo,"incêndio florestal na república da ossétia do norte, alânia",2025-12-04T03:42:00+00:00,Russia,0.3029980307467519,0,2,pt,ESB,Europe
 '19431f7bd9',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Daguestão,2025-11-30T03:46:00+00:00,Russia,0.3029179270137412,0,2,pt,ESB,Europe
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcão puracé colômbia,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,pt,NWS,South-America
-'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 08p,2025-12-16T03:46:00+00:00,,0.26953508486057437,1,1,pt,SPO,Pacific Ocean
+'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,pt,SPO,Pacific Ocean
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave victoria,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,pt,SAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,seca trinidad e tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.2646681010909014,1,1,pt,NSA,North-America
+'291335c911',extremes,Drought,#edc291,edo,falta de chuva Gabão,2025-12-08T03:45:00+00:00,Gabon,0.26409615795298946,1,1,pt,CAF,Africa
 'cc855d70a2',extremes,Drought,#edc291,edo,seca tajiquistão,2025-12-08T03:45:00+00:00,Tajikistan,0.2635445036786648,1,2,pt,WCA,Asia
 '5a20612e67',extremes,Drought,#edc291,edo,falta de chuva trinidad e tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,pt,NSA,North-America
 '5d85dc5645',extremes,Drought,#edc291,edo,seca Ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.2632819039941947,1,1,pt,SEAF,Africa
@@ -203,5 +201,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0626237bf9',extremes,Flood,#030ba1,cmeter,inundação tirana,2025-12-06T03:33:00+00:00,Albania,0.259508438602973,1,1,pt,MED,Europe
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,tempestade uruguai,2025-12-02T03:41:00+00:00,Uruguay,0.2591413397294335,1,1,pt,SES,South-America
 'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,chuva torrencial do atol baa ao atol alif alif,2025-12-04T03:42:00+00:00,Maldives,0.2591181576804006,1,1,pt,EIO,Indian Ocean
+'a2c72301a8',extremes,Drought,#edc291,edo,seca nos Camarões,2025-12-08T03:45:00+00:00,Cameroon,0.25876539264186366,1,2,pt,CAF,Africa
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,registro de onda de tempestade. 4 cordilheira,2025-12-04T03:42:00+00:00,Chile,0.2587146084225356,1,1,pt,SWS,South-America
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Madagáscar,2025-12-06T03:32:00+00:00,Madagascar,0.258701148596513,1,1,pt,MDG,Africa
