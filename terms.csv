@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2025-12-01T04:02:00+00:00,Mozambique,0.649266928377523,2,2,pt,ESAF,Africa
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2025-12-02T03:41:00+00:00,Portugal,0.6204287998068243,1,2,pt,MED,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2025-12-05T03:41:00+00:00,Angola,0.6140801977903224,2,2,pt,WSAF,Africa
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-05T03:41:00+00:00,Portugal,0.6105177675461099,1,2,pt,MED,Europe
@@ -7,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-10T03:45:00+00:00,Portugal,0.6003109258928853,1,1,pt,MED,Europe
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2025-12-11T03:46:00+00:00,Portugal,0.5969949947025186,1,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.5917345482013151,1,1,pt,MED,Europe
-'036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2025-12-01T04:02:00+00:00,Mozambique,0.5871963686794388,1,1,pt,ESAF,Africa
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2025-12-02T03:41:00+00:00,Portugal,0.5870420466162977,1,1,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.5852127477592937,1,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-04T03:42:00+00:00,Portugal,0.5822698107553388,1,1,pt,MED,Europe
@@ -143,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2025-11-30T03:46:00+00:00,Saint Helena,0.3043485780202859,0,2,pt,EAO,Atlantic Ocean
 'dc8be80c47',extremes,Drought,#edc291,edo,seca ilhas faroé,2025-12-05T03:41:00+00:00,Faroe Islands,0.3042941315998547,0,2,pt,NEU,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,chuva torrencial على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,pt,SAH,Africa
-'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2025-12-01T04:02:00+00:00,South Africa,0.3041979809158852,0,2,pt,WSAF,Africa
 '8be002d270',extremes,Drought,#edc291,edo,falta de chuva venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.3041846740851435,0,2,pt,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2025-11-30T03:46:00+00:00,Paraguay,0.3041685363814227,0,2,pt,SES,South-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche Canadá,2025-12-10T03:45:00+00:00,Canada,0.3041520329813526,0,2,pt,NEN,North-America
