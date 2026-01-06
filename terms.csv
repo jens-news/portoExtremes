@@ -110,11 +110,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fe61f872b',extremes,Earthquake,#870007,usgs,terremoto metinaro,2025-12-16T03:46:00+00:00,Timor Leste,0.3784304748524429,2,1,pt,SEA,Asia
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2025-12-04T03:42:00+00:00,Timor Leste,0.376114762099164,1,1,pt,SEA,Oceania
 '6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2025-12-09T03:41:00+00:00,Portugal,0.3681228999159235,3,1,pt,MED,Europe
-'695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2025-12-06T03:32:00+00:00,Portugal,0.3656709749457,3,1,pt,MED,Europe
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.3173846462980701,2,1,pt,NAO,Atlantic Ocean
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
-'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,onda de frio na Índia,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,pt,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,seca no Turquemenistão,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,2,pt,WCA,Asia
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitação Tanzânia,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,2,pt,SEAF,Africa
 '42f1336000',extremes,Drought,#edc291,edo,seca Somália,2025-12-11T03:46:00+00:00,Somalia,0.3079220502193101,0,2,pt,NEAF,Africa
@@ -186,8 +184,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d85dc5645',extremes,Drought,#edc291,edo,seca Ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.2632819039941947,1,1,pt,SEAF,Africa
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,congelando a Índia,2025-12-07T03:47:00+00:00,India,0.2629949437031582,1,1,pt,SAS,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2025-12-05T03:41:00+00:00,Australia,0.2624464494174822,1,1,pt,SAU,Oceania
+'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,onda de frio na Índia,2025-12-08T03:44:00+00:00,India,0.26238569695582675,1,2,pt,SAS,Asia
 '99251f8aa7',extremes,Drought,#edc291,edo,falta de chuva na Libéria,2025-12-08T03:45:00+00:00,Liberia,0.2623637624332612,1,1,pt,WAF,Africa
-'2407b3a8ab',extremes,Drought,#edc291,edo,seca burundi,2025-12-03T03:40:00+00:00,Burundi,0.2619463485373196,1,1,pt,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguaceiro zona sul,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,pt,NWS,South-America
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,gelo Etiópia,2025-12-09T03:41:00+00:00,Ethiopia,0.2614143473870876,1,1,pt,NEAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,tempestade trovoada asma victoria,2025-12-12T03:46:00+00:00,Australia,0.2609046734147468,1,1,pt,SAU,Oceania
