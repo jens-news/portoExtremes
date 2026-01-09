@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2025-12-10T03:45:00+00:00,Portugal,0.6003109258928853,1,1,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2025-12-06T03:32:00+00:00,Portugal,0.5917345482013151,1,1,pt,MED,Europe
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2025-12-02T03:41:00+00:00,Portugal,0.5870420466162977,1,1,pt,MED,Europe
-'2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.5852127477592937,1,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-04T03:42:00+00:00,Portugal,0.5822698107553388,1,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-05T03:41:00+00:00,Portugal,0.5811852460301784,1,1,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.5790307860440307,1,2,pt,MED,Europe
@@ -37,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.4990774233736918,1,1,pt,MED,Europe
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2025-12-06T03:32:00+00:00,Portugal,0.4989940423244567,1,1,pt,MED,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
+'2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.49758134559539957,2,2,pt,MED,Europe
 'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.4963088884714888,1,2,pt,MED,Europe
 'bcc2ae1044',extremes,Snow&Ice,#d60d2b,wmo,avalanche castelo branco,2025-12-19T03:46:00+00:00,Portugal,0.4959421222672786,1,1,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2025-12-07T03:47:00+00:00,Portugal,0.4942482639840679,2,2,pt,NAO,Atlantic Ocean
@@ -96,7 +96,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,2,pt,SES,South-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,tempestade austrália,2025-12-07T03:47:00+00:00,Australia,0.3047047687093496,0,2,pt,SAU,Oceania
-'e190a41be9',extremes,Precipitation,#d60d2b,wmo,chuva على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.3046985846005302,0,2,pt,SAH,Africa
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,precipitação eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.3046800563325541,0,2,pt,ESAF,Africa
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,trovoada Nova Zelândia,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,2,pt,NZ,Oceania
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Líbia,2025-12-05T03:41:00+00:00,Libya,0.3045221879162967,0,2,pt,SAH,Africa
@@ -161,4 +160,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche Canadá,2025-12-10T03:45:00+00:00,Canada,0.2585292580341497,1,1,pt,NEN,North-America
 '912d7e568c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Rússia,2025-12-07T03:47:00+00:00,Russia,0.2583063331335121,1,1,pt,ESB,Europe
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nas terras altas e partes orientais,2025-12-06T03:32:00+00:00,Madagascar,0.2581407461048502,1,1,pt,MDG,Africa
-'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2025-12-07T03:47:00+00:00,South Africa,0.25771398261474593,1,1,pt,WSAF,Africa
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2025-12-07T03:47:00+00:00,South Africa,0.2577139826147459,1,1,pt,WSAF,Africa
