@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2025-12-02T03:41:00+00:00,Portugal,0.5870420466162977,1,1,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-04T03:42:00+00:00,Portugal,0.5822698107553388,1,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-05T03:41:00+00:00,Portugal,0.5811852460301784,1,1,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.5790307860440307,1,2,pt,MED,Europe
@@ -78,7 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a90f4cf9e4',extremes,Precipitation,#d60d2b,wmo,precipitação leiria,2025-12-08T03:44:00+00:00,Portugal,0.3905413097338068,2,1,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2025-12-12T03:46:00+00:00,Angola,0.3895283552103462,1,1,pt,WSAF,Africa
 '0077c9ecf8',extremes,Precipitation,#d60d2b,wmo,chuva torrencial madeira costa norte,2025-12-12T03:45:00+00:00,Portugal,0.3894718492031884,2,1,pt,MED,Europe
-'4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2025-12-08T03:44:00+00:00,Portugal,0.38720113668629824,2,1,pt,MED,Europe
+'4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2025-12-08T03:44:00+00:00,Portugal,0.3872011366862982,2,1,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-13T03:38:00+00:00,Guinea-Bissau,0.3845256556679188,1,1,pt,WAF,Africa
 '86b60d837d',extremes,Precipitation,#d60d2b,wmo,aguaceiro beja,2025-12-08T03:44:00+00:00,Portugal,0.3820266653824299,2,1,pt,MED,Europe
 '8fe61f872b',extremes,Earthquake,#870007,usgs,terremoto metinaro,2025-12-16T03:46:00+00:00,Timor Leste,0.3784304748524429,2,1,pt,SEA,Asia
@@ -93,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e99480ef7',extremes,Drought,#edc291,edo,falta de chuva no Uzbequistão,2025-12-06T03:32:00+00:00,Uzbekistan,0.3036980108807487,0,2,pt,WCA,Asia
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,nevoeiro Lituânia,2025-11-30T03:46:00+00:00,Lithuania,0.3036909361561118,0,2,pt,WCE,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2025-12-09T03:41:00+00:00,Chile,0.3036695299018572,0,2,pt,SWS,South-America
-'06285e171c',extremes,Flood,#030ba1,wmo,inundação na Noruega,2025-12-02T03:41:00+00:00,Norway,0.3036267732979363,0,2,pt,NEU,Europe
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2025-12-06T03:32:00+00:00,Algeria,0.3035794648577372,0,2,pt,SAH,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.3035770041201392,0,2,pt,SPO,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,tempestade eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.303559694559549,0,2,pt,ESAF,Africa
