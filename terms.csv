@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2025-12-05T03:41:00+00:00,Portugal,0.5811852460301784,1,1,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.5790307860440307,1,2,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2025-12-12T03:45:00+00:00,Portugal,0.578239716723547,1,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2025-12-13T03:38:00+00:00,Mozambique,0.5703894767693525,1,1,pt,ESAF,Africa
@@ -55,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2025-12-11T03:46:00+00:00,Portugal,0.4577363245401885,2,1,pt,MED,Europe
 '722490b387',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2025-12-11T03:46:00+00:00,Portugal,0.4566960437294763,2,1,pt,MED,Europe
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2025-12-09T03:41:00+00:00,Portugal,0.4502623913615807,1,1,pt,MED,Europe
-'5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2025-12-12T03:45:00+00:00,Portugal,0.4488137079052967,1,1,pt,MED,Europe
 'e54fff9be0',extremes,Precipitation,#d60d2b,wmo,precipitação madeira costa norte,2025-12-13T03:38:00+00:00,Portugal,0.4485109522726735,1,2,pt,MED,Europe
 '13ee351c11',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo central,2025-12-06T03:32:00+00:00,Portugal,0.4483696795481336,1,2,pt,MED,Europe
 'be7a319074',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo ocidental,2025-12-06T03:32:00+00:00,Portugal,0.4387553140369362,1,1,pt,MED,Europe
@@ -79,12 +77,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2025-12-08T03:44:00+00:00,Portugal,0.3872011366862982,2,1,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2025-12-13T03:38:00+00:00,Guinea-Bissau,0.3845256556679188,1,1,pt,WAF,Africa
 '86b60d837d',extremes,Precipitation,#d60d2b,wmo,aguaceiro beja,2025-12-08T03:44:00+00:00,Portugal,0.3820266653824299,2,1,pt,MED,Europe
+'5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2025-12-12T03:45:00+00:00,Portugal,0.38149165171950217,2,1,pt,MED,Europe
 '8fe61f872b',extremes,Earthquake,#870007,usgs,terremoto metinaro,2025-12-16T03:46:00+00:00,Timor Leste,0.3784304748524429,2,1,pt,SEA,Asia
 '47d1948db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo ocidental,2025-12-10T03:45:00+00:00,Portugal,0.3699153304964174,2,1,pt,MED,Europe
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
-'bf84083cec',extremes,Landslide,#572c03,wmo,deslizamento de terra na Noruega,2025-12-10T03:45:00+00:00,Norway,0.303989294061139,0,2,pt,NEU,Europe
-'14ecb8c2a0',extremes,Drought,#edc291,edo,seca na Nigéria,2025-12-08T03:45:00+00:00,Nigeria,0.3039012856350662,0,2,pt,WAF,Africa
+'14ecb8c2a0',extremes,Drought,#edc291,edo,seca na Nigéria,2025-12-08T03:45:00+00:00,Nigeria,0.30876613778980627,1,2,pt,WAF,Africa
 '3336c980ab',extremes,Earthquake,#870007,usgs,terremoto santa helena,2025-12-08T03:44:00+00:00,Saint Helena,0.3038589522975352,0,2,pt,EAO,Atlantic Ocean
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,inundação repentina Canadá,2025-12-03T03:40:00+00:00,Canada,0.3038022408685381,0,2,pt,NEN,North-America
 '3e99480ef7',extremes,Drought,#edc291,edo,falta de chuva no Uzbequistão,2025-12-06T03:32:00+00:00,Uzbekistan,0.3036980108807487,0,2,pt,WCA,Asia
@@ -128,4 +126,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,seca madagascar,2025-12-03T03:40:00+00:00,Madagascar,0.2589614809408915,1,2,pt,MDG,Africa
 'a2c72301a8',extremes,Drought,#edc291,edo,seca nos Camarões,2025-12-08T03:45:00+00:00,Cameroon,0.2587653926418636,1,2,pt,CAF,Africa
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,avalanche Canadá,2025-12-10T03:45:00+00:00,Canada,0.2585292580341497,1,1,pt,NEN,North-America
+'bf84083cec',extremes,Landslide,#572c03,wmo,deslizamento de terra na Noruega,2025-12-10T03:45:00+00:00,Norway,0.2583908999519681,1,1,pt,NEU,Europe
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,chuva torrencial ilhas salomão,2025-12-11T03:46:00+00:00,Solomon Islands,0.221127607324746,2,1,pt,EPO,Oceania
