@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2025-12-12T03:45:00+00:00,Portugal,0.578239716723547,1,1,pt,MED,Europe
+'9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.574365824867638,2,2,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2025-12-13T03:38:00+00:00,Mozambique,0.5703894767693525,1,1,pt,ESAF,Africa
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2025-12-09T03:41:00+00:00,Cabo Verde,0.5584871458956251,1,1,pt,NAO,Atlantic Ocean
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2025-12-18T03:44:00+00:00,Portugal,0.5535410479209384,1,3,pt,MED,Europe
@@ -17,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2025-12-10T03:45:00+00:00,Brazil,0.5084963150519219,4,2,pt,SAM,South-America
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2025-12-14T03:49:00+00:00,Portugal,0.5077399367845611,1,1,pt,MED,Europe
 'a9f5de0046',extremes,Snow&Ice,#d60d2b,wmo,gelo castelo branco,2025-12-11T03:46:00+00:00,Portugal,0.5045953061280936,1,1,pt,MED,Europe
-'9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.4990774233736918,1,1,pt,MED,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2025-12-04T03:42:00+00:00,Portugal,0.4975813455953995,2,2,pt,MED,Europe
 'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.4963088884714888,1,2,pt,MED,Europe
@@ -71,7 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 '14ecb8c2a0',extremes,Drought,#edc291,edo,seca na Nigéria,2025-12-08T03:45:00+00:00,Nigeria,0.3087661377898062,1,2,pt,WAF,Africa
-'388a6dbadc',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2025-12-06T03:32:00+00:00,Algeria,0.3035794648577372,0,2,pt,SAH,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.3035770041201392,0,2,pt,SPO,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,tempestade eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.303559694559549,0,2,pt,ESAF,Africa
 '4496a0cd3b',extremes,Storm,#b3b2b1,wmo,tempestade territorial território nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.3035418367233847,0,2,pt,SES,South-America
