@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2025-12-12T03:45:00+00:00,Portugal,0.578239716723547,1,1,pt,MED,Europe
 '9d416a5fc3',extremes,Snow&Ice,#d60d2b,wmo,avalanche vila real,2025-12-19T03:46:00+00:00,Portugal,0.574365824867638,2,2,pt,MED,Europe
-'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2025-12-13T03:38:00+00:00,Mozambique,0.5703894767693525,1,1,pt,ESAF,Africa
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2025-12-09T03:41:00+00:00,Cabo Verde,0.5584871458956251,1,1,pt,NAO,Atlantic Ocean
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2025-12-18T03:44:00+00:00,Brazil,0.5345296636214502,3,2,pt,SAM,South-America
 'aceacf8c3e',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2025-12-11T03:46:00+00:00,Portugal,0.5331331766009632,1,2,pt,MED,Europe
@@ -29,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2025-12-12T03:45:00+00:00,Portugal,0.4882587666675396,2,1,pt,MED,Europe
 '59daf9e5cf',extremes,Snow&Ice,#d60d2b,wmo,avalanche madeira regiões montanhosas,2025-12-13T03:38:00+00:00,Portugal,0.4874606460529156,2,1,pt,MED,Europe
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2025-12-12T03:45:00+00:00,Portugal,0.4865025453565834,2,1,pt,MED,Europe
+'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2025-12-13T03:38:00+00:00,Mozambique,0.4858811602539496,2,1,pt,ESAF,Africa
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2025-12-09T03:41:00+00:00,Portugal,0.480924433600302,1,1,pt,MED,Europe
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2025-12-16T03:47:00+00:00,Portugal,0.4807898084319602,2,1,pt,MED,Europe
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2025-12-08T03:44:00+00:00,Timor Leste,0.4753346171543874,1,1,pt,SEA,Asia
@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 '14ecb8c2a0',extremes,Drought,#edc291,edo,seca na Nigéria,2025-12-08T03:45:00+00:00,Nigeria,0.3087661377898062,1,2,pt,WAF,Africa
-'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.3035770041201392,0,2,pt,SPO,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,tempestade eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.303559694559549,0,2,pt,ESAF,Africa
 '4496a0cd3b',extremes,Storm,#b3b2b1,wmo,tempestade territorial território nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.3035418367233847,0,2,pt,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2025-12-02T03:41:00+00:00,New Zealand,0.3034371378332976,0,2,pt,NZ,Oceania
