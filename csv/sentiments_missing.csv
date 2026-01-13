@@ -1,0 +1,391 @@
+,phrase,label,sentiment,subjectivity,language,count
+first,first,ORDINAL,,,en,12.5
+Thursday,Thursday,DATE,,,en,6.7
+three,three,CARDINAL,,,en,6.2
+second,second,ORDINAL,,,en,5.699999999999999
+Monday,Monday,DATE,,,en,5.200000000000001
+Sunday,Sunday,DATE,,,en,5.1
+the weekend,the weekend,DATE,,,en,5.0
+Wednesday,Wednesday,DATE,,,en,4.6
+four,four,CARDINAL,,,en,4.5
+November,November,DATE,,,en,4.4
+December,December,DATE,,,en,4.4
+Brazilian,Brazilian,NORP,,,en,4.1000000000000005
+two,two,CARDINAL,,,en,4.1
+this Friday,this Friday,DATE,,,en,3.8000000000000003
+Friday,Friday,DATE,,,en,3.8
+Saturday,Saturday,DATE,,,en,3.7
+1931,1931,DATE,,,en,3.6
+October,October,DATE,,,en,3.6
+Six,Six,CARDINAL,,,en,3.5999999999999996
+Tuesday,Tuesday,DATE,,,en,3.3999999999999995
+2000,2000,DATE,,,en,3.3
+today,today,DATE,,,en,3.2
+New Year's Eve,New Year's Eve,EVENT,,,en,3.1
+Winter,Winter,DATE,,,en,2.9000000000000004
+third,third,ORDINAL,,,en,2.9
+15,15,CARDINAL,,,en,2.8000000000000003
+99,99,CARDINAL,,,en,2.8
+this Wednesday,this Wednesday,DATE,,,en,2.8
+10/12,10/12,CARDINAL,,,en,2.8
+the day,the day,DATE,,,en,2.8
+Christmas Eve and Christmas,Christmas Eve and Christmas,DATE,,,en,2.7
+seven,seven,CARDINAL,,,en,2.6
+Eastern,Eastern,NORP,,,en,2.5999999999999996
+one,one,CARDINAL,,,en,2.5000000000000004
+Portuguese,Portuguese,NORP,,,en,2.5
+2025,2025,DATE,,,en,2.5
+Christmas,Christmas,DATE,,,en,2.3000000000000003
+5,5,CARDINAL,,,en,2.2
+2023,2023,DATE,,,en,2.1
+The year 2025,The year 2025,DATE,,,en,2.0
+2,2,CARDINAL,,,en,2.0
+European,European,NORP,,,en,2.0
+2026,2026,DATE,,,en,1.9000000000000004
+morning,morning,TIME,,,en,1.9
+more than 100 km,more than 100 km,QUANTITY,,,en,1.9
+10,10,CARDINAL,,,en,1.9
+First,First,ORDINAL,,,en,1.9
+between 6pm and 9pm this Monday,between 6pm and 9pm this Monday,TIME,,,en,1.9
+11,11,CARDINAL,,,en,1.9
+two days,two days,DATE,,,en,1.9
+05:00,05:00,TIME,,,en,1.9
+this weekend,this weekend,DATE,,,en,1.9
+Great Danger,Great Danger,WORK_OF_ART,,,en,1.9
+33,33,CARDINAL,,,en,1.9
+11/11,11/11,CARDINAL,,,en,1.9
+seventh,seventh,ORDINAL,,,en,1.9
+this Tuesday,this Tuesday,DATE,,,en,1.9
+five,five,CARDINAL,,,en,1.9
+130 km,130 km,QUANTITY,,,en,1.9
+More than 2 million,More than 2 million,CARDINAL,,,en,1.9
+19,19,CARDINAL,,,en,1.9
+the end of the day,the end of the day,DATE,,,en,1.9
+"this Tuesday, 9th","this Tuesday, 9th",DATE,,,en,1.9
+30,30,CARDINAL,,,en,1.9
+the next few days,the next few days,DATE,,,en,1.8
+this week,this week,DATE,,,en,1.8
+3pm,3pm,TIME,,,en,1.8
+up to 100 mm,up to 100 mm,QUANTITY,,,en,1.8
+five to six meters,five to six meters,QUANTITY,,,en,1.8
+dozens,dozens,CARDINAL,,,en,1.8
+between 04 and,between 04 and,CARDINAL,,,en,1.8
+this Sunday,this Sunday,DATE,,,en,1.8
+12,12,CARDINAL,,,en,1.8
+The last Friday of the year,The last Friday of the year,DATE,,,en,1.7
+Azores,Azores,PRODUCT,0.010704874835309615,0.09305006587615282,en,1.7
+the Portuguese Cup,the Portuguese Cup,EVENT,,,en,1.7
+monthly,monthly,DATE,,,en,1.7
+Last month,Last month,DATE,,,en,1.7
+summer,summer,DATE,,,en,1.6
+centuries,centuries,DATE,,,en,1.6
+Summer,Summer,DATE,,,en,1.6
+the New Year,the New Year,EVENT,,,en,1.6
+the week,the week,DATE,,,en,1.5
+the century,the century,DATE,,,en,1.5
+2nd,2nd,ORDINAL,,,en,1.5
+14th,14th,ORDINAL,,,en,1.4000000000000001
+2100,2100,CARDINAL,,,en,1.4
+10 million hectares,10 million hectares,QUANTITY,,,en,1.3
+the year,the year,DATE,,,en,1.3
+Metsul,Metsul,NORP,,,en,1.3
+This Friday,This Friday,DATE,,,en,1.3
+sunny days,sunny days,DATE,,,en,1.3
+this summer,this summer,DATE,,,en,1.3
+The day,The day,DATE,,,en,1.3
+Dutch,Dutch,NORP,,,en,1.3
+the coming months,the coming months,DATE,,,en,1.3
+2024,2024,DATE,,,en,1.3
+Three,Three,CARDINAL,,,en,1.3
+2045,2045,DATE,,,en,1.3
+25,25,CARDINAL,,,en,1.2000000000000002
+2021,2021,DATE,,,en,1.2000000000000002
+2035,2035,DATE,,,en,1.2000000000000002
+this season,this season,DATE,,,en,1.2
+New Year,New Year,EVENT,,,en,1.2
+80%,80%,PERCENT,,,en,1.2
+December 6th to 12th,December 6th to 12th,DATE,,,en,1.1
+sixth,sixth,ORDINAL,,,en,1.1
+December 15th to 21st,December 15th to 21st,DATE,,,en,1.1
+Starship,Starship,PRODUCT,,,en,1.1
+60,60,CARDINAL,,,en,1.1
+winter,winter,DATE,,,en,1.1
+24,24,CARDINAL,,,en,1.1
+40 years,40 years,DATE,,,en,1.1
+year,year,DATE,,,en,1.1
+Lava Jato,Lava Jato,WORK_OF_ART,,,en,1.1
+Four,Four,CARDINAL,,,en,1.1
+30 years,30 years,DATE,,,en,1.0
+only 30%,only 30%,PERCENT,,,en,1.0
+25-32°,25-32°,PERCENT,,,en,1.0
+the Brazilian summer,the Brazilian summer,DATE,,,en,1.0
+October 2025,October 2025,DATE,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
+November 2024,November 2024,DATE,,,en,1.0
+Only 253,Only 253,CARDINAL,,,en,1.0
+Braga,Braga,FAC,0.09166666666666666,0.3666666666666667,en,1.0
+Akuntsú,Akuntsú,NORP,,,en,1.0
+3 pm,3 pm,TIME,,,en,1.0
+74 liters,74 liters,QUANTITY,,,en,1.0
+5 days,5 days,DATE,,,en,1.0
+October 10,October 10,DATE,,,en,1.0
+Saharan,Saharan,NORP,,,en,1.0
+Inmet,Inmet,FAC,,,en,1.0
+previous years,previous years,DATE,,,en,1.0
+November 2025,November 2025,DATE,,,en,1.0
+"3,200","3,200",CARDINAL,,,en,1.0
+3.2 billion euros,3.2 billion euros,MONEY,,,en,1.0
+Iberian,Iberian,NORP,,,en,1.0
+Corvette Grand Sport |,Corvette Grand Sport |,PRODUCT,,,en,1.0
+Zero,Zero,CARDINAL,,,en,1.0
+300,300,CARDINAL,,,en,1.0
+Zero to 300,Zero to 300,CARDINAL,,,en,1.0
+18th,18th,ORDINAL,,,en,1.0
+A week,A week,DATE,,,en,1.0
+above 100 kilometers per hour,above 100 kilometers per hour,QUANTITY,,,en,1.0
+2.2 million,2.2 million,CARDINAL,,,en,1.0
+billion-dollar,billion-dollar,MONEY,,,en,1.0
+New Life,New Life,WORK_OF_ART,,,en,1.0
+18,18,CARDINAL,,,en,1.0
+"this Friday, 19th","this Friday, 19th",DATE,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+26°,26°,QUANTITY,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+Siberian,Siberian,NORP,,,en,1.0
+only 253 beaches,only 253 beaches,QUANTITY,,,en,1.0
+the Week,the Week,DATE,,,en,1.0
+Magic V5,Magic V5,PRODUCT,,,en,1.0
+Summer 2025-2026,Summer 2025-2026,DATE,,,en,1.0
+the start of winter this Sunday,the start of winter this Sunday,DATE,,,en,1.0
+"above 1,400/1,600 meters","above 1,400/1,600 meters",QUANTITY,,,en,1.0
+"1,400 meters","1,400 meters",QUANTITY,,,en,1.0
+a decade,a decade,DATE,,,en,1.0
+more than one,more than one,CARDINAL,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+This Saturday,This Saturday,DATE,,,en,1.0
+18 degrees,18 degrees,QUANTITY,,,en,1.0
+the night of the 31st,the night of the 31st,TIME,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+08:00,08:00,TIME,,,en,1.0
+55,55,CARDINAL,,,en,1.0
+the early afternoon,the early afternoon,TIME,,,en,1.0
+27,27,CARDINAL,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+2005,2005,DATE,,,en,1.0
+The last Sunday of the year,The last Sunday of the year,DATE,,,en,1.0
+the last week of the year,the last week of the year,DATE,,,en,1.0
+"Monday, 29th","Monday, 29th",DATE,,,en,1.0
+between 05:00,between 05:00,TIME,,,en,1.0
+this Saturday,this Saturday,DATE,,,en,1.0
+above 90 km/h,above 90 km/h,QUANTITY,,,en,1.0
+Calorão,Calorão,NORP,,,en,1.0
+between 3pm and midnight,between 3pm and midnight,TIME,,,en,1.0
+2006,2006,DATE,,,en,1.0
+a year,a year,DATE,,,en,1.0
+30 degrees,30 degrees,QUANTITY,,,en,1.0
+the first week of the year,the first week of the year,DATE,,,en,1.0
+1911,1911,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+"the ""Wonderful City""","the ""Wonderful City""",WORK_OF_ART,,,en,1.0
+the middle of the week,the middle of the week,DATE,,,en,1.0
+The beginning of the week,The beginning of the week,DATE,,,en,1.0
+Twelfth Week,Twelfth Week,EVENT,,,en,1.0
+two weeks,two weeks,DATE,,,en,1.0
+the end of 2005,the end of 2005,DATE,,,en,1.0
+The month of December 2025,The month of December 2025,DATE,,,en,1.0
+25 years,25 years,DATE,,,en,1.0
+the hottest years,the hottest years,DATE,,,en,1.0
+the 1st day of the year,the 1st day of the year,DATE,,,en,1.0
+1982,1982,DATE,,,en,1.0
+January 1st,January 1st,DATE,,,en,1.0
+"Tuesday, 30th","Tuesday, 30th",DATE,,,en,1.0
+at least one,at least one,CARDINAL,,,en,1.0
+8,8,CARDINAL,,,en,1.0
+the coming years,the coming years,DATE,,,en,1.0
+between 60 and 100 km,between 60 and 100 km,QUANTITY,,,en,1.0
+2025/2026,2025/2026,CARDINAL,,,en,1.0
+14%,14%,PERCENT,,,en,1.0
+This past week,This past week,DATE,,,en,1.0
+the past week,the past week,DATE,,,en,1.0
+"Wednesday, Thursday","Wednesday, Thursday",DATE,,,en,1.0
+the night and morning,the night and morning,TIME,,,en,1.0
+Christmas Eve,Christmas Eve,DATE,,,en,1.0
+up to 100 millimeters,up to 100 millimeters,QUANTITY,,,en,1.0
+22,22,DATE,,,en,1.0
+between 30 and 60 millimeters per hour,between 30 and 60 millimeters per hour,QUANTITY,,,en,1.0
+up to 100 km,up to 100 km,QUANTITY,,,en,1.0
+Viana,Viana,EVENT,,,en,1.0
+9pm this Sunday,9pm this Sunday,TIME,,,en,1.0
+the Center and North of,the Center and North of,FAC,,,en,1.0
+14 degrees,14 degrees,QUANTITY,,,en,1.0
+the beginning of winter,the beginning of winter,DATE,,,en,1.0
+50 years later,50 years later,DATE,,,en,1.0
+"December 22, 1975 «","December 22, 1975 «",DATE,,,en,1.0
+Last Saturday of the year,Last Saturday of the year,DATE,,,en,1.0
+non-Christian,non-Christian,NORP,,,en,1.0
+the beginning of the weekend,the beginning of the weekend,DATE,,,en,1.0
+"this Saturday, 27th","this Saturday, 27th",DATE,,,en,1.0
+another 4 days,another 4 days,DATE,,,en,1.0
+a few kilometers,a few kilometers,QUANTITY,,,en,1.0
+13,13,CARDINAL,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+100 km/h,100 km/h,QUANTITY,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+the first half,the first half,DATE,,,en,1.0
+only Christmas,only Christmas,DATE,,,en,1.0
+daily,daily,DATE,,,en,1.0
+hours,hours,TIME,,,en,1.0
+16,16,CARDINAL,,,en,1.0
+Caldas,Caldas,LANGUAGE,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+up to 150 days,up to 150 days,DATE,,,en,1.0
+every day,every day,DATE,,,en,1.0
+oriental,oriental,NORP,,,en,1.0
+"this Tuesday, 2nd","this Tuesday, 2nd",DATE,,,en,1.0
+18 million,18 million,CARDINAL,,,en,1.0
+decades,decades,DATE,,,en,1.0
+the 1910s,the 1910s,DATE,,,en,1.0
+The beginning of the month,The beginning of the month,DATE,,,en,1.0
+1,1,CARDINAL,,,en,1.0
+this Monday,this Monday,DATE,,,en,1.0
+the beginning of December,the beginning of December,DATE,,,en,1.0
+2 km,2 km,QUANTITY,,,en,1.0
+29,29,CARDINAL,,,en,1.0
+the night,the night,TIME,,,en,1.0
+one-hour,one-hour,TIME,,,en,1.0
+Series,Series,EVENT,,,en,1.0
+1 meter,1 meter,QUANTITY,,,en,1.0
+up to 3 meters,up to 3 meters,QUANTITY,,,en,1.0
+The 1st,The 1st,DATE,,,en,1.0
+six years,six years,DATE,,,en,1.0
+29°,29°,QUANTITY,,,en,1.0
+F1,F1,CARDINAL,,,en,1.0
+less than a week,less than a week,DATE,,,en,1.0
+4/12,4/12,CARDINAL,,,en,1.0
+"Saturday, 12/06/2025   Corujão II   ","Saturday, 12/06/2025   Corujão II   ",DATE,,,en,1.0
+the 13th since 1931,the 13th since 1931,DATE,,,en,1.0
+This year,This year,DATE,,,en,1.0
+Lousã mountain,Lousã mountain,FAC,0.05,0.7,en,1.0
+55%,55%,PERCENT,,,en,1.0
+January 2026,January 2026,DATE,,,en,1.0
+11 meters,11 meters,QUANTITY,,,en,1.0
+Between 6pm,Between 6pm,TIME,,,en,1.0
+ten,ten,CARDINAL,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
+21,21,CARDINAL,,,en,1.0
+35%,35%,PERCENT,,,en,1.0
+1 season,1 season,DATE,,,en,1.0
+dusk,dusk,TIME,,,en,1.0
+15 years old,15 years old,DATE,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+2.21ºC,2.21ºC,CARDINAL,,,en,1.0
+19ºC,19ºC,CARDINAL,,,en,1.0
+60 millimeters per hour,60 millimeters per hour,QUANTITY,,,en,1.0
+25 November,25 November,DATE,,,en,1.0
+more than 23 thousand,more than 23 thousand,CARDINAL,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+22nd,22nd,ORDINAL,,,en,1.0
+December 2nd,December 2nd,DATE,,,en,1.0
+the LED Festival - Light in Education,the LED Festival - Light in Education,EVENT,,,en,1.0
+the LED Festival,the LED Festival,EVENT,,,en,1.0
+millions of euros,millions of euros,MONEY,,,en,1.0
+APA,APA,PRODUCT,,,en,1.0
+a week,a week,DATE,,,en,1.0
+fado,fado,NORP,,,en,1.0
+Liberdade,Liberdade,WORK_OF_ART,,,en,1.0
+thousands,thousands,CARDINAL,,,en,1.0
+Four centuries ago,Four centuries ago,DATE,,,en,1.0
+more than 150,more than 150,CARDINAL,,,en,1.0
+A year later,A year later,DATE,,,en,1.0
+the 13th minute,the 13th minute,TIME,,,en,1.0
+One,One,CARDINAL,,,en,1.0
+Super,Super,NORP,,,en,1.0
+this holiday season,this holiday season,DATE,,,en,1.0
+Black Friday,Black Friday,EVENT,,,en,1.0
+4,4,CARDINAL,,,en,1.0
+Climate,Climate,PRODUCT,,,en,1.0
+açaização,açaização,WORK_OF_ART,,,en,1.0
+night,night,TIME,,,en,1.0
+the TUI Museum,the TUI Museum,FAC,,,en,1.0
+PM,PM,TIME,,,en,1.0
+31st,31st,DATE,,,en,1.0
+seven-year,seven-year,DATE,,,en,1.0
+Asian,Asian,NORP,,,en,1.0
+the Port of Ita,the Port of Ita,FAC,,,en,1.0
+the Port of Itajaí,the Port of Itajaí,FAC,,,en,1.0
+the previous month,the previous month,DATE,,,en,1.0
+World Cup,World Cup,EVENT,,,en,1.0
+The World Cup,The World Cup,EVENT,,,en,1.0
+nine,nine,CARDINAL,,,en,1.0
+Around 670 thousand,Around 670 thousand,CARDINAL,,,en,1.0
+The Game Awards,The Game Awards,EVENT,,,en,1.0
+Sunday morning,Sunday morning,TIME,,,en,1.0
+12/12/2025,12/12/2025,DATE,,,en,1.0
+14 meters,14 meters,QUANTITY,,,en,1.0
+7 to 7.5 meters,7 to 7.5 meters,QUANTITY,,,en,1.0
+Between 9pm this Friday and 6pm Saturday,Between 9pm this Friday and 6pm Saturday,TIME,,,en,1.0
+Israelis,Israelis,NORP,,,en,1.0
+13ºC,13ºC,CARDINAL,,,en,1.0
+24 hours,24 hours,TIME,,,en,1.0
+square meter,square meter,QUANTITY,,,en,1.0
+At least 68,At least 68,CARDINAL,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+11/12,11/12,CARDINAL,,,en,1.0
+Congonhas,Congonhas,NORP,,,en,1.0
+the second day,the second day,DATE,,,en,1.0
+the second consecutive day,the second consecutive day,DATE,,,en,1.0
+5pm,5pm,TIME,,,en,1.0
+More than a hundred,More than a hundred,CARDINAL,,,en,1.0
+the last week of spring,the last week of spring,DATE,,,en,1.0
+The last week of spring,The last week of spring,DATE,,,en,1.0
+10 meters,10 meters,QUANTITY,,,en,1.0
+Between Tuesday and Wednesday,Between Tuesday and Wednesday,DATE,,,en,1.0
+next year,next year,DATE,,,en,1.0
+Funchal airport,Funchal airport,FAC,,,en,1.0
+Madeira Airport,Madeira Airport,FAC,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+12/12,12/12,CARDINAL,,,en,1.0
+1859,1859,DATE,,,en,1.0
+More than 130,More than 130,CARDINAL,,,en,1.0
+the second day in a row,the second day in a row,DATE,,,en,1.0
+Latin,Latin,LANGUAGE,,,en,1.0
+1950,1950,DATE,,,en,1.0
+121,121,CARDINAL,,,en,1.0
+Viracopos Airport,Viracopos Airport,FAC,,,en,1.0
+"almost 800,000","almost 800,000",CARDINAL,,,en,1.0
+Born to Sail,Born to Sail,WORK_OF_ART,,,en,1.0
+100km/h,100km/h,QUANTITY,,,en,1.0
+the third hottest month,the third hottest month,DATE,,,en,1.0
+10pm,10pm,TIME,,,en,1.0
+8),8),CARDINAL,,,en,1.0
+23 °,23 °,QUANTITY,,,en,1.0
+annual,annual,DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+45°,45°,PERCENT,,,en,1.0
+Club World Cup,Club World Cup,EVENT,,,en,1.0
+millions,millions,CARDINAL,,,en,1.0
+Saturday the 7th,Saturday the 7th,DATE,,,en,1.0
+the festive season,the festive season,DATE,,,en,1.0
+the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
+the World Cup,the World Cup,EVENT,,,en,1.0
+Only 6.2%,Only 6.2%,PERCENT,,,en,1.0
+60mm per hour,60mm per hour,QUANTITY,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
+the age of 25,the age of 25,DATE,,,en,1.0
+97%,97%,PERCENT,,,en,1.0
+almost 100 km,almost 100 km,QUANTITY,,,en,1.0
+the 2nd consecutive day,the 2nd consecutive day,DATE,,,en,1.0
+"1,300","1,300",CARDINAL,,,en,1.0
+Olympic,Olympic,EVENT,,,en,1.0
+Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+105 years old,105 years old,DATE,,,en,1.0
+the age of 65,the age of 65,DATE,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+Monday afternoon(8,Monday afternoon(8,DATE,,,en,1.0
+African-American,African-American,NORP,,,en,1.0
+8/12,8/12,CARDINAL,,,en,1.0
+100 km,100 km,QUANTITY,,,en,1.0
+GT,GT,WORK_OF_ART,,,en,1.0
+Hundreds,Hundreds,CARDINAL,,,en,1.0
