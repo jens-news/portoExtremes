@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ca2ea52a94',extremes,Snow&Ice,#d60d2b,wmo,vila real congelante,2026-01-15T10:56:00+00:00,Portugal,0.7721828988421106,0,1,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.7721815979408563,0,1,pt,MED,Europe
 '49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-01-15T10:56:00+00:00,Portugal,0.7716078578824977,0,1,pt,MED,Europe
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-01-15T12:14:00+00:00,Portugal,0.7715932150519673,0,1,pt,MED,Europe
@@ -26,11 +25,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
 '854e13a1a4',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo oriental,2025-12-10T03:45:00+00:00,Portugal,0.4942461418548139,1,2,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2025-12-03T03:40:00+00:00,Brazil,0.4903773234724909,2,3,pt,SAM,South-America
-'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2025-12-12T03:45:00+00:00,Portugal,0.4882587666675396,2,1,pt,MED,Europe
-'374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2025-12-12T03:45:00+00:00,Portugal,0.4865025453565834,2,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2025-12-13T03:38:00+00:00,Mozambique,0.4858811602539496,2,1,pt,ESAF,Africa
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2025-12-19T03:46:00+00:00,Brazil,0.4685492242715612,3,3,pt,SAM,South-America
-'1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2025-12-10T03:45:00+00:00,Sao Tome and Principe,0.458563125681907,1,1,pt,WAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2025-12-18T03:44:00+00:00,Brazil,0.4584631858743388,3,1,pt,SAM,South-America
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2025-12-11T03:46:00+00:00,Portugal,0.4550355665640453,3,2,pt,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2025-12-18T03:44:00+00:00,Brazil,0.4543502440782326,4,1,pt,SAM,South-America
@@ -48,16 +44,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 '14ecb8c2a0',extremes,Drought,#edc291,edo,seca na Nigéria,2025-12-08T03:45:00+00:00,Nigeria,0.3087661377898062,1,2,pt,WAF,Africa
-'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2025-12-19T03:46:00+00:00,Bermuda,0.2697769493533596,3,1,pt,NAO,Atlantic Ocean
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,pt,SPO,Pacific Ocean
-'cc855d70a2',extremes,Drought,#edc291,edo,seca tajiquistão,2025-12-08T03:45:00+00:00,Tajikistan,0.2635445036786648,1,2,pt,WCA,Asia
 '5d85dc5645',extremes,Drought,#edc291,edo,seca Ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.2632819039941947,1,1,pt,SEAF,Africa
-'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,onda de frio na Índia,2025-12-08T03:44:00+00:00,India,0.2623856969558267,1,2,pt,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,seca no Turquemenistão,2025-12-15T03:54:00+00:00,Turkmenistan,0.2621197790438807,1,1,pt,WCA,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguaceiro zona sul,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,pt,NWS,South-America
-'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nova zelândia,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,pt,NZ,Oceania
-'9d50c81991',extremes,Precipitation,#d60d2b,wmo,precipitação eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,pt,ESAF,Africa
-'a2c72301a8',extremes,Drought,#edc291,edo,seca nos Camarões,2025-12-08T03:45:00+00:00,Cameroon,0.2587653926418636,1,2,pt,CAF,Africa
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
