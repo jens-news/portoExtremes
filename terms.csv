@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.7721815979408563,0,1,pt,MED,Europe
+'49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-01-15T10:56:00+00:00,Portugal,0.7716078578824977,0,1,pt,MED,Europe
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-01-15T12:14:00+00:00,Portugal,0.7715932150519673,0,1,pt,MED,Europe
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2026-01-15T12:14:00+00:00,Portugal,0.7715853518173572,0,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-01-15T10:56:00+00:00,Portugal,0.7715787204733622,0,1,pt,MED,Europe
@@ -20,6 +21,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-01-15T10:56:00+00:00,Portugal,0.6563650170066244,1,1,pt,MED,Europe
 'd7e18db298',extremes,Precipitation,#d60d2b,wmo,chuva torrencial porto,2026-01-15T12:14:00+00:00,Portugal,0.6559199089769906,1,1,pt,MED,Europe
+'8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T12:14:00+00:00,Cabo Verde,0.6453979861729379,0,1,pt,NAO,Atlantic Ocean
+'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-01-15T10:57:00+00:00,Angola,0.6416682506689928,0,1,pt,WSAF,Africa
+'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-01-15T12:14:00+00:00,Portugal,0.63935281430797,0,1,pt,NAO,Atlantic Ocean
+'0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-01-15T10:56:00+00:00,Portugal,0.6375235892013106,0,1,pt,MED,Europe
 'bd0c34a4e9',extremes,Snow&Ice,#d60d2b,wmo,neve castelo branco,2025-12-18T03:44:00+00:00,Portugal,0.5124785892295498,2,2,pt,MED,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
 '854e13a1a4',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo oriental,2025-12-10T03:45:00+00:00,Portugal,0.4942461418548139,1,2,pt,MED,Europe
