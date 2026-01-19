@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,aguaceiro santarém,2026-01-15T10:56:00+00:00,Portugal,0.7722186796260393,0,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-01-15T10:56:00+00:00,Portugal,0.7721706265567628,0,1,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2026-01-15T10:56:00+00:00,Portugal,0.7716082854802285,0,1,pt,MED,Europe
-'49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-01-15T10:56:00+00:00,Portugal,0.7716078578824977,0,1,pt,MED,Europe
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T12:14:00+00:00,Portugal,0.771488168831626,0,1,pt,MED,Europe
 '142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T10:56:00+00:00,Portugal,0.7714381567056976,0,1,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-01-15T12:14:00+00:00,Portugal,0.7714194319179734,0,1,pt,MED,Europe
@@ -18,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.6699636456222234,0,1,pt,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-01-15T10:56:00+00:00,Brazil,0.6667456590419453,0,1,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-01-17T03:44:00+00:00,Brazil,0.6665336998511991,0,1,pt,SAM,South-America
+'49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-01-15T10:56:00+00:00,Portugal,0.6659853710183049,1,2,pt,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-01-15T10:56:00+00:00,Brazil,0.6653538536658461,0,1,pt,SAM,South-America
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-01-15T12:14:00+00:00,Sao Tome and Principe,0.661549788333594,0,1,pt,WAF,Africa
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-01-15T10:56:00+00:00,Portugal,0.6602863276821334,1,2,pt,MED,Europe
