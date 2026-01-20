@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-01-17T03:44:00+00:00,Brazil,0.6665336998511991,0,1,pt,SAM,South-America
 '49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-01-15T10:56:00+00:00,Portugal,0.6659853710183049,1,2,pt,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-01-15T10:56:00+00:00,Brazil,0.6653538536658461,0,1,pt,SAM,South-America
-'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-01-15T12:14:00+00:00,Sao Tome and Principe,0.661549788333594,0,1,pt,WAF,Africa
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-01-15T10:56:00+00:00,Portugal,0.6602863276821334,1,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-01-15T10:56:00+00:00,Portugal,0.6578653073543739,1,1,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-01-15T10:56:00+00:00,Portugal,0.6572186603554687,1,1,pt,MED,Europe
@@ -28,12 +27,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-01-15T12:14:00+00:00,Portugal,0.6558542327941722,1,1,pt,MED,Europe
 '5fca4dc93b',extremes,Precipitation,#d60d2b,wmo,chuva torrencial coimbra,2026-01-15T12:14:00+00:00,Portugal,0.6556885436065109,1,1,pt,MED,Europe
 'ef1071c617',extremes,Snow&Ice,#d60d2b,wmo,braga congelante,2026-01-15T12:14:00+00:00,Portugal,0.655667265650588,1,1,pt,MED,Europe
-'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-01-17T03:44:00+00:00,Sao Tome and Principe,0.648018804032305,0,1,pt,WAF,Africa
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T12:14:00+00:00,Cabo Verde,0.6453979861729379,0,1,pt,NAO,Atlantic Ocean
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-01-15T10:57:00+00:00,Angola,0.6416682506689928,0,1,pt,WSAF,Africa
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-01-15T12:14:00+00:00,Portugal,0.63935281430797,0,1,pt,NAO,Atlantic Ocean
-'0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-01-15T10:56:00+00:00,Portugal,0.6375235892013106,0,1,pt,MED,Europe
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-01-15T12:14:00+00:00,Mozambique,0.6354331473349718,0,1,pt,ESAF,Africa
+'0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-01-15T10:56:00+00:00,Portugal,0.633395305821114,1,2,pt,MED,Europe
 'a7e497a0ee',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-01-15T12:14:00+00:00,Portugal,0.6310815290356522,0,1,pt,MED,Europe
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2026-01-15T12:14:00+00:00,Guinea-Bissau,0.629635978014332,0,1,pt,WAF,Africa
 '3da70d2eb1',extremes,Snow&Ice,#d60d2b,wmo,neve portugal,2026-01-15T12:14:00+00:00,Portugal,0.6283557664198625,0,1,pt,MED,Europe
@@ -47,9 +45,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '139365f0b2',extremes,Snow&Ice,#d60d2b,wmo,guarda de gelo,2026-01-15T12:14:00+00:00,Portugal,0.609939458032779,0,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.5971469865061627,1,2,pt,SAM,South-America
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-01-15T12:14:00+00:00,Bermuda,0.5792925164624596,0,1,pt,NAO,Atlantic Ocean
+'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-01-15T12:14:00+00:00,Sao Tome and Principe,0.562317320083555,1,1,pt,WAF,Africa
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-19T04:03:00+00:00,Cabo Verde,0.5589489799784191,0,1,pt,NAO,Atlantic Ocean
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-01-19T04:03:00+00:00,Angola,0.5574638726028379,0,1,pt,WSAF,Africa
 'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-01-15T12:14:00+00:00,Timor Leste,0.5559970239132909,0,1,pt,SEA,Oceania
+'8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-01-17T03:44:00+00:00,Sao Tome and Principe,0.5508159834274593,1,1,pt,WAF,Africa
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.5392924428662017,0,1,pt,WAF,Africa
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-01-15T10:56:00+00:00,Portugal,0.534263486681431,0,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.5313721629336723,0,1,pt,NAO,Atlantic Ocean
