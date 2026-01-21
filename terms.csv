@@ -40,8 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-01-15T10:56:00+00:00,Portugal,0.6229711607703721,0,1,pt,MED,Europe
 '7eff8c333b',extremes,Snow&Ice,#d60d2b,wmo,geada vila real,2026-01-15T12:14:00+00:00,Portugal,0.6203169603937518,1,2,pt,MED,Europe
 'aceacf8c3e',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-01-15T12:14:00+00:00,Portugal,0.62006329854946,0,1,pt,MED,Europe
-'20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-01-21T03:56:00+00:00,Portugal,0.619946665187374,0,1,pt,MED,Europe
-'1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-01-18T03:57:00+00:00,Portugal,0.6188015146644945,0,1,pt,MED,Europe
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-01-17T03:44:00+00:00,Portugal,0.6156471479941359,0,1,pt,MED,Europe
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-01-17T03:44:00+00:00,Portugal,0.6110842919789489,0,1,pt,MED,Europe
 '7592facbb8',extremes,Snow&Ice,#d60d2b,wmo,neve viana do castelo,2026-01-21T03:56:00+00:00,Portugal,0.6109792150731048,0,1,pt,MED,Europe
@@ -62,6 +60,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-01-15T10:56:00+00:00,Portugal,0.534263486681431,0,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.5313721629336723,0,1,pt,NAO,Atlantic Ocean
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-01-17T03:44:00+00:00,Portugal,0.5278322523213874,0,1,pt,MED,Europe
+'20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-01-21T03:56:00+00:00,Portugal,0.5269546654092678,1,1,pt,MED,Europe
+'1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-01-18T03:57:00+00:00,Portugal,0.5262813174648203,1,1,pt,MED,Europe
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-01-17T03:44:00+00:00,Portugal,0.5260813184168726,0,1,pt,NAO,Atlantic Ocean
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-01-17T03:44:00+00:00,Angola,0.5211023678162489,0,1,pt,WSAF,Africa
 '8d58f411cd',extremes,Snow&Ice,#d60d2b,wmo,gelo viseu,2026-01-17T03:44:00+00:00,Portugal,0.5195863258128535,0,1,pt,MED,Europe
