@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,aguaceiro santarém,2026-01-15T10:56:00+00:00,Portugal,0.7722186796260393,0,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-01-15T10:56:00+00:00,Portugal,0.7721706265567628,0,1,pt,MED,Europe
 '6c06a5aed7',extremes,Snow&Ice,#d60d2b,wmo,gelo portugal,2026-01-15T10:56:00+00:00,Portugal,0.7716082854802285,0,1,pt,MED,Europe
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T12:14:00+00:00,Portugal,0.771488168831626,0,1,pt,MED,Europe
@@ -91,7 +92,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.4371386238949051,0,1,pt,SEA,Asia
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2025-12-18T03:44:00+00:00,Portugal,0.434255770602138,2,1,pt,MED,Europe
 'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2025-12-12T03:45:00+00:00,Portugal,0.4322829828617147,2,2,pt,MED,Europe
+'726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-01-21T03:56:00+00:00,Portugal,0.43065579381650576,0,1,pt,NAO,Atlantic Ocean
 'c844de2783',extremes,Precipitation,#d60d2b,wmo,precipitação braga,2025-12-18T03:44:00+00:00,Portugal,0.4218627202007655,2,1,pt,MED,Europe
+'1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-01-15T10:57:00+00:00,Sao Tome and Principe,0.41276175459276127,0,1,pt,WAF,Africa
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.40997654267340694,0,1,pt,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,pt,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,pt,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-01-18T03:56:00+00:00,,0.4099477889902277,0,1,pt,,
+'1c38b19449',extremes,Storm,#b3b2b1,random,bacias de poeira,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,pt,,
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-01-15T10:39:00+00:00,,0.40990088322186424,0,1,pt,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-01-15T10:39:00+00:00,,0.4099006868118564,0,1,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2025-12-19T03:46:00+00:00,Timor Leste,0.3447452496019806,1,1,pt,SEA,Oceania
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2025-12-19T03:46:00+00:00,Macao,0.3091715844675091,1,1,pt,EAS,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguaceiro zona sul,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,pt,NWS,South-America
