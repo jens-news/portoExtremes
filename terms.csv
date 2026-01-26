@@ -62,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.5971469865061627,1,2,pt,SAM,South-America
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-01-22T04:00:00+00:00,Cabo Verde,0.5954787079145201,0,1,pt,NAO,Atlantic Ocean
 '4f55bafa85',extremes,Snow&Ice,#d60d2b,wmo,gelo aveiro,2026-01-23T04:03:00+00:00,Portugal,0.5909812766666586,1,1,pt,MED,Europe
-'3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-01-25T04:06:00+00:00,Portugal,0.5908413481531368,0,1,pt,MED,Europe
 'a9e1f8e3f3',extremes,Snow&Ice,#d60d2b,wmo,guarda de neve,2026-01-24T03:48:00+00:00,Portugal,0.5907761142529251,1,2,pt,MED,Europe
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2026-01-25T04:06:00+00:00,Portugal,0.5847354624986402,0,1,pt,MED,Europe
 '38a1a191a5',extremes,Snow&Ice,#d60d2b,wmo,gelo Bragança,2026-01-22T03:59:00+00:00,Portugal,0.5805939606691115,1,1,pt,MED,Europe
@@ -98,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6a78b7678',extremes,Snow&Ice,#d60d2b,wmo,congelante viana do castelo,2026-01-24T03:48:00+00:00,Portugal,0.5209044954704372,1,1,pt,MED,Europe
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2026-01-17T03:44:00+00:00,Portugal,0.5191044708899487,0,1,pt,MED,Europe
 '722490b387',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2026-01-17T03:44:00+00:00,Portugal,0.5185418817281536,0,1,pt,MED,Europe
+'3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-01-25T04:06:00+00:00,Portugal,0.5165153259301662,1,1,pt,MED,Europe
 '8f089ddeb0',extremes,Precipitation,#d60d2b,wmo,precipitação coimbra,2026-01-21T03:56:00+00:00,Portugal,0.5139756980973794,0,1,pt,MED,Europe
 'ab3ae14deb',extremes,Snow&Ice,#d60d2b,wmo,porto de gelo,2026-01-17T03:44:00+00:00,Portugal,0.5138579598435917,0,1,pt,MED,Europe
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-01-15T10:57:00+00:00,Guinea-Bissau,0.5129215910246896,0,1,pt,WAF,Africa
