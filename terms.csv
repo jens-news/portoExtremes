@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef1071c617',extremes,Snow&Ice,#d60d2b,wmo,braga congelante,2026-01-15T12:14:00+00:00,Portugal,0.655667265650588,1,1,pt,MED,Europe
 '2702ab0f90',extremes,Snow&Ice,#d60d2b,wmo,Aveiro gelado,2026-01-26T04:09:00+00:00,Portugal,0.6467347535479829,1,2,pt,MED,Europe
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T12:14:00+00:00,Cabo Verde,0.6453979861729379,0,1,pt,NAO,Atlantic Ocean
-'bc92e311be',extremes,Snow&Ice,#d60d2b,wmo,porto gelado,2026-01-27T03:58:00+00:00,Portugal,0.6423103414684421,0,1,pt,MED,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-01-15T10:57:00+00:00,Angola,0.6416682506689928,0,1,pt,WSAF,Africa
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-01-15T10:56:00+00:00,Portugal,0.641533683722199,0,1,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-01-15T12:14:00+00:00,Portugal,0.63935281430797,0,1,pt,NAO,Atlantic Ocean
@@ -83,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-01-23T04:03:00+00:00,Portugal,0.550914559695979,1,1,pt,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-01-17T03:44:00+00:00,Sao Tome and Principe,0.5508159834274593,1,1,pt,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-01-15T10:57:00+00:00,Equatorial Guinea,0.547351895628288,0,1,pt,WAF,Africa
+'bc92e311be',extremes,Snow&Ice,#d60d2b,wmo,porto gelado,2026-01-27T03:58:00+00:00,Portugal,0.5465638652481758,1,1,pt,MED,Europe
 '315a0b9c70',extremes,Snow&Ice,#d60d2b,wmo,guarda congelante,2026-01-23T04:03:00+00:00,Portugal,0.5461082871679948,1,1,pt,MED,Europe
 'd1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-01-17T03:44:00+00:00,Portugal,0.5440108956551363,1,1,pt,MED,Europe
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-01-15T12:14:00+00:00,Mozambique,0.5405682202347261,1,1,pt,ESAF,Africa
@@ -196,8 +196,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-01-20T03:55:00+00:00,,0.3480532759672765,0,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-01-23T04:03:00+00:00,Macao,0.3478488411873263,0,1,pt,EAS,Asia
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-01-15T10:56:00+00:00,,0.3470966900262298,0,1,pt,,
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-01-15T10:56:00+00:00,,0.34530689994479846,0,1,pt,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.34387966352720745,0,1,pt,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,pt,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,pt,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
