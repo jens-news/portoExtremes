@@ -33,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-01-15T12:14:00+00:00,Portugal,0.6558542327941722,1,1,pt,MED,Europe
 '5fca4dc93b',extremes,Precipitation,#d60d2b,wmo,chuva torrencial coimbra,2026-01-15T12:14:00+00:00,Portugal,0.6556885436065109,1,1,pt,MED,Europe
 'ef1071c617',extremes,Snow&Ice,#d60d2b,wmo,braga congelante,2026-01-15T12:14:00+00:00,Portugal,0.655667265650588,1,1,pt,MED,Europe
+'16a8cea79c',extremes,Storm,#b3b2b1,wmo,tempestade Bragança,2026-01-28T03:56:00+00:00,Portugal,0.6545930709064616,1,2,pt,MED,Europe
 '2702ab0f90',extremes,Snow&Ice,#d60d2b,wmo,Aveiro gelado,2026-01-26T04:09:00+00:00,Portugal,0.6467347535479829,1,2,pt,MED,Europe
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T12:14:00+00:00,Cabo Verde,0.6453979861729379,0,1,pt,NAO,Atlantic Ocean
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-01-15T10:57:00+00:00,Angola,0.6416682506689928,0,1,pt,WSAF,Africa
@@ -49,7 +50,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fb8010a56',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-01-22T03:59:00+00:00,Portugal,0.6247039314915191,0,1,pt,MED,Europe
 '580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-01-15T10:56:00+00:00,Portugal,0.6244446634585191,0,1,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-01-15T10:56:00+00:00,Portugal,0.6229711607703721,0,1,pt,MED,Europe
-'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-01-28T03:56:00+00:00,Portugal,0.6222320597112327,0,1,pt,MED,Europe
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-01-23T04:03:00+00:00,Portugal,0.6216585064456426,0,1,pt,MED,Europe
 '7eff8c333b',extremes,Snow&Ice,#d60d2b,wmo,geada vila real,2026-01-15T12:14:00+00:00,Portugal,0.6203169603937518,1,2,pt,MED,Europe
 'e6ddf81a7b',extremes,Snow&Ice,#d60d2b,wmo,neve aveiro,2026-01-22T03:59:00+00:00,Portugal,0.6201267188919529,0,1,pt,MED,Europe
@@ -64,7 +64,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e91e7b557',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-28T03:56:00+00:00,Portugal,0.597664057142659,1,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.5971469865061627,1,2,pt,SAM,South-America
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-01-22T04:00:00+00:00,Cabo Verde,0.5954787079145201,0,1,pt,NAO,Atlantic Ocean
-'16a8cea79c',extremes,Storm,#b3b2b1,wmo,tempestade Bragança,2026-01-28T03:56:00+00:00,Portugal,0.5931094245958373,0,1,pt,MED,Europe
 '4f55bafa85',extremes,Snow&Ice,#d60d2b,wmo,gelo aveiro,2026-01-23T04:03:00+00:00,Portugal,0.5909812766666586,1,1,pt,MED,Europe
 'a9e1f8e3f3',extremes,Snow&Ice,#d60d2b,wmo,guarda de neve,2026-01-24T03:48:00+00:00,Portugal,0.5907761142529251,1,2,pt,MED,Europe
 '38a1a191a5',extremes,Snow&Ice,#d60d2b,wmo,gelo Bragança,2026-01-22T03:59:00+00:00,Portugal,0.5805939606691115,1,1,pt,MED,Europe
@@ -100,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-01-15T10:56:00+00:00,Portugal,0.534263486681431,0,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.5313721629336723,0,1,pt,NAO,Atlantic Ocean
 'dee81601c3',extremes,Snow&Ice,#d60d2b,wmo,geada Bragança,2026-01-23T04:03:00+00:00,Portugal,0.5302514530609682,1,1,pt,MED,Europe
+'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-01-28T03:56:00+00:00,Portugal,0.5288972657545479,1,1,pt,MED,Europe
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-01-17T03:44:00+00:00,Portugal,0.5278322523213874,0,1,pt,MED,Europe
 'dc400f13ed',extremes,Snow&Ice,#d60d2b,wmo,geada viana do castelo,2026-01-22T03:59:00+00:00,Portugal,0.5276917373116559,1,1,pt,MED,Europe
 '20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-01-21T03:56:00+00:00,Portugal,0.5269546654092678,1,1,pt,MED,Europe
