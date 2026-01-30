@@ -68,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f55bafa85',extremes,Snow&Ice,#d60d2b,wmo,gelo aveiro,2026-01-23T04:03:00+00:00,Portugal,0.5909812766666586,1,1,pt,MED,Europe
 'a9e1f8e3f3',extremes,Snow&Ice,#d60d2b,wmo,guarda de neve,2026-01-24T03:48:00+00:00,Portugal,0.5907761142529251,1,2,pt,MED,Europe
 'a7738c1b1e',extremes,Precipitation,#d60d2b,wmo,chuva braga,2026-01-28T03:56:00+00:00,Portugal,0.5866717866991704,1,3,pt,MED,Europe
+'8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-01-19T04:03:00+00:00,Mozambique,0.5863252561133642,1,2,pt,ESAF,Africa
 '38a1a191a5',extremes,Snow&Ice,#d60d2b,wmo,gelo Bragança,2026-01-22T03:59:00+00:00,Portugal,0.5805939606691115,1,1,pt,MED,Europe
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2026-01-25T04:06:00+00:00,Portugal,0.5802200129230524,0,1,pt,MED,Europe
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-01-25T04:06:00+00:00,Portugal,0.579274003584498,1,1,pt,MED,Europe
@@ -83,7 +84,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a5cae3274',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-01-24T03:48:00+00:00,Portugal,0.5572777713928645,1,1,pt,MED,Europe
 'a9f5de0046',extremes,Snow&Ice,#d60d2b,wmo,gelo castelo branco,2026-01-23T04:03:00+00:00,Portugal,0.5567069359818033,1,1,pt,MED,Europe
 '59d157f02e',extremes,Snow&Ice,#d60d2b,wmo,geada porto,2026-01-24T03:48:00+00:00,Portugal,0.5547630215300116,1,1,pt,MED,Europe
-'9f2045596d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial aveiro,2026-01-29T04:19:00+00:00,Portugal,0.5515535461082673,0,1,pt,MED,Europe
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-01-23T04:03:00+00:00,Portugal,0.550914559695979,1,1,pt,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-01-17T03:44:00+00:00,Sao Tome and Principe,0.5508159834274593,1,1,pt,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-01-15T10:57:00+00:00,Equatorial Guinea,0.547351895628288,0,1,pt,WAF,Africa
@@ -118,8 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3466506af9',extremes,Precipitation,#d60d2b,wmo,aguaceiro faro,2026-01-26T04:09:00+00:00,Portugal,0.5173361393214967,1,1,pt,MED,Europe
 '3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-01-25T04:06:00+00:00,Portugal,0.5165153259301662,1,1,pt,MED,Europe
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-01-15T10:57:00+00:00,Guinea-Bissau,0.5129215910246896,0,1,pt,WAF,Africa
-'8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-01-19T04:03:00+00:00,Mozambique,0.5127943660157226,0,1,pt,ESAF,Africa
-'bd0c34a4e9',extremes,Snow&Ice,#d60d2b,wmo,neve castelo branco,2025-12-18T03:44:00+00:00,Portugal,0.5124785892295498,2,2,pt,MED,Europe
 '61bcd02de5',extremes,Drought,#edc291,edo,seca moçambique,2026-01-15T10:57:00+00:00,Mozambique,0.5116795268552939,0,1,pt,ESAF,Africa
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-01-15T10:57:00+00:00,Bermuda,0.5110590613315409,0,1,pt,NAO,Atlantic Ocean
 '3f5b4e976e',extremes,Storm,#b3b2b1,wmo,tempestade évora,2026-01-27T03:58:00+00:00,Portugal,0.5107795074832623,1,1,pt,MED,Europe
@@ -151,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d58f411cd',extremes,Snow&Ice,#d60d2b,wmo,gelo viseu,2026-01-17T03:44:00+00:00,Portugal,0.4723985119409254,1,1,pt,MED,Europe
 '8f089ddeb0',extremes,Precipitation,#d60d2b,wmo,precipitação coimbra,2026-01-21T03:56:00+00:00,Portugal,0.4715628717161058,1,1,pt,MED,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.4706172939437564,0,1,pt,WAF,Africa
+'9f2045596d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial aveiro,2026-01-29T04:19:00+00:00,Portugal,0.46882051419202725,1,1,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2025-12-19T03:46:00+00:00,Brazil,0.4685492242715612,3,3,pt,SAM,South-America
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-01-15T10:57:00+00:00,Timor Leste,0.4563685861174346,0,1,pt,SEA,Oceania
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-01-21T03:56:00+00:00,Brazil,0.4504924928798871,0,1,pt,SAM,South-America
@@ -240,12 +239,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundação na Austrália,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,pt,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,pt,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,terremoto porto mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,pt,SIO,Indian Ocean
-'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.31985962751372576,0,1,pt,SWS,South-America
+'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,pt,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,pt,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-01-15T10:56:00+00:00,Chile,0.31985656272615726,0,1,pt,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de vale fértil,2026-01-15T12:13:00+00:00,Argentina,0.31985378893005517,0,1,pt,SES,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,pt,SWS,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de vale fértil,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,pt,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,pt,SEA,Asia
-'26349abe17',extremes,Tsunami,#690191,usgs,estação tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.31984587829424055,0,1,pt,NPO,Pacific Ocean
+'26349abe17',extremes,Tsunami,#690191,usgs,estação tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,pt,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,terremoto camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,pt,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,terremoto maurício região de reunião,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,pt,SIO,Indian Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
