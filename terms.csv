@@ -130,9 +130,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9bd9707cac',extremes,Snow&Ice,#d60d2b,wmo,geada braga,2026-01-21T03:56:00+00:00,Portugal,0.5027257580214604,1,1,pt,MED,Europe
 'a05bc5088f',extremes,Snow&Ice,#d60d2b,wmo,congelando Bragança,2026-01-26T04:09:00+00:00,Portugal,0.5025842509728016,1,1,pt,MED,Europe
 'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-01-22T03:59:00+00:00,Portugal,0.4981888226938648,1,1,pt,MED,Europe
-'8c28c1f621',extremes,Precipitation,#d60d2b,wmo,aguaceiro évora,2026-01-22T03:59:00+00:00,Portugal,0.4977092398250667,0,1,pt,MED,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2025-12-19T03:46:00+00:00,Portugal,0.4976302763239031,1,2,pt,MED,Europe
-'5151cbced7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viseu,2026-01-30T04:21:00+00:00,Portugal,0.49740602265548284,1,1,pt,MED,Europe
+'5151cbced7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viseu,2026-01-30T04:21:00+00:00,Portugal,0.4974060226554828,1,1,pt,MED,Europe
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-01-29T04:19:00+00:00,Portugal,0.4971716258210584,1,1,pt,MED,Europe
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2026-01-25T04:06:00+00:00,Portugal,0.4970251431238441,1,1,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-01-15T12:14:00+00:00,Bermuda,0.4923986389930906,1,1,pt,NAO,Atlantic Ocean
@@ -152,7 +151,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9ab59f172',extremes,Precipitation,#d60d2b,wmo,precipitação setúbal,2026-01-22T03:59:00+00:00,Portugal,0.4602336457523025,1,1,pt,MED,Europe
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-01-15T10:57:00+00:00,Timor Leste,0.4563685861174346,0,1,pt,SEA,Oceania
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-01-21T03:56:00+00:00,Brazil,0.4504924928798871,0,1,pt,SAM,South-America
-'63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-01-24T03:49:00+00:00,Brazil,0.4492162205538896,0,1,pt,SAM,South-America
 '84c5287db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro viseu,2026-01-21T03:56:00+00:00,Portugal,0.4409292657362793,1,1,pt,MED,Europe
 '7430b2f3c5',extremes,Snow&Ice,#d60d2b,wmo,geada castelo branco,2026-01-17T03:44:00+00:00,Portugal,0.4392188921309703,1,1,pt,MED,Europe
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.4371386238949051,0,1,pt,SEA,Asia
@@ -161,6 +159,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-01-24T03:49:00+00:00,Guinea-Bissau,0.4302584328881836,0,1,pt,WAF,Africa
 '26c741ce4f',extremes,Precipitation,#d60d2b,wmo,precipitação faro,2026-01-27T03:58:00+00:00,Portugal,0.4301721669563346,1,1,pt,MED,Europe
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-01-15T12:14:00+00:00,Macao,0.4283215558714555,1,1,pt,EAS,Asia
+'8c28c1f621',extremes,Precipitation,#d60d2b,wmo,aguaceiro évora,2026-01-22T03:59:00+00:00,Portugal,0.4230528538513067,1,1,pt,MED,Europe
+'63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-01-24T03:49:00+00:00,Brazil,0.4136620002485839,1,2,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-01-15T10:57:00+00:00,Sao Tome and Principe,0.4127617545927612,0,1,pt,WAF,Africa
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-01-26T04:08:00+00:00,,0.4100075473236523,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4099765426734069,0,1,pt,,
