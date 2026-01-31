@@ -25,8 +25,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-01-15T10:56:00+00:00,Portugal,0.6578653073543739,1,1,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-01-15T10:56:00+00:00,Portugal,0.6572186603554687,1,1,pt,MED,Europe
 'ca2ea52a94',extremes,Snow&Ice,#d60d2b,wmo,vila real congelante,2026-01-15T10:56:00+00:00,Portugal,0.6565054790157939,1,1,pt,MED,Europe
-'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,aguaceiro santarém,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
+'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-01-15T10:56:00+00:00,Portugal,0.6563650170066244,1,1,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.6563543732497278,1,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-01-15T10:56:00+00:00,Portugal,0.6559919274023578,1,1,pt,MED,Europe
@@ -137,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '695fbc5c75',extremes,Precipitation,#d60d2b,wmo,aguaceiro aveiro,2026-01-25T04:06:00+00:00,Portugal,0.4970251431238441,1,1,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-01-15T12:14:00+00:00,Bermuda,0.4923986389930906,1,1,pt,NAO,Atlantic Ocean
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4921325979017025,0,1,pt,MED,Europe
+'82d648b882',extremes,Drought,#edc291,random,seca,2026-01-15T10:39:00+00:00,,0.48722829853338834,1,3,pt,,
 'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-01-28T03:56:00+00:00,Bermuda,0.4862449175489393,1,1,pt,NAO,Atlantic Ocean
 '8cf0b46320',extremes,Precipitation,#d60d2b,wmo,precipitação évora,2026-01-28T03:56:00+00:00,Portugal,0.4768411972329582,1,1,pt,MED,Europe
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2026-01-15T10:56:00+00:00,Timor Leste,0.476341230294914,0,1,pt,SEA,Asia
@@ -166,7 +167,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4099765426734069,0,1,pt,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,pt,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,pt,,
-'82d648b882',extremes,Drought,#edc291,random,seca,2026-01-15T10:39:00+00:00,,0.4098305739048267,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-01-30T04:21:00+00:00,Timor Leste,0.4071152741605883,0,1,pt,SEA,Oceania
