@@ -170,7 +170,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-01-15T10:39:00+00:00,,0.4097458683214559,0,1,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-01-30T04:21:00+00:00,Timor Leste,0.4071152741605883,0,1,pt,SEA,Oceania
-'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-01-15T10:56:00+00:00,Portugal,0.4055172386068782,0,1,pt,MED,Europe
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-01-15T10:56:00+00:00,Portugal,0.4054097054581501,0,1,pt,MED,Europe
 'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-01-25T04:06:00+00:00,Bermuda,0.4033516622314153,0,1,pt,NAO,Atlantic Ocean
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-01-15T10:57:00+00:00,Portugal,0.4030000895390717,0,1,pt,NAO,Atlantic Ocean
@@ -192,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-01-27T03:58:00+00:00,,0.3789233435638227,0,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,pt,,
+'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-01-15T10:56:00+00:00,Portugal,0.3742271043375856,1,2,pt,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,pt,,
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.3715678303106693,1,1,pt,SEA,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,pt,,
@@ -279,14 +279,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8710bd49ea',extremes,Earthquake,#870007,usgs,terremoto severo Kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,pt,RFE,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,terremoto na Indonésia,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,pt,SEA,Asia
 '85a135fac3',extremes,Earthquake,#870007,usgs,terremoto ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,pt,RFE,Asia
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,terremoto kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,pt,EPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,terremoto kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,pt,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,terremoto birmânia myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,pt,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,terremoto ilhas Marianas do Norte,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,pt,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,terremoto região das ilhas do príncipe Eduardo,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,pt,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,pt,RFE,Asia
-'1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.31977305475664575,0,1,pt,SCA,South-America
-'c685705bbd',extremes,Earthquake,#870007,usgs,terremoto na China,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,pt,EAS,Asia
-'6bf5e2061d',extremes,Earthquake,#870007,usgs,terremoto castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.31977139966941065,0,1,pt,NZ,Oceania
+'1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,pt,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,terremoto na China,2026-01-15T10:56:00+00:00,China,0.3197726066176344,0,1,pt,EAS,Asia
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,terremoto castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,pt,NZ,Oceania
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
