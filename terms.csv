@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe1203a95a',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2026-02-01T04:41:00+00:00,Portugal,0.600234372069849,0,1,pt,MED,Europe
 '7e91e7b557',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-28T03:56:00+00:00,Portugal,0.597664057142659,1,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.5971469865061627,1,2,pt,SAM,South-America
-'a90f4cf9e4',extremes,Precipitation,#d60d2b,wmo,precipitação leiria,2026-02-02T04:36:00+00:00,Portugal,0.5964698871913,0,1,pt,MED,Europe
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-01-22T04:00:00+00:00,Cabo Verde,0.5954787079145201,0,1,pt,NAO,Atlantic Ocean
 '4f55bafa85',extremes,Snow&Ice,#d60d2b,wmo,gelo aveiro,2026-01-23T04:03:00+00:00,Portugal,0.5909812766666586,1,1,pt,MED,Europe
 'a9e1f8e3f3',extremes,Snow&Ice,#d60d2b,wmo,guarda de neve,2026-01-24T03:48:00+00:00,Portugal,0.5907761142529251,1,2,pt,MED,Europe
@@ -115,6 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-01-15T10:56:00+00:00,Portugal,0.534263486681431,0,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.5313721629336723,0,1,pt,NAO,Atlantic Ocean
 'dee81601c3',extremes,Snow&Ice,#d60d2b,wmo,geada Bragança,2026-01-23T04:03:00+00:00,Portugal,0.5302514530609682,1,1,pt,MED,Europe
+'a90f4cf9e4',extremes,Precipitation,#d60d2b,wmo,precipitação leiria,2026-02-02T04:36:00+00:00,Portugal,0.5293499591126051,1,2,pt,MED,Europe
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-01-28T03:56:00+00:00,Portugal,0.5288972657545479,1,1,pt,MED,Europe
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-01-17T03:44:00+00:00,Portugal,0.5278322523213874,0,1,pt,MED,Europe
 'dc400f13ed',extremes,Snow&Ice,#d60d2b,wmo,geada viana do castelo,2026-01-22T03:59:00+00:00,Portugal,0.5276917373116559,1,1,pt,MED,Europe
@@ -317,12 +317,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9de3c9007e',extremes,Earthquake,#870007,usgs,terremoto yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,pt,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,terremoto porto alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,pt,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,terremoto sudeste da cordilheira indiana,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,pt,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,terremoto baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,pt,SEA,Asia
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolívia,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,pt,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,inundação boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,pt,EAU,Oceania
-'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto na Somália,2026-01-15T12:13:00+00:00,Somalia,0.31972240885217246,0,1,pt,NEAF,Africa
+'0f6b56852d',extremes,Earthquake,#870007,usgs,terremoto baculin,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,pt,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolívia,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,pt,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,inundação boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,pt,EAU,Oceania
+'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto na Somália,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,1,pt,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,1,pt,SWS,South-America
-'90e6558608',extremes,Earthquake,#870007,usgs,terremoto sul da dorsal mesoatlântica,2026-01-15T10:56:00+00:00,,0.31971413890021516,0,1,pt,SAO,Atlantic Ocean
+'90e6558608',extremes,Earthquake,#870007,usgs,terremoto sul da dorsal mesoatlântica,2026-01-15T10:56:00+00:00,,0.3197141389002151,0,1,pt,SAO,Atlantic Ocean
 'ad41fee440',extremes,Earthquake,#870007,usgs,terremoto lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.3197138825463702,0,1,pt,SPO,Oceania
 '0b2fd57376',extremes,Earthquake,#870007,usgs,terremoto em Taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.3197039178556724,0,1,pt,EAS,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
