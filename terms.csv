@@ -253,9 +253,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,pt,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
-'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
+'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -335,6 +335,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto na Itália,2026-01-15T10:56:00+00:00,Italy,0.3196985807356531,0,1,pt,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,terremoto port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,pt,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,terremoto isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,pt,SPO,Pacific Ocean
+'17b150a7a2',extremes,Earthquake,#870007,usgs,terremoto na Tanzânia,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,pt,SEAF,Africa
+'ba6e07a583',extremes,Storm,#b3b2b1,emdat,tempestade nas províncias de al hasakeh,2026-01-15T10:57:00+00:00,Syria,0.31968359283370695,0,1,pt,MED,Asia
+'95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,pt,NEAF,Africa
+'cc449c3731',extremes,Earthquake,#870007,usgs,terremoto região das ilhas Kermadec,2026-01-15T10:56:00+00:00,,0.31967654225515996,0,1,pt,SPO,Pacific Ocean
+'5484f48de4',extremes,Earthquake,#870007,usgs,terremoto no meio da cordilheira indiana,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,pt,SIO,Indian Ocean
+'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.31967398416605053,0,1,pt,WNA,North-America
+'e98c9b3f42',extremes,Earthquake,#870007,usgs,passagem do dreno do terremoto,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,pt,SOO,Antarctica
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,terremoto atka,2026-01-15T10:56:00+00:00,Alaska,0.31966948238112836,0,1,pt,NPO,Pacific Ocean
+'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto porto santa,2026-01-15T10:56:00+00:00,Peru,0.31966490236557776,0,1,pt,NWS,South-America
+'37af8de5d1',extremes,Earthquake,#870007,usgs,terremoto região da ilha de Páscoa,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,pt,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
