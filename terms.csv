@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7eff8c333b',extremes,Snow&Ice,#d60d2b,wmo,geada vila real,2026-01-15T12:14:00+00:00,Portugal,0.6203169603937518,1,2,pt,MED,Europe
 'e6ddf81a7b',extremes,Snow&Ice,#d60d2b,wmo,neve aveiro,2026-01-22T03:59:00+00:00,Portugal,0.6201267188919529,0,1,pt,MED,Europe
 'aceacf8c3e',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-01-15T12:14:00+00:00,Portugal,0.62006329854946,0,1,pt,MED,Europe
-'aa9b6d17bf',extremes,Storm,#b3b2b1,wmo,tempestade évora,2026-02-04T04:21:00+00:00,Portugal,0.6199774722346936,0,1,pt,MED,Europe
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-01-17T03:44:00+00:00,Portugal,0.6156471479941359,0,1,pt,MED,Europe
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2026-01-22T03:59:00+00:00,Portugal,0.614597730396011,0,1,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-01-29T04:19:00+00:00,Angola,0.612760572968349,0,1,pt,WSAF,Africa
@@ -123,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-01-28T03:56:00+00:00,Portugal,0.5288972657545479,1,1,pt,MED,Europe
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-01-17T03:44:00+00:00,Portugal,0.5278322523213874,0,1,pt,MED,Europe
 'dc400f13ed',extremes,Snow&Ice,#d60d2b,wmo,geada viana do castelo,2026-01-22T03:59:00+00:00,Portugal,0.5276917373116559,1,1,pt,MED,Europe
+'aa9b6d17bf',extremes,Storm,#b3b2b1,wmo,tempestade évora,2026-02-04T04:21:00+00:00,Portugal,0.5274309563994894,1,1,pt,MED,Europe
 '20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-01-21T03:56:00+00:00,Portugal,0.5269546654092678,1,1,pt,MED,Europe
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-01-18T03:57:00+00:00,Portugal,0.5262813174648203,1,1,pt,MED,Europe
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-01-17T03:44:00+00:00,Portugal,0.5260813184168726,0,1,pt,NAO,Atlantic Ocean
@@ -256,9 +256,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,pt,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -349,9 +349,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto porto santa,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,pt,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,terremoto região da ilha de Páscoa,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,pt,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,terremoto miyako,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,pt,EAS,Asia
-'7a3d1676da',extremes,Earthquake,#870007,usgs,terremoto nas Filipinas,2026-01-15T10:56:00+00:00,Philippines,0.31965086160738715,0,1,pt,SEA,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-01-15T10:56:00+00:00,Tonga,0.31964660187957894,0,1,pt,SPO,Pacific Ocean
-'3f3ddd0b49',extremes,Earthquake,#870007,usgs,terremoto na Índia,2026-01-15T10:56:00+00:00,India,0.31963985603378475,0,1,pt,SAS,Asia
+'7a3d1676da',extremes,Earthquake,#870007,usgs,terremoto nas Filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,pt,SEA,Asia
+'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-01-15T10:56:00+00:00,Tonga,0.3196466018795789,0,1,pt,SPO,Pacific Ocean
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,terremoto na Índia,2026-01-15T10:56:00+00:00,India,0.3196398560337847,0,1,pt,SAS,Asia
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,terremoto Ilhas Curilas,2026-01-15T10:56:00+00:00,,0.3196396899700217,0,1,pt,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,seca burundi,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,pt,SEAF,Africa
 '485794e3d4',extremes,Earthquake,#870007,usgs,terremoto no Canadá,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,pt,NWN,North-America
