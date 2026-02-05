@@ -198,7 +198,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd626409dfa',extremes,Precipitation,#d60d2b,wmo,chuva coimbra,2026-01-15T10:56:00+00:00,Portugal,0.4011844883212765,0,1,pt,MED,Europe
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-01-15T10:56:00+00:00,Portugal,0.3994579963278633,0,1,pt,MED,Europe
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-01-23T04:03:00+00:00,Timor Leste,0.3940210068624782,0,1,pt,SEA,Oceania
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-01-23T04:02:00+00:00,,0.3923739272305765,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-01-17T03:44:00+00:00,,0.3888307895574756,0,1,pt,,
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-01-15T10:56:00+00:00,Portugal,0.3868486096394275,1,1,pt,MED,Europe
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,pt,,
@@ -208,6 +207,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,pt,,
 'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-01-15T10:56:00+00:00,Portugal,0.3742271043375856,1,2,pt,MED,Europe
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-01-23T04:02:00+00:00,,0.37407560469771417,1,2,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,pt,,
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.3715678303106693,1,1,pt,SEA,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-01-29T04:18:00+00:00,,0.3715264900248309,1,2,pt,,
@@ -358,13 +358,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,terremoto na Grécia,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,1,pt,MED,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,terremoto Sainte Marie,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,1,pt,CAR,North-America
 '909be204f9',extremes,Earthquake,#870007,usgs,terremoto a sudeste das ilhas de fidelidade,2026-01-15T10:56:00+00:00,,0.3196248459197977,0,1,pt,SPO,Pacific Ocean
-'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto Nicarágua,2026-01-15T10:56:00+00:00,Nicaragua,0.31960800063794476,0,1,pt,SCA,North-America
-'1f343ea703',extremes,Earthquake,#870007,usgs,terremoto doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.31959443493919526,0,1,pt,MED,Asia
+'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto Nicarágua,2026-01-15T10:56:00+00:00,Nicaragua,0.3196080006379447,0,1,pt,SCA,North-America
+'1f343ea703',extremes,Earthquake,#870007,usgs,terremoto doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.3195944349391952,0,1,pt,MED,Asia
 'eabe6169ab',extremes,Earthquake,#870007,usgs,terremoto tonga,2026-01-15T10:56:00+00:00,Tonga,0.3195783635027257,0,1,pt,SPO,Pacific Ocean
-'f199635353',extremes,Earthquake,#870007,usgs,terremoto morigaon,2026-01-15T10:56:00+00:00,India,0.31957535918298335,0,1,pt,SAS,Asia
+'f199635353',extremes,Earthquake,#870007,usgs,terremoto morigaon,2026-01-15T10:56:00+00:00,India,0.3195753591829833,0,1,pt,SAS,Asia
 'c42e3feacc',extremes,Earthquake,#870007,usgs,terremoto a noroeste das ilhas Curilas,2026-01-15T10:56:00+00:00,,0.3195688126309816,0,1,pt,RFE,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-01-15T10:57:00+00:00,Somalia,0.3195655994444291,0,1,pt,NEAF,Africa
-'d9cc56f031',extremes,Drought,#edc291,edo,período de seca no Tajiquistão,2026-01-15T10:57:00+00:00,Tajikistan,0.31956404664829663,0,1,pt,WCA,Asia
+'d9cc56f031',extremes,Drought,#edc291,edo,período de seca no Tajiquistão,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,1,pt,WCA,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
