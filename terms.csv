@@ -159,7 +159,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f0a52cb2f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial setúbal,2026-02-05T04:27:00+00:00,Portugal,0.4945787335455155,1,1,pt,MED,Europe
 'd6d8077174',extremes,Precipitation,#d60d2b,wmo,aguaceiro viana do castelo,2026-02-01T04:41:00+00:00,Portugal,0.4935982096419965,1,1,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-01-15T12:14:00+00:00,Bermuda,0.4923986389930906,1,1,pt,NAO,Atlantic Ocean
-'936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4921325979017025,0,1,pt,MED,Europe
 '42f57c351b',extremes,Precipitation,#d60d2b,wmo,precipitação viseu,2026-02-01T04:41:00+00:00,Portugal,0.4910245891125657,1,1,pt,MED,Europe
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-01-15T10:39:00+00:00,,0.4872282985333883,1,3,pt,,
 'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-01-28T03:56:00+00:00,Bermuda,0.4862449175489393,1,1,pt,NAO,Atlantic Ocean
@@ -194,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-01-21T03:56:00+00:00,Portugal,0.4235076047440299,1,1,pt,NAO,Atlantic Ocean
 '8c28c1f621',extremes,Precipitation,#d60d2b,wmo,aguaceiro évora,2026-01-22T03:59:00+00:00,Portugal,0.4230528538513067,1,1,pt,MED,Europe
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-01-15T10:57:00+00:00,Portugal,0.4196503311082109,1,2,pt,NAO,Atlantic Ocean
+'936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4183127082164471,1,1,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-01-24T03:49:00+00:00,Brazil,0.4136620002485839,1,2,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-01-15T10:57:00+00:00,Sao Tome and Principe,0.4127617545927612,0,1,pt,WAF,Africa
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4099765426734069,0,1,pt,,
@@ -208,9 +208,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-01-25T04:05:00+00:00,,0.3939539036464418,1,2,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-01-17T03:44:00+00:00,,0.3888307895574756,0,1,pt,,
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-01-15T10:56:00+00:00,Portugal,0.3868486096394275,1,1,pt,MED,Europe
-'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-02-06T04:27:00+00:00,,0.3854552607611397,0,1,pt,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-02-06T04:27:00+00:00,,0.3815726341990076,0,1,pt,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-01-27T03:58:00+00:00,,0.3789233435638227,0,1,pt,,
+'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-02-06T04:27:00+00:00,,0.3785370766469687,1,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,pt,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3744991500127601,0,1,pt,,
