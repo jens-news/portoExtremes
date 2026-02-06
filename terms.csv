@@ -64,8 +64,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-01-17T03:44:00+00:00,Portugal,0.6156471479941359,0,1,pt,MED,Europe
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2026-01-22T03:59:00+00:00,Portugal,0.614597730396011,0,1,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-01-29T04:19:00+00:00,Angola,0.612760572968349,0,1,pt,WSAF,Africa
+'ee46787821',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-02-06T04:27:00+00:00,Portugal,0.6113981403895231,1,2,pt,MED,Europe
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-01-17T03:44:00+00:00,Portugal,0.6110842919789489,0,1,pt,MED,Europe
-'ee46787821',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-02-06T04:27:00+00:00,Portugal,0.6084001565668599,0,1,pt,MED,Europe
 'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-25T04:06:00+00:00,Portugal,0.6078253424177598,1,2,pt,MED,Europe
 '06dac2011e',extremes,Snow&Ice,#d60d2b,wmo,neve leiria,2026-01-24T03:48:00+00:00,Portugal,0.6067545637787451,1,2,pt,MED,Europe
 '0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-01-22T03:59:00+00:00,Portugal,0.6058848062433636,0,1,pt,MED,Europe
@@ -263,7 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,geada inverno,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,pt,,
 '69791e5a17',extremes,Flood,#030ba1,random,inundação repentina,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,pt,,
-'4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.32387452930301375,0,1,pt,,
+'4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
@@ -380,7 +380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,pt,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,pt,CAU,Oceania
-'3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-02-05T04:28:00+00:00,Australia,0.31566413986495473,0,1,pt,SAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-02-05T04:28:00+00:00,Australia,0.3156641398649547,0,1,pt,SAU,Oceania
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,pt,SWS,South-America
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,tempestade de granizo no norte de Sydney 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,pt,EAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,feitiço de calor Victoria,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,pt,SAU,Oceania
@@ -390,9 +390,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6faf696dd9',extremes,Earthquake,#870007,usgs,terremoto akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3151483773883602,0,1,pt,GIC,Europe
 '924236ebf8',extremes,Earthquake,#870007,usgs,terremoto yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3151332194060324,0,1,pt,SAS,Asia
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,terremoto na Antártica,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,pt,EAN,
-'5c7fcfcede',extremes,Earthquake,#870007,usgs,terremoto hihifo,2026-02-05T04:27:00+00:00,Tonga,0.31505699530787634,0,1,pt,SPO,Pacific Ocean
-'351e201a6d',extremes,Earthquake,#870007,usgs,terremoto 'ohonua,2026-01-19T04:02:00+00:00,Tonga,0.31504641603682115,0,1,pt,SPO,Pacific Ocean
-'40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.31503983184354467,0,1,pt,NPO,Pacific Ocean
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,terremoto hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,pt,SPO,Pacific Ocean
+'351e201a6d',extremes,Earthquake,#870007,usgs,terremoto 'ohonua,2026-01-19T04:02:00+00:00,Tonga,0.3150464160368211,0,1,pt,SPO,Pacific Ocean
+'40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.3150398318435446,0,1,pt,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,terremoto batagay,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,1,pt,RAR,Europe
 '381ceff412',extremes,Earthquake,#870007,usgs,terremoto Kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,pt,EPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
