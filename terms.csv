@@ -209,7 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-01-25T04:05:00+00:00,,0.3939539036464418,1,2,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-01-17T03:44:00+00:00,,0.3888307895574756,0,1,pt,,
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-01-15T10:56:00+00:00,Portugal,0.3868486096394275,1,1,pt,MED,Europe
-'45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-01-27T03:58:00+00:00,,0.3789233435638227,0,1,pt,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-01-27T03:58:00+00:00,,0.38658550202924924,1,2,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-02-06T04:27:00+00:00,,0.3785370766469687,1,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,pt,,
@@ -395,16 +395,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.3150398318435446,0,1,pt,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,terremoto batagay,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,1,pt,RAR,Europe
 '381ceff412',extremes,Earthquake,#870007,usgs,terremoto Kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.314711308366733,0,1,pt,EPO,Pacific Ocean
-'628c910b11',extremes,Flood,#030ba1,aidr,inundação inundando Nova Gales do Sul 2022,2026-02-01T04:41:00+00:00,Australia,0.31468402624445163,0,1,pt,EAU,Oceania
-'de55985e54',extremes,Earthquake,#870007,usgs,terremoto hadibu,2026-01-21T03:55:00+00:00,Yemen,0.31458292304594493,0,1,pt,ARS,Indian Ocean
+'628c910b11',extremes,Flood,#030ba1,aidr,inundação inundando Nova Gales do Sul 2022,2026-02-01T04:41:00+00:00,Australia,0.3146840262444516,0,1,pt,EAU,Oceania
+'de55985e54',extremes,Earthquake,#870007,usgs,terremoto hadibu,2026-01-21T03:55:00+00:00,Yemen,0.3145829230459449,0,1,pt,ARS,Indian Ocean
 '3673682ec0',extremes,Earthquake,#870007,usgs,terremoto região da ilha de ascensão,2026-01-28T03:56:00+00:00,,0.3145096057209501,0,1,pt,SAO,Atlantic Ocean
 '9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3140848681264619,0,1,pt,NPO,Pacific Ocean
-'ba8fd53a17',extremes,Earthquake,#870007,usgs,terremoto carlsberg ridge,2026-01-21T03:55:00+00:00,,0.31398985377842376,0,1,pt,EIO,Indian Ocean
+'ba8fd53a17',extremes,Earthquake,#870007,usgs,terremoto carlsberg ridge,2026-01-21T03:55:00+00:00,,0.3139898537784237,0,1,pt,EIO,Indian Ocean
 '3017638745',extremes,Earthquake,#870007,usgs,terremoto ust' kamchatsk staryy,2026-02-05T04:27:00+00:00,Russia,0.3139623148136632,0,1,pt,RFE,Europe
-'685995fcc4',extremes,Earthquake,#870007,usgs,terremoto a oeste da ilha Macquarie,2026-02-05T04:27:00+00:00,,0.31374787052693415,0,1,pt,SOO,Antarctica
-'9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.31374005395354204,0,1,pt,SAO,Atlantic Ocean
+'685995fcc4',extremes,Earthquake,#870007,usgs,terremoto a oeste da ilha Macquarie,2026-02-05T04:27:00+00:00,,0.3137478705269341,0,1,pt,SOO,Antarctica
+'9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.313740053953542,0,1,pt,SAO,Atlantic Ocean
 'd9e53070b4',extremes,Flood,#030ba1,aidr,inundação mackay queensland 2008,2026-01-20T03:57:00+00:00,,0.3134301733095393,0,1,pt,EAU,Oceania
-'3336c980ab',extremes,Earthquake,#870007,usgs,terremoto santa helena,2026-01-21T03:55:00+00:00,Saint Helena,0.31341237526365134,0,1,pt,EAO,Atlantic Ocean
+'3336c980ab',extremes,Earthquake,#870007,usgs,terremoto santa helena,2026-01-21T03:55:00+00:00,Saint Helena,0.3134123752636513,0,1,pt,EAO,Atlantic Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
