@@ -273,9 +273,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
-'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
+'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -435,6 +435,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-02-06T04:28:00+00:00,Belgium,0.3096683279573431,0,1,pt,WCE,Europe
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,incêndio florestal no sul da Austrália,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,0,1,pt,SAU,Oceania
 '02f4a27a12',extremes,Earthquake,#870007,usgs,terremoto mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3083462618499812,0,1,pt,SEA,Oceania
+'74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 16p,2026-01-22T03:59:00+00:00,,0.30809718873135655,0,1,pt,SPO,Pacific Ocean
+'0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-01-26T04:08:00+00:00,,0.30807146820637704,0,1,pt,,
+'0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitação sul da Austrália,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,pt,SAU,Oceania
+'7b672dbbe2',extremes,Earthquake,#870007,usgs,terremoto sudeste do Pacífico ascensão,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,1,pt,SPO,Pacific Ocean
+'958e326b08',extremes,Earthquake,#870007,usgs,terremoto ilhas Bonin região do Japão,2026-02-05T04:27:00+00:00,,0.30777651673664896,0,1,pt,NPO,Pacific Ocean
+'0df507a059',extremes,Drought,#edc291,edo,período de seca no Azerbaijão,2026-02-06T04:28:00+00:00,Azerbaijan,0.3076176103470676,0,1,pt,WCA,Asia
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.30757506738629226,0,1,pt,WCE,Europe
+'64476ecf6f',extremes,Precipitation,#d60d2b,acwe,chuva forte sul da austrália,2026-01-27T03:59:00+00:00,Australia,0.3072700177133782,0,1,pt,CAU,Oceania
+'48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.30707717821313874,0,1,pt,EIO,Indian Ocean
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.30703800944066767,0,1,pt,SES,South-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
