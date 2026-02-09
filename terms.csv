@@ -148,8 +148,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e13591831',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-01-26T04:09:00+00:00,Portugal,0.5099036327514578,1,1,pt,MED,Europe
 'c1578475a7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portalegre,2026-01-27T03:58:00+00:00,Portugal,0.5074746168827594,0,1,pt,MED,Europe
 '13f1defe6b',extremes,Snow&Ice,#d60d2b,wmo,geada coimbra,2026-01-24T03:48:00+00:00,Portugal,0.5063584129080833,1,1,pt,MED,Europe
-'b1f2ba1924',extremes,Precipitation,#d60d2b,wmo,precipitação açores grupo ocidental,2026-02-08T04:43:00+00:00,Portugal,0.5054803372035077,0,1,pt,MED,Europe
 '320898e453',extremes,Precipitation,#d60d2b,wmo,precipitação vila real,2026-01-26T04:09:00+00:00,Portugal,0.505423241680099,1,1,pt,MED,Europe
+'b1f2ba1924',extremes,Precipitation,#d60d2b,wmo,precipitação açores grupo ocidental,2026-02-08T04:43:00+00:00,Portugal,0.5049583466229816,1,2,pt,MED,Europe
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-01-19T04:03:00+00:00,Guinea-Bissau,0.5033856359577321,0,1,pt,WAF,Africa
 '9bd9707cac',extremes,Snow&Ice,#d60d2b,wmo,geada braga,2026-01-21T03:56:00+00:00,Portugal,0.5027257580214604,1,1,pt,MED,Europe
 'a05bc5088f',extremes,Snow&Ice,#d60d2b,wmo,congelando Bragança,2026-01-26T04:09:00+00:00,Portugal,0.5025842509728016,1,1,pt,MED,Europe
@@ -435,16 +435,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-02-06T04:28:00+00:00,Belgium,0.3096683279573431,0,1,pt,WCE,Europe
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,incêndio florestal no sul da Austrália,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,0,1,pt,SAU,Oceania
 '02f4a27a12',extremes,Earthquake,#870007,usgs,terremoto mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3083462618499812,0,1,pt,SEA,Oceania
-'74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 16p,2026-01-22T03:59:00+00:00,,0.30809718873135655,0,1,pt,SPO,Pacific Ocean
-'0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-01-26T04:08:00+00:00,,0.30807146820637704,0,1,pt,,
+'74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 16p,2026-01-22T03:59:00+00:00,,0.3080971887313565,0,1,pt,SPO,Pacific Ocean
+'0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,pt,,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitação sul da Austrália,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,pt,SAU,Oceania
 '7b672dbbe2',extremes,Earthquake,#870007,usgs,terremoto sudeste do Pacífico ascensão,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,1,pt,SPO,Pacific Ocean
-'958e326b08',extremes,Earthquake,#870007,usgs,terremoto ilhas Bonin região do Japão,2026-02-05T04:27:00+00:00,,0.30777651673664896,0,1,pt,NPO,Pacific Ocean
+'958e326b08',extremes,Earthquake,#870007,usgs,terremoto ilhas Bonin região do Japão,2026-02-05T04:27:00+00:00,,0.3077765167366489,0,1,pt,NPO,Pacific Ocean
 '0df507a059',extremes,Drought,#edc291,edo,período de seca no Azerbaijão,2026-02-06T04:28:00+00:00,Azerbaijan,0.3076176103470676,0,1,pt,WCA,Asia
-'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.30757506738629226,0,1,pt,WCE,Europe
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,pt,WCE,Europe
 '64476ecf6f',extremes,Precipitation,#d60d2b,acwe,chuva forte sul da austrália,2026-01-27T03:59:00+00:00,Australia,0.3072700177133782,0,1,pt,CAU,Oceania
-'48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.30707717821313874,0,1,pt,EIO,Indian Ocean
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.30703800944066767,0,1,pt,SES,South-America
+'48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,pt,EIO,Indian Ocean
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.3070380094406676,0,1,pt,SES,South-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
