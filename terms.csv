@@ -277,9 +277,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -455,6 +455,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-02-05T04:27:00+00:00,Argentina,0.3066021403556171,0,1,pt,SES,South-America
 '21ada6323e',extremes,Drought,#edc291,edo,falta de chuva no Azerbaijão,2026-02-05T04:28:00+00:00,Azerbaijan,0.3065059264399009,0,1,pt,WCA,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-05T04:27:00+00:00,Argentina,0.3064436390474371,0,1,pt,SES,South-America
+'3f0fdf7387',extremes,Earthquake,#870007,usgs,terremoto região da junção tripla de galápagos,2026-01-29T04:18:00+00:00,,0.3064130050444243,0,1,pt,EPO,Pacific Ocean
+'0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-02-05T04:28:00+00:00,Luxembourg,0.3063386960753744,0,1,pt,WCE,Europe
+'e7db391dce',extremes,Storm,#b3b2b1,wmo,tempestade costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.30630568253986,0,1,pt,SCA,North-America
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-02-05T04:27:00+00:00,Chile,0.3062964917581504,0,1,pt,SWS,South-America
+'ab8adba258',extremes,Storm,#b3b2b1,wmo,tempestade litoral província de huasco,2026-02-07T04:19:00+00:00,Chile,0.3062655957052314,0,1,pt,SWS,South-America
+'19541fab6d',extremes,Storm,#b3b2b1,wmo,tempestade na Finlândia,2026-02-08T04:43:00+00:00,Finland,0.3061967433595992,0,1,pt,NEU,Europe
+'5ebfb55f9a',extremes,Wildfire,#d60d2b,eonet,rx nueces 0577 incêndio prescrito nueces texas,2026-01-27T03:58:00+00:00,,0.3061383830693329,0,1,pt,NCA,North-America
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2026-02-09T04:39:00+00:00,South Africa,0.3061258757452039,0,1,pt,WSAF,Africa
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2026-02-05T04:27:00+00:00,South Africa,0.3060708547440301,0,1,pt,WSAF,Africa
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-02-05T04:27:00+00:00,Argentina,0.30605182690576793,0,1,pt,SES,South-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
