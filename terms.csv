@@ -249,7 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,pt,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-01-23T04:03:00+00:00,Macao,0.3478488411873263,0,1,pt,EAS,Asia
-'40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-01-15T10:56:00+00:00,,0.3470966900262298,0,1,pt,,
+'40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-01-15T10:56:00+00:00,,0.3467093915222953,1,2,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-02-10T04:42:00+00:00,,0.343563588876916,0,1,pt,,
@@ -493,12 +493,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-02-05T04:27:00+00:00,Russia,0.3053321323129854,0,1,pt,ESB,Europe
 'b36377911d',extremes,Storm,#b3b2b1,wmo,tempestade em regiões pacíficas do norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,pt,SCA,North-America
 '3c2108148e',extremes,Earthquake,#870007,usgs,terremoto região pagã ilhas Marianas do Norte,2026-02-05T04:27:00+00:00,,0.3052540098088987,0,1,pt,NPO,Pacific Ocean
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.30524835164735603,0,1,pt,SES,South-America
-'3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-01-26T04:09:00+00:00,Ecuador,0.30524386155031913,0,1,pt,NWS,South-America
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.305248351647356,0,1,pt,SES,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-01-26T04:09:00+00:00,Ecuador,0.3052438615503191,0,1,pt,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,trovoada áfrica do sul,2026-02-07T04:19:00+00:00,South Africa,0.3052265357945408,0,1,pt,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na África do Sul,2026-02-05T04:27:00+00:00,South Africa,0.3052139719129037,0,1,pt,WSAF,Africa
-'e9f2b42100',extremes,Heat Wave,#c40202,wmo,onda de calor la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.30517463732505457,0,1,pt,SES,South-America
-'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,incêndio florestal rogaland,2026-01-26T04:09:00+00:00,Norway,0.30517035543783005,0,1,pt,NEU,Europe
+'e9f2b42100',extremes,Heat Wave,#c40202,wmo,onda de calor la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.3051746373250545,0,1,pt,SES,South-America
+'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,incêndio florestal rogaland,2026-01-26T04:09:00+00:00,Norway,0.30517035543783,0,1,pt,NEU,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-02-05T04:27:00+00:00,Argentina,0.3051702811192034,0,1,pt,SES,South-America
 '70f072ec1c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial jijel,2026-02-05T04:27:00+00:00,Algeria,0.3051510863230941,0,1,pt,SAH,Africa
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,onda de calor monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3051343770897579,0,1,pt,SES,South-America
