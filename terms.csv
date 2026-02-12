@@ -238,6 +238,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.3715678303106693,1,1,pt,SEA,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-01-29T04:18:00+00:00,,0.3715264900248309,1,2,pt,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-02-07T04:19:00+00:00,,0.3692598165701493,1,1,pt,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-02-10T04:42:00+00:00,,0.36732909554537857,1,2,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3663029389057704,1,2,pt,,
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-01-15T10:56:00+00:00,Portugal,0.3654285534012656,1,2,pt,MED,Europe
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-01-25T04:06:00+00:00,Macao,0.3616216935560664,0,1,pt,EAS,Asia
@@ -252,7 +253,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-01-15T10:56:00+00:00,,0.3467093915222953,1,2,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,pt,,
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-02-10T04:42:00+00:00,,0.343563588876916,0,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,pt,,
 'befda8d17c',extremes,Snow&Ice,#d60d2b,wmo,gelo viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.3427929301560158,1,1,pt,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,pt,,
