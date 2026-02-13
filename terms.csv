@@ -276,9 +276,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
+'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -389,7 +389,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 18p,2026-01-29T04:18:00+00:00,,0.3183333273655213,0,1,pt,SPO,Pacific Ocean
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-01-27T03:58:00+00:00,,0.3182924610776925,1,2,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pt,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-01-15T12:13:00+00:00,,0.31788629661750534,1,1,pt,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-01-15T12:13:00+00:00,,0.3178862966175053,1,1,pt,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,pt,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,pt,CAU,Oceania
@@ -512,6 +512,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,onda de calor austrália,2026-02-05T04:27:00+00:00,Australia,0.305112155911064,0,1,pt,CAU,Oceania
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,tempestade naâma,2026-02-03T04:27:00+00:00,Algeria,0.3051078649584971,0,1,pt,SAH,Africa
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,onda de calor formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.305104784467637,0,1,pt,SES,South-America
+'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão austrália,2026-01-24T03:48:00+00:00,Australia,0.30510239113944176,0,1,pt,CAU,Oceania
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Índia,2026-02-11T04:41:00+00:00,India,0.3050785001775705,0,1,pt,SAS,Asia
+'994fe03563',extremes,Snow Avalanche,#deddd5,wmo,avalanche Eslovênia,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,1,pt,WCE,Europe
+'8ed7eb1492',extremes,Earthquake,#870007,usgs,terremoto mohr,2026-01-24T03:48:00+00:00,Iran,0.30506015742064824,0,1,pt,WCA,Asia
+'fda000bba3',extremes,Storm,#b3b2b1,wmo,tempestade litoral e serra,2026-02-03T04:27:00+00:00,Ecuador,0.30502194183574255,0,1,pt,NWS,South-America
+'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,tempo severo África do Sul,2026-02-07T04:19:00+00:00,South Africa,0.30502116099830917,0,1,pt,WSAF,Africa
+'0077950340',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Noruega,2026-01-28T03:56:00+00:00,Norway,0.30501736718148614,0,1,pt,NEU,Europe
+'3e989c7f7d',extremes,Precipitation,#d60d2b,wmo,chuva maldivas,2026-02-08T04:43:00+00:00,Maldives,0.30500796653910206,0,1,pt,EIO,Indian Ocean
+'8bb788b602',extremes,Wildfire,#d60d2b,wmo,incêndio florestal em Assam,2026-02-11T04:41:00+00:00,India,0.30499176593451466,0,1,pt,SAS,Asia
+'3c909564eb',extremes,Thunderstorm,#53785a,wmo,trovoada domingos rio vale addo,2026-02-05T04:27:00+00:00,South Africa,0.3049877504405255,0,1,pt,WSAF,Africa
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-01-15T10:57:00+00:00,Macao,0.3026748219464547,1,1,pt,EAS,Asia
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-01-15T10:56:00+00:00,,0.2919004901910539,1,1,pt,,
