@@ -258,7 +258,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'befda8d17c',extremes,Snow&Ice,#d60d2b,wmo,gelo viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.3427929301560158,1,1,pt,MED,Europe
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,pt,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-01-15T12:13:00+00:00,,0.3378073195500063,0,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-01-22T03:59:00+00:00,,0.3363145942918912,1,1,pt,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-01-15T10:56:00+00:00,,0.3358596462715496,0,1,pt,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-01-15T10:56:00+00:00,,0.3353659720171796,0,1,pt,,
@@ -388,8 +387,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9cc56f031',extremes,Drought,#edc291,edo,período de seca no Tajiquistão,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,1,pt,WCA,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical fytia,2026-01-31T04:16:00+00:00,,0.3187607686933643,0,1,pt,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 18p,2026-01-29T04:18:00+00:00,,0.3183333273655213,0,1,pt,SPO,Pacific Ocean
-'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-01-27T03:58:00+00:00,,0.31829246107769255,1,2,pt,,
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-01-27T03:58:00+00:00,,0.3182924610776925,1,2,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pt,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-01-15T12:13:00+00:00,,0.31788629661750534,1,1,pt,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,pt,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,pt,CAU,Oceania
