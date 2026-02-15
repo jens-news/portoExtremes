@@ -272,7 +272,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,pt,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-01-23T04:02:00+00:00,,0.3265428956518382,1,2,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
@@ -430,6 +429,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,terremoto christchurch nova zelândia 2011,2026-01-29T04:19:00+00:00,New Zealand,0.31204638638859,0,1,pt,NZ,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-01-15T10:56:00+00:00,,0.3120440892915257,1,2,pt,,
 'ba920c05ae',extremes,Earthquake,#870007,usgs,terremoto riverton,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,pt,NZ,Oceania
+'776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-17T03:44:00+00:00,,0.3116320211325007,1,2,pt,,
 '51b14c1443',extremes,Flood,#030ba1,aidr,inundação geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,0,1,pt,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-01-21T03:55:00+00:00,,0.3111999508214229,1,1,pt,,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-01-19T04:02:00+00:00,,0.3108859942178976,0,1,pt,,
@@ -552,12 +552,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,avalanche na república chechena,2026-02-06T04:27:00+00:00,Russia,0.3048159381991854,0,1,pt,ESB,Europe
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,onda de calor iguaçu e arredores,2026-02-07T04:19:00+00:00,Argentina,0.3048137232868567,0,1,pt,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão estados unidos,2026-02-10T04:43:00+00:00,United States,0.3048102929383698,0,1,pt,CNA,North-America
-'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-02-09T04:39:00+00:00,Bahrain,0.30480225063235317,0,1,pt,ARP,Asia
-'9293b0f660',extremes,Wildfire,#d60d2b,wmo,incêndio florestal karnataka,2026-02-11T04:41:00+00:00,India,0.30479868856175396,0,1,pt,SAS,Asia
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-02-09T04:39:00+00:00,Bahrain,0.3048022506323531,0,1,pt,ARP,Asia
+'9293b0f660',extremes,Wildfire,#d60d2b,wmo,incêndio florestal karnataka,2026-02-11T04:41:00+00:00,India,0.3047986885617539,0,1,pt,SAS,Asia
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.3047762820235085,0,1,pt,SCA,North-America
 '614aacfa91',extremes,Thunderstorm,#53785a,wmo,tempo severo Irã,2026-01-29T04:19:00+00:00,Iran,0.3047707176442851,0,1,pt,WCA,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,incêndio florestal uttarakhand,2026-02-11T04:41:00+00:00,India,0.3047313854868334,0,1,pt,SAS,Asia
-'2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitação Catar,2026-02-08T04:43:00+00:00,Qatar,0.30469758419874243,0,1,pt,ARP,Asia
+'2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitação Catar,2026-02-08T04:43:00+00:00,Qatar,0.3046975841987424,0,1,pt,ARP,Asia
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclone tropical filipinas,2026-02-06T04:27:00+00:00,Philippines,0.3046836041468381,0,1,pt,SEA,Asia
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-01-15T10:57:00+00:00,Macao,0.3026748219464547,1,1,pt,EAS,Asia
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,pt,,
