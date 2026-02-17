@@ -237,7 +237,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a15b8dc1cf',extremes,Precipitation,#d60d2b,wmo,chuva viana do castelo,2026-02-09T04:39:00+00:00,Portugal,0.3882122833712615,1,2,pt,MED,Europe
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-01-15T10:56:00+00:00,Portugal,0.3868486096394275,1,1,pt,MED,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-01-27T03:58:00+00:00,,0.3865855020292492,1,2,pt,,
-'9f0423d739',extremes,Drought,#edc291,random,secura,2026-02-15T04:34:00+00:00,,0.3856293044545967,0,1,pt,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-01-20T03:55:00+00:00,,0.3828285027391224,1,1,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-02-06T04:27:00+00:00,,0.3785370766469687,1,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,pt,,
@@ -246,6 +245,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-01-23T04:02:00+00:00,,0.3740756046977141,1,2,pt,,
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,terremoto manatutu,2026-01-17T03:44:00+00:00,Timor Leste,0.3715678303106693,1,1,pt,SEA,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-01-29T04:18:00+00:00,,0.3715264900248309,1,2,pt,,
+'9f0423d739',extremes,Drought,#edc291,random,secura,2026-02-15T04:34:00+00:00,,0.3703441796954981,1,1,pt,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-02-07T04:19:00+00:00,,0.3692598165701493,1,1,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-02-10T04:42:00+00:00,,0.3673290955453785,1,2,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3663029389057704,1,2,pt,,
@@ -570,11 +570,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,incêndio florestal uttarakhand,2026-02-11T04:41:00+00:00,India,0.3047313854868334,0,1,pt,SAS,Asia
 '2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitação Catar,2026-02-08T04:43:00+00:00,Qatar,0.3046975841987424,0,1,pt,ARP,Asia
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-02-16T04:38:00+00:00,Ecuador,0.3046959753215231,0,1,pt,NWS,South-America
-'d4886dfdf6',extremes,Wildfire,#d60d2b,wmo,incêndio florestal,2026-02-09T04:39:00+00:00,China,0.30469181983470794,0,1,pt,EAS,Asia
+'d4886dfdf6',extremes,Wildfire,#d60d2b,wmo,incêndio florestal,2026-02-09T04:39:00+00:00,China,0.3046918198347079,0,1,pt,EAS,Asia
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclone tropical filipinas,2026-02-06T04:27:00+00:00,Philippines,0.3046836041468381,0,1,pt,SEA,Asia
 '7064a46f70',extremes,Precipitation,#d60d2b,wmo,chuva serra e amazônia,2026-02-07T04:19:00+00:00,Ecuador,0.3046605700353793,0,1,pt,NWS,South-America
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,tempestade ilhas chatham,2026-02-16T04:38:00+00:00,New Zealand,0.3046554907517611,0,1,pt,NZ,Oceania
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-02-08T04:43:00+00:00,Russia,0.30464561747070323,0,1,pt,ESB,Europe
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-02-08T04:43:00+00:00,Russia,0.3046456174707032,0,1,pt,ESB,Europe
 '75828940c9',extremes,Storm,#b3b2b1,wmo,tempestade equador continental,2026-02-12T04:37:00+00:00,Ecuador,0.3046383009471136,0,1,pt,NWS,South-America
 '2e0a87f8c0',extremes,Thunderstorm,#53785a,wmo,granizo ilhas do sul de vanuatu,2026-02-16T04:38:00+00:00,Vanuatu,0.3046345200737386,0,1,pt,SPO,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Austrália,2026-02-05T04:27:00+00:00,Australia,0.3046329924526978,0,1,pt,CAU,Oceania
@@ -590,12 +590,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd98aa38709',extremes,Fog,#d60d2b,wmo,nevoeiro Arábia Saudita,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3045086950850544,0,1,pt,ARP,Asia
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2026-02-11T04:41:00+00:00,Algeria,0.3045074305673341,0,1,pt,SAH,Africa
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,chuva Equador,2026-01-28T03:56:00+00:00,Ecuador,0.3045017588864602,0,1,pt,NWS,South-America
-'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,avalanche na república da Inguchétia,2026-02-06T04:27:00+00:00,Russia,0.30448510218271585,0,1,pt,ESB,Europe
+'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,avalanche na república da Inguchétia,2026-02-06T04:27:00+00:00,Russia,0.3044851021827158,0,1,pt,ESB,Europe
 'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,neve norte da península leste,2026-02-12T04:37:00+00:00,Canada,0.3044742581541223,0,1,pt,NEN,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,incêndio florestal madhya pradesh,2026-02-12T04:37:00+00:00,India,0.3044598554761285,0,1,pt,SAS,Asia
-'854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-02-05T04:27:00+00:00,Canada,0.30444865094509055,0,1,pt,NEN,North-America
-'2d209aedfc',extremes,Storm,#b3b2b1,wmo,tempestade na serra,2026-02-16T04:38:00+00:00,Ecuador,0.30444448059687607,0,1,pt,NWS,South-America
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,chuva nova zelândia,2026-02-12T04:37:00+00:00,New Zealand,0.30444286152322664,0,1,pt,NZ,Oceania
+'854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-02-05T04:27:00+00:00,Canada,0.3044486509450905,0,1,pt,NEN,North-America
+'2d209aedfc',extremes,Storm,#b3b2b1,wmo,tempestade na serra,2026-02-16T04:38:00+00:00,Ecuador,0.304444480596876,0,1,pt,NWS,South-America
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,chuva nova zelândia,2026-02-12T04:37:00+00:00,New Zealand,0.3044428615232266,0,1,pt,NZ,Oceania
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,tempestade Arábia Saudita,2026-02-05T04:27:00+00:00,Saudi Arabia,0.304438952825582,0,1,pt,ARP,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-02-14T04:21:00+00:00,New Zealand,0.3044360887883162,0,1,pt,NZ,Oceania
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,avalanche helgeland,2026-02-05T04:27:00+00:00,Norway,0.3044132821636955,0,1,pt,NEU,Europe
