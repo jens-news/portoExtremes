@@ -73,7 +73,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-01-15T10:56:00+00:00,Timor Leste,0.6051686188839397,1,1,pt,SEA,Asia
 '723cfda4cd',extremes,Precipitation,#d60d2b,wmo,chuva santarém,2026-01-22T03:59:00+00:00,Portugal,0.6043331846246374,1,2,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.6021163834936214,1,2,pt,NAO,Atlantic Ocean
-'fe1203a95a',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2026-02-01T04:41:00+00:00,Portugal,0.600234372069849,0,1,pt,MED,Europe
 '7e91e7b557',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-28T03:56:00+00:00,Portugal,0.597664057142659,1,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-01-18T03:57:00+00:00,Brazil,0.5971469865061627,1,2,pt,SAM,South-America
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-01-22T04:00:00+00:00,Cabo Verde,0.5954787079145201,0,1,pt,NAO,Atlantic Ocean
@@ -146,6 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '57cb2960c3',extremes,Precipitation,#d60d2b,wmo,chuva guarda,2026-02-05T04:27:00+00:00,Portugal,0.5117879387352761,1,2,pt,MED,Europe
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-01-15T10:57:00+00:00,Bermuda,0.5110590613315409,0,1,pt,NAO,Atlantic Ocean
 '3f5b4e976e',extremes,Storm,#b3b2b1,wmo,tempestade évora,2026-01-27T03:58:00+00:00,Portugal,0.5107795074832623,1,1,pt,MED,Europe
+'fe1203a95a',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2026-02-01T04:41:00+00:00,Portugal,0.5104992462593716,1,1,pt,MED,Europe
 '8e13591831',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-01-26T04:09:00+00:00,Portugal,0.5099036327514578,1,1,pt,MED,Europe
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-02-11T04:41:00+00:00,Portugal,0.5088892539012195,0,1,pt,MED,Europe
 'c1578475a7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portalegre,2026-01-27T03:58:00+00:00,Portugal,0.5074746168827594,0,1,pt,MED,Europe
@@ -279,9 +279,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,pt,,
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
