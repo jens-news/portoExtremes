@@ -263,7 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,pt,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-01-23T04:03:00+00:00,Macao,0.3478488411873263,0,1,pt,EAS,Asia
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.34730644522510445,1,2,pt,ENA,North-America
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3473064452251044,1,2,pt,ENA,North-America
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-01-15T10:56:00+00:00,,0.3467093915222953,1,2,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,pt,,
@@ -280,26 +280,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-01-23T04:02:00+00:00,,0.3265428956518382,1,2,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
-'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
-'ebe314dd99',extremes,Flood,#030ba1,aidr,"fortes chuvas e inundações em Queensland, fevereiro de 2020",2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,pt,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundação na Austrália,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,pt,CAU,Oceania
-'3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,pt,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,terremoto porto mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,pt,SIO,Indian Ocean
-'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,pt,SWS,South-America
-'3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,pt,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,pt,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de vale fértil,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,pt,SES,South-America
-'1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,pt,SEA,Asia
-'26349abe17',extremes,Tsunami,#690191,usgs,estação tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,pt,NPO,Pacific Ocean
-'464d595634',extremes,Earthquake,#870007,usgs,terremoto camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,pt,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,terremoto maurício região de reunião,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,pt,SIO,Indian Ocean
-'76ad379230',extremes,Earthquake,#870007,usgs,terremoto Petropavlovsk Kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,pt,RFE,Asia
-'4d51911b1d',extremes,Earthquake,#870007,usgs,terremoto sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,pt,SPO,Pacific Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,terremoto mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,pt,NSA,South-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,pt,SES,South-America
-'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,pt,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,terremoto na Rússia,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,pt,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,terremoto na Nova Zelândia,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,pt,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,terremoto no Afeganistão,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,pt,WCA,Asia
@@ -633,7 +617,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-01-15T10:56:00+00:00,,0.2854806993308171,1,1,pt,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,redemoinho,2026-01-15T10:56:00+00:00,,0.2832629866936151,1,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.2768804007403592,1,1,pt,,
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.27200641522510444,1,1,pt,MED,Europe
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,pt,MED,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
