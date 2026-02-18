@@ -279,9 +279,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-01-23T04:02:00+00:00,,0.3265428956518382,1,2,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tempestade de inverno na América do Norte em Nova York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,pt,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,"deslizamento de terra Adelaide Hills, sul da Austrália",2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,pt,SAU,Oceania
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,pt,MED,Europe
 'a241cba1ba',extremes,Volcano,#b83202,eonet,vulcão ambrym vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,pt,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulcão filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,pt,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,pt,EAU,Oceania
@@ -455,6 +455,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dba9977fc1',extremes,Drought,#edc291,edo,falta de chuva ilhas Faroé,2026-02-07T04:19:00+00:00,Faroe Islands,0.308539521612019,0,1,pt,NEU,Europe
 '02f4a27a12',extremes,Earthquake,#870007,usgs,terremoto mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3083462618499812,0,1,pt,SEA,Oceania
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,onda de calor bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3083090057303648,0,1,pt,SES,South-America
+'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone ciclone yasi queensland 2011,2026-02-05T04:28:00+00:00,,0.3082627445401946,0,1,pt,NAU,Oceania
 '1f1fab5693',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república do congo,2026-02-13T04:34:00+00:00,Republic of the Congo,0.3082378090606924,0,1,pt,CAF,Africa
 '74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 16p,2026-01-22T03:59:00+00:00,,0.3080971887313565,0,1,pt,SPO,Pacific Ocean
 '0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,pt,,
@@ -477,7 +478,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,gelo Canadá,2026-02-06T04:27:00+00:00,Canada,0.3069798588737309,0,1,pt,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,pt,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,seca Bélgica,2026-02-07T04:19:00+00:00,Belgium,0.30695128601443,0,1,pt,WCE,Europe
+'054f4c1126',extremes,Fog,#d60d2b,wmo,nevoeiro vale de Israel,2026-02-05T04:27:00+00:00,Israel,0.30687673838743446,0,1,pt,MED,Asia
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islândia gelada,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,pt,GIC,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-01-17T03:44:00+00:00,,0.306849783127642,1,1,pt,,
+'4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitação maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3068266467072088,0,1,pt,SEAF,Africa
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Arábia Saudita,2026-02-05T04:27:00+00:00,Saudi Arabia,0.3067375234982505,0,1,pt,ARP,Asia
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-02-05T04:27:00+00:00,Argentina,0.3067056640519299,0,1,pt,SES,South-America
 '893e673584',extremes,Earthquake,#870007,usgs,terremoto centro-leste aumento do pacífico,2026-02-05T04:27:00+00:00,,0.3066345035951426,0,1,pt,EPO,Pacific Ocean
@@ -486,6 +490,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21ada6323e',extremes,Drought,#edc291,edo,falta de chuva no Azerbaijão,2026-02-05T04:28:00+00:00,Azerbaijan,0.3065059264399009,0,1,pt,WCA,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-05T04:27:00+00:00,Argentina,0.3064436390474371,0,1,pt,SES,South-America
 '3f0fdf7387',extremes,Earthquake,#870007,usgs,terremoto região da junção tripla de galápagos,2026-01-29T04:18:00+00:00,,0.3064130050444243,0,1,pt,EPO,Pacific Ocean
+'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.30640168075424085,0,1,pt,SEAF,Africa
 '0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-02-05T04:28:00+00:00,Luxembourg,0.3063386960753744,0,1,pt,WCE,Europe
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,tempestade costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.30630568253986,0,1,pt,SCA,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-02-05T04:27:00+00:00,Chile,0.3062964917581504,0,1,pt,SWS,South-America
@@ -527,6 +532,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '264992dbdd',extremes,Snow&Ice,#d60d2b,wmo,geada Sérvia,2026-02-08T04:43:00+00:00,Serbia,0.3053450543678733,0,1,pt,MED,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,avalanche jotunheimen,2026-02-05T04:27:00+00:00,Norway,0.3053351071160157,0,1,pt,NEU,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-02-05T04:27:00+00:00,Russia,0.3053321323129854,0,1,pt,ESB,Europe
+'a28c87399b',extremes,Heat Wave,#c40202,wmo,registro de onda de calor. 4 pré-cordilheira,2026-02-18T04:34:00+00:00,Chile,0.3053299971559237,0,1,pt,SWS,South-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neve Canadá,2026-02-06T04:27:00+00:00,Canada,0.3052953562525471,0,1,pt,NEN,North-America
 '9adb4dd6c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro maeneo machache ya mkoa wa ruvuma.,2026-02-17T04:31:00+00:00,Tanzania,0.3052936404746463,0,1,pt,SEAF,Africa
 'b36377911d',extremes,Storm,#b3b2b1,wmo,tempestade em regiões pacíficas do norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,pt,SCA,North-America
@@ -553,7 +559,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,tempestade naâma,2026-02-03T04:27:00+00:00,Algeria,0.3051078649584971,0,1,pt,SAH,Africa
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,onda de calor formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.305104784467637,0,1,pt,SES,South-America
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão austrália,2026-01-24T03:48:00+00:00,Australia,0.3051023911394417,0,1,pt,CAU,Oceania
+'3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,república de gelo da moldávia,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050908882155386,0,1,pt,WCE,Europe
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Índia,2026-02-11T04:41:00+00:00,India,0.3050785001775705,0,1,pt,SAS,Asia
+'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,república da neve da moldávia,2026-02-18T04:34:00+00:00,Republic of Moldova,0.30507728076064394,0,1,pt,WCE,Europe
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,avalanche Eslovênia,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,1,pt,WCE,Europe
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-02-17T04:31:00+00:00,Ecuador,0.30506863226274,0,1,pt,NWS,South-America
 '8ed7eb1492',extremes,Earthquake,#870007,usgs,terremoto mohr,2026-01-24T03:48:00+00:00,Iran,0.3050601574206482,0,1,pt,WCA,Asia
@@ -565,6 +573,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e491f0133a',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de Shidian,2026-01-29T04:19:00+00:00,China,0.3049889310376658,0,1,pt,EAS,Asia
 '3c909564eb',extremes,Thunderstorm,#53785a,wmo,trovoada domingos rio vale addo,2026-02-05T04:27:00+00:00,South Africa,0.3049877504405255,0,1,pt,WSAF,Africa
 'd716590c30',extremes,Storm,#b3b2b1,wmo,tempestade regiões pacíficas norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.3049866565447749,0,1,pt,SCA,North-America
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial no Canadá,2026-02-05T04:27:00+00:00,Canada,0.3049700840684149,0,1,pt,NEN,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundação repentina estados unidos,2026-02-08T04:43:00+00:00,United States,0.30496620819844833,0,1,pt,CNA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tempestade amazônica,2026-02-08T04:43:00+00:00,Ecuador,0.3049588031290691,0,1,pt,NWS,South-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,granizo Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.3049450771663745,0,1,pt,CAR,North-America
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,avalanche lofoten e vesterålen,2026-02-05T04:27:00+00:00,Norway,0.3049422916787112,0,1,pt,NEU,Europe
