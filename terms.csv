@@ -213,7 +213,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c28c1f621',extremes,Precipitation,#d60d2b,wmo,aguaceiro évora,2026-01-22T03:59:00+00:00,Portugal,0.4230528538513067,1,1,pt,MED,Europe
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-02-10T04:43:00+00:00,Portugal,0.4224457531805632,1,1,pt,MED,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,terremoto na Rússia,2026-01-15T10:56:00+00:00,Russia,0.4220030102183668,1,2,pt,EAS,Asia
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,terremoto na Nova Zelândia,2026-01-15T10:56:00+00:00,New Zealand,0.42200207909061926,1,2,pt,NZ,Oceania
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,terremoto na Nova Zelândia,2026-01-15T10:56:00+00:00,New Zealand,0.4220020790906192,1,2,pt,NZ,Oceania
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,terremoto são miguel,2026-01-15T10:56:00+00:00,Ecuador,0.421985601382752,1,2,pt,NWS,South-America
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-01-15T10:57:00+00:00,Portugal,0.4196503311082109,1,2,pt,NAO,Atlantic Ocean
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4183127082164471,1,1,pt,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.41825585926018,1,2,pt,,
@@ -286,15 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundação na Austrália,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,pt,CAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,terremoto porto mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,pt,SIO,Indian Ocean
 '018b9ccc96',extremes,Earthquake,#870007,usgs,terremoto maurício região de reunião,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,pt,SIO,Indian Ocean
-'73d01d320c',extremes,Earthquake,#870007,usgs,terremoto no Afeganistão,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,pt,WCA,Asia
-'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami porto alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,pt,NWN,North-America
-'072f41af80',extremes,Earthquake,#870007,usgs,terremoto aratoca,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,pt,NWS,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basílio nievas,2026-01-15T12:13:00+00:00,Argentina,0.3198169230889903,0,1,pt,SWS,South-America
-'01e4b0cc71',extremes,Earthquake,#870007,usgs,terremoto Kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,pt,EAS,Asia
-'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,pt,SCA,North-America
-'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,pt,NWN,North-America
-'e551102071',extremes,Earthquake,#870007,usgs,terremoto vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,pt,SPO,Pacific Ocean
-'f5e86f8f49',extremes,Earthquake,#870007,usgs,terremoto são miguel,2026-01-15T10:56:00+00:00,Ecuador,0.3198065722150023,0,1,pt,NWS,South-America
 'e6998a615e',extremes,Earthquake,#870007,usgs,terremoto murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,pt,WCA,Asia
 'c605f8759a',extremes,Earthquake,#870007,usgs,terremoto guam,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,pt,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,terremoto dorsal meso-atlântica central,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,pt,EAO,Atlantic Ocean
