@@ -212,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-01-21T03:56:00+00:00,Portugal,0.4235076047440299,1,1,pt,NAO,Atlantic Ocean
 '8c28c1f621',extremes,Precipitation,#d60d2b,wmo,aguaceiro évora,2026-01-22T03:59:00+00:00,Portugal,0.4230528538513067,1,1,pt,MED,Europe
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-02-10T04:43:00+00:00,Portugal,0.4224457531805632,1,1,pt,MED,Europe
+'23ad2bb822',extremes,Earthquake,#870007,usgs,terremoto na Rússia,2026-01-15T10:56:00+00:00,Russia,0.42200301021836684,1,2,pt,EAS,Asia
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-01-15T10:57:00+00:00,Portugal,0.4196503311082109,1,2,pt,NAO,Atlantic Ocean
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4183127082164471,1,1,pt,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.41825585926018,1,2,pt,,
@@ -284,7 +285,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundação na Austrália,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,pt,CAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,terremoto porto mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,pt,SIO,Indian Ocean
 '018b9ccc96',extremes,Earthquake,#870007,usgs,terremoto maurício região de reunião,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,pt,SIO,Indian Ocean
-'23ad2bb822',extremes,Earthquake,#870007,usgs,terremoto na Rússia,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,pt,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,terremoto na Nova Zelândia,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,pt,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,terremoto no Afeganistão,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,pt,WCA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami porto alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,pt,NWN,North-America
