@@ -28,8 +28,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-01-15T10:56:00+00:00,Portugal,0.6578653073543739,1,1,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-01-15T10:56:00+00:00,Portugal,0.6572186603554687,1,1,pt,MED,Europe
 'ca2ea52a94',extremes,Snow&Ice,#d60d2b,wmo,vila real congelante,2026-01-15T10:56:00+00:00,Portugal,0.6565054790157939,1,1,pt,MED,Europe
-'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,aguaceiro santarém,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
+'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-01-15T10:56:00+00:00,Portugal,0.6563650170066244,1,1,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.6563543732497278,1,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-01-15T10:56:00+00:00,Portugal,0.6559919274023578,1,1,pt,MED,Europe
@@ -301,20 +301,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9de3c9007e',extremes,Earthquake,#870007,usgs,terremoto yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,pt,NWN,North-America
 '0f6b56852d',extremes,Earthquake,#870007,usgs,terremoto baculin,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,pt,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolívia,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,pt,SES,South-America
-'505a53d28b',extremes,Earthquake,#870007,usgs,terremoto port vila,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,pt,SPO,Oceania
-'8684156e57',extremes,Earthquake,#870007,usgs,terremoto isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,pt,SPO,Pacific Ocean
-'17b150a7a2',extremes,Earthquake,#870007,usgs,terremoto na Tanzânia,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,pt,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,tempestade nas províncias de al hasakeh,2026-01-15T10:57:00+00:00,Syria,0.3196835928337069,0,1,pt,MED,Asia
-'95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,pt,NEAF,Africa
-'cc449c3731',extremes,Earthquake,#870007,usgs,terremoto região das ilhas Kermadec,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,pt,SPO,Pacific Ocean
-'5484f48de4',extremes,Earthquake,#870007,usgs,terremoto no meio da cordilheira indiana,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,pt,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,pt,WNA,North-America
-'e98c9b3f42',extremes,Earthquake,#870007,usgs,passagem do dreno do terremoto,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,pt,SOO,Antarctica
-'6ff5caa4ff',extremes,Earthquake,#870007,usgs,terremoto atka,2026-01-15T10:56:00+00:00,Alaska,0.3196694823811283,0,1,pt,NPO,Pacific Ocean
-'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto porto santa,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,pt,NWS,South-America
-'37af8de5d1',extremes,Earthquake,#870007,usgs,terremoto região da ilha de Páscoa,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,pt,SPO,Pacific Ocean
-'d1b76ff32a',extremes,Earthquake,#870007,usgs,terremoto miyako,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,pt,EAS,Asia
-'7a3d1676da',extremes,Earthquake,#870007,usgs,terremoto nas Filipinas,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,pt,SEA,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-01-15T10:56:00+00:00,Tonga,0.3196466018795789,0,1,pt,SPO,Pacific Ocean
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,terremoto na Índia,2026-01-15T10:56:00+00:00,India,0.3196398560337847,0,1,pt,SAS,Asia
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,terremoto Ilhas Curilas,2026-01-15T10:56:00+00:00,,0.3196396899700217,0,1,pt,RFE,Asia
@@ -618,6 +606,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.2768804007403592,1,1,pt,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,pt,MED,Europe
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,pt,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,pt,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,pt,,
