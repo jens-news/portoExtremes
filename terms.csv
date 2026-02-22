@@ -23,13 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-01-15T10:56:00+00:00,Brazil,0.6653538536658461,0,1,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-01-15T10:56:00+00:00,Brazil,0.6632965277211736,0,1,pt,SAM,South-America
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2026-01-23T04:03:00+00:00,Portugal,0.6631165337102627,0,1,pt,MED,Europe
-'28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-01-24T03:48:00+00:00,Portugal,0.6617653678133436,0,1,pt,MED,Europe
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-01-15T10:56:00+00:00,Portugal,0.6602863276821334,1,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-01-15T10:56:00+00:00,Portugal,0.6578653073543739,1,1,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-01-15T10:56:00+00:00,Portugal,0.6572186603554687,1,1,pt,MED,Europe
 'ca2ea52a94',extremes,Snow&Ice,#d60d2b,wmo,vila real congelante,2026-01-15T10:56:00+00:00,Portugal,0.6565054790157939,1,1,pt,MED,Europe
-'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,aguaceiro santarém,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
+'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-01-15T10:56:00+00:00,Portugal,0.6563858776821334,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-01-15T10:56:00+00:00,Portugal,0.6563650170066244,1,1,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.6563543732497278,1,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-01-15T10:56:00+00:00,Portugal,0.6559919274023578,1,1,pt,MED,Europe
@@ -92,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-02-05T04:27:00+00:00,Portugal,0.5650028396619173,1,2,pt,MED,Europe
 'ba252581f8',extremes,Precipitation,#d60d2b,wmo,chuva portalegre,2026-01-29T04:19:00+00:00,Portugal,0.5635694363244257,1,2,pt,MED,Europe
 '2040d30da7',extremes,Snow&Ice,#d60d2b,wmo,Viseu gelado,2026-01-28T03:56:00+00:00,Portugal,0.5633924825557617,1,1,pt,MED,Europe
+'28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-01-24T03:48:00+00:00,Portugal,0.5626505776413421,1,1,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-01-15T12:14:00+00:00,Sao Tome and Principe,0.562317320083555,1,1,pt,WAF,Africa
 'ab3ae14deb',extremes,Snow&Ice,#d60d2b,wmo,porto de gelo,2026-01-17T03:44:00+00:00,Portugal,0.560529775867053,1,3,pt,MED,Europe
 '38784ec34b',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2026-01-23T04:03:00+00:00,Portugal,0.5602072492521079,1,1,pt,MED,Europe
@@ -199,7 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84c5287db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro viseu,2026-01-21T03:56:00+00:00,Portugal,0.4409292657362793,1,1,pt,MED,Europe
 '7430b2f3c5',extremes,Snow&Ice,#d60d2b,wmo,geada castelo branco,2026-01-17T03:44:00+00:00,Portugal,0.4392188921309703,1,1,pt,MED,Europe
 '8ee7be87ba',extremes,Precipitation,#d60d2b,wmo,chuva torrencial guarda,2026-02-04T04:21:00+00:00,Portugal,0.4342152052297846,1,1,pt,MED,Europe
-'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-02-21T04:17:00+00:00,,0.43294775726121415,1,2,pt,,
+'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-02-21T04:17:00+00:00,,0.4329477572612141,1,2,pt,,
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-02-11T04:41:00+00:00,Portugal,0.4325558658160366,1,1,pt,MED,Europe
 '7d2493edb9',extremes,Precipitation,#d60d2b,wmo,aguaceiro vila real,2026-01-29T04:19:00+00:00,Portugal,0.4314627808344533,1,1,pt,MED,Europe
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanche de neve,2026-01-20T03:55:00+00:00,,0.4312098635233366,1,2,pt,,
