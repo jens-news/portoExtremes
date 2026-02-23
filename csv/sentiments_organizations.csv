@@ -1,17 +1,20 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Inmet,Inmet,ORG,0.06677681065978937,0.4092028440432695,en,14.100000000000003
 IPMA,IPMA,ORG,-0.011392332415059698,0.35013582797673704,en,13.2
-Inmet,Inmet,ORG,0.06348304473304472,0.4083142937309604,en,12.600000000000001
-InfoMoney,InfoMoney,ORG,0.3468987823439878,0.5592085235920852,en,7.3
-Olhar Digital,Olhar Digital,ORG,0.25491784037558685,0.6355946791862286,en,7.1
-Sul,Sul,ORG,0.14874413145539908,0.5660641627543037,en,7.1
+Sul,Sul,ORG,0.12590026773761717,0.5404484605087017,en,8.299999999999999
+InfoMoney,InfoMoney,ORG,0.3100440379403794,0.5157181571815717,en,8.200000000000001
+Olhar Digital,Olhar Digital,ORG,0.2648536036036036,0.6396696696696698,en,7.3999999999999995
 Braga,Braga,ORG,-0.01366487455197133,0.19466845878136202,en,6.2
 SP,SP,ORG,0.17247474747474742,0.6857954545454545,en,6.000000000000001
 Rio,Rio,ORG,0.01059322033898305,0.269774011299435,en,5.9
 Giz Brasil,Giz Brasil,ORG,0.4441699604743083,0.6725955204216074,en,4.6
 Sun,Sun,ORG,0.05,0.2296296296296296,en,4.5
 Civil Protection,Civil Protection,ORG,-0.05610155610155607,0.31531531531531526,en,3.7
+Carnival,Carnival,ORG,0.0810810810810811,0.0945945945945946,en,3.6999999999999997
+NASA,NASA,ORG,0.4642857142857143,0.5650793650793651,en,3.5
 Cláudia,Cláudia,ORG,0.08680555555555554,0.2847222222222222,en,3.2
 La Niña,La Niña,ORG,-0.19086021505376344,0.4247311827956989,en,3.1
+INMET,INMET,ORG,0.1130952380952381,0.30952380952380953,en,2.8
 PSD,PSD,ORG,0.0,0.0,en,2.8
 the Portuguese Institute of the Sea and Atmosphere,the Portuguese Institute of the Sea and Atmosphere,ORG,0.04055555555555555,0.21533333333333332,en,2.5
 Guarda,Guarda,ORG,0.0,0.2777777777777778,en,2.4
@@ -19,135 +22,136 @@ Vasco,Vasco,ORG,-0.7246376811594203,1.1014492753623186,en,2.3000000000000003
 El Niño,El Niño,ORG,0.06884057971014493,0.3007246376811594,en,2.3
 EU,EU,ORG,0.10869565217391305,0.32608695652173914,en,2.3
 Catraca Livre,Catraca Livre,ORG,0.6136363636363636,0.6439393939393938,en,2.2
-Giz,Giz,ORG,0.19242424242424241,0.46085858585858586,en,2.0
 UN,UN,ORG,0.0,0.16666666666666666,en,2.0
 REN,REN,ORG,0.55,0.54375,en,2.0
+Giz,Giz,ORG,0.19242424242424241,0.46085858585858586,en,2.0
 Amazon,Amazon,ORG,0.061403508771929835,0.5263157894736842,en,1.9000000000000001
-the European Parliament,the European Parliament,ORG,0.0,0.0,en,1.9
-Samsung,Samsung,ORG,-0.16666666666666669,0.15789473684210525,en,1.9
-Eastern,Eastern,ORG,-0.017543859649122806,0.07894736842105263,en,1.9
 TAP,TAP,ORG,0.13157894736842105,0.17543859649122806,en,1.9
-the National Institute of Meteorology,the National Institute of Meteorology,ORG,-0.062037037037037036,0.12499999999999999,en,1.8
+the European Parliament,the European Parliament,ORG,0.0,0.0,en,1.9
+Eastern,Eastern,ORG,-0.017543859649122806,0.07894736842105263,en,1.9
+Samsung,Samsung,ORG,-0.16666666666666669,0.15789473684210525,en,1.9
+Praia,Praia,ORG,-0.052631578947368425,0.0,en,1.9
 Azores,Azores,ORG,0.0,0.1736111111111111,en,1.8
-NASA,NASA,ORG,0.5147058823529412,0.36274509803921573,en,1.7
-Microsoft,Microsoft,ORG,-0.12268518518518523,0.37962962962962965,en,1.6
+Trump,Trump,ORG,0.0,0.5555555555555556,en,1.8
+the National Institute of Meteorology,the National Institute of Meteorology,ORG,-0.062037037037037036,0.12499999999999999,en,1.8
 Trás-os-Montes,Trás-os-Montes,ORG,0.0,0.0,en,1.6
+Microsoft,Microsoft,ORG,-0.12268518518518523,0.37962962962962965,en,1.6
+RS,RS,ORG,0.5375,0.65,en,1.6
+Globo,Globo,ORG,-0.09090909090909091,0.6043771043771043,en,1.5000000000000002
 SpaceX,SpaceX,ORG,0.19230769230769226,1.2179487179487176,en,1.3000000000000003
-Vegetti,Vegetti,ORG,-1.0769230769230769,0.7692307692307692,en,1.3
-Tarso Genro,Tarso Genro,ORG,0.0,0.04807692307692307,en,1.3
-RS,RS,ORG,0.5384615384615384,0.3846153846153846,en,1.3
 The Portuguese Environment Agency,The Portuguese Environment Agency,ORG,0.1282051282051282,0.2564102564102564,en,1.3
-Apple,Apple,ORG,0.6196581196581197,0.2991452991452991,en,1.3
+Olhar Digital News,Olhar Digital News,ORG,0.24999999999999994,0.16987179487179485,en,1.3
 WMO,WMO,ORG,-0.3846153846153846,0.30448717948717946,en,1.3
+The National Institute of Meteorology,The National Institute of Meteorology,ORG,0.0,0.0,en,1.3
+Tarso Genro,Tarso Genro,ORG,0.0,0.04807692307692307,en,1.3
+Apple,Apple,ORG,0.6196581196581197,0.2991452991452991,en,1.3
+Globo - Film Programming,Globo - Film Programming,ORG,0.0,0.0,en,1.3
 Betelgeuse,Betelgeuse,ORG,0.2534965034965035,0.303030303030303,en,1.3
-Globo,Globo,ORG,-0.11363636363636363,0.7554713804713804,en,1.2000000000000002
-Marquis,Marquis,ORG,0.0,0.0,en,1.1
+Vegetti,Vegetti,ORG,-1.0769230769230769,0.7692307692307692,en,1.3
 Havaianas,Havaianas,ORG,0.2577725304998032,0.24350649350649348,en,1.1
+Marquis,Marquis,ORG,0.0,0.0,en,1.1
 MapBiomas,MapBiomas,ORG,0.20454545454545453,0.606060606060606,en,1.1
-the Portuguese Football Federation,the Portuguese Football Federation,ORG,0.11363636363636363,0.0,en,1.0
-The Fire Department,The Fire Department,ORG,0.0,0.0,en,1.0
-The Portuguese Institute of the Sea and Atmosphere,The Portuguese Institute of the Sea and Atmosphere,ORG,0.07708333333333332,0.0,en,1.0
-Central,Central,ORG,0.0,0.0,en,1.0
-Leonardo,Leonardo,ORG,0.0,0.0,en,1.0
-Vodafone,Vodafone,ORG,-0.16666666666666669,0.0,en,1.0
-Leadership and Power,Leadership and Power,ORG,0.25,0.0,en,1.0
+the Quinta Animal Association,the Quinta Animal Association,ORG,-0.3083333333333333,0.0,en,1.0
+PS,PS,ORG,0.0,0.0,en,1.0
 Lula,Lula,ORG,0.0,0.0,en,1.0
+Leadership and Power,Leadership and Power,ORG,0.25,0.0,en,1.0
 the School of Sociology and Politics,the School of Sociology and Politics,ORG,0.25,0.0,en,1.0
+Spotify,Spotify,ORG,0.25,0.0,en,1.0
 FESPSP,FESPSP,ORG,0.25,0.0,en,1.0
 Netflix,Netflix,ORG,-0.033333333333333326,0.0,en,1.0
 City Hall,City Hall,ORG,0.0,0.0,en,1.0
-Billings,Billings,ORG,0.1,0.0,en,1.0
 the Municipal Department,the Municipal Department,ORG,0.0,0.0,en,1.0
 Eastern Group,Eastern Group,ORG,-0.0625,0.0,en,1.0
 Inter's year,Inter's year,ORG,-0.12000000000000001,0.0,en,1.0
 Internacional,Internacional,ORG,-0.10000000000000002,0.0,en,1.0
-Trump,Trump,ORG,0.0,0.0,en,1.0
-Seguro,Seguro,ORG,0.5833333333333334,0.0,en,1.0
-Spotify,Spotify,ORG,0.25,0.0,en,1.0
-American,American,ORG,0.18333333333333335,0.0,en,1.0
-the Dacia Duster Hybrid-G,the Dacia Duster Hybrid-G,ORG,0.125,0.0,en,1.0
-Renault,Renault,ORG,0.0,0.0,en,1.0
-WSJ,WSJ,ORG,0.0625,0.0,en,1.0
-Rossio,Rossio,ORG,0.5,0.0,en,1.0
-Torga,Torga,ORG,0.0,0.0,en,1.0
-the Estádio da Luz,the Estádio da Luz,ORG,0.02777777777777778,0.0,en,1.0
-FPF,FPF,ORG,0.0,0.0,en,1.0
-The Portuguese Federation,The Portuguese Federation,ORG,-0.2625,0.0,en,1.0
-Campo da Mata,Campo da Mata,ORG,-0.2625,0.0,en,1.0
-Farroupilha,Farroupilha,ORG,0.0,0.0,en,1.0
-Civil Defense,Civil Defense,ORG,0.2,0.0,en,1.0
-Santo António,Santo António,ORG,0.5,0.0,en,1.0
-Parliament,Parliament,ORG,0.0,0.75,en,1.0
-the State Council,the State Council,ORG,0.0,0.0,en,1.0
-the Council of State,the Council of State,ORG,0.0,0.0,en,1.0
-BBC Future,BBC Future,ORG,0.0,0.0,en,1.0
-INMET,INMET,ORG,0.0,0.0,en,1.0
-Campinas Reproduction/EPTV,Campinas Reproduction/EPTV,ORG,0.09999999999999999,0.0,en,1.0
-New York Times,New York Times,ORG,0.14069264069264067,0.0,en,1.0
 El Chichón,El Chichón,ORG,-0.3166666666666667,0.0,en,1.0
-Cotrim,Cotrim,ORG,0.0,0.0,en,1.0
+Campinas Reproduction/EPTV,Campinas Reproduction/EPTV,ORG,0.09999999999999999,0.0,en,1.0
+Leonardo,Leonardo,ORG,0.0,0.0,en,1.0
 Gramado,Gramado,ORG,0.15000000000000002,0.0,en,1.0
 Calorão,Calorão,ORG,0.0,0.0,en,1.0
-Lightning,Lightning,ORG,0.0,0.0,en,1.0
-megastorm,megastorm,ORG,0.0,0.0,en,1.0
-EU Observatory,EU Observatory,ORG,0.0,0.0,en,1.0
-"Samsung Electronics Co., Ltd.","Samsung Electronics Co., Ltd.",ORG,0.0,0.0,en,1.0
+Goretti Depression,Goretti Depression,ORG,0.4333333333333333,0.0,en,1.0
+Billings,Billings,ORG,0.1,0.0,en,1.0
+The Portuguese Institute of the Sea and Atmosphere,The Portuguese Institute of the Sea and Atmosphere,ORG,0.07708333333333332,0.0,en,1.0
+Central,Central,ORG,0.0,0.0,en,1.0
+Seguro,Seguro,ORG,0.5833333333333334,0.0,en,1.0
+the Council of State,the Council of State,ORG,0.0,0.0,en,1.0
+Defense,Defense,ORG,0.31666666666666665,0.0,en,1.0
+Campo da Mata,Campo da Mata,ORG,-0.2625,0.0,en,1.0
+Nils,Nils,ORG,-0.1,0.0,en,1.0
+Farroupilha,Farroupilha,ORG,0.0,0.0,en,1.0
+Civil Defense,Civil Defense,ORG,0.2,0.0,en,1.0
+Parliament,Parliament,ORG,0.0,0.75,en,1.0
+Baracoa,Baracoa,ORG,0.05,0.0,en,1.0
+the State Council,the State Council,ORG,0.0,0.0,en,1.0
+BBC Future,BBC Future,ORG,0.0,0.0,en,1.0
+the Portuguese Football Federation,the Portuguese Football Federation,ORG,0.11363636363636363,0.0,en,1.0
+EMSC,EMSC,ORG,0.0,0.0,en,1.0
+New York Times,New York Times,ORG,0.14069264069264067,0.0,en,1.0
+CNE,CNE,ORG,0.19166666666666665,0.0,en,1.0
+American,American,ORG,0.18333333333333335,0.0,en,1.0
+Seismovolcanic,Seismovolcanic,ORG,0.0,0.0,en,1.0
+Rossio,Rossio,ORG,0.5,0.0,en,1.0
+Santo António,Santo António,ORG,0.5,0.0,en,1.0
+The Fire Department,The Fire Department,ORG,0.0,0.0,en,1.0
+Cotrim,Cotrim,ORG,0.0,0.0,en,1.0
+Landsat 8,Landsat 8,ORG,0.1,0.0,en,1.0
+the Leiria National Forest,the Leiria National Forest,ORG,0.21428571428571427,0.0,en,1.0
 the I League,the I League,ORG,-0.2,0.0,en,1.0
+Lightning,Lightning,ORG,0.0,0.0,en,1.0
+FPF,FPF,ORG,0.0,0.0,en,1.0
+solidarity,solidarity,ORG,0.0,0.0,en,1.0
+European Commission,European Commission,ORG,0.0,0.0,en,1.0
+DANA,DANA,ORG,-0.041666666666666685,0.0,en,1.0
+megastorm,megastorm,ORG,0.0,0.0,en,1.0
+Vodafone,Vodafone,ORG,-0.16666666666666669,0.0,en,1.0
+"Samsung Electronics Co., Ltd.","Samsung Electronics Co., Ltd.",ORG,0.0,0.0,en,1.0
 SC Braga,SC Braga,ORG,0.18333333333333335,0.0,en,1.0
+Kaolinite,Kaolinite,ORG,-0.08333333333333333,0.0,en,1.0
+Olhar,Olhar,ORG,0.3287878787878788,0.0,en,1.0
 Kristin,Kristin,ORG,0.0,0.0,en,1.0
-PPE,PPE,ORG,0.0,0.0,en,1.0
-BBC News Brasil,BBC News Brasil,ORG,0.0,0.0,en,1.0
 Snowstorm,Snowstorm,ORG,-0.3166666666666667,0.0,en,1.0
 Android Faithful,Android Faithful,ORG,-0.3166666666666667,0.0,en,1.0
+Nos,Nos,ORG,-0.16666666666666669,0.0,en,1.0
 the Council of Ministers,the Council of Ministers,ORG,0.5,0.0,en,1.0
 GNR,GNR,ORG,-0.3083333333333333,0.0,en,1.0
-the Quinta Animal Association,the Quinta Animal Association,ORG,-0.3083333333333333,0.0,en,1.0
-solidarity,solidarity,ORG,0.0,0.0,en,1.0
-the Leiria National Forest,the Leiria National Forest,ORG,0.21428571428571427,0.0,en,1.0
 Meo,Meo,ORG,-0.16666666666666669,0.0,en,1.0
-Nos,Nos,ORG,-0.16666666666666669,0.0,en,1.0
-European Commission,European Commission,ORG,0.0,0.0,en,1.0
 Nikolas,Nikolas,ORG,0.0,0.0,en,1.0
 National Emergency and Civil Protection Authority,National Emergency and Civil Protection Authority,ORG,-0.26666666666666666,0.0,en,1.0
 Chaves,Chaves,ORG,0.0,0.0,en,1.0
-AI,AI,ORG,-0.02037037037037039,0.0,en,1.0
-Goretti Depression,Goretti Depression,ORG,0.4333333333333333,0.0,en,1.0
-DANA,DANA,ORG,-0.041666666666666685,0.0,en,1.0
-PS,PS,ORG,0.0,0.0,en,1.0
-Landsat 8,Landsat 8,ORG,0.1,0.0,en,1.0
-km²,km²,ORG,0.10714285714285714,0.0,en,1.0
-"Vila Real, Beja","Vila Real, Beja",ORG,0.025000000000000005,0.0,en,1.0
-Kaolinite,Kaolinite,ORG,-0.08333333333333333,0.0,en,1.0
-Cybercrime,Cybercrime,ORG,-0.02037037037037039,0.0,en,1.0
-Vila Real,Vila Real,ORG,0.06666666666666667,0.0,en,1.0
 Enceladus,Enceladus,ORG,0.1,0.0,en,1.0
+km²,km²,ORG,0.10714285714285714,0.0,en,1.0
+Copernicus,Copernicus,ORG,-0.2916666666666667,0.0,en,1.0
+"Vila Real, Beja","Vila Real, Beja",ORG,0.025000000000000005,0.0,en,1.0
+EU Observatory,EU Observatory,ORG,0.0,0.0,en,1.0
+Cybercrime,Cybercrime,ORG,-0.02037037037037039,0.0,en,1.0
+AI,AI,ORG,-0.02037037037037039,0.0,en,1.0
+Vila Real,Vila Real,ORG,0.06666666666666667,0.0,en,1.0
 Dryer,Dryer,ORG,-0.05555555555555555,0.0,en,1.0
 Reproduction/EPTV Campinas,Reproduction/EPTV Campinas,ORG,0.3333333333333333,0.0,en,1.0
+Greenland,Greenland,ORG,0.0,0.0,en,1.0
+PPE,PPE,ORG,0.0,0.0,en,1.0
 Red Bull Bragantino,Red Bull Bragantino,ORG,0.0,0.0,en,1.0
 Copinha,Copinha,ORG,0.0,0.0,en,1.0
-Copernicus,Copernicus,ORG,-0.2916666666666667,0.0,en,1.0
 ZCAS,ZCAS,ORG,-0.08125,0.0,en,1.0
-Nissan,Nissan,ORG,0.125,0.0,en,1.0
+Eternit,Eternit,ORG,0.08333333333333333,0.0,en,1.0
+BBC News Brasil,BBC News Brasil,ORG,0.0,0.0,en,1.0
 UN Institute,UN Institute,ORG,0.0,0.0,en,1.0
-Carnival,Carnival,ORG,0.0,0.0,en,1.0
-Church of England,Church of England,ORG,0.0,0.0,en,1.0
-Ponte de Lima,Ponte de Lima,ORG,0.0,0.0,en,1.0
-Palmeiras,Palmeiras,ORG,0.25,0.0,en,1.0
-the Narnia Laboratory,the Narnia Laboratory,ORG,-0.1,0.0,en,1.0
-Coastal,Coastal,ORG,-0.125,0.0,en,1.0
+The Portuguese Federation,The Portuguese Federation,ORG,-0.2625,0.0,en,1.0
+LG Micro,LG Micro,ORG,0.5,0.0,en,1.0
+the Estádio da Luz,the Estádio da Luz,ORG,0.02777777777777778,0.0,en,1.0
+Audi,Audi,ORG,0.4,0.0,en,1.0
 RJ,RJ,ORG,0.0,0.0,en,1.0
 Aigra Nova,Aigra Nova,ORG,0.05,0.0,en,1.0
-Globo - Film Programming,Globo - Film Programming,ORG,0.0,0.0,en,1.0
 the National Water Resources Information System,the National Water Resources Information System,ORG,-0.16666666666666666,0.0,en,1.0
 SNIRH,SNIRH,ORG,-0.16666666666666666,0.0,en,1.0
 FIFA,FIFA,ORG,0.0,0.0,en,1.0
 Seleção,Seleção,ORG,0.0,0.0,en,1.0
 Monaco,Monaco,ORG,0.0,0.0,en,1.0
+Palmeiras,Palmeiras,ORG,0.25,0.0,en,1.0
 the Port Authority of Funchal,the Port Authority of Funchal,ORG,-0.13333333333333328,0.0,en,1.0
-Nevão,Nevão,ORG,0.0,0.0,en,1.0
 Sauber,Sauber,ORG,0.4,0.0,en,1.0
-Audi,Audi,ORG,0.4,0.0,en,1.0
 Cultura,Cultura,ORG,0.16666666666666666,0.0,en,1.0
+the Narnia Laboratory,the Narnia Laboratory,ORG,-0.1,0.0,en,1.0
 The Copernicus Climate Change Monitoring Service,The Copernicus Climate Change Monitoring Service,ORG,0.0,0.0,en,1.0
 CPFL Energia's,CPFL Energia's,ORG,0.0,0.0,en,1.0
 Passos,Passos,ORG,-0.6666666666666666,0.0,en,1.0
@@ -155,10 +159,13 @@ the National Anti-Corruption Mechanism,the National Anti-Corruption Mechanism,OR
 MENAC,MENAC,ORG,0.0,0.0,en,1.0
 Operation Marquis,Operation Marquis,ORG,0.0,0.0,en,1.0
 Clara Pinto Correia,Clara Pinto Correia,ORG,0.45000000000000007,0.0,en,1.0
+the Civil Defense of RS,the Civil Defense of RS,ORG,0.0,0.0,en,1.0
+Elon,Elon,ORG,0.375,0.0,en,1.0
+Musk,Musk,ORG,0.0,0.0,en,1.0
+Coastal,Coastal,ORG,-0.125,0.0,en,1.0
 Formula,Formula,ORG,0.0,0.0,en,1.0
-McLaren,McLaren,ORG,0.06111111111111111,0.0,en,1.0
-Ford,Ford,ORG,0.0,0.0,en,1.0
-Praia,Praia,ORG,-0.1,0.0,en,1.0
+RS Civil Defense,RS Civil Defense,ORG,0.0,0.0,en,1.0
+Arco Norte,Arco Norte,ORG,0.0,0.0,en,1.0
 UNESCO World Heritage Site,UNESCO World Heritage Site,ORG,0.0,0.0,en,1.0
 CCDR,CCDR,ORG,0.0,0.0,en,1.0
 Avisem Que Eu Cheguei,Avisem Que Eu Cheguei,ORG,0.032467532467532464,0.0,en,1.0
@@ -169,8 +176,8 @@ Belém,Belém,ORG,0.13333333333333333,0.0,en,1.0
 Google,Google,ORG,0.2,0.0,en,1.0
 Mendes,Mendes,ORG,0.0,0.0,en,1.0
 Ferrari,Ferrari,ORG,0.0,0.0,en,1.0
-Arco Norte,Arco Norte,ORG,0.0,0.0,en,1.0
 Old Trafford,Old Trafford,ORG,0.14666666666666667,0.0,en,1.0
+McLaren,McLaren,ORG,0.06111111111111111,0.0,en,1.0
 Micro,Micro,ORG,-0.25,0.0,en,1.0
 ESA,ESA,ORG,0.25,0.0,en,1.0
 MasterChef Celebrities,MasterChef Celebrities,ORG,0.0,0.0,en,1.0
@@ -180,38 +187,37 @@ Pantanal,Pantanal,ORG,0.225,0.0,en,1.0
 UFRGS,UFRGS,ORG,0.0,0.0,en,1.0
 The Judicial Employees Union,The Judicial Employees Union,ORG,-0.1878787878787879,0.0,en,1.0
 Bar,Bar,ORG,-0.1878787878787879,0.0,en,1.0
-the Civil Defense of RS,the Civil Defense of RS,ORG,0.0,0.0,en,1.0
-Elon,Elon,ORG,0.375,0.0,en,1.0
-Musk,Musk,ORG,0.0,0.0,en,1.0
-Cold,Cold,ORG,-0.1875,0.0,en,1.0
-the Israeli Ministry of Justice,the Israeli Ministry of Justice,ORG,-0.2,0.0,en,1.0
-​​which Expresso,​​which Expresso,ORG,-0.2,0.0,en,1.0
-the Inter-American Criminal Court,the Inter-American Criminal Court,ORG,-0.2,0.0,en,1.0
-Climate Plan,Climate Plan,ORG,0.12878787878787878,0.0,en,1.0
-MGI Tech,MGI Tech,ORG,0.0,0.0,en,1.0
+Ford,Ford,ORG,0.0,0.0,en,1.0
+the Union of European Socialist Republics,the Union of European Socialist Republics,ORG,0.0,0.0,en,1.0
+PetPulse Insights,PetPulse Insights,ORG,0.1,0.0,en,1.0
+Torga,Torga,ORG,0.0,0.0,en,1.0
+QNAP,QNAP,ORG,0.5,0.0,en,1.0
 the University of Lisbon,the University of Lisbon,ORG,0.0,0.0,en,1.0
 FlatOuters,FlatOuters,ORG,0.875,0.0,en,1.0
 the Piornos Snow Cleaning Center,the Piornos Snow Cleaning Center,ORG,0.018181818181818174,0.0,en,1.0
 Covilhã,Covilhã,ORG,0.018181818181818174,0.0,en,1.0
 Dead Poets Society,Dead Poets Society,ORG,-0.30000000000000004,0.0,en,1.0
-the Mosque-Cathedral,the Mosque-Cathedral,ORG,0.0,0.0,en,1.0
+Church of England,Church of England,ORG,0.0,0.0,en,1.0
 Tarcísio,Tarcísio,ORG,0.16666666666666666,0.0,en,1.0
 Press,Press,ORG,0.13636363636363635,0.0,en,1.0
 Dragão,Dragão,ORG,0.13636363636363635,0.0,en,1.0
-LG Micro,LG Micro,ORG,0.5,0.0,en,1.0
-QNAP,QNAP,ORG,0.5,0.0,en,1.0
+the Mosque-Cathedral,the Mosque-Cathedral,ORG,0.0,0.0,en,1.0
 Caatinga,Caatinga,ORG,0.0,0.0,en,1.0
+Climate Plan,Climate Plan,ORG,0.12878787878787878,0.0,en,1.0
 Federal Court,Federal Court,ORG,0.0,0.0,en,1.0
 Guarulhos,Guarulhos,ORG,0.0,0.0,en,1.0
 Joinville,Joinville,ORG,0.0,0.0,en,1.0
 MIT,MIT,ORG,0.0,0.0,en,1.0
-F1,F1,ORG,1.0,0.0,en,1.0
-Sérgio Castro,Sérgio Castro,ORG,0.1625,0.0,en,1.0
-the Union of European Socialist Republics,the Union of European Socialist Republics,ORG,0.0,0.0,en,1.0
-Carrington Event,Carrington Event,ORG,0.0,0.0,en,1.0
-RS Civil Defense,RS Civil Defense,ORG,0.0,0.0,en,1.0
-PetPulse Insights,PetPulse Insights,ORG,0.1,0.0,en,1.0
+Nevão,Nevão,ORG,0.0,0.0,en,1.0
+Ponte de Lima,Ponte de Lima,ORG,0.0,0.0,en,1.0
+Nissan,Nissan,ORG,0.125,0.0,en,1.0
+the Dacia Duster Hybrid-G,the Dacia Duster Hybrid-G,ORG,0.125,0.0,en,1.0
+Renault,Renault,ORG,0.0,0.0,en,1.0
+WSJ,WSJ,ORG,0.0625,0.0,en,1.0
+MGI Tech,MGI Tech,ORG,0.0,0.0,en,1.0
+the Inter-American Criminal Court,the Inter-American Criminal Court,ORG,-0.2,0.0,en,1.0
 BES,BES,ORG,0.0,0.0,en,1.0
+Ryanair,Ryanair,ORG,-0.125,0.0,en,1.0
 the European Court of Human Rights,the European Court of Human Rights,ORG,0.0,0.0,en,1.0
 Enel,Enel,ORG,0.1,1.0,en,1.0
 the Mubadala Brazil SailGP Team's,the Mubadala Brazil SailGP Team's,ORG,-0.2,0.0,en,1.0
@@ -222,12 +228,16 @@ Açor,Açor,ORG,0.2,0.0,en,1.0
 Estrela mountains,Estrela mountains,ORG,0.2,0.0,en,1.0
 the Europa League,the Europa League,ORG,0.0,0.0,en,1.0
 SC,SC,ORG,0.0,0.0,en,1.0
-The National Institute of Meteorology,The National Institute of Meteorology,ORG,0.0,0.0,en,1.0
-Ryanair,Ryanair,ORG,-0.125,0.0,en,1.0
 Energy,Energy,ORG,0.0625,0.0,en,1.0
+​​which Expresso,​​which Expresso,ORG,-0.2,0.0,en,1.0
 Marítimo-Benfica B,Marítimo-Benfica B,ORG,-0.4124999999999999,0.0,en,1.0
 Marítimo,Marítimo,ORG,-0.20000000000000004,0.0,en,1.0
 the II League,the II League,ORG,-0.20000000000000004,0.0,en,1.0
 Divinópolis,Divinópolis,ORG,0.0,0.0,en,1.0
 Mass,Mass,ORG,0.0,0.0,en,1.0
-CNE,CNE,ORG,0.19166666666666665,0.0,en,1.0
+Carrington Event,Carrington Event,ORG,0.0,0.0,en,1.0
+Sérgio Castro,Sérgio Castro,ORG,0.1625,0.0,en,1.0
+Cold,Cold,ORG,-0.1875,0.0,en,1.0
+F1,F1,ORG,1.0,0.0,en,1.0
+the Israeli Ministry of Justice,the Israeli Ministry of Justice,ORG,-0.2,0.0,en,1.0
+Gezani,Gezani,ORG,-0.075,0.0,en,1.0

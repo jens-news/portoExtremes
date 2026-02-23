@@ -1,65 +1,73 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Storm Kristin,Storm Kristin,PERSON,0.15208333333333332,0.4114583333333332,en,8.000000000000002
+Storm Kristin,Storm Kristin,PERSON,0.13670411985018724,0.3698501872659175,en,8.900000000000002
 Castelo Branco,Castelo Branco,PERSON,-0.0440705128205128,0.36778846153846156,en,5.2
+Rio Grande,Rio Grande,PERSON,-0.010245098039215686,0.6104901960784314,en,5.1000000000000005
 Serra da Estrela,Serra da Estrela,PERSON,0.14376321353065538,0.33192389006342493,en,4.3
-Rio Grande,Rio Grande,PERSON,-0.012440476190476191,0.7413095238095239,en,4.2
+Porto Alegre,Porto Alegre,PERSON,-0.08064516129032258,0.7983870967741935,en,3.1
+Skara Brae,Skara Brae,PERSON,0.05952380952380954,0.5952380952380952,en,2.8
 Depression Kristin,Depression Kristin,PERSON,0.24914965986394558,0.5102040816326531,en,2.8
 Vila Real,Vila Real,PERSON,0.1553030303030303,0.3531468531468531,en,2.6
 São Miguel,São Miguel,PERSON,-0.054487179487179495,0.16987179487179488,en,2.5999999999999996
 Flores da Cunha,Flores da Cunha,PERSON,0.0,0.0,en,1.9
-Enel SP,Enel SP,PERSON,-0.04807692307692307,0.5608974358974359,en,1.3
 Gaby Amarantos,Gaby Amarantos,PERSON,-0.05494505494505494,0.35714285714285715,en,1.3
-Von der Leyen,Von der Leyen,PERSON,0.2564102564102564,0.3846153846153846,en,1.3
-Pedro Proença,Pedro Proença,PERSON,0.23076923076923075,0.0,en,1.3
-Lauana Prado,Lauana Prado,PERSON,0.2008547008547008,0.2649572649572649,en,1.3
-Donald Trump,Donald Trump,PERSON,0.0032051282051282076,0.43589743589743585,en,1.3
-São Januário,São Januário,PERSON,0.13141025641025636,0.8621794871794871,en,1.3
-Moon Enceladus,Moon Enceladus,PERSON,0.1923076923076923,0.2564102564102564,en,1.3
 Ricardo Ventura,Ricardo Ventura,PERSON,-0.6,0.7692307692307692,en,1.3
-Leonårdo Miggiorin,Leonårdo Miggiorin,PERSON,0.0,0.0,en,1.1
-José Sócrates,José Sócrates,PERSON,-0.44352617079889806,0.6377410468319559,en,1.1
+Moon Enceladus,Moon Enceladus,PERSON,0.1923076923076923,0.2564102564102564,en,1.3
+Lauana Prado,Lauana Prado,PERSON,0.2008547008547008,0.2649572649572649,en,1.3
+São Januário,São Januário,PERSON,0.13141025641025636,0.8621794871794871,en,1.3
+Enel SP,Enel SP,PERSON,-0.04807692307692307,0.5608974358974359,en,1.3
+Donald Trump,Donald Trump,PERSON,0.0032051282051282076,0.43589743589743585,en,1.3
+Pedro Proença,Pedro Proença,PERSON,0.23076923076923075,0.0,en,1.3
+Von der Leyen,Von der Leyen,PERSON,0.2564102564102564,0.3846153846153846,en,1.3
 Ângela Carrato,Ângela Carrato,PERSON,-0.12396694214876033,0.8241505968778695,en,1.1
+José Sócrates,José Sócrates,PERSON,-0.44352617079889806,0.6377410468319559,en,1.1
+Leonårdo Miggiorin,Leonårdo Miggiorin,PERSON,0.0,0.0,en,1.1
+moon Io,moon Io,PERSON,0.12571428571428572,0.4628571428571428,en,1.0
+Serra de São Mamede,Serra de São Mamede,PERSON,0.0,0.0,en,1.0
+Olhar Di,Olhar Di,PERSON,-0.02037037037037039,0.30370370370370375,en,1.0
+Mário Fava,Mário Fava,PERSON,0.1,0.7,en,1.0
+Rio de Janeiro,Rio de Janeiro,PERSON,0.0,0.0,en,1.0
+Arcos de Valdevez,Arcos de Valdevez,PERSON,0.0,0.0,en,1.0
 Lily Collins,Lily Collins,PERSON,-0.18888888888888888,0.7333333333333333,en,1.0
+Storm Leonardo,Storm Leonardo,PERSON,0.25,0.5499999999999999,en,1.0
 Aldo Foranzieri,Aldo Foranzieri,PERSON,0.25,0.3333333333333333,en,1.0
 Aldo Fornazieri,Aldo Fornazieri,PERSON,0.0,0.0,en,1.0
-Nuno Loureiro,Nuno Loureiro,PERSON,0.0,0.0,en,1.0
-Torres Vedras,Torres Vedras,PERSON,-0.2,0.4,en,1.0
+Dan Fogelman,Dan Fogelman,PERSON,0.0,0.25,en,1.0
+Carlos Alberto de Nóbrega,Carlos Alberto de Nóbrega,PERSON,0.1,0.4,en,1.0
 Will Calorão,Will Calorão,PERSON,0.0,0.0,en,1.0
-Porto Alegre,Porto Alegre,PERSON,0.0,1.0,en,1.0
-Castro Daire,Castro Daire,PERSON,0.0,0.0,en,1.0
+Fernanda Torres,Fernanda Torres,PERSON,0.0638095238095238,0.17047619047619048,en,1.0
+Josh O’Connor,Josh O’Connor,PERSON,0.0,0.0,en,1.0
+Max Walker-Silverman,Max Walker-Silverman,PERSON,0.0,0.0,en,1.0
 Serra da Canastra,Serra da Canastra,PERSON,0.0,0.0,en,1.0
-Torras Novas,Torras Novas,PERSON,0.0,0.0,en,1.0
 Barreiro ginjinha,Barreiro ginjinha,PERSON,0.0,0.75,en,1.0
 Serra Gaúcha,Serra Gaúcha,PERSON,0.0,0.0,en,1.0
 Lavajatista Malu Gaspar,Lavajatista Malu Gaspar,PERSON,-0.0045454545454545565,0.4292929292929293,en,1.0
-Campo Manuel Marques,Campo Manuel Marques,PERSON,-0.2,0.4,en,1.0
-Fernanda Torres,Fernanda Torres,PERSON,0.0638095238095238,0.17047619047619048,en,1.0
-Sara Correia,Sara Correia,PERSON,0.032467532467532464,0.3344155844155844,en,1.0
-Rio de Janeiro,Rio de Janeiro,PERSON,0.0,0.0,en,1.0
-Mário Fava,Mário Fava,PERSON,0.1,0.7,en,1.0
-Storm Leonardo,Storm Leonardo,PERSON,0.25,0.5499999999999999,en,1.0
-Arcos de Valdevez,Arcos de Valdevez,PERSON,0.0,0.0,en,1.0
-Olhar Digit,Olhar Digit,PERSON,-0.0375,0.2847222222222222,en,1.0
-André Ventura,André Ventura,PERSON,0.5,0.5,en,1.0
-António José Seguro,António José Seguro,PERSON,0.5,0.5,en,1.0
-Garotas Estúpidas,Garotas Estúpidas,PERSON,0.25,0.3333333333333333,en,1.0
-Kristen Stewart,Kristen Stewart,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Rodrigo Costa,Rodrigo Costa,PERSON,0.6,0.5875,en,1.0
-Maria da Graça Carvalho,Maria da Graça Carvalho,PERSON,0.0,0.0,en,1.0
+Catraca Livr,Catraca Livr,PERSON,0.061111111111111116,0.3111111111111111,en,1.0
+Catraca Liv,Catraca Liv,PERSON,0.25,0.3333333333333333,en,1.0
 Antonio Denarium,Antonio Denarium,PERSON,0.0,0.0,en,1.0
+Donald the Orange,Donald the Orange,PERSON,0.0,0.0,en,1.0
 Storm Leslie,Storm Leslie,PERSON,-0.2,0.5,en,1.0
+Maria da Graça Carvalho,Maria da Graça Carvalho,PERSON,0.0,0.0,en,1.0
+Rodrigo Costa,Rodrigo Costa,PERSON,0.6,0.5875,en,1.0
+Kristen Stewart,Kristen Stewart,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
 Luis Suárez,Luis Suárez,PERSON,0.18333333333333335,0.35555555555555557,en,1.0
+Suella Braverman,Suella Braverman,PERSON,0.1952380952380952,0.3452380952380952,en,1.0
 Joseph Depression,Joseph Depression,PERSON,0.0,0.0,en,1.0
 Olympic Edition1,Olympic Edition1,PERSON,0.0,0.0,en,1.0
-Nikolas Ferreira,Nikolas Ferreira,PERSON,0.0,0.0,en,1.0
+Arminda Simões,Arminda Simões,PERSON,0.0,0.0,en,1.0
+Torres Vedras,Torres Vedras,PERSON,-0.2,0.4,en,1.0
 Depression Joseph,Depression Joseph,PERSON,0.0,0.3125,en,1.0
-Guarulhos BateuBet,Guarulhos BateuBet,PERSON,0.0,0.0,en,1.0
-Carlos Alberto de Nóbrega,Carlos Alberto de Nóbrega,PERSON,0.1,0.4,en,1.0
-Olhar Di,Olhar Di,PERSON,-0.02037037037037039,0.30370370370370375,en,1.0
-Catraca Liv,Catraca Liv,PERSON,0.25,0.3333333333333333,en,1.0
-Robin Williams,Robin Williams,PERSON,-0.30000000000000004,0.55,en,1.0
-Sada Cruzeiro,Sada Cruzeiro,PERSON,0.0,0.0,en,1.0
-João Pinheiro,João Pinheiro,PERSON,0.55,0.95,en,1.0
+Garotas Estúpidas,Garotas Estúpidas,PERSON,0.25,0.3333333333333333,en,1.0
+António José Seguro,António José Seguro,PERSON,0.5,0.5,en,1.0
+André Ventura,André Ventura,PERSON,0.5,0.5,en,1.0
+Olhar Digit,Olhar Digit,PERSON,-0.0375,0.2847222222222222,en,1.0
+Sacha Biazzo,Sacha Biazzo,PERSON,0.08333333333333333,0.1111111111111111,en,1.0
+José Carlos Fernandes,José Carlos Fernandes,PERSON,0.0,0.0,en,1.0
+Nikolas Ferreira,Nikolas Ferreira,PERSON,0.0,0.0,en,1.0
+Sara Correia,Sara Correia,PERSON,0.032467532467532464,0.3344155844155844,en,1.0
+Campo Manuel Marques,Campo Manuel Marques,PERSON,-0.2,0.4,en,1.0
+Gabriel Bortoleto,Gabriel Bortoleto,PERSON,0.4,0.6166666666666667,en,1.0
+Tamara Klink,Tamara Klink,PERSON,0.0,0.0,en,1.0
+Simonal Original,Simonal Original,PERSON,0.375,0.75,en,1.0
 Charlie Kirk,Charlie Kirk,PERSON,0.5,0.5,en,1.0
 Hannah Caldas,Hannah Caldas,PERSON,-0.425,0.6,en,1.0
 dick girls,dick girls,PERSON,0.0,0.0,en,1.0
@@ -81,21 +89,26 @@ Fafá de Belém,Fafá de Belém,PERSON,0.4,1.0,en,1.0
 Zileide Silva,Zileide Silva,PERSON,0.13333333333333333,0.43333333333333335,en,1.0
 Carlos Nobre,Carlos Nobre,PERSON,0.13333333333333333,0.43333333333333335,en,1.0
 Ailton Krenak,Ailton Krenak,PERSON,0.13333333333333333,0.43333333333333335,en,1.0
-Simonal Original,Simonal Original,PERSON,0.375,0.75,en,1.0
-Tamara Klink,Tamara Klink,PERSON,0.0,0.0,en,1.0
 Tom Brady,Tom Brady,PERSON,0.0,0.0,en,1.0
-Hugo Souza,Hugo Souza,PERSON,0.0,0.5,en,1.0
+Flávio Bolsonaro,Flávio Bolsonaro,PERSON,0.0,0.0,en,1.0
+Torras Novas,Torras Novas,PERSON,0.0,0.0,en,1.0
+Clarice Lispector,Clarice Lispector,PERSON,0.05,0.15000000000000002,en,1.0
+Castro Daire,Castro Daire,PERSON,0.0,0.0,en,1.0
+Nuno Loureiro,Nuno Loureiro,PERSON,0.0,0.0,en,1.0
+Cape Verde,Cape Verde,PERSON,0.0,0.0,en,1.0
+Sada Cruzeiro,Sada Cruzeiro,PERSON,0.0,0.0,en,1.0
+João Pinheiro,João Pinheiro,PERSON,0.55,0.95,en,1.0
 Jay Hulme,Jay Hulme,PERSON,0.0,0.0,en,1.0
 Martim Sousa Tavares,Martim Sousa Tavares,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Cape Verde,Cape Verde,PERSON,0.0,0.0,en,1.0
+Robin Williams,Robin Williams,PERSON,-0.30000000000000004,0.55,en,1.0
 Ethan Hawke,Ethan Hawke,PERSON,-0.30000000000000004,0.55,en,1.0
 Daniel Chapo,Daniel Chapo,PERSON,0.0,0.0,en,1.0
 Infraestruturas de Portugal,Infraestruturas de Portugal,PERSON,0.018181818181818174,0.2772727272727273,en,1.0
 Serra da,Serra da,PERSON,0.018181818181818174,0.2772727272727273,en,1.0
 Heitor Scalambrini da,Heitor Scalambrini da,PERSON,0.0,0.0,en,1.0
 Nelson Piquet,Nelson Piquet,PERSON,0.4,0.25,en,1.0
+Hugo Souza,Hugo Souza,PERSON,0.0,0.5,en,1.0
 Teodoro Sampaio,Teodoro Sampaio,PERSON,0.0,0.0,en,1.0
-Gabriel Bortoleto,Gabriel Bortoleto,PERSON,0.4,0.6166666666666667,en,1.0
 Dom Orani Tempesta,Dom Orani Tempesta,PERSON,0.1625,0.3375,en,1.0
 Aberto Para Compras,Aberto Para Compras,PERSON,0.0,0.0,en,1.0
 Oeste de Minas,Oeste de Minas,PERSON,0.0,0.0,en,1.0
@@ -103,6 +116,4 @@ Adélia Prado,Adélia Prado,PERSON,0.0,0.0,en,1.0
 Liga Portugal,Liga Portugal,PERSON,-0.20000000000000004,0.3,en,1.0
 Storm Emilia,Storm Emilia,PERSON,0.15,0.5,en,1.0
 Marvel Tōkon,Marvel Tōkon,PERSON,-0.05714285714285716,0.46785714285714286,en,1.0
-Clarice Lispector,Clarice Lispector,PERSON,0.05,0.15000000000000002,en,1.0
-Flávio Bolsonaro,Flávio Bolsonaro,PERSON,0.0,0.0,en,1.0
-Serra de São Mamede,Serra de São Mamede,PERSON,0.0,0.0,en,1.0
+Guarulhos BateuBet,Guarulhos BateuBet,PERSON,0.0,0.0,en,1.0
