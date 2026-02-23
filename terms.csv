@@ -262,7 +262,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-02-10T04:42:00+00:00,,0.3673290955453785,1,2,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3663029389057704,1,2,pt,,
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-01-15T10:56:00+00:00,Portugal,0.3654285534012656,1,2,pt,MED,Europe
-'8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-02-21T04:18:00+00:00,Bermuda,0.36499901611934904,1,1,pt,NAO,Atlantic Ocean
+'8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-02-21T04:18:00+00:00,Bermuda,0.364999016119349,1,1,pt,NAO,Atlantic Ocean
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-02-07T04:19:00+00:00,Macao,0.3625434624389551,0,1,pt,EAS,Asia
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-01-25T04:06:00+00:00,Macao,0.3616216935560664,0,1,pt,EAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-02-16T04:37:00+00:00,,0.3612031551359099,1,1,pt,,
@@ -278,6 +278,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical fytia,2026-01-31T04:16:00+00:00,,0.3462466833893596,1,2,pt,ESAF,Africa
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-02-07T04:19:00+00:00,,0.3439154364510274,1,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,pt,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3407249218525999,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-01-22T03:59:00+00:00,,0.3363145942918912,1,1,pt,,
@@ -292,10 +293,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-01-21T03:55:00+00:00,,0.3210610606431698,1,1,pt,,
-'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical horacio,2026-02-21T04:17:00+00:00,,0.3186017627702383,0,1,pt,SIO,Indian Ocean
-'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 18p,2026-01-29T04:18:00+00:00,,0.3183333273655213,0,1,pt,SPO,Pacific Ocean
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-01-27T03:58:00+00:00,,0.3182924610776925,1,2,pt,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3179975433559999,0,1,pt,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,pt,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,pt,,
@@ -612,4 +610,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-01-23T04:02:00+00:00,,0.2768804007403592,1,1,pt,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropical itália,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,pt,MED,Europe
+'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical horacio,2026-02-21T04:17:00+00:00,,0.27081149835470253,1,1,pt,SIO,Indian Ocean
+'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,pt,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-01-15T10:20:00+00:00,,0.2578003975718036,1,2,pt,,
