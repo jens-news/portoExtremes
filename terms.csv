@@ -31,12 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-01-15T10:56:00+00:00,Brazil,0.6632965277211736,0,1,pt,SAM,South-America
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2026-01-23T04:03:00+00:00,Portugal,0.6631165337102627,0,1,pt,MED,Europe
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-01-15T10:56:00+00:00,Portugal,0.6602863276821334,1,2,pt,MED,Europe
-'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-02-07T04:19:00+00:00,Portugal,0.6589516554352555,0,1,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.6574022401088875,1,1,pt,WAF,Africa
-'d7e18db298',extremes,Precipitation,#d60d2b,wmo,chuva torrencial porto,2026-01-15T12:14:00+00:00,Portugal,0.6559199089769906,1,1,pt,MED,Europe
-'2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-01-15T12:14:00+00:00,Portugal,0.6558542327941722,1,1,pt,MED,Europe
-'5fca4dc93b',extremes,Precipitation,#d60d2b,wmo,chuva torrencial coimbra,2026-01-15T12:14:00+00:00,Portugal,0.6556885436065109,1,1,pt,MED,Europe
-'ef1071c617',extremes,Snow&Ice,#d60d2b,wmo,braga congelante,2026-01-15T12:14:00+00:00,Portugal,0.655667265650588,1,1,pt,MED,Europe
 '16a8cea79c',extremes,Storm,#b3b2b1,wmo,tempestade Bragança,2026-01-28T03:56:00+00:00,Portugal,0.6545930709064616,1,2,pt,MED,Europe
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.653045782364637,1,1,pt,WAF,Africa
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-02-07T04:19:00+00:00,Brazil,0.6474791997392583,1,1,pt,SAM,South-America
@@ -70,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-25T04:06:00+00:00,Portugal,0.6078253424177598,1,2,pt,MED,Europe
 '06dac2011e',extremes,Snow&Ice,#d60d2b,wmo,neve leiria,2026-01-24T03:48:00+00:00,Portugal,0.6067545637787451,1,2,pt,MED,Europe
 '0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-01-22T03:59:00+00:00,Portugal,0.6058848062433636,0,1,pt,MED,Europe
+'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-02-07T04:19:00+00:00,Portugal,0.6044759337866338,1,1,pt,MED,Europe
 '723cfda4cd',extremes,Precipitation,#d60d2b,wmo,chuva santarém,2026-01-22T03:59:00+00:00,Portugal,0.6043331846246374,1,2,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-15T10:57:00+00:00,Cabo Verde,0.6021163834936214,1,2,pt,NAO,Atlantic Ocean
 '7e91e7b557',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-28T03:56:00+00:00,Portugal,0.597664057142659,1,1,pt,MED,Europe
@@ -116,7 +112,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-02-10T04:43:00+00:00,Portugal,0.5444416283241366,0,1,pt,MED,Europe
 'f73848312c',extremes,Snow&Ice,#d60d2b,wmo,geada portalegre,2026-01-23T04:03:00+00:00,Portugal,0.5402036729512681,1,1,pt,MED,Europe
 '139365f0b2',extremes,Snow&Ice,#d60d2b,wmo,guarda de gelo,2026-01-15T12:14:00+00:00,Portugal,0.5396567416355544,1,2,pt,MED,Europe
-'56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.5392924428662017,0,1,pt,WAF,Africa
 '615fb7678a',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-01-25T04:06:00+00:00,Portugal,0.538609076857097,1,1,pt,MED,Europe
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-02-07T04:19:00+00:00,Portugal,0.533462709305568,1,1,pt,MED,Europe
 '224b730a59',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-02-11T04:41:00+00:00,Portugal,0.5324504315216306,1,1,pt,MED,Europe
@@ -170,7 +165,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9fe2d405f',extremes,Precipitation,#d60d2b,wmo,aguaceiro setúbal,2026-02-04T04:21:00+00:00,Portugal,0.4773454761811426,1,1,pt,MED,Europe
 '8cf0b46320',extremes,Precipitation,#d60d2b,wmo,precipitação évora,2026-01-28T03:56:00+00:00,Portugal,0.4768411972329582,1,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-01-19T04:03:00+00:00,Cabo Verde,0.4755566779816562,1,1,pt,NAO,Atlantic Ocean
-'9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-02-09T04:39:00+00:00,Angola,0.47531947271802455,0,1,pt,WSAF,Africa
+'9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-02-09T04:39:00+00:00,Angola,0.4753194727180245,0,1,pt,WSAF,Africa
 '0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-02-23T04:37:00+00:00,Portugal,0.4750471478970563,1,1,pt,MED,Europe
 '86b60d837d',extremes,Precipitation,#d60d2b,wmo,aguaceiro beja,2026-01-27T03:58:00+00:00,Portugal,0.4734558807740088,1,1,pt,MED,Europe
 '8f089ddeb0',extremes,Precipitation,#d60d2b,wmo,precipitação coimbra,2026-01-21T03:56:00+00:00,Portugal,0.4715628717161058,1,1,pt,MED,Europe
