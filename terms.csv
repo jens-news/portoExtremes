@@ -44,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.653045782364637,1,1,pt,WAF,Africa
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-02-07T04:19:00+00:00,Brazil,0.6474791997392583,1,1,pt,SAM,South-America
 '2702ab0f90',extremes,Snow&Ice,#d60d2b,wmo,Aveiro gelado,2026-01-26T04:09:00+00:00,Portugal,0.6467347535479829,1,2,pt,MED,Europe
+'036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-02-06T04:28:00+00:00,Mozambique,0.6465454807752883,1,2,pt,ESAF,Africa
 '2368dc79a9',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-02-01T04:41:00+00:00,Portugal,0.644466976826624,1,2,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-01-28T03:56:00+00:00,Mozambique,0.6422257863044532,1,2,pt,ESAF,Africa
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-01-15T10:57:00+00:00,Angola,0.6416682506689928,0,1,pt,WSAF,Africa
@@ -66,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-02-05T04:28:00+00:00,Bermuda,0.6172535422129044,0,1,pt,NAO,Atlantic Ocean
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-01-15T10:56:00+00:00,Portugal,0.615791907159021,1,2,pt,MED,Europe
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-01-17T03:44:00+00:00,Portugal,0.6156471479941359,0,1,pt,MED,Europe
-'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-01-29T04:19:00+00:00,Angola,0.612760572968349,0,1,pt,WSAF,Africa
 'ee46787821',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-02-06T04:27:00+00:00,Portugal,0.6113981403895231,1,2,pt,MED,Europe
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-01-17T03:44:00+00:00,Portugal,0.6110842919789489,0,1,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-02-13T04:33:00+00:00,Portugal,0.6104033659839179,1,1,pt,NAO,Atlantic Ocean
@@ -85,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7738c1b1e',extremes,Precipitation,#d60d2b,wmo,chuva braga,2026-01-28T03:56:00+00:00,Portugal,0.5866717866991704,1,3,pt,MED,Europe
 'c608c10ee4',extremes,Precipitation,#d60d2b,wmo,chuva bragança,2026-02-02T04:36:00+00:00,Portugal,0.586484498525465,1,2,pt,MED,Europe
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-01-19T04:03:00+00:00,Mozambique,0.5863252561133642,1,2,pt,ESAF,Africa
-'036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-02-06T04:28:00+00:00,Mozambique,0.5839946656179863,0,1,pt,ESAF,Africa
 '4b154d6bb8',extremes,Snow&Ice,#d60d2b,wmo,gelo vila real,2026-02-03T04:27:00+00:00,Portugal,0.5816891110009977,1,1,pt,MED,Europe
 '38a1a191a5',extremes,Snow&Ice,#d60d2b,wmo,gelo Bragança,2026-01-22T03:59:00+00:00,Portugal,0.5805939606691115,1,1,pt,MED,Europe
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-01-25T04:06:00+00:00,Portugal,0.579274003584498,1,1,pt,MED,Europe
@@ -141,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17df7f1e7f',extremes,Precipitation,#d60d2b,wmo,chuva viseu,2026-01-26T04:09:00+00:00,Portugal,0.5224333257051733,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-01-17T03:44:00+00:00,Angola,0.5211023678162489,0,1,pt,WSAF,Africa
 'f6a78b7678',extremes,Snow&Ice,#d60d2b,wmo,congelante viana do castelo,2026-01-24T03:48:00+00:00,Portugal,0.5209044954704372,1,1,pt,MED,Europe
+'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-01-29T04:19:00+00:00,Angola,0.5208464870230965,1,1,pt,WSAF,Africa
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-02-08T04:43:00+00:00,Equatorial Guinea,0.5200514669532331,1,1,pt,WAF,Africa
 '7330063805',extremes,Precipitation,#d60d2b,wmo,chuva leiria,2026-01-27T03:58:00+00:00,Portugal,0.5189110721375421,1,2,pt,MED,Europe
 '3466506af9',extremes,Precipitation,#d60d2b,wmo,aguaceiro faro,2026-01-26T04:09:00+00:00,Portugal,0.5173361393214967,1,1,pt,MED,Europe
