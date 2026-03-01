@@ -166,7 +166,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-02-28T04:07:00+00:00,Portugal,0.4645877347525536,0,1,pt,NAO,Atlantic Ocean
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-02-18T04:33:00+00:00,,0.4645828426093419,1,3,pt,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-01-15T10:39:00+00:00,,0.4629603016075219,1,3,pt,,
-'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-02-13T04:34:00+00:00,Guinea-Bissau,0.4610205465272888,0,1,pt,WAF,Africa
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2026-02-06T04:27:00+00:00,Timor Leste,0.4541842269854068,1,1,pt,SEA,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-01-22T03:59:00+00:00,,0.4538670872615737,1,3,pt,,
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-02-15T04:35:00+00:00,Portugal,0.4522927507798873,0,1,pt,NAO,Atlantic Ocean
@@ -208,8 +207,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-01-25T04:06:00+00:00,Bermuda,0.4033516622314153,0,1,pt,NAO,Atlantic Ocean
 'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-02-10T04:43:00+00:00,Timor Leste,0.4005831940533501,1,1,pt,SEA,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.4000246998521929,1,1,pt,WAF,Africa
-'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-02-27T04:25:00+00:00,,0.3956313057596655,0,1,pt,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-01-25T04:05:00+00:00,,0.3939539036464418,1,2,pt,,
+'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-02-13T04:34:00+00:00,Guinea-Bissau,0.3918674645481955,1,1,pt,WAF,Africa
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3910329139241656,0,1,pt,,
 'a15b8dc1cf',extremes,Precipitation,#d60d2b,wmo,chuva viana do castelo,2026-02-09T04:39:00+00:00,Portugal,0.3882122833712615,1,2,pt,MED,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-02-19T04:31:00+00:00,,0.3881310014289571,0,1,pt,,
@@ -230,6 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-01-23T04:02:00+00:00,,0.3663029389057704,1,2,pt,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-02-13T04:33:00+00:00,,0.3650417643653291,0,1,pt,,
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-02-21T04:18:00+00:00,Bermuda,0.364999016119349,1,1,pt,NAO,Atlantic Ocean
+'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-02-27T04:25:00+00:00,,0.3630868048957156,1,1,pt,,
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-02-07T04:19:00+00:00,Macao,0.3625434624389551,0,1,pt,EAS,Asia
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-01-25T04:06:00+00:00,Macao,0.3616216935560664,0,1,pt,EAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-02-26T04:28:00+00:00,,0.3614207079151844,1,1,pt,,
