@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-02-02T04:36:00+00:00,Sao Tome and Principe,0.7620380909925388,0,1,pt,WAF,Africa
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.7586237518063921,0,1,pt,WAF,Africa
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T12:14:00+00:00,Portugal,0.753115453506882,1,3,pt,MED,Europe
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-02-26T04:29:00+00:00,Brazil,0.7523216167451313,0,1,pt,SAM,South-America
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2026-01-15T12:14:00+00:00,Portugal,0.7406988690447536,1,3,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-02-25T04:32:00+00:00,Portugal,0.7269530140282439,0,1,pt,MED,Europe
 'd1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-02-12T04:37:00+00:00,Portugal,0.7203634617889455,0,1,pt,MED,Europe
@@ -252,7 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-02-27T04:25:00+00:00,,0.335790480399627,0,1,pt,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-02-05T04:27:00+00:00,,0.3341684485510119,1,1,pt,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-02-10T04:42:00+00:00,,0.3335058014442421,0,1,pt,,
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-02-13T04:33:00+00:00,,0.33276417613910114,1,1,pt,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-02-13T04:33:00+00:00,,0.3327641761391011,1,1,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-01-28T03:56:00+00:00,,0.3303299876599931,1,2,pt,,
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-02-13T04:33:00+00:00,,0.3285518821387494,0,1,pt,,
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-02-25T04:32:00+00:00,Timor Leste,0.3277534654493728,1,1,pt,SEA,Asia
@@ -495,6 +496,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,onda de calor área 3 – menor,2026-02-17T04:31:00+00:00,Paraguay,0.3046731383952634,0,1,pt,SES,South-America
 '7064a46f70',extremes,Precipitation,#d60d2b,wmo,chuva serra e amazônia,2026-02-07T04:19:00+00:00,Ecuador,0.3046605700353793,0,1,pt,NWS,South-America
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,tempestade ilhas chatham,2026-02-16T04:38:00+00:00,New Zealand,0.3046554907517611,0,1,pt,NZ,Oceania
+'9fe5b0338d',extremes,Fog,#d60d2b,wmo,nevoeiro Croácia,2026-03-01T04:35:00+00:00,Croatia,0.30465527874251874,0,1,pt,WCE,Europe
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,onda de calor corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3046482059219458,0,1,pt,SES,South-America
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-02-08T04:43:00+00:00,Russia,0.3046456174707032,0,1,pt,ESB,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – moderada,2026-02-20T04:27:00+00:00,Paraguay,0.3046417860480479,0,1,pt,SES,South-America
@@ -597,6 +599,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Tailândia,2026-02-09T04:39:00+00:00,Thailand,0.303911836245557,0,1,pt,SEA,Asia
 'ce2d4957e5',extremes,Fog,#d60d2b,wmo,nevoeiro Kuwait,2026-02-10T04:43:00+00:00,Kuwait,0.3038990801283524,0,1,pt,ARP,Asia
 '9330418237',extremes,Precipitation,#d60d2b,wmo,chuva Uruguai,2026-02-24T04:31:00+00:00,Uruguay,0.3038910673479537,0,1,pt,SES,South-America
+'99bb6d68cd',extremes,Flood,#030ba1,wmo,inundação luxemburgo,2026-02-14T04:21:00+00:00,Luxembourg,0.30387583464869616,0,1,pt,WCE,Europe
+'34ef5f77da',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado autônomo de Nanjian,2026-02-13T04:34:00+00:00,China,0.3038755825666035,0,1,pt,EAS,Asia
+'918f230cd2',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de huaning,2026-02-12T04:37:00+00:00,China,0.30386858112925297,0,1,pt,EAS,Asia
+'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no distrito de Malong,2026-02-16T04:38:00+00:00,China,0.30385112800848924,0,1,pt,EAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,tempestade na Índia,2026-02-18T04:34:00+00:00,India,0.30383599307031917,0,1,pt,SAS,Asia
+'fac1cc1397',extremes,Storm,#b3b2b1,wmo,tempestade wairarapa e distrito de tararua,2026-02-15T04:35:00+00:00,New Zealand,0.30382372994984974,0,1,pt,NZ,Oceania
+'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de tonghai,2026-02-12T04:37:00+00:00,China,0.30378112666498125,0,1,pt,EAS,Asia
+'8f4c353f58',extremes,Flood,#030ba1,emdat,inundação narino,2026-02-20T04:28:00+00:00,Colombia,0.3037768291842824,0,1,pt,NWS,South-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,aidr,inundações na Austrália,2026-02-05T04:28:00+00:00,Australia,0.2940026509882879,1,1,pt,EAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,pt,,
