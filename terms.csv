@@ -191,7 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-02-10T04:43:00+00:00,Portugal,0.4224457531805632,1,1,pt,MED,Europe
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4183127082164471,1,1,pt,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.41825585926018,1,2,pt,,
-'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.41712215290749266,1,2,pt,NPO,Pacific Ocean
+'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.4171221529074926,1,2,pt,NPO,Pacific Ocean
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-02-16T04:37:00+00:00,,0.4158998202954439,1,2,pt,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-02-20T04:27:00+00:00,,0.415167723578134,1,2,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-02-05T04:28:00+00:00,Macao,0.4145281480609088,1,1,pt,EAS,Asia
@@ -600,6 +600,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86c5eacad8',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de tonghai,2026-02-12T04:37:00+00:00,China,0.3037811266649812,0,1,pt,EAS,Asia
 '8f4c353f58',extremes,Flood,#030ba1,emdat,inundação narino,2026-02-20T04:28:00+00:00,Colombia,0.3037768291842824,0,1,pt,NWS,South-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,tempo severo Índia,2026-02-18T04:34:00+00:00,India,0.3037615549919458,0,1,pt,SAS,Asia
+'d4e54bdaef',extremes,Storm,#b3b2b1,wmo,tempestade horowhenua e costa kapiti,2026-02-14T04:21:00+00:00,New Zealand,0.3037603729500845,0,1,pt,NZ,Oceania
+'e9a5622b49',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na cidade de chengjiang,2026-02-15T04:35:00+00:00,China,0.30375307695412523,0,1,pt,EAS,Asia
+'5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de eryuan,2026-02-16T04:38:00+00:00,China,0.30367974214060256,0,1,pt,EAS,Asia
+'6adcc55c0a',extremes,Storm,#b3b2b1,wmo,tempestade adrar,2026-02-23T04:37:00+00:00,Algeria,0.3036712767919978,0,1,pt,SAH,Africa
+'a930a8e86c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de Longling,2026-02-17T04:31:00+00:00,China,0.3036379091704707,0,1,pt,EAS,Asia
+'58193d11dc',extremes,Storm,#b3b2b1,wmo,tempestade taupo,2026-02-15T04:35:00+00:00,New Zealand,0.30363611505040594,0,1,pt,NZ,Oceania
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,incêndio florestal telangana,2026-02-21T04:18:00+00:00,India,0.30363095734044737,0,1,pt,SAS,Asia
+'0aea61081d',extremes,Thunderstorm,#53785a,wmo,clima severo ilhas do sul de vanuatu.,2026-02-21T04:18:00+00:00,Vanuatu,0.30359061047235064,0,1,pt,SPO,Oceania
+'cbd6322038',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bahrein,2026-02-14T04:21:00+00:00,Bahrain,0.30357047935249626,0,1,pt,ARP,Asia
+'27212c802e',extremes,Wildfire,#d60d2b,wmo,incêndio florestal yangbi,2026-02-13T04:34:00+00:00,China,0.3035570397016024,0,1,pt,EAS,Asia
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,aidr,inundações na Austrália,2026-02-05T04:28:00+00:00,Australia,0.2940026509882879,1,1,pt,EAU,Oceania
@@ -631,4 +641,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"fortes chuvas e inundações em Queensland, fevereiro de 2020",2026-02-08T04:44:00+00:00,Australia,0.2672427589824749,1,1,pt,EAU,Oceania
 '90e6558608',extremes,Earthquake,#870007,usgs,terremoto dorsal mesoatlântica sul,2026-02-05T04:27:00+00:00,,0.2672321518347599,1,1,pt,SAO,Atlantic Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,pt,RFE,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.26707527139753745,1,1,pt,SPO,Pacific Ocean
+'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.2670752713975374,1,1,pt,SPO,Pacific Ocean
