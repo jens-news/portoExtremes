@@ -191,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-02-10T04:43:00+00:00,Portugal,0.4224457531805632,1,1,pt,MED,Europe
 '936b6967b9',extremes,Precipitation,#d60d2b,wmo,aguaceiro porto,2026-01-29T04:19:00+00:00,Portugal,0.4183127082164471,1,1,pt,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-01-24T03:48:00+00:00,,0.41825585926018,1,2,pt,,
+'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.41712215290749266,1,2,pt,NPO,Pacific Ocean
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-02-16T04:37:00+00:00,,0.4158998202954439,1,2,pt,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-02-20T04:27:00+00:00,,0.415167723578134,1,2,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-02-05T04:28:00+00:00,Macao,0.4145281480609088,1,1,pt,EAS,Asia
@@ -262,10 +263,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,pt,NPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-02-12T04:36:00+00:00,,0.3149866109249306,1,1,pt,,
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3145835913442963,0,1,pt,EAU,Oceania
-'90e6558608',extremes,Earthquake,#870007,usgs,terremoto dorsal mesoatlântica sul,2026-02-05T04:27:00+00:00,,0.3143907668644234,0,1,pt,SAO,Atlantic Ocean
-'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.3142556818983282,0,1,pt,RFE,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.3142062016441617,0,1,pt,SPO,Pacific Ocean
-'9a84ac4373',extremes,Tsunami,#690191,usgs,tsunami no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3140848681264619,0,1,pt,NPO,Pacific Ocean
 '3017638745',extremes,Earthquake,#870007,usgs,terremoto ust' kamchatsk staryy,2026-02-05T04:27:00+00:00,Russia,0.3139623148136632,0,1,pt,RFE,Europe
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,tempestade de granizo no norte de Sydney 2017,2026-02-14T04:22:00+00:00,,0.3138420013187892,0,1,pt,EAU,Oceania
 '685995fcc4',extremes,Earthquake,#870007,usgs,terremoto a oeste da ilha Macquarie,2026-02-05T04:27:00+00:00,,0.3137478705269341,0,1,pt,SOO,Antarctica
@@ -632,3 +629,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-02-05T04:27:00+00:00,Yemen,0.2674750910215091,1,1,pt,ARS,Indian Ocean
 '3673682ec0',extremes,Earthquake,#870007,usgs,terremoto região da ilha de ascensão,2026-01-28T03:56:00+00:00,,0.2673331648628075,1,1,pt,SAO,Atlantic Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"fortes chuvas e inundações em Queensland, fevereiro de 2020",2026-02-08T04:44:00+00:00,Australia,0.2672427589824749,1,1,pt,EAU,Oceania
+'90e6558608',extremes,Earthquake,#870007,usgs,terremoto dorsal mesoatlântica sul,2026-02-05T04:27:00+00:00,,0.2672321518347599,1,1,pt,SAO,Atlantic Ocean
+'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,pt,RFE,Asia
+'53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.26707527139753745,1,1,pt,SPO,Pacific Ocean
