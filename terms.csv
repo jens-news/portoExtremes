@@ -253,18 +253,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,pt,NPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-02-12T04:36:00+00:00,,0.3149866109249306,1,1,pt,,
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3145835913442963,0,1,pt,EAU,Oceania
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-02-10T04:43:00+00:00,Argentina,0.31428071321317086,1,1,pt,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,pt,SWS,South-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,pt,NAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclone tropical madagascar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pt,MDG,Africa
 '8710bd49ea',extremes,Earthquake,#870007,usgs,terremoto severo Kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,pt,NPO,Pacific Ocean
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,terremoto christchurch nova zelândia 2011,2026-01-29T04:19:00+00:00,New Zealand,0.31204638638859,0,1,pt,NZ,Oceania
-'51b14c1443',extremes,Flood,#030ba1,aidr,inundação geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,0,1,pt,SAU,Oceania
 '9aceadd432',extremes,Heat Wave,#c40202,random,calor recorde,2026-02-17T04:30:00+00:00,,0.3110863738647064,0,1,pt,,
-'957a7a09df',extremes,Earthquake,#870007,usgs,estação attu do terremoto,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,pt,NPO,Pacific Ocean
-'aa704a9a6b',extremes,Earthquake,#870007,usgs,terremoto gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.3107219670412271,0,1,pt,EPO,Pacific Ocean
-'e9cac0207d',extremes,Earthquake,#870007,usgs,terremoto em Madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.3104265014139611,0,1,pt,MDG,Africa
-'3c0d8a70ba',extremes,Earthquake,#870007,usgs,terremoto finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3104238392347926,0,1,pt,SEA,Oceania
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-02-10T04:43:00+00:00,Argentina,0.310389003780201,0,1,pt,SES,South-America
 '0d99295f2f',extremes,Drought,#edc291,edo,falta de chuva na Somália,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,0,1,pt,NEAF,Africa
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto no México,2026-02-05T04:27:00+00:00,Mexico,0.3099264814993108,0,1,pt,SCA,North-America
 'f2b29262f2',extremes,Drought,#edc291,edo,período de seca na Bélgica,2026-02-05T04:28:00+00:00,Belgium,0.3097987497087653,0,1,pt,WCE,Europe
@@ -632,3 +627,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,terremoto papua nova guiné,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2650711639343177,1,1,pt,EPO,Oceania
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-02-05T04:27:00+00:00,Peru,0.2650406029601954,1,1,pt,NWS,South-America
 'e873273000',extremes,Storm,#b3b2b1,emdat,tempestade maláui,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,pt,ESAF,Africa
+'51b14c1443',extremes,Flood,#030ba1,aidr,inundação geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,pt,SAU,Oceania
+'957a7a09df',extremes,Earthquake,#870007,usgs,estação attu do terremoto,2026-02-05T04:27:00+00:00,Alaska,0.26423845113848377,1,1,pt,NPO,Pacific Ocean
+'aa704a9a6b',extremes,Earthquake,#870007,usgs,terremoto gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.26411367198504304,1,1,pt,EPO,Pacific Ocean
+'e9cac0207d',extremes,Earthquake,#870007,usgs,terremoto em Madagascar,2026-01-29T04:18:00+00:00,Madagascar,0.26386252620186695,1,1,pt,MDG,Africa
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,terremoto finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2638602633495737,1,1,pt,SEA,Oceania
