@@ -178,7 +178,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c827a010',extremes,Earthquake,#870007,usgs,terremoto no Japão,2026-02-05T04:27:00+00:00,Japan,0.4155882104511805,1,2,pt,EAS,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-02-20T04:27:00+00:00,,0.415167723578134,1,2,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-02-05T04:28:00+00:00,Macao,0.4145281480609088,1,1,pt,EAS,Asia
-'0d99295f2f',extremes,Drought,#edc291,edo,falta de chuva na Somália,2026-02-06T04:28:00+00:00,Somalia,0.41383471351757084,1,2,pt,NEAF,Africa
+'0d99295f2f',extremes,Drought,#edc291,edo,falta de chuva na Somália,2026-02-06T04:28:00+00:00,Somalia,0.4138347135175708,1,2,pt,NEAF,Africa
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-01-24T03:49:00+00:00,Brazil,0.4136620002485839,1,2,pt,SAM,South-America
 '4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2026-02-07T04:19:00+00:00,Portugal,0.4128524411912635,1,1,pt,MED,Europe
 'c1df9ddee5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial santarém,2026-02-11T04:41:00+00:00,Portugal,0.4089124879925963,1,1,pt,MED,Europe
@@ -253,7 +253,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8710bd49ea',extremes,Earthquake,#870007,usgs,terremoto severo Kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,pt,NPO,Pacific Ocean
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,terremoto christchurch nova zelândia 2011,2026-01-29T04:19:00+00:00,New Zealand,0.31204638638859,0,1,pt,NZ,Oceania
 '9aceadd432',extremes,Heat Wave,#c40202,random,calor recorde,2026-02-17T04:30:00+00:00,,0.3110863738647064,0,1,pt,,
-'d389bc4f63',extremes,Earthquake,#870007,usgs,terremoto no México,2026-02-05T04:27:00+00:00,Mexico,0.3099264814993108,0,1,pt,SCA,North-America
 'f2b29262f2',extremes,Drought,#edc291,edo,período de seca na Bélgica,2026-02-05T04:28:00+00:00,Belgium,0.3097987497087653,0,1,pt,WCE,Europe
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,inundação Colômbia,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,pt,NWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-02-06T04:28:00+00:00,Belgium,0.3096683279573431,0,1,pt,WCE,Europe
@@ -629,3 +628,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957a7a09df',extremes,Earthquake,#870007,usgs,estação attu do terremoto,2026-02-05T04:27:00+00:00,Alaska,0.2642384511384837,1,1,pt,NPO,Pacific Ocean
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,terremoto gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.264113671985043,1,1,pt,EPO,Pacific Ocean
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,terremoto finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.2638602633495737,1,1,pt,SEA,Oceania
+'d389bc4f63',extremes,Earthquake,#870007,usgs,terremoto no México,2026-02-05T04:27:00+00:00,Mexico,0.2635875242744142,1,1,pt,SCA,North-America
