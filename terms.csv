@@ -7,25 +7,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.7586237518063921,0,1,pt,WAF,Africa
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T12:14:00+00:00,Portugal,0.753115453506882,1,3,pt,MED,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-02-26T04:29:00+00:00,Brazil,0.7523216167451313,0,1,pt,SAM,South-America
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-03-02T04:27:00+00:00,Brazil,0.7489994303196041,0,1,pt,SAM,South-America
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2026-01-15T12:14:00+00:00,Portugal,0.7406988690447536,1,3,pt,MED,Europe
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-03-02T04:27:00+00:00,Brazil,0.7386275338485866,1,3,pt,SAM,South-America
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-02-25T04:32:00+00:00,Portugal,0.7269530140282439,0,1,pt,MED,Europe
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-02-25T04:32:00+00:00,Portugal,0.7208973741306665,0,1,pt,MED,Europe
 'd1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-02-12T04:37:00+00:00,Portugal,0.7203634617889455,0,1,pt,MED,Europe
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-02-05T04:28:00+00:00,Cabo Verde,0.7181710571115814,0,1,pt,NAO,Atlantic Ocean
-'bd0c34a4e9',extremes,Snow&Ice,#d60d2b,wmo,neve castelo branco,2026-01-15T12:14:00+00:00,Portugal,0.7178304511187192,1,2,pt,MED,Europe
 '61bcd02de5',extremes,Drought,#edc291,edo,seca moçambique,2026-02-11T04:42:00+00:00,Mozambique,0.7162172277104817,1,2,pt,ESAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-01-17T03:44:00+00:00,Brazil,0.7089189062124899,1,2,pt,SAM,South-America
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-02-25T04:32:00+00:00,Portugal,0.7051066762036003,0,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-02-12T04:37:00+00:00,Cabo Verde,0.7046150403918454,0,1,pt,NAO,Atlantic Ocean
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-02-25T04:33:00+00:00,Brazil,0.6920957940763247,0,1,pt,SAM,South-America
-'142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-01-15T10:56:00+00:00,Portugal,0.6905729431998429,1,2,pt,MED,Europe
 '3da70d2eb1',extremes,Snow&Ice,#d60d2b,wmo,neve portugal,2026-03-02T04:27:00+00:00,Portugal,0.69044949343779,0,1,pt,MED,Europe
 '3b23de1a2c',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2026-02-24T04:31:00+00:00,Portugal,0.6878643756403864,0,1,pt,MED,Europe
-'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-01-15T10:56:00+00:00,Portugal,0.6838607987998091,1,2,pt,MED,Europe
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-01-23T04:03:00+00:00,Portugal,0.6812632704787961,1,2,pt,MED,Europe
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-03-03T04:27:00+00:00,Portugal,0.6771177553268619,0,1,pt,MED,Europe
-'06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-01-15T10:57:00+00:00,Brazil,0.6762370614301474,1,2,pt,SAM,South-America
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2026-01-22T03:59:00+00:00,Portugal,0.6725580858366094,1,2,pt,MED,Europe
 'a07014ffe4',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-03-01T04:35:00+00:00,Portugal,0.6677879282143028,0,1,pt,MED,Europe
 '315a0b9c70',extremes,Snow&Ice,#d60d2b,wmo,guarda congelante,2026-02-12T04:37:00+00:00,Portugal,0.6664948100190277,1,2,pt,MED,Europe
@@ -188,7 +184,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2026-02-07T04:19:00+00:00,Portugal,0.4128524411912635,1,1,pt,MED,Europe
 'c1df9ddee5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial santarém,2026-02-11T04:41:00+00:00,Portugal,0.4089124879925963,1,1,pt,MED,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-02-06T04:27:00+00:00,,0.4088944069262993,1,3,pt,,
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-01-15T12:13:00+00:00,,0.4071624244129821,1,3,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-01-30T04:21:00+00:00,Timor Leste,0.4071152741605883,0,1,pt,SEA,Oceania
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-02-14T04:22:00+00:00,Timor Leste,0.4052258217561253,1,1,pt,SEA,Oceania
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-02-17T04:30:00+00:00,,0.4050788167912685,0,1,pt,,
