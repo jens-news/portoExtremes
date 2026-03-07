@@ -244,12 +244,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-02-21T04:17:00+00:00,,0.3253020802834211,0,1,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-02-08T04:43:00+00:00,,0.3218786809561854,1,1,pt,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-03-06T04:20:00+00:00,,0.32013965171245684,0,1,pt,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,pt,,
+'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,período de calor na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.3192423583900168,0,1,pt,SAU,Oceania
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,período de chuva na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.3188208941706716,0,1,pt,SAU,Oceania
+'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,iceberg d32,2026-03-06T04:21:00+00:00,,0.3184806660855388,0,1,pt,EAN,
+'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,iceberg c18b,2026-03-06T04:21:00+00:00,,0.3184369510861849,0,1,pt,EAN,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-01-27T03:58:00+00:00,,0.3182924610776925,1,2,pt,,
+'403ad9bf40',extremes,Iceberg,#d60d2b,eonet,iceberg b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,pt,WAN,Antarctica
+'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 25s,2026-03-06T04:21:00+00:00,,0.31780723583262627,0,1,pt,SIO,Indian Ocean
+'59b529f428',extremes,Thunderstorm,#53785a,random,tempestade de granizo,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,pt,,
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,iceberg b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,pt,EAN,
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,pt,SWS,South-America
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,terremoto birmânia myanmar,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,0,1,pt,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,pt,NPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-02-12T04:36:00+00:00,,0.3149866109249306,1,1,pt,,
+'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 24p,2026-03-06T04:21:00+00:00,,0.31480313187222014,0,1,pt,NAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3145835913442963,0,1,pt,EAU,Oceania
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-02-10T04:43:00+00:00,Argentina,0.3142807132131708,1,1,pt,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,pt,SWS,South-America
