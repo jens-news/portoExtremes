@@ -32,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-03-07T04:13:00+00:00,Brazil,0.665864799782548,0,1,pt,SAM,South-America
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-03-05T04:24:00+00:00,Portugal,0.6656177875785388,0,1,pt,MED,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,gelo braga,2026-01-23T04:03:00+00:00,Portugal,0.6631165337102627,0,1,pt,MED,Europe
+'bc92e311be',extremes,Snow&Ice,#d60d2b,wmo,porto gelado,2026-03-06T04:21:00+00:00,Portugal,0.6615357887206086,1,2,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.6574022401088875,1,1,pt,WAF,Africa
 '16a8cea79c',extremes,Storm,#b3b2b1,wmo,tempestade Bragança,2026-01-28T03:56:00+00:00,Portugal,0.6545930709064616,1,2,pt,MED,Europe
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.653045782364637,1,1,pt,WAF,Africa
@@ -46,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-01-28T03:56:00+00:00,Mozambique,0.6422257863044532,1,2,pt,ESAF,Africa
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-02-08T04:43:00+00:00,Brazil,0.6411764287903089,1,1,pt,SAM,South-America
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-03-05T04:24:00+00:00,Portugal,0.639761591183949,0,1,pt,MED,Europe
-'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-02-17T04:31:00+00:00,Bermuda,0.6391544616373254,0,1,pt,NAO,Atlantic Ocean
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-03-07T04:12:00+00:00,Portugal,0.6342233574397459,0,1,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-02-10T04:43:00+00:00,Portugal,0.6332345078712737,1,2,pt,NAO,Atlantic Ocean
 'b6a6b88213',extremes,Snow&Ice,#d60d2b,wmo,neve porto,2026-02-03T04:27:00+00:00,Portugal,0.630740533837115,1,2,pt,MED,Europe
@@ -65,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06dac2011e',extremes,Snow&Ice,#d60d2b,wmo,neve leiria,2026-01-24T03:48:00+00:00,Portugal,0.6067545637787451,1,2,pt,MED,Europe
 'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-02-07T04:19:00+00:00,Portugal,0.6044759337866338,1,1,pt,MED,Europe
 '723cfda4cd',extremes,Precipitation,#d60d2b,wmo,chuva santarém,2026-01-22T03:59:00+00:00,Portugal,0.6043331846246374,1,2,pt,MED,Europe
-'bc92e311be',extremes,Snow&Ice,#d60d2b,wmo,porto gelado,2026-03-06T04:21:00+00:00,Portugal,0.6016303043771866,0,1,pt,MED,Europe
 '8e13591831',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-02-18T04:34:00+00:00,Portugal,0.6010543903898952,1,2,pt,MED,Europe
 '38784ec34b',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2026-02-24T04:31:00+00:00,Portugal,0.597997110281213,1,1,pt,MED,Europe
 '7e91e7b557',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-01-28T03:56:00+00:00,Portugal,0.597664057142659,1,1,pt,MED,Europe
@@ -106,6 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '804c464330',extremes,Precipitation,#d60d2b,wmo,precipitação santarém,2026-01-29T04:19:00+00:00,Portugal,0.5465507398984248,1,2,pt,MED,Europe
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-02-13T04:34:00+00:00,Portugal,0.5455829933202423,1,2,pt,NAO,Atlantic Ocean
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-02-10T04:43:00+00:00,Portugal,0.5444416283241366,0,1,pt,MED,Europe
+'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-02-17T04:31:00+00:00,Bermuda,0.5432812923917265,1,1,pt,NAO,Atlantic Ocean
 '7592facbb8',extremes,Snow&Ice,#d60d2b,wmo,neve viana do castelo,2026-03-06T04:21:00+00:00,Portugal,0.5394985855255884,1,1,pt,MED,Europe
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-02-22T04:31:00+00:00,Mozambique,0.5382147726010169,0,1,pt,ESAF,Africa
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-02-07T04:19:00+00:00,Portugal,0.533462709305568,1,1,pt,MED,Europe
