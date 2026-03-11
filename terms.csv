@@ -356,6 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b36377911d',extremes,Storm,#b3b2b1,wmo,tempestade em regiões pacíficas do norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,pt,SCA,North-America
 '97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,chuva torrencial amazônia.,2026-03-04T04:20:00+00:00,Ecuador,0.3052637813688805,0,1,pt,NWS,South-America
 'f0dc39c1d8',extremes,Storm,#b3b2b1,wmo,tempestade serra sul,2026-02-13T04:34:00+00:00,Ecuador,0.3052558376157547,0,1,pt,NWS,South-America
+'7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial serra,2026-03-08T04:24:00+00:00,Ecuador,0.3052542487106331,0,1,pt,NWS,South-America
 '3c2108148e',extremes,Earthquake,#870007,usgs,terremoto região pagã ilhas Marianas do Norte,2026-02-05T04:27:00+00:00,,0.3052540098088987,0,1,pt,NPO,Pacific Ocean
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,chuva torrencial seychelles,2026-03-07T04:12:00+00:00,Seychelles,0.3052499073042314,0,1,pt,EIO,Africa
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.305248351647356,0,1,pt,SES,South-America
@@ -528,7 +529,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c083328db2',extremes,Wildfire,#d60d2b,wmo,condado de mudança de incêndio florestal,2026-02-17T04:31:00+00:00,China,0.3040631668623184,0,1,pt,EAS,Asia
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,tempestade sul da Islândia,2026-02-19T04:32:00+00:00,Iceland,0.3040450891670598,0,1,pt,GIC,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2026-02-15T04:35:00+00:00,Algeria,0.3040358245474022,0,1,pt,SAH,Africa
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-03-04T04:20:00+00:00,,0.30403396160407375,1,1,pt,,
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-03-04T04:20:00+00:00,,0.3040339616040737,1,1,pt,,
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,neve Sérvia,2026-02-09T04:39:00+00:00,Serbia,0.3040228068210757,0,1,pt,MED,Europe
 '156c18e469',extremes,Storm,#b3b2b1,wmo,rei da tempestade sabata dalindyebo mthatha,2026-02-23T04:37:00+00:00,South Africa,0.304011552799764,0,1,pt,WSAF,Africa
 '1613eab3ee',extremes,Drought,#edc291,edo,falta de chuva Etiópia,2026-03-04T04:21:00+00:00,Ethiopia,0.3039771181073929,0,1,pt,NEAF,Africa
@@ -585,6 +586,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d18855c05',extremes,Storm,#b3b2b1,wmo,tempestade em Salah,2026-02-22T04:30:00+00:00,Algeria,0.3031649577777724,0,1,pt,SAH,Africa
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,onda de frio joshimath,2026-02-18T04:34:00+00:00,India,0.3031566153625645,0,1,pt,SAS,Asia
 '2efc827093',extremes,Flood,#030ba1,wmo,inundação repentina Eslovénia,2026-02-18T04:34:00+00:00,Slovenia,0.3030984641906427,0,1,pt,WCE,Europe
+'b36d6347fa',extremes,Storm,#b3b2b1,wmo,tempestade Norman Bay para Lodge Bay,2026-02-21T04:18:00+00:00,Canada,0.30301812793826266,0,1,pt,NEN,North-America
+'53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-03-04T04:21:00+00:00,Lithuania,0.3029811568342837,0,1,pt,WCE,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gelo Islândia,2026-02-26T04:29:00+00:00,Iceland,0.30293913725961485,0,1,pt,GIC,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,aidr,inundações na Austrália,2026-02-05T04:28:00+00:00,Australia,0.2940026509882879,1,1,pt,EAU,Oceania
@@ -608,7 +612,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-02-05T04:27:00+00:00,,0.2684548787709752,1,1,pt,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,inundação inundação severa do ex ciclone tropical tiffany sul da austrália 2022,2026-02-08T04:44:00+00:00,Australia,0.2683642089942968,1,1,pt,SAU,Oceania
 'eabe6169ab',extremes,Earthquake,#870007,usgs,terremoto tonga,2026-02-05T04:27:00+00:00,Tonga,0.2681707930026051,1,1,pt,SPO,Pacific Ocean
-'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 26s,2026-03-07T04:12:00+00:00,,0.26812554866519156,1,1,pt,NAU,Oceania
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 26s,2026-03-07T04:12:00+00:00,,0.2681255486651915,1,1,pt,NAU,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,terremoto região das ilhas sanduíche do sul,2026-02-05T04:27:00+00:00,,0.2680384370003704,1,1,pt,SOO,Antarctica
 '65b4a087de',extremes,Earthquake,#870007,usgs,terremoto qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.2679620714354747,1,1,pt,ARS,Indian Ocean
 '924236ebf8',extremes,Earthquake,#870007,usgs,terremoto yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2678632364951275,1,1,pt,SAS,Asia
@@ -617,7 +621,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,terremoto região das ilhas do príncipe Eduardo,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,pt,SOO,Antarctica
 '95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-02-05T04:27:00+00:00,Yemen,0.2674750910215091,1,1,pt,ARS,Indian Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"fortes chuvas e inundações em Queensland, fevereiro de 2020",2026-02-08T04:44:00+00:00,Australia,0.2672427589824749,1,1,pt,EAU,Oceania
-'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical urmil,2026-03-06T04:21:00+00:00,,0.26724050486945183,1,1,pt,SPO,Pacific Ocean
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical urmil,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,pt,SPO,Pacific Ocean
 '90e6558608',extremes,Earthquake,#870007,usgs,terremoto dorsal mesoatlântica sul,2026-02-05T04:27:00+00:00,,0.2672321518347599,1,1,pt,SAO,Atlantic Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,pt,RFE,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.2670752713975374,1,1,pt,SPO,Pacific Ocean
