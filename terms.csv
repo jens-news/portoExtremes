@@ -234,7 +234,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-02-08T04:43:00+00:00,,0.3218786809561854,1,1,pt,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,pt,,
-'047f353885',extremes,Heat Wave,#c40202,acwe,onda de calor no oeste da Austrália,2026-03-11T04:23:00+00:00,Australia,0.3169154170414733,0,1,pt,CAU,Oceania
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,terremoto birmânia myanmar,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,0,1,pt,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,pt,NPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-02-12T04:36:00+00:00,,0.3149866109249306,1,1,pt,,
@@ -601,6 +600,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,iceberg b22g,2026-03-06T04:21:00+00:00,Antarctica,0.2704368868154381,1,1,pt,WAN,Antarctica
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-02-19T04:31:00+00:00,,0.2702364564462257,1,1,pt,,
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 25s,2026-03-06T04:21:00+00:00,,0.2701361504577322,1,1,pt,SIO,Indian Ocean
+'047f353885',extremes,Heat Wave,#c40202,acwe,onda de calor no oeste da Austrália,2026-03-11T04:23:00+00:00,Australia,0.2695281194852523,1,1,pt,CAU,Oceania
 'eba0dae408',extremes,Iceberg,#d60d2b,eonet,iceberg b15ab,2026-03-06T04:21:00+00:00,,0.2688485201919491,1,1,pt,EAN,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,inundação inundação severa do ex ciclone tropical tiffany sul da austrália 2022,2026-02-08T04:44:00+00:00,Australia,0.2683642089942968,1,1,pt,SAU,Oceania
 '6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 26s,2026-03-07T04:12:00+00:00,,0.2681255486651915,1,1,pt,NAU,Oceania
