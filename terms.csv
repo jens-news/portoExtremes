@@ -236,21 +236,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-02-06T04:27:00+00:00,,0.3238745293030137,0,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-02-08T04:43:00+00:00,,0.3218786809561854,1,1,pt,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,pt,,
-'eba0dae408',extremes,Iceberg,#d60d2b,eonet,iceberg b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,pt,EAN,
-'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 26s,2026-03-07T04:12:00+00:00,,0.3154418219590489,0,1,pt,NAU,Oceania
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,terremoto birmânia myanmar,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,0,1,pt,SAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,pt,NPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-02-12T04:36:00+00:00,,0.3149866109249306,1,1,pt,,
-'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 24p,2026-03-06T04:21:00+00:00,,0.3148031318722201,0,1,pt,NAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3145835913442963,0,1,pt,EAU,Oceania
-'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical urmil,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,pt,SPO,Pacific Ocean
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-02-10T04:43:00+00:00,Argentina,0.3142807132131708,1,1,pt,SES,South-America
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,pt,,
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,pt,SWS,South-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,pt,NAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclone tropical madagascar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pt,MDG,Africa
 '8710bd49ea',extremes,Earthquake,#870007,usgs,terremoto severo Kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,pt,NPO,Pacific Ocean
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-03-04T04:20:00+00:00,,0.312157460710675,0,1,pt,,
 '628c910b11',extremes,Flood,#030ba1,aidr,inundação inundando Nova Gales do Sul 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,0,1,pt,EAU,Oceania
 '55459a4ab8',extremes,Drought,#edc291,edo,seca luxemburgo,2026-03-04T04:21:00+00:00,Luxembourg,0.3118741111680536,0,1,pt,WCE,Europe
 '8143644bfb',extremes,Drought,#edc291,edo,período de seca no Djibuti,2026-02-12T04:37:00+00:00,Djibouti,0.3118037565557281,0,1,pt,NEAF,Africa
@@ -533,6 +528,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c083328db2',extremes,Wildfire,#d60d2b,wmo,condado de mudança de incêndio florestal,2026-02-17T04:31:00+00:00,China,0.3040631668623184,0,1,pt,EAS,Asia
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,tempestade sul da Islândia,2026-02-19T04:32:00+00:00,Iceland,0.3040450891670598,0,1,pt,GIC,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2026-02-15T04:35:00+00:00,Algeria,0.3040358245474022,0,1,pt,SAH,Africa
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-03-04T04:20:00+00:00,,0.30403396160407375,1,1,pt,,
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,neve Sérvia,2026-02-09T04:39:00+00:00,Serbia,0.3040228068210757,0,1,pt,MED,Europe
 '156c18e469',extremes,Storm,#b3b2b1,wmo,rei da tempestade sabata dalindyebo mthatha,2026-02-23T04:37:00+00:00,South Africa,0.304011552799764,0,1,pt,WSAF,Africa
 '1613eab3ee',extremes,Drought,#edc291,edo,falta de chuva Etiópia,2026-03-04T04:21:00+00:00,Ethiopia,0.3039771181073929,0,1,pt,NEAF,Africa
@@ -597,27 +593,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-02-19T04:31:00+00:00,,0.2829625321887585,1,1,pt,,
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,proibição de incêndios em Nova Gales do Sul,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,pt,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,período de calor na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,pt,SAU,Oceania
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,incêndio florestal em Nova Gales do Sul,2026-03-08T04:25:00+00:00,Australia,0.27117336374041806,1,1,pt,EAU,Oceania
-'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,período de chuva na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.27099776004507087,1,1,pt,SAU,Oceania
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,incêndio florestal em Nova Gales do Sul,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,pt,EAU,Oceania
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,período de chuva na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.2709977600450708,1,1,pt,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical horacio,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,pt,SIO,Indian Ocean
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,iceberg d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,pt,EAN,
-'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,iceberg c18b,2026-03-06T04:21:00+00:00,,0.27067140842325715,1,1,pt,EAN,
+'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,iceberg c18b,2026-03-06T04:21:00+00:00,,0.2706714084232571,1,1,pt,EAN,
 'feb1dafabf',extremes,Heat Wave,#c40202,acwe,inverno ameno em Nova Gales do Sul,2026-03-10T04:22:00+00:00,Australia,0.2705544036292299,1,1,pt,EAU,Oceania
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,iceberg b22g,2026-03-06T04:21:00+00:00,Antarctica,0.2704368868154381,1,1,pt,WAN,Antarctica
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-02-19T04:31:00+00:00,,0.2702364564462257,1,1,pt,,
-'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 25s,2026-03-06T04:21:00+00:00,,0.27013615045773226,1,1,pt,SIO,Indian Ocean
+'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 25s,2026-03-06T04:21:00+00:00,,0.2701361504577322,1,1,pt,SIO,Indian Ocean
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,iceberg b15ab,2026-03-06T04:21:00+00:00,,0.2688485201919491,1,1,pt,EAN,
 '3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-02-05T04:28:00+00:00,Australia,0.2687645638852114,1,1,pt,SAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,pt,CAU,Oceania
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-02-05T04:27:00+00:00,,0.2684548787709752,1,1,pt,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,inundação inundação severa do ex ciclone tropical tiffany sul da austrália 2022,2026-02-08T04:44:00+00:00,Australia,0.2683642089942968,1,1,pt,SAU,Oceania
 'eabe6169ab',extremes,Earthquake,#870007,usgs,terremoto tonga,2026-02-05T04:27:00+00:00,Tonga,0.2681707930026051,1,1,pt,SPO,Pacific Ocean
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 26s,2026-03-07T04:12:00+00:00,,0.26812554866519156,1,1,pt,NAU,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,terremoto região das ilhas sanduíche do sul,2026-02-05T04:27:00+00:00,,0.2680384370003704,1,1,pt,SOO,Antarctica
 '65b4a087de',extremes,Earthquake,#870007,usgs,terremoto qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.2679620714354747,1,1,pt,ARS,Indian Ocean
 '924236ebf8',extremes,Earthquake,#870007,usgs,terremoto yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2678632364951275,1,1,pt,SAS,Asia
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,terremoto hihifo,2026-02-05T04:27:00+00:00,Tonga,0.2677984460116948,1,1,pt,SPO,Pacific Ocean
+'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 24p,2026-03-06T04:21:00+00:00,,0.2675826620913871,1,1,pt,NAU,Oceania
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,terremoto região das ilhas do príncipe Eduardo,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,pt,SOO,Antarctica
 '95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-02-05T04:27:00+00:00,Yemen,0.2674750910215091,1,1,pt,ARS,Indian Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,"fortes chuvas e inundações em Queensland, fevereiro de 2020",2026-02-08T04:44:00+00:00,Australia,0.2672427589824749,1,1,pt,EAU,Oceania
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical urmil,2026-03-06T04:21:00+00:00,,0.26724050486945183,1,1,pt,SPO,Pacific Ocean
 '90e6558608',extremes,Earthquake,#870007,usgs,terremoto dorsal mesoatlântica sul,2026-02-05T04:27:00+00:00,,0.2672321518347599,1,1,pt,SAO,Atlantic Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,terremoto vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,pt,RFE,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,terremoto houma,2026-02-05T04:27:00+00:00,Tonga,0.2670752713975374,1,1,pt,SPO,Pacific Ocean
