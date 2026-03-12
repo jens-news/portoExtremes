@@ -240,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3145835913442963,0,1,pt,EAU,Oceania
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,onda de calor argentina,2026-02-10T04:43:00+00:00,Argentina,0.3142807132131708,1,1,pt,SES,South-America
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,pt,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,pt,,
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,pt,SWS,South-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,pt,NAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclone tropical madagascar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pt,MDG,Africa
@@ -403,6 +404,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-02-26T04:29:00+00:00,Finland,0.3048308172590284,0,1,pt,NEU,Europe
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial tanzânia,2026-02-23T04:37:00+00:00,Tanzania,0.3048228727508678,0,1,pt,SEAF,Africa
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,congelando taloyoak gjoa Haven,2026-02-21T04:18:00+00:00,Canada,0.3048214356763383,0,1,pt,NEN,North-America
+'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,chuva torrencial santa elena.,2026-03-10T04:22:00+00:00,Ecuador,0.30481958642989115,0,1,pt,NWS,South-America
 '0d8e0e222f',extremes,Storm,#b3b2b1,wmo,tempestade do atol raa ao atol alif dhaal,2026-02-07T04:19:00+00:00,Maldives,0.3048187247799175,0,1,pt,EIO,Indian Ocean
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,avalanche na república chechena,2026-02-06T04:27:00+00:00,Russia,0.3048159381991854,0,1,pt,ESB,Europe
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,onda de calor iguaçu e arredores,2026-02-07T04:19:00+00:00,Argentina,0.3048137232868567,0,1,pt,SES,South-America
@@ -578,8 +580,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,onda de frio joshimath,2026-02-18T04:34:00+00:00,India,0.3031566153625645,0,1,pt,SAS,Asia
 '2efc827093',extremes,Flood,#030ba1,wmo,inundação repentina Eslovénia,2026-02-18T04:34:00+00:00,Slovenia,0.3030984641906427,0,1,pt,WCE,Europe
 'b36d6347fa',extremes,Storm,#b3b2b1,wmo,tempestade Norman Bay para Lodge Bay,2026-02-21T04:18:00+00:00,Canada,0.3030181279382626,0,1,pt,NEN,North-America
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,tempestade na Islândia,2026-02-27T04:26:00+00:00,Iceland,0.30298892972241137,0,1,pt,GIC,Europe
 '53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-03-04T04:21:00+00:00,Lithuania,0.3029811568342837,0,1,pt,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gelo Islândia,2026-02-26T04:29:00+00:00,Iceland,0.3029391372596148,0,1,pt,GIC,Europe
+'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,avalanche na república de Khakassia,2026-02-25T04:32:00+00:00,Russia,0.3029349769441142,0,1,pt,ESB,Europe
+'2ed3e5a7db',extremes,Snow Avalanche,#deddd5,wmo,avalanche de West Elk e Sawatch Mountains,2026-02-20T04:27:00+00:00,United States,0.30289952965487354,0,1,pt,CNA,North-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,aidr,inundações na Austrália,2026-02-05T04:28:00+00:00,Australia,0.2940026509882879,1,1,pt,EAU,Oceania
@@ -612,6 +617,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,período de seca no Djibuti,2026-02-12T04:37:00+00:00,Djibouti,0.2650331930723689,1,1,pt,NEAF,Africa
 'e873273000',extremes,Storm,#b3b2b1,emdat,tempestade maláui,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,pt,ESAF,Africa
 '51b14c1443',extremes,Flood,#030ba1,aidr,inundação geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,pt,SAU,Oceania
-'0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-03-11T04:21:00+00:00,,0.26404465045341585,1,1,pt,,
+'0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-03-11T04:21:00+00:00,,0.2640446504534158,1,1,pt,,
 '0de7f7e548',extremes,Drought,#edc291,edo,seca no Quênia,2026-02-22T04:31:00+00:00,Kenya,0.2635306764023476,1,1,pt,SEAF,Africa
-'80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-02-06T04:28:00+00:00,Belgium,0.26336809376374165,1,1,pt,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-02-06T04:28:00+00:00,Belgium,0.2633680937637416,1,1,pt,WCE,Europe
