@@ -166,7 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,bacias de poeira,2026-03-02T04:27:00+00:00,,0.4134326791133826,1,2,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-03-05T04:23:00+00:00,,0.4129817743074495,1,3,pt,,
 '4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2026-02-07T04:19:00+00:00,Portugal,0.4128524411912635,1,1,pt,MED,Europe
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitação equador,2026-02-18T04:34:00+00:00,Ecuador,0.41125330327635246,1,2,pt,NWS,South-America
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitação equador,2026-02-18T04:34:00+00:00,Ecuador,0.4112533032763524,1,2,pt,NWS,South-America
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-03-08T04:24:00+00:00,,0.4100075473236523,0,1,pt,,
 'c1df9ddee5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial santarém,2026-02-11T04:41:00+00:00,Portugal,0.4089124879925963,1,1,pt,MED,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-02-06T04:27:00+00:00,,0.4088944069262993,1,3,pt,,
@@ -245,8 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-02-13T04:34:00+00:00,New Zealand,0.3077190924613537,0,1,pt,NZ,Oceania
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,pt,WCE,Europe
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,pt,EIO,Indian Ocean
-'cd349f2a0f',extremes,Drought,#edc291,edo,seca hong kong,2026-02-06T04:28:00+00:00,Hong Kong,0.3070603586824189,0,1,pt,EAS,Asia
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-02-06T04:27:00+00:00,Saudi Arabia,0.3070037075062813,0,1,pt,ARP,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,gelo Canadá,2026-02-06T04:27:00+00:00,Canada,0.3069798588737309,0,1,pt,NEN,North-America
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,pt,NEAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,pt,NEN,North-America
@@ -597,5 +595,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '221e658bfd',extremes,Drought,#edc291,edo,seca luxemburgo,2026-02-10T04:43:00+00:00,Luxembourg,0.2626694832665585,1,1,pt,WCE,Europe
 '1f1fab5693',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república do congo,2026-02-13T04:34:00+00:00,Republic of the Congo,0.2620021377015885,1,1,pt,CAF,Africa
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2018 nt ciclone tropical marcus,2026-02-19T04:32:00+00:00,,0.2618680996118849,1,1,pt,NAU,Oceania
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-02-12T04:37:00+00:00,New Zealand,0.26143979591829547,1,1,pt,NZ,Oceania
-'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nova zelândia,2026-02-10T04:43:00+00:00,New Zealand,0.26128591959060665,1,1,pt,NZ,Oceania
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-02-12T04:37:00+00:00,New Zealand,0.2614397959182954,1,1,pt,NZ,Oceania
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nova zelândia,2026-02-10T04:43:00+00:00,New Zealand,0.2612859195906066,1,1,pt,NZ,Oceania
