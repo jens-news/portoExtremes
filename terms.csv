@@ -79,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e36c96442',extremes,Earthquake,#870007,usgs,terremoto moçambique,2026-02-08T04:43:00+00:00,Mozambique,0.5709143630999727,1,1,pt,ESAF,Africa
 '14a197e007',extremes,Precipitation,#d60d2b,wmo,precipitação portalegre,2026-02-02T04:36:00+00:00,Portugal,0.5698630328750227,1,1,pt,MED,Europe
 '8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-02-05T04:27:00+00:00,Portugal,0.5650028396619173,1,2,pt,MED,Europe
+'0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2026-03-02T04:27:00+00:00,Portugal,0.5647858167345077,0,1,pt,MED,Europe
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2026-02-24T04:31:00+00:00,Portugal,0.5640845680920866,1,1,pt,MED,Europe
 'ba252581f8',extremes,Precipitation,#d60d2b,wmo,chuva portalegre,2026-01-29T04:19:00+00:00,Portugal,0.5635694363244257,1,2,pt,MED,Europe
 '809471f476',extremes,Snow&Ice,#d60d2b,wmo,gelo coimbra,2026-03-06T04:21:00+00:00,Portugal,0.5619401410187693,1,1,pt,MED,Europe
@@ -538,6 +539,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitação Arábia Saudita,2026-02-27T04:26:00+00:00,Saudi Arabia,0.3035158767305617,0,1,pt,ARP,Asia
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,incêndio florestal harvey,2026-02-16T04:38:00+00:00,United States,0.3034773934264557,0,1,pt,CNA,North-America
 '1073537f95',extremes,Landslide,#572c03,wmo,deslizamento de rochas em partes de Vestland Fylke,2026-02-26T04:29:00+00:00,Norway,0.3034710385951806,0,1,pt,NEU,Europe
+'9bd86172ae',extremes,Storm,#b3b2b1,wmo,tempestade litoral e estribação,2026-03-13T04:25:00+00:00,Ecuador,0.30345387677035607,0,1,pt,NWS,South-America
 'cc1379f311',extremes,Storm,#b3b2b1,wmo,onda de tempestade península de avalon sudeste,2026-02-17T04:31:00+00:00,Canada,0.3034463718849327,0,1,pt,NEN,North-America
 'bf84083cec',extremes,Landslide,#572c03,wmo,deslizamento de terra na Noruega,2026-02-26T04:29:00+00:00,Norway,0.3034215705896508,0,1,pt,NEU,Europe
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,aguaceiro vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.3034110147758959,0,1,pt,SPO,Oceania
