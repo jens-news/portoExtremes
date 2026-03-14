@@ -242,15 +242,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,pt,WCE,Europe
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,pt,EIO,Indian Ocean
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,pt,NEAF,Africa
-'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,pt,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,seca Bélgica,2026-02-07T04:19:00+00:00,Belgium,0.30695128601443,0,1,pt,WCE,Europe
-'054f4c1126',extremes,Fog,#d60d2b,wmo,nevoeiro vale de Israel,2026-02-05T04:27:00+00:00,Israel,0.3068767383874344,0,1,pt,MED,Asia
-'945465874b',extremes,Drought,#edc291,edo,seca no Djibuti,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,pt,NEAF,Africa
-'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islândia gelada,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,pt,GIC,Europe
-'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2019 wa ciclone tropical severo veronica,2026-02-23T04:37:00+00:00,Australia,0.3068316102329143,0,1,pt,CAU,Oceania
-'4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitação maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3068266467072088,0,1,pt,SEAF,Africa
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Arábia Saudita,2026-02-05T04:27:00+00:00,Saudi Arabia,0.3067375234982505,0,1,pt,ARP,Asia
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-02-05T04:27:00+00:00,Argentina,0.3067056640519299,0,1,pt,SES,South-America
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,congelamento da Arábia Saudita,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3066989969432253,0,1,pt,ARP,Asia
 '74236bd182',extremes,Drought,#edc291,edo,falta de chuva na Islândia,2026-03-03T04:27:00+00:00,Iceland,0.3066897093677193,0,1,pt,GIC,Europe
 '893e673584',extremes,Earthquake,#870007,usgs,terremoto centro-leste aumento do pacífico,2026-02-05T04:27:00+00:00,,0.3066345035951426,0,1,pt,EPO,Pacific Ocean
@@ -592,3 +584,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2018 nt ciclone tropical marcus,2026-02-19T04:32:00+00:00,,0.2618680996118849,1,1,pt,NAU,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-02-12T04:37:00+00:00,New Zealand,0.2614397959182954,1,1,pt,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial nova zelândia,2026-02-10T04:43:00+00:00,New Zealand,0.2612859195906066,1,1,pt,NZ,Oceania
+'945465874b',extremes,Drought,#edc291,edo,seca no Djibuti,2026-03-07T04:13:00+00:00,Djibouti,0.26084481068202126,1,1,pt,NEAF,Africa
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islândia gelada,2026-02-18T04:34:00+00:00,Iceland,0.26084105668874924,1,1,pt,GIC,Europe
+'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2019 wa ciclone tropical severo veronica,2026-02-23T04:37:00+00:00,Australia,0.26080686869797715,1,1,pt,CAU,Oceania
+'4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitação maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2608026497011275,1,1,pt,SEAF,Africa
