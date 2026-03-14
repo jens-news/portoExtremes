@@ -245,7 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-02-13T04:34:00+00:00,New Zealand,0.3077190924613537,0,1,pt,NZ,Oceania
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,avalanche França,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,pt,WCE,Europe
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,pt,EIO,Indian Ocean
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,gelo Canadá,2026-02-06T04:27:00+00:00,Canada,0.3069798588737309,0,1,pt,NEN,North-America
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,pt,NEAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,pt,NEN,North-America
 '1ff36d7a46',extremes,Drought,#edc291,edo,seca Bélgica,2026-02-07T04:19:00+00:00,Belgium,0.30695128601443,0,1,pt,WCE,Europe
@@ -563,6 +562,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-02-22T04:30:00+00:00,,0.2849855674126958,1,2,pt,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-03-12T04:25:00+00:00,,0.2834466589197469,1,1,pt,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-02-19T04:31:00+00:00,,0.2829625321887585,1,1,pt,,
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,gelo Canadá,2026-02-06T04:27:00+00:00,Canada,0.28080060142198165,1,2,pt,NEN,North-America
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,proibição de incêndios em Nova Gales do Sul,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,1,1,pt,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,período de calor na Tasmânia,2026-03-05T04:24:00+00:00,Australia,0.2713560046315142,1,1,pt,SAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,incêndio florestal em Nova Gales do Sul,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,pt,EAU,Oceania
