@@ -246,18 +246,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,pt,NEAF,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,seca Bélgica,2026-02-07T04:19:00+00:00,Belgium,0.30695128601443,0,1,pt,WCE,Europe
 '893e673584',extremes,Earthquake,#870007,usgs,terremoto centro-leste aumento do pacífico,2026-02-05T04:27:00+00:00,,0.3066345035951426,0,1,pt,EPO,Pacific Ocean
-'8abdb9b5f3',extremes,Landslide,#572c03,wmo,deslizamento de rochas na Noruega,2026-02-25T04:32:00+00:00,Norway,0.3066004637968775,0,1,pt,NEU,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,pt,WCE,Europe
-'0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,pt,NEU,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,geada metrô de sydney e condado de cape breton,2026-02-16T04:38:00+00:00,Canada,0.3065595299615448,0,1,pt,NEN,North-America
-'21ada6323e',extremes,Drought,#edc291,edo,falta de chuva no Azerbaijão,2026-02-05T04:28:00+00:00,Azerbaijan,0.3065059264399009,0,1,pt,WCA,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-05T04:27:00+00:00,Argentina,0.3064436390474371,0,1,pt,SES,South-America
-'bd09b9486d',extremes,Drought,#edc291,edo,falta de chuva jibuti,2026-02-25T04:33:00+00:00,Djibouti,0.3064411481001536,0,1,pt,NEAF,Africa
-'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3064016807542408,0,1,pt,SEAF,Africa
-'0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-02-05T04:28:00+00:00,Luxembourg,0.3063386960753744,0,1,pt,WCE,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-02-05T04:27:00+00:00,Chile,0.3062964917581504,0,1,pt,SWS,South-America
-'ab8adba258',extremes,Storm,#b3b2b1,wmo,tempestade litoral província de huasco,2026-02-07T04:19:00+00:00,Chile,0.3062655957052314,0,1,pt,SWS,South-America
-'19541fab6d',extremes,Storm,#b3b2b1,wmo,tempestade na Finlândia,2026-02-08T04:43:00+00:00,Finland,0.3061967433595992,0,1,pt,NEU,Europe
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,onda de calor área 2 – moderada,2026-02-17T04:31:00+00:00,Paraguay,0.3061813424558632,0,1,pt,SES,South-America
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2026-02-09T04:39:00+00:00,South Africa,0.3061258757452039,0,1,pt,WSAF,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.3060784731831012,0,1,pt,NSA,North-America
@@ -588,4 +580,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islândia gelada,2026-02-18T04:34:00+00:00,Iceland,0.2608410566887492,1,1,pt,GIC,Europe
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2019 wa ciclone tropical severo veronica,2026-02-23T04:37:00+00:00,Australia,0.2608068686979771,1,1,pt,CAU,Oceania
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitação maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2608026497011275,1,1,pt,SEAF,Africa
-'74236bd182',extremes,Drought,#edc291,edo,falta de chuva na Islândia,2026-03-03T04:27:00+00:00,Iceland,0.26068625296256137,1,1,pt,GIC,Europe
+'74236bd182',extremes,Drought,#edc291,edo,falta de chuva na Islândia,2026-03-03T04:27:00+00:00,Iceland,0.2606862529625613,1,1,pt,GIC,Europe
+'8abdb9b5f3',extremes,Landslide,#572c03,wmo,deslizamento de rochas na Noruega,2026-02-25T04:32:00+00:00,Norway,0.2606103942273459,1,1,pt,NEU,Europe
+'0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-02-28T04:07:00+00:00,Estonia,0.26057793712064126,1,1,pt,NEU,Europe
+'bd09b9486d',extremes,Drought,#edc291,edo,falta de chuva jibuti,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,pt,NEAF,Africa
+'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.26044142864110464,1,1,pt,SEAF,Africa
