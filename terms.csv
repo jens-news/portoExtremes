@@ -228,11 +228,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-02-13T04:34:00+00:00,New Zealand,0.3077190924613537,0,1,pt,NZ,Oceania
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,pt,NEAF,Africa
 '1ff36d7a46',extremes,Drought,#edc291,edo,seca Bélgica,2026-02-07T04:19:00+00:00,Belgium,0.30695128601443,0,1,pt,WCE,Europe
-'429800b7a4',extremes,Drought,#edc291,edo,seca ilhas faroé,2026-03-15T04:45:00+00:00,Faroe Islands,0.3068240060967855,0,1,pt,NEU,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,pt,WCE,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,geada metrô de sydney e condado de cape breton,2026-02-16T04:38:00+00:00,Canada,0.3065595299615448,0,1,pt,NEN,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-27T04:26:00+00:00,Argentina,0.3064747662176361,0,1,pt,SES,South-America
-'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-02-27T04:26:00+00:00,Argentina,0.306404049065885,0,1,pt,SES,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.3060784731831012,0,1,pt,NSA,North-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,chuva áfrica do sul,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,pt,WSAF,Africa
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,onda de calor área 1 – grave,2026-02-17T04:31:00+00:00,Paraguay,0.3057877105283349,0,1,pt,SES,South-America
@@ -240,7 +238,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,nevoeiro região de volgogrado,2026-02-17T04:31:00+00:00,Russia,0.3057590741754413,0,1,pt,ESB,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-03-01T04:34:00+00:00,,0.3057457076397154,1,2,pt,,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,onda de calor resistência e alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3057291934176534,0,1,pt,SES,South-America
-'3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-26T04:29:00+00:00,Australia,0.30571616925696143,0,1,pt,EAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-26T04:29:00+00:00,Australia,0.3057161692569614,0,1,pt,EAU,Oceania
 'c27e209239',extremes,Precipitation,#d60d2b,wmo,chuva maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.3056889736854329,0,1,pt,SEAF,Africa
 '9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.3056451524245608,0,1,pt,SEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,chuva seychelles,2026-02-16T04:38:00+00:00,Seychelles,0.3056363313316763,0,1,pt,EIO,Africa
@@ -509,9 +507,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Islândia gelada,2026-02-18T04:34:00+00:00,Iceland,0.2608410566887492,1,1,pt,GIC,Europe
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2019 wa ciclone tropical severo veronica,2026-02-23T04:37:00+00:00,Australia,0.2608068686979771,1,1,pt,CAU,Oceania
 '4efa147b2d',extremes,Precipitation,#d60d2b,wmo,precipitação maeneo machache ya mkoa wa ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2608026497011275,1,1,pt,SEAF,Africa
+'429800b7a4',extremes,Drought,#edc291,edo,seca ilhas faroé,2026-03-15T04:45:00+00:00,Faroe Islands,0.26080040518226766,1,1,pt,NEU,Europe
 '74236bd182',extremes,Drought,#edc291,edo,falta de chuva na Islândia,2026-03-03T04:27:00+00:00,Iceland,0.2606862529625613,1,1,pt,GIC,Europe
 '0769f23236',extremes,Wildfire,#d60d2b,emdat,incêndio florestal nas aldeias de ndoubamoudou,2026-03-14T04:23:00+00:00,Central African Republic,0.2606361453036467,1,1,pt,CAF,Africa
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,deslizamento de rochas na Noruega,2026-02-25T04:32:00+00:00,Norway,0.2606103942273459,1,1,pt,NEU,Europe
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-02-27T04:26:00+00:00,Argentina,0.2605934567060022,1,1,pt,SES,South-America
 '0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-02-28T04:07:00+00:00,Estonia,0.2605779371206412,1,1,pt,NEU,Europe
 'bd09b9486d',extremes,Drought,#edc291,edo,falta de chuva jibuti,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,pt,NEAF,Africa
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2604414286411046,1,1,pt,SEAF,Africa
