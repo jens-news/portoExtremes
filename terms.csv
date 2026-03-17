@@ -241,7 +241,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c27e209239',extremes,Precipitation,#d60d2b,wmo,chuva maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.3056889736854329,0,1,pt,SEAF,Africa
 '9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.3056451524245608,0,1,pt,SEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,chuva seychelles,2026-02-16T04:38:00+00:00,Seychelles,0.3056363313316763,0,1,pt,EIO,Africa
-'3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-02-17T04:31:00+00:00,Ecuador,0.3056011259887339,0,1,pt,NWS,South-America
 '931978a75d',extremes,Cold Wave,#a7e9fa,wmo,onda de frio Arábia Saudita,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3055012172568431,0,1,pt,ARP,Asia
 'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,gelo sul da Islândia,2026-02-20T04:27:00+00:00,Iceland,0.3054947342693013,0,1,pt,GIC,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-02-17T04:31:00+00:00,Ecuador,0.3053862814232506,0,1,pt,NWS,South-America
@@ -514,6 +513,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd09b9486d',extremes,Drought,#edc291,edo,falta de chuva jibuti,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,pt,NEAF,Africa
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2604414286411046,1,1,pt,SEAF,Africa
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,onda de calor área 2 – moderada,2026-02-17T04:31:00+00:00,Paraguay,0.2602541410874837,1,1,pt,SES,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-02-17T04:31:00+00:00,Ecuador,0.2602110020904238,1,1,pt,NWS,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,onda de calor tartagal e alrededores,2026-02-17T04:31:00+00:00,Argentina,0.2601561634821294,1,1,pt,SES,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-03-02T04:27:00+00:00,Belgium,0.2599787758518052,1,1,pt,WCE,Europe
 '453697199c',extremes,Storm,#b3b2b1,wmo,tempestade Gana,2026-02-17T04:31:00+00:00,Ghana,0.2599358495712409,1,1,pt,WAF,Africa
