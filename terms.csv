@@ -104,7 +104,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,geada guarda,2026-03-04T04:20:00+00:00,Portugal,0.5229374931409957,1,1,pt,MED,Europe
 '7a5cae3274',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-02-23T04:37:00+00:00,Portugal,0.5202270120650558,1,1,pt,MED,Europe
 '466791c38e',extremes,Flood,#030ba1,cmeter,enchente de patos de minas,2026-03-14T04:23:00+00:00,Brazil,0.5198837778727979,1,1,pt,SES,South-America
-'a9fe2d405f',extremes,Precipitation,#d60d2b,wmo,aguaceiro setúbal,2026-03-18T04:36:00+00:00,Portugal,0.5192341465748861,0,1,pt,MED,Europe
 '9bd9707cac',extremes,Snow&Ice,#d60d2b,wmo,geada braga,2026-03-06T04:21:00+00:00,Portugal,0.5187458380144168,1,1,pt,MED,Europe
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-03-05T04:24:00+00:00,Portugal,0.5155206346022744,1,1,pt,MED,Europe
 '3b5a32e02d',extremes,Precipitation,#d60d2b,wmo,precipitação lisboa,2026-02-12T04:37:00+00:00,Portugal,0.5141187804051758,1,2,pt,MED,Europe
@@ -146,6 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-03-17T04:30:00+00:00,,0.4458544382504761,1,2,pt,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-02-08T04:43:00+00:00,,0.4452068681056438,1,2,pt,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-02-23T04:36:00+00:00,,0.4430690765962354,1,2,pt,,
+'a9fe2d405f',extremes,Precipitation,#d60d2b,wmo,aguaceiro setúbal,2026-03-18T04:36:00+00:00,Portugal,0.44134902458865316,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-03-05T04:24:00+00:00,Angola,0.4379065060401723,1,1,pt,WSAF,Africa
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-02-21T04:17:00+00:00,,0.4329477572612141,1,2,pt,,
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-02-11T04:41:00+00:00,Portugal,0.4325558658160366,1,1,pt,MED,Europe
@@ -206,7 +206,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-03-07T04:12:00+00:00,,0.3448359862585717,0,1,pt,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-03-06T04:20:00+00:00,,0.3419506871374064,1,1,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3407249218525999,1,2,pt,,
-'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-03-15T04:44:00+00:00,,0.3390353626862749,0,1,pt,,
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-03-17T04:30:00+00:00,,0.3370904707337654,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-02-27T04:25:00+00:00,,0.335790480399627,0,1,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-03-18T04:35:00+00:00,,0.3355443396544129,0,1,pt,,
@@ -414,6 +413,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,avalanche hardanger,2026-02-25T04:32:00+00:00,Norway,0.3028485879233042,0,1,pt,NEU,Europe
 'f850363ed5',extremes,Snow&Ice,#d60d2b,wmo,gelo sudeste da Islândia,2026-02-24T04:31:00+00:00,Iceland,0.3028332101099668,0,1,pt,GIC,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-02-26T04:29:00+00:00,Argentina,0.2978107372136708,1,2,pt,SES,South-America
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-03-15T04:44:00+00:00,,0.28833007328333365,1,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-03-12T04:25:00+00:00,,0.2880593342022701,1,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,pt,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,pt,,
