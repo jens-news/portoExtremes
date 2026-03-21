@@ -222,9 +222,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,pt,WCE,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,geada metrô de sydney e condado de cape breton,2026-02-16T04:38:00+00:00,Canada,0.3065595299615448,0,1,pt,NEN,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-27T04:26:00+00:00,Argentina,0.3064747662176361,0,1,pt,SES,South-America
-'6fbc657cf9',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 1 litoral,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,pt,SWS,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,chuva áfrica do sul,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,pt,WSAF,Africa
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-03-17T04:30:00+00:00,Argentina,0.3058272156012692,0,1,pt,SES,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.3058145105321779,0,1,pt,NSA,North-America
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,onda de calor área 1 – grave,2026-02-17T04:31:00+00:00,Paraguay,0.3057877105283349,0,1,pt,SES,South-America
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial dunedin a leste de pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.3057749930565493,0,1,pt,NZ,Oceania
@@ -410,6 +408,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-03-15T04:44:00+00:00,,0.2883300732833336,1,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-03-12T04:25:00+00:00,,0.2880593342022701,1,1,pt,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,pt,,
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-03-17T04:30:00+00:00,Argentina,0.2858532232610788,1,1,pt,SES,South-America
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-02-22T04:30:00+00:00,,0.2849855674126958,1,2,pt,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-03-12T04:25:00+00:00,,0.2834466589197469,1,1,pt,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-02-19T04:31:00+00:00,,0.2829625321887585,1,1,pt,,
@@ -462,11 +461,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-02-28T04:07:00+00:00,Estonia,0.2605779371206412,1,1,pt,NEU,Europe
 'bd09b9486d',extremes,Drought,#edc291,edo,falta de chuva jibuti,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,pt,NEAF,Africa
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,áreas de chuvas torrenciais da região de Ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2604414286411046,1,1,pt,SEAF,Africa
-'d61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-03-03T04:27:00+00:00,Chile,0.26038364079293863,1,1,pt,SWS,South-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-03-03T04:27:00+00:00,Chile,0.2603836407929386,1,1,pt,SWS,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,onda de calor área 2 – moderada,2026-02-17T04:31:00+00:00,Paraguay,0.2602541410874837,1,1,pt,SES,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-02-17T04:31:00+00:00,Ecuador,0.2602110020904238,1,1,pt,NWS,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,onda de calor tartagal e alrededores,2026-02-17T04:31:00+00:00,Argentina,0.2601561634821294,1,1,pt,SES,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-02-17T04:31:00+00:00,Ecuador,0.260028384209763,1,1,pt,NWS,South-America
+'6fbc657cf9',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 1 litoral,2026-03-17T04:30:00+00:00,Chile,0.2600250148980709,1,1,pt,SWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,seca na Bélgica,2026-03-02T04:27:00+00:00,Belgium,0.2599787758518052,1,1,pt,WCE,Europe
 '453697199c',extremes,Storm,#b3b2b1,wmo,tempestade Gana,2026-02-17T04:31:00+00:00,Ghana,0.2599358495712409,1,1,pt,WAF,Africa
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,registro de onda de calor. 3 pré-cordilheira,2026-02-17T04:31:00+00:00,Chile,0.2599195383088712,1,1,pt,SWS,South-America
