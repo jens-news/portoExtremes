@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-03-07T04:13:00+00:00,Brazil,0.665864799782548,0,1,pt,SAM,South-America
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-03-05T04:24:00+00:00,Portugal,0.6656177875785388,0,1,pt,MED,Europe
 'bc92e311be',extremes,Snow&Ice,#d60d2b,wmo,porto gelado,2026-03-06T04:21:00+00:00,Portugal,0.6615357887206086,1,2,pt,MED,Europe
-'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-03-15T04:45:00+00:00,Guinea-Bissau,0.660187823019163,0,1,pt,WAF,Africa
 '854e13a1a4',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo oriental,2026-03-18T04:36:00+00:00,Portugal,0.6536873611687113,1,2,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-02-27T04:26:00+00:00,Brazil,0.6508361405968556,1,2,pt,SAM,South-America
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-02-22T04:30:00+00:00,Portugal,0.6506585858601993,1,2,pt,MED,Europe
@@ -79,8 +78,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92879a0217',extremes,Storm,#b3b2b1,wmo,tempestade beja,2026-02-24T04:31:00+00:00,Portugal,0.5640845680920866,1,1,pt,MED,Europe
 '809471f476',extremes,Snow&Ice,#d60d2b,wmo,gelo coimbra,2026-03-06T04:21:00+00:00,Portugal,0.5619401410187693,1,1,pt,MED,Europe
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-02-09T04:39:00+00:00,Portugal,0.5616744681520666,0,1,pt,MED,Europe
+'50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-03-15T04:45:00+00:00,Guinea-Bissau,0.5611596495662885,1,1,pt,WAF,Africa
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-02-05T04:27:00+00:00,Portugal,0.5584504140917397,1,2,pt,MED,Europe
-'e54fff9be0',extremes,Precipitation,#d60d2b,wmo,precipitação madeira costa norte,2026-03-22T04:33:00+00:00,Portugal,0.5563084364184612,0,1,pt,MED,Europe
 'bd0c34a4e9',extremes,Snow&Ice,#d60d2b,wmo,neve castelo branco,2026-03-05T04:24:00+00:00,Portugal,0.5555717070408162,1,1,pt,MED,Europe
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-02-13T04:34:00+00:00,Portugal,0.5455829933202423,1,2,pt,NAO,Atlantic Ocean
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-02-10T04:43:00+00:00,Portugal,0.5444416283241366,0,1,pt,MED,Europe
@@ -122,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20e28abbd0',extremes,Precipitation,#d60d2b,wmo,precipitação açores grupo central,2026-03-18T04:36:00+00:00,Portugal,0.4800370015893618,1,1,pt,MED,Europe
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-03-19T04:35:00+00:00,Portugal,0.4797401454129367,1,1,pt,MED,Europe
 '0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-02-23T04:37:00+00:00,Portugal,0.4750471478970563,1,1,pt,MED,Europe
+'e54fff9be0',extremes,Precipitation,#d60d2b,wmo,precipitação madeira costa norte,2026-03-22T04:33:00+00:00,Portugal,0.474062305955692,1,1,pt,MED,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mais precipitação,2026-03-05T04:23:00+00:00,,0.4736941699799261,1,2,pt,,
 'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2026-03-21T04:17:00+00:00,Portugal,0.468266416234803,1,2,pt,MED,Europe
 '91c4376692',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais açores grupo ocidental,2026-02-23T04:37:00+00:00,Portugal,0.4646736514482322,1,1,pt,MED,Europe
@@ -170,7 +170,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-03-15T04:44:00+00:00,,0.3979656049210516,0,1,pt,,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-03-19T04:35:00+00:00,Bermuda,0.3967175549255695,0,1,pt,NAO,Atlantic Ocean
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-02-26T04:28:00+00:00,,0.3965367834607499,0,1,pt,,
-'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-03-22T04:32:00+00:00,,0.39193601824210367,0,1,pt,,
+'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-03-22T04:32:00+00:00,,0.3919360182421036,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3910329139241656,0,1,pt,,
 'a15b8dc1cf',extremes,Precipitation,#d60d2b,wmo,chuva viana do castelo,2026-02-09T04:39:00+00:00,Portugal,0.3882122833712615,1,2,pt,MED,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-02-19T04:31:00+00:00,,0.3881310014289571,0,1,pt,,
