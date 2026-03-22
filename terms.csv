@@ -71,7 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-03-05T04:24:00+00:00,Portugal,0.5828341056059583,0,1,pt,MED,Europe
 'ba5ddec4bd',extremes,Snow&Ice,#d60d2b,wmo,neve madeira regiões montanhosas,2026-03-18T04:36:00+00:00,Portugal,0.5819663477439481,1,2,pt,MED,Europe
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-02-11T04:41:00+00:00,Portugal,0.5760278860013919,0,1,pt,MED,Europe
-'4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-03-07T04:12:00+00:00,Portugal,0.5760146457688962,0,1,pt,MED,Europe
 'a7e497a0ee',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-02-05T04:27:00+00:00,Portugal,0.5758494546711579,1,2,pt,MED,Europe
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-03-04T04:20:00+00:00,Portugal,0.5748406282884413,1,2,pt,MED,Europe
 '3fb8010a56',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-03-18T04:36:00+00:00,Portugal,0.5738275567907064,0,1,pt,MED,Europe
@@ -113,6 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-03-03T04:27:00+00:00,Equatorial Guinea,0.497944428119228,1,1,pt,WAF,Africa
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-03-02T04:27:00+00:00,Guinea-Bissau,0.4932195029305336,1,1,pt,WAF,Africa
 'd9ab59f172',extremes,Precipitation,#d60d2b,wmo,precipitação setúbal,2026-02-11T04:41:00+00:00,Portugal,0.4910367607061036,1,3,pt,MED,Europe
+'4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-03-07T04:12:00+00:00,Portugal,0.4896124489035617,1,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-03-12T04:26:00+00:00,Mozambique,0.4888344589344615,0,1,pt,ESAF,Africa
 '03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-03-07T04:12:00+00:00,Portugal,0.4854733491195512,1,1,pt,MED,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-03-11T04:21:00+00:00,,0.4845552840822171,1,3,pt,,
@@ -123,10 +123,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ebaf222ef',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-03-19T04:35:00+00:00,Portugal,0.4797401454129367,1,1,pt,MED,Europe
 '0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-02-23T04:37:00+00:00,Portugal,0.4750471478970563,1,1,pt,MED,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mais precipitação,2026-03-05T04:23:00+00:00,,0.4736941699799261,1,2,pt,,
+'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2026-03-21T04:17:00+00:00,Portugal,0.46826641623480303,1,2,pt,MED,Europe
 '91c4376692',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais açores grupo ocidental,2026-02-23T04:37:00+00:00,Portugal,0.4646736514482322,1,1,pt,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-02-18T04:33:00+00:00,,0.4645828426093419,1,3,pt,,
 '5a9ee29025',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa norte,2026-03-02T04:27:00+00:00,Portugal,0.4635612105814921,1,1,pt,MED,Europe
-'de7755e16a',extremes,Precipitation,#d60d2b,wmo,precipitação beja,2026-03-21T04:17:00+00:00,Portugal,0.4623133779232977,0,1,pt,MED,Europe
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-02-15T04:35:00+00:00,Portugal,0.4621500681629042,1,2,pt,NAO,Atlantic Ocean
 'd987bb5d25',extremes,Precipitation,#d60d2b,wmo,aguaceiro lisboa,2026-03-18T04:36:00+00:00,Portugal,0.4592569537973941,1,1,pt,MED,Europe
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-03-16T05:05:00+00:00,Timor Leste,0.4588937884409245,0,1,pt,SEA,Oceania
