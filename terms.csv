@@ -157,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-03-08T04:24:00+00:00,,0.4100075473236523,0,1,pt,,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,onda de calor no Paraguai,2026-02-18T04:34:00+00:00,Paraguay,0.4096873656239165,1,2,pt,SES,South-America
 'e41bc42224',extremes,Precipitation,#d60d2b,wmo,chuva Egito,2026-03-14T04:22:00+00:00,Egypt,0.409230050211098,1,2,pt,SAH,Africa
+'349b9f9026',extremes,Heat Wave,#c40202,wmo,onda de calor área 3 – menor,2026-02-17T04:31:00+00:00,Paraguay,0.4091221826359739,1,2,pt,SES,South-America
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-02-06T04:27:00+00:00,,0.4088944069262993,1,3,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-02-17T04:30:00+00:00,,0.4050788167912685,0,1,pt,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-03-21T04:17:00+00:00,,0.3980083781946427,0,1,pt,,
@@ -250,12 +251,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – moderada,2026-03-10T04:22:00+00:00,Paraguay,0.3047981478663164,0,1,pt,SES,South-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,congelando paulatuk,2026-02-22T04:30:00+00:00,Canada,0.304795505263385,0,1,pt,NEN,North-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitação áfrica do sul,2026-02-23T04:37:00+00:00,South Africa,0.3047881321827506,0,1,pt,WSAF,Africa
-'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,"neve, grand Falls, windsor e arredores",2026-02-21T04:18:00+00:00,Canada,0.3047605695454427,0,1,pt,NEN,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone austrália,2026-02-26T04:29:00+00:00,Australia,0.3047489023945962,0,1,pt,CAU,Oceania
-'039582a476',extremes,Storm,#b3b2b1,wmo,tempestade litoral da província de huasco,2026-02-16T04:38:00+00:00,Chile,0.3047449499833663,0,1,pt,SWS,South-America
 '0f4e772c66',extremes,Storm,#b3b2b1,wmo,tempestade na metade norte,2026-02-19T04:32:00+00:00,Ghana,0.3047383837442314,0,1,pt,WAF,Africa
-'f8714a698d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-02-16T04:38:00+00:00,Ecuador,0.3046959753215231,0,1,pt,NWS,South-America
-'349b9f9026',extremes,Heat Wave,#c40202,wmo,onda de calor área 3 – menor,2026-02-17T04:31:00+00:00,Paraguay,0.3046731383952634,0,1,pt,SES,South-America
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,tempestade ilhas chatham,2026-02-16T04:38:00+00:00,New Zealand,0.3046554907517611,0,1,pt,NZ,Oceania
 '9fe5b0338d',extremes,Fog,#d60d2b,wmo,nevoeiro Croácia,2026-03-01T04:35:00+00:00,Croatia,0.3046552787425187,0,1,pt,WCE,Europe
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,onda de calor corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.3046482059219458,0,1,pt,SES,South-America
@@ -477,3 +474,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6d696437a',extremes,Snow&Ice,#d60d2b,wmo,geada sul da islândia,2026-02-18T04:34:00+00:00,Iceland,0.2591295858650631,1,1,pt,GIC,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-02-26T04:29:00+00:00,Finland,0.2591061946701741,1,1,pt,NEU,Europe
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,congelando taloyoak gjoa Haven,2026-02-21T04:18:00+00:00,Canada,0.2590982203248875,1,1,pt,NEN,North-America
+'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,"neve, grand Falls, windsor e arredores",2026-02-21T04:18:00+00:00,Canada,0.2590464841136263,1,1,pt,NEN,North-America
