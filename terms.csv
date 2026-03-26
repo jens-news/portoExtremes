@@ -54,6 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e13591831',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-02-18T04:34:00+00:00,Portugal,0.6010543903898952,1,2,pt,MED,Europe
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2026-03-14T04:23:00+00:00,Guinea-Bissau,0.598075433250628,0,1,pt,WAF,Africa
 '38784ec34b',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo ocidental,2026-02-24T04:31:00+00:00,Portugal,0.597997110281213,1,1,pt,MED,Europe
+'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-03-26T04:56:00+00:00,Sao Tome and Principe,0.5965620985010675,0,1,pt,WAF,Africa
 '6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2026-03-17T04:30:00+00:00,Portugal,0.5922033633194359,1,2,pt,MED,Europe
 'c0daf70c1d',extremes,Flood,#030ba1,cmeter,inundação brasil,2026-03-19T04:36:00+00:00,Brazil,0.5916156238646686,1,2,pt,SES,South-America
 '20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-03-09T04:31:00+00:00,Portugal,0.5911479219351558,0,1,pt,MED,Europe
@@ -106,6 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-03-12T04:26:00+00:00,Mozambique,0.4888344589344615,0,1,pt,ESAF,Africa
 '7fcdb08003',extremes,Precipitation,#d60d2b,wmo,chuva madeira porto santo,2026-03-24T04:31:00+00:00,Portugal,0.4864545176284154,1,1,pt,MED,Europe
 '03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-03-07T04:12:00+00:00,Portugal,0.4854733491195512,1,1,pt,MED,Europe
+'bbdad2b9fb',extremes,Precipitation,#d60d2b,cmeter,inundações no brasil,2026-03-26T04:57:00+00:00,Brazil,0.48492070238832363,0,1,pt,SES,South-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-03-11T04:21:00+00:00,,0.4845552840822171,1,3,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-03-01T04:34:00+00:00,,0.4832260978505253,1,2,pt,,
 'd9af565f4e',extremes,Precipitation,#d60d2b,wmo,chuva évora,2026-02-13T04:34:00+00:00,Portugal,0.4829765500752175,1,2,pt,MED,Europe
@@ -196,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-03-05T04:23:00+00:00,,0.3456825073223495,0,1,pt,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-03-07T04:12:00+00:00,,0.3448359862585717,0,1,pt,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-03-06T04:20:00+00:00,,0.3419506871374064,1,1,pt,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-02-12T04:36:00+00:00,,0.3407249218525999,1,2,pt,,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-02-27T04:25:00+00:00,,0.335790480399627,0,1,pt,,
@@ -211,6 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,pt,,
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,tempestade no norte,2026-03-23T04:42:00+00:00,New Zealand,0.3171649090382845,1,2,pt,NZ,Oceania
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-03-17T04:30:00+00:00,,0.3160276201237005,1,2,pt,,
+'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical 28p,2026-03-24T04:31:00+00:00,,0.31564446099843957,0,1,pt,SPO,Pacific Ocean
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,pt,,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,tempestade de granizo no norte de Sydney 2017,2026-03-06T04:21:00+00:00,,0.3132754658741309,0,1,pt,EAU,Oceania
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,ciclone tropical madagascar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,pt,MDG,Africa
@@ -232,8 +236,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,geada bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,pt,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,tempestade em Viena Währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,pt,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,pt,NZ,Oceania
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,tempestade em Auckland e ilha da grande barreira,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,1,pt,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,tempestade völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,pt,WCE,Europe
-'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,geada oberwart,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,pt,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,geada República Tcheca,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,pt,WCE,Europe
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,geada oberwart,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,pt,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,schwaz congelante,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,pt,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,tempestade mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,pt,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,congelando gmunden,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,pt,WCE,Europe
@@ -241,12 +247,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,tempestade reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,pt,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,tempestade lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,pt,WCE,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,seca na Somália,2026-02-28T04:07:00+00:00,Somalia,0.3069600000485408,0,1,pt,NEAF,Africa
-'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,tempestade spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,1,pt,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,tempestade spittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,pt,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,tempestade na Irlanda,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,pt,NEU,Europe
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,tempestade na Irlanda,2026-03-25T04:33:00+00:00,Ireland,0.3069039455676365,0,1,pt,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,gelo hallein,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,pt,WCE,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,tempestade Arábia Saudita,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,pt,ARP,Asia
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,tempestade do norte da Macedónia,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,pt,MED,Europe
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2026-03-10T04:22:00+00:00,Algeria,0.306622363129756,0,1,pt,SAH,Africa
 'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,pt,WCE,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,geada metrô de sydney e condado de cape breton,2026-02-16T04:38:00+00:00,Canada,0.3065595299615448,0,1,pt,NEN,North-America
+'25908560bf',extremes,Snow&Ice,#d60d2b,wmo,congelando na Arábia Saudita,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,pt,ARP,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-02-27T04:26:00+00:00,Argentina,0.3064747662176361,0,1,pt,SES,South-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-03-22T04:33:00+00:00,Jamaica,0.3060953771816328,0,1,pt,CAR,North-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,chuva áfrica do sul,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,pt,WSAF,Africa
