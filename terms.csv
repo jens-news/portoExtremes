@@ -328,7 +328,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,tempestade tempestade de granizo sydney nova gales do sul 2015,2026-04-01T05:13:00+00:00,,0.3057856716350142,0,1,pt,EAU,Oceania
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-03-01T04:34:00+00:00,,0.3057457076397154,1,2,pt,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-02-26T04:29:00+00:00,Australia,0.3057161692569614,0,1,pt,EAU,Oceania
-'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,tempestade em guezzam,2026-04-08T05:01:00+00:00,Algeria,0.30571558407180227,0,1,pt,SAH,Africa
+'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,tempestade em guezzam,2026-04-08T05:01:00+00:00,Algeria,0.3057155840718022,0,1,pt,SAH,Africa
 'c27e209239',extremes,Precipitation,#d60d2b,wmo,chuva maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.3056889736854329,0,1,pt,SEAF,Africa
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone ciclone yasi queensland 2011,2026-02-26T04:29:00+00:00,,0.3056764374419178,0,1,pt,NAU,Oceania
 '9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.3056451524245608,0,1,pt,SEAF,Africa
@@ -428,7 +428,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,chuva sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.3041466724088109,0,1,pt,NWS,South-America
 '3353502ff9',extremes,Thunderstorm,#53785a,wmo,trovoada nas ilhas do sul de vanuatu.,2026-02-22T04:30:00+00:00,Vanuatu,0.3041438664822529,0,1,pt,SPO,Oceania
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,chuva península de coromandel,2026-03-11T04:22:00+00:00,New Zealand,0.3041346456438358,0,1,pt,NZ,Oceania
-'69840e877f',extremes,Storm,#b3b2b1,wmo,tempestade Bulgária,2026-04-08T05:01:00+00:00,Bulgaria,0.30411074961481765,0,1,pt,MED,Europe
+'69840e877f',extremes,Storm,#b3b2b1,wmo,tempestade Bulgária,2026-04-08T05:01:00+00:00,Bulgaria,0.3041107496148176,0,1,pt,MED,Europe
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclone tropical ilhas áridas a leste,2026-02-25T04:32:00+00:00,United States,0.304095104246414,0,1,pt,CNA,North-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,tempo severo Botsuana,2026-03-23T04:42:00+00:00,Botswana,0.304092267143164,0,1,pt,WSAF,Africa
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,tempestade uruguai,2026-02-24T04:31:00+00:00,Uruguay,0.3040794460434937,0,1,pt,SES,South-America
@@ -681,7 +681,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd25458a7ef',extremes,Storm,#b3b2b1,wmo,tempestade wien ottakring,2026-03-25T04:33:00+00:00,Austria,0.3017864253303514,0,1,pt,WCE,Europe
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,geada reino unido,2026-04-04T04:30:00+00:00,United Kingdom,0.3017798721773943,0,1,pt,NEU,Europe
 '7a020e86c6',extremes,Storm,#b3b2b1,wmo,tempestade wien alsergrund,2026-03-25T04:33:00+00:00,Austria,0.3017596500783288,0,1,pt,WCE,Europe
-'00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,geada Romênia,2026-03-30T05:12:00+00:00,Romania,0.30175904384787094,0,1,pt,WCE,Europe
+'00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,geada Romênia,2026-03-30T05:12:00+00:00,Romania,0.3017590438478709,0,1,pt,WCE,Europe
+'ffd3d8548f',extremes,Precipitation,#d60d2b,wmo,aguaceiro na costa adriática central,2026-03-26T04:56:00+00:00,Montenegro,0.3017387637897877,0,1,pt,MED,Europe
+'450630844b',extremes,Storm,#b3b2b1,wmo,tempestade wien innere stadt,2026-03-25T04:33:00+00:00,Austria,0.3016907041566899,0,1,pt,WCE,Europe
+'94682dfc83',extremes,Storm,#b3b2b1,wmo,tempestade Kufstein,2026-03-25T04:33:00+00:00,Austria,0.30167482757044173,0,1,pt,WCE,Europe
+'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais Ilhas Salomão,2026-03-21T04:17:00+00:00,Solomon Islands,0.30165311367804604,0,1,pt,EPO,Oceania
+'26eda32389',extremes,Fog,#d60d2b,wmo,nevoeiro centro báltico leste,2026-03-30T05:12:00+00:00,Latvia,0.3016293667313411,0,1,pt,WCE,Europe
+'ea3851aef0',extremes,Storm,#b3b2b1,wmo,tempestade em Mattersburg,2026-03-25T04:33:00+00:00,Austria,0.3015876410532247,0,1,pt,WCE,Europe
+'35e648eba5',extremes,Heat Wave,#c40202,wmo,onda de calor cidade de gejiu,2026-03-31T04:59:00+00:00,China,0.30155174847436583,0,1,pt,EAS,Asia
+'dc80df776c',extremes,Snow&Ice,#d60d2b,wmo,gelo Suécia,2026-03-22T04:33:00+00:00,Sweden,0.3015458174945839,0,1,pt,NEU,Europe
+'24b660695f',extremes,Landslide,#572c03,wmo,deslizamento de terra na China,2026-03-22T04:33:00+00:00,China,0.3015021354446497,0,1,pt,EAS,Asia
+'519c58c063',extremes,Flood,#030ba1,wmo,inundação na Índia,2026-03-26T04:56:00+00:00,India,0.30148956128597737,0,1,pt,SAS,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-02-26T04:29:00+00:00,Argentina,0.2978107372136708,1,2,pt,SES,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-03-15T04:44:00+00:00,,0.2883300732833336,1,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-03-12T04:25:00+00:00,,0.2880593342022701,1,1,pt,,
