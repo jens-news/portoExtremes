@@ -634,7 +634,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-03-17T04:30:00+00:00,Argentina,0.3027641468975316,0,1,pt,SES,South-America
 '79e64835e0',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de Qiubei,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,pt,EAS,Asia
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,chuva على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.3027442274390931,0,1,pt,SAH,Africa
-'d709206c08',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 15 cordilheira,2026-04-13T05:28:00+00:00,Chile,0.30274371790685917,0,1,pt,SWS,South-America
+'d709206c08',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 15 cordilheira,2026-04-13T05:28:00+00:00,Chile,0.3027437179068591,0,1,pt,SWS,South-America
 '7be17d2b72',extremes,Storm,#b3b2b1,wmo,tempestade litoral e oeste da serra,2026-03-01T04:35:00+00:00,Ecuador,0.3027407097453443,0,1,pt,NWS,South-America
 'd46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone tropical debbie queensland 2017,2026-03-03T04:27:00+00:00,Australia,0.3027307570759854,0,1,pt,EAU,Oceania
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,gelo nakina aroland pagwa,2026-04-08T05:01:00+00:00,Canada,0.3027266669364094,0,1,pt,NEN,North-America
@@ -714,7 +714,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '814435064a',extremes,Snow&Ice,#d60d2b,wmo,gelo Eslovênia,2026-03-25T04:33:00+00:00,Slovenia,0.3021258018383981,0,1,pt,WCE,Europe
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,chuva torrencial taupo,2026-03-26T04:56:00+00:00,New Zealand,0.302114665515127,0,1,pt,NZ,Oceania
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na região da cidade de Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.3021127362136492,0,1,pt,NZ,Oceania
-'420886cb54',extremes,Wildfire,#d60d2b,wmo,incêndio florestal condado autônomo de eshan yi,2026-04-05T05:01:00+00:00,China,0.30210380078256344,0,1,pt,EAS,Asia
+'420886cb54',extremes,Wildfire,#d60d2b,wmo,incêndio florestal condado autônomo de eshan yi,2026-04-05T05:01:00+00:00,China,0.3021038007825634,0,1,pt,EAS,Asia
 'b5dec9d924',extremes,Storm,#b3b2b1,wmo,tempestade na região do canal velebit,2026-03-14T04:22:00+00:00,Croatia,0.3020940360124279,0,1,pt,WCE,Europe
 'efde745e9a',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais baía de abundância a oeste de whakatane,2026-03-26T04:56:00+00:00,New Zealand,0.302083208101682,0,1,pt,NZ,Oceania
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-03-12T04:26:00+00:00,Paraguay,0.3020801526708981,0,1,pt,SES,South-America
@@ -724,7 +724,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869f1d30c6',extremes,Storm,#b3b2b1,wmo,tempestade Dornbirn,2026-03-25T04:33:00+00:00,Austria,0.3020448976180925,0,1,pt,WCE,Europe
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,chuva Líbia,2026-03-25T04:33:00+00:00,Libya,0.3020368241482798,0,1,pt,SAH,Africa
 'fd13243bee',extremes,Storm,#b3b2b1,wmo,tempestade wien hernals,2026-03-25T04:33:00+00:00,Austria,0.3020085564368063,0,1,pt,WCE,Europe
-'66dde132e2',extremes,Landslide,#572c03,wmo,deslizamento de terra no condado de xiajiang,2026-04-13T05:28:00+00:00,China,0.30198637587754085,0,1,pt,EAS,Asia
+'66dde132e2',extremes,Landslide,#572c03,wmo,deslizamento de terra no condado de xiajiang,2026-04-13T05:28:00+00:00,China,0.3019863758775408,0,1,pt,EAS,Asia
 'b1e4e07a7d',extremes,Precipitation,#d60d2b,wmo,aguaceiro taranaki maunga,2026-03-25T04:33:00+00:00,New Zealand,0.3019822067074632,0,1,pt,NZ,Oceania
 'd754055198',extremes,Thunderstorm,#53785a,wmo,tempo severo,2026-03-25T04:33:00+00:00,Qatar,0.3019794340364082,0,1,pt,ARP,Asia
 '34fbbb4741',extremes,Storm,#b3b2b1,wmo,tempestade wien rudolfsheim fünfhaus,2026-03-25T04:33:00+00:00,Austria,0.3019560860716966,0,1,pt,WCE,Europe
@@ -749,8 +749,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffd3d8548f',extremes,Precipitation,#d60d2b,wmo,aguaceiro na costa adriática central,2026-03-26T04:56:00+00:00,Montenegro,0.3017387637897877,0,1,pt,MED,Europe
 '450630844b',extremes,Storm,#b3b2b1,wmo,tempestade wien innere stadt,2026-03-25T04:33:00+00:00,Austria,0.3016907041566899,0,1,pt,WCE,Europe
 '94682dfc83',extremes,Storm,#b3b2b1,wmo,tempestade Kufstein,2026-03-25T04:33:00+00:00,Austria,0.3016748275704417,0,1,pt,WCE,Europe
-'6c7c509ea5',extremes,Flood,#030ba1,wmo,inundação na Suécia,2026-04-13T05:28:00+00:00,Sweden,0.30166573818444664,0,1,pt,NEU,Europe
+'6c7c509ea5',extremes,Flood,#030ba1,wmo,inundação na Suécia,2026-04-13T05:28:00+00:00,Sweden,0.3016657381844466,0,1,pt,NEU,Europe
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais Ilhas Salomão,2026-03-21T04:17:00+00:00,Solomon Islands,0.301653113678046,0,1,pt,EPO,Oceania
+'23f678bf35',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no distrito de zhanyi,2026-03-27T04:57:00+00:00,China,0.3016395859224905,0,1,pt,EAS,Asia
 '26eda32389',extremes,Fog,#d60d2b,wmo,nevoeiro centro báltico leste,2026-03-30T05:12:00+00:00,Latvia,0.3016293667313411,0,1,pt,WCE,Europe
 '5032c3d748',extremes,Wildfire,#d60d2b,wmo,incêndio florestal hongta,2026-04-06T05:11:00+00:00,China,0.3016163406248979,0,1,pt,EAS,Asia
 'ea3851aef0',extremes,Storm,#b3b2b1,wmo,tempestade em Mattersburg,2026-03-25T04:33:00+00:00,Austria,0.3015876410532247,0,1,pt,WCE,Europe
@@ -774,14 +775,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42b882d252',extremes,Drought,#edc291,edo,falta de chuva na Dinamarca,2026-04-02T04:42:00+00:00,Denmark,0.3013550459687975,0,1,pt,NEU,Europe
 'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,chuva torrencial tasman a oeste de motueka,2026-03-25T04:33:00+00:00,New Zealand,0.3013489342206372,0,1,pt,NZ,Oceania
 '957a7a09df',extremes,Earthquake,#870007,usgs,estação attu do terremoto,2026-03-23T04:41:00+00:00,Alaska,0.3013381277755209,0,1,pt,NPO,Pacific Ocean
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,avalanche finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.30133210038249597,0,1,pt,NEU,Europe
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,inundação saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.3013291172423352,0,1,pt,CNA,North-America
 'e47cddb102',extremes,Storm,#b3b2b1,wmo,tempestade lienz,2026-03-25T04:33:00+00:00,Austria,0.3013059066827133,0,1,pt,WCE,Europe
 '8c5b347857',extremes,Storm,#b3b2b1,wmo,tempestade na península de Coromandel,2026-04-12T05:12:00+00:00,New Zealand,0.3012608768525229,0,1,pt,NZ,Oceania
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.301240808803528,0,1,pt,NWS,South-America
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Arábia Saudita,2026-04-08T05:01:00+00:00,Saudi Arabia,0.30119363314902164,0,1,pt,ARP,Asia
 '26c75cc7f3',extremes,Storm,#b3b2b1,wmo,tempestade baía da abundância e rotorua,2026-04-11T04:34:00+00:00,New Zealand,0.3011588341091629,0,1,pt,NZ,Oceania
+'94e628bbb7',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no distrito de Qilin,2026-04-11T04:34:00+00:00,China,0.3011226616845581,0,1,pt,EAS,Asia
 'df012197cf',extremes,Storm,#b3b2b1,wmo,tempestade região vardar,2026-03-26T04:56:00+00:00,North Macedonia,0.3010963093165635,0,1,pt,MED,Europe
 '9eacfd59cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial continental e de montanha,2026-03-26T04:56:00+00:00,Montenegro,0.3010822435581784,0,1,pt,MED,Europe
 '0dd277aa94',extremes,Flood,#030ba1,wmo,inundação região de vladimir,2026-03-29T05:00:00+00:00,Russia,0.3010820040201581,0,1,pt,ESB,Europe
+'72c859897b',extremes,Storm,#b3b2b1,wmo,tempestade em Viena favorita,2026-03-25T04:33:00+00:00,Austria,0.3010679303002506,0,1,pt,WCE,Europe
+'fd071fede5',extremes,Landslide,#572c03,wmo,deslizamento de rochas na cidade de Ganzhou,2026-04-07T04:59:00+00:00,China,0.30106729475428384,0,1,pt,EAS,Asia
+'e6c551d0ec',extremes,Earthquake,#870007,usgs,terremoto Cazaquistão,2026-04-03T04:42:00+00:00,Kazakhstan,0.30105797179570504,0,1,pt,ECA,Asia
+'aac8f93d28',extremes,Snow&Ice,#d60d2b,wmo,gelo no leste da Sérvia,2026-03-26T04:56:00+00:00,Serbia,0.30105256225165344,0,1,pt,MED,Europe
+'5966f3dffc',extremes,Storm,#b3b2b1,wmo,tempestade letônia,2026-04-04T04:30:00+00:00,Latvia,0.3010376338841719,0,1,pt,WCE,Europe
+'935b5342fa',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de luliang,2026-04-10T05:13:00+00:00,China,0.30101087688292605,0,1,pt,EAS,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-02-26T04:29:00+00:00,Argentina,0.2978107372136708,1,2,pt,SES,South-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-03-15T04:44:00+00:00,,0.2883300732833336,1,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-03-12T04:25:00+00:00,,0.2880593342022701,1,1,pt,,
