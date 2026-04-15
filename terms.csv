@@ -26,15 +26,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-03-04T04:20:00+00:00,Portugal,0.6459997206895554,0,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-04-10T05:13:00+00:00,Cabo Verde,0.6396847163509145,0,1,pt,NAO,Atlantic Ocean
 '61bcd02de5',extremes,Drought,#edc291,edo,seca moçambique,2026-04-03T04:43:00+00:00,Mozambique,0.6353188655155013,0,1,pt,ESAF,Africa
-'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-04-03T04:43:00+00:00,Guinea-Bissau,0.6342260099604885,0,1,pt,WAF,Africa
-'854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-03-07T04:12:00+00:00,Portugal,0.6342233574397459,0,1,pt,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-03-30T05:12:00+00:00,Sao Tome and Principe,0.6329610232347613,1,1,pt,WAF,Africa
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-04-01T05:12:00+00:00,Guinea-Bissau,0.6299521216795831,0,1,pt,WAF,Africa
-'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-04-05T05:01:00+00:00,Bermuda,0.6282201021346348,0,1,pt,NAO,Atlantic Ocean
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade Leiria,2026-03-05T04:24:00+00:00,Portugal,0.6176514266792552,1,2,pt,MED,Europe
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-03-10T04:22:00+00:00,Portugal,0.6160616337903083,0,1,pt,MED,Europe
 'ca2ea52a94',extremes,Snow&Ice,#d60d2b,wmo,vila real congelante,2026-03-05T04:24:00+00:00,Portugal,0.6142728738511951,0,1,pt,MED,Europe
-'d1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-04-08T05:01:00+00:00,Portugal,0.6132122160985981,0,1,pt,MED,Europe
 'c70563434e',extremes,Snow&Ice,#d60d2b,wmo,neve bragança,2026-03-06T04:21:00+00:00,Portugal,0.6118427226724417,0,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-03-15T04:45:00+00:00,Angola,0.6092220496242086,1,1,pt,WSAF,Africa
 'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-03-09T04:31:00+00:00,Portugal,0.6086130655234951,1,2,pt,MED,Europe
@@ -69,11 +65,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce292eee76',extremes,Storm,#b3b2b1,emdat,tempestade moçambique,2026-03-30T05:12:00+00:00,Mozambique,0.5659669449256065,1,1,pt,ESAF,Africa
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-03-15T04:45:00+00:00,Guinea-Bissau,0.5611596495662885,1,1,pt,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-03-11T04:22:00+00:00,Equatorial Guinea,0.5574388039619318,0,1,pt,WAF,Africa
+'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-04-03T04:43:00+00:00,Guinea-Bissau,0.5390921084664152,1,1,pt,WAF,Africa
+'854f6d8047',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-03-07T04:12:00+00:00,Portugal,0.539089853823784,1,1,pt,MED,Europe
 'bceaf47e01',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bragança,2026-04-07T04:59:00+00:00,Portugal,0.5374714765168668,0,1,pt,MED,Europe
+'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-04-05T05:01:00+00:00,Bermuda,0.5339870868144395,1,1,pt,NAO,Atlantic Ocean
 '8cf0b46320',extremes,Precipitation,#d60d2b,wmo,precipitação évora,2026-03-21T04:17:00+00:00,Portugal,0.5329259144140254,0,1,pt,MED,Europe
 '4122f8943d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial vila real,2026-04-07T04:59:00+00:00,Portugal,0.525880357554295,0,1,pt,MED,Europe
 'b4331259d0',extremes,Precipitation,#d60d2b,wmo,aguaceiro portalegre,2026-04-07T04:59:00+00:00,Portugal,0.5245855705172827,0,1,pt,MED,Europe
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-04-07T04:59:00+00:00,Portugal,0.5216243151897739,0,1,pt,MED,Europe
+'d1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-04-08T05:01:00+00:00,Portugal,0.5215304136838084,1,1,pt,MED,Europe
 '6cdd8b0813',extremes,Precipitation,#d60d2b,wmo,chuva madeira costa norte,2026-03-21T04:17:00+00:00,Portugal,0.5200282876270214,1,2,pt,MED,Europe
 '466791c38e',extremes,Flood,#030ba1,cmeter,enchente de patos de minas,2026-03-14T04:23:00+00:00,Brazil,0.5198837778727979,1,1,pt,SES,South-America
 '5151cbced7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viseu,2026-04-07T04:59:00+00:00,Portugal,0.5179573236431011,0,1,pt,MED,Europe
