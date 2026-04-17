@@ -133,8 +133,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical narelle,2026-03-19T04:35:00+00:00,,0.4125223972126737,1,2,pt,SPO,Pacific Ocean
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-04-15T05:12:00+00:00,Macao,0.4105856466905642,0,1,pt,EAS,Asia
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,tempestade na Arábia Saudita,2026-03-18T04:36:00+00:00,Saudi Arabia,0.4100136694765349,1,2,pt,ARP,Asia
-'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-03-08T04:24:00+00:00,,0.4100075473236523,0,1,pt,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-04-07T04:58:00+00:00,,0.4100075473236523,0,1,pt,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-03-08T04:24:00+00:00,,0.4100075473236523,0,1,pt,,
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanche de neve,2026-03-08T04:24:00+00:00,,0.4097691967376218,1,2,pt,,
 'e41bc42224',extremes,Precipitation,#d60d2b,wmo,chuva Egito,2026-03-14T04:22:00+00:00,Egypt,0.409230050211098,1,2,pt,SAH,Africa
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-04-14T05:11:00+00:00,Bermuda,0.4050092291658951,0,1,pt,NAO,Atlantic Ocean
@@ -147,14 +147,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-04-08T05:01:00+00:00,Macao,0.3895852765503259,0,1,pt,EAS,Asia
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-04-05T05:00:00+00:00,,0.3880701928592456,0,1,pt,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,chuva torrencial,2026-04-13T05:27:00+00:00,,0.38554434895015516,0,1,pt,,
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-03-22T04:33:00+00:00,Timor Leste,0.3854257520587755,0,1,pt,SEA,Oceania
 '59b529f428',extremes,Thunderstorm,#53785a,random,tempestade de granizo,2026-03-05T04:23:00+00:00,,0.3838807562873685,1,3,pt,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-04-13T05:27:00+00:00,,0.3832105171190673,0,1,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,pt,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,calor recorde,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,pt,,
+'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-04-16T05:17:00+00:00,Timor Leste,0.37966856123676473,0,1,pt,SEA,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-03-17T04:30:00+00:00,,0.3777299609956581,1,2,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-03-01T04:34:00+00:00,,0.37470948875033,1,3,pt,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,pt,,
 '31af2038e5',extremes,Earthquake,#870007,usgs,terremoto pante makasar,2026-03-17T04:30:00+00:00,Timor Leste,0.370762210750196,1,1,pt,SEA,Asia
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-03-29T04:59:00+00:00,,0.36566682899480557,0,1,pt,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,pt,,
+'62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,pt,,
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-04-16T05:16:00+00:00,,0.3639615524535334,0,1,pt,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,pt,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-03-13T04:24:00+00:00,,0.3616124633988652,1,1,pt,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,pt,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-03-22T04:32:00+00:00,,0.3598690791547358,0,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-03-10T04:21:00+00:00,,0.3590809392481899,0,1,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-03-12T04:25:00+00:00,,0.3565808169996401,0,1,pt,,
