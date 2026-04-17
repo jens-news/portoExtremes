@@ -41,7 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-03-05T04:24:00+00:00,Portugal,0.5982979225063566,1,2,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-03-31T05:00:00+00:00,Portugal,0.5970972092420325,0,1,pt,NAO,Atlantic Ocean
 '6ccacebdd6',extremes,Precipitation,#d60d2b,wmo,precipitação madeira porto santo,2026-03-17T04:30:00+00:00,Portugal,0.5922033633194359,1,2,pt,MED,Europe
-'0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-04-10T05:13:00+00:00,Portugal,0.5920602863295005,0,1,pt,MED,Europe
 'c0daf70c1d',extremes,Flood,#030ba1,cmeter,inundação brasil,2026-03-19T04:36:00+00:00,Brazil,0.5916156238646686,1,2,pt,SES,South-America
 '20eb9408b0',extremes,Snow&Ice,#d60d2b,wmo,congelando castelo branco,2026-03-09T04:31:00+00:00,Portugal,0.5911479219351558,0,1,pt,MED,Europe
 '84241fc836',extremes,Precipitation,#d60d2b,wmo,precipitação madeira regiões montanhosas,2026-03-21T04:17:00+00:00,Portugal,0.5907347410851242,1,2,pt,MED,Europe
@@ -93,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-03-26T04:56:00+00:00,Sao Tome and Principe,0.5070777837259073,1,1,pt,WAF,Africa
 '60846d6ddf',extremes,Storm,#b3b2b1,emdat,ciclone tropical moçambique,2026-03-03T04:27:00+00:00,Mozambique,0.5046596648178109,1,2,pt,ESAF,Africa
 '14c3c2cdd9',extremes,Thunderstorm,#53785a,wmo,granizo Beja,2026-04-10T05:13:00+00:00,Portugal,0.5036622159820755,0,1,pt,MED,Europe
+'0dee0b9f6d',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-04-10T05:13:00+00:00,Portugal,0.5034012733800755,1,1,pt,MED,Europe
 '723cfda4cd',extremes,Precipitation,#d60d2b,wmo,chuva santarém,2026-04-07T04:59:00+00:00,Portugal,0.500555715080752,0,1,pt,MED,Europe
 '6f0a52cb2f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial setúbal,2026-04-09T04:58:00+00:00,Portugal,0.4999440174261134,0,1,pt,MED,Europe
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-04-09T04:58:00+00:00,Portugal,0.4888408018792859,0,1,pt,MED,Europe
