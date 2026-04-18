@@ -179,13 +179,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-03-18T04:35:00+00:00,,0.3355443396544129,0,1,pt,,
 'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-03-22T04:32:00+00:00,,0.3338956905057881,1,1,pt,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-04-06T05:11:00+00:00,,0.3310709903247378,0,1,pt,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,pt,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-04-11T04:34:00+00:00,,0.32549499553721084,0,1,pt,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-03-30T05:11:00+00:00,,0.32490012537501806,0,1,pt,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,pt,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pt,,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pt,,
+'0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.32047861492082896,0,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-03-12T04:25:00+00:00,,0.3202803280991449,0,1,pt,,
+'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconhecido Orlando,2026-04-17T05:16:00+00:00,United States,0.31949934454918827,0,1,pt,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,período de frio em Nova Gales do Sul,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,pt,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,clima frio Victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,pt,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,período de seca em Nova Gales do Sul,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,pt,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,clima frio no sul da Austrália,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,pt,CAU,Oceania
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,período de frio na Austrália,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,pt,CAU,Oceania
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,tempestade no norte,2026-03-23T04:42:00+00:00,New Zealand,0.3171649090382845,1,2,pt,NZ,Oceania
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical indusa,2026-04-03T04:42:00+00:00,,0.3168391354834678,0,1,pt,SIO,Indian Ocean
@@ -196,6 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical sinlaku,2026-04-11T04:34:00+00:00,,0.314246889033816,0,1,pt,NPO,Pacific Ocean
 '6a814a5817',extremes,Drought,#edc291,acwe,baixo nível de água em Nova Gales do Sul,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,pt,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,temperaturas geladas no sul da Austrália,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pt,SAU,Oceania
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-04-07T04:58:00+00:00,,0.3137094110459205,0,1,pt,,
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,período de frio no território do norte,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,pt,NAU,Oceania
 'b6c613d063',extremes,Drought,#edc291,acwe,falta de chuva quensland,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,pt,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,falta de chuva no sul da Austrália,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,pt,CAU,Oceania
