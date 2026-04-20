@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-04-03T04:43:00+00:00,Cabo Verde,0.6135689786249218,0,1,pt,NAO,Atlantic Ocean
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-03-15T04:45:00+00:00,Angola,0.6092220496242086,1,1,pt,WSAF,Africa
 'eb56099bc8',extremes,Snow&Ice,#d60d2b,wmo,neve viseu,2026-03-09T04:31:00+00:00,Portugal,0.6086130655234951,1,2,pt,MED,Europe
-'437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-04-07T04:59:00+00:00,Portugal,0.6027423126715805,0,1,pt,MED,Europe
 '722490b387',extremes,Storm,#b3b2b1,wmo,tempestade madeira regiões montanhosas,2026-03-30T05:12:00+00:00,Portugal,0.6021578787158665,0,1,pt,MED,Europe
 '823c9a3d74',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-03-05T04:24:00+00:00,Portugal,0.5982979225063566,1,2,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-03-31T05:00:00+00:00,Portugal,0.5970972092420325,0,1,pt,NAO,Atlantic Ocean
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce292eee76',extremes,Storm,#b3b2b1,emdat,tempestade moçambique,2026-03-30T05:12:00+00:00,Mozambique,0.5659669449256065,1,1,pt,ESAF,Africa
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-03-15T04:45:00+00:00,Guinea-Bissau,0.5611596495662885,1,1,pt,WAF,Africa
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-04-07T04:59:00+00:00,Portugal,0.5583637728796575,1,2,pt,MED,Europe
+'437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-04-07T04:59:00+00:00,Portugal,0.5580819857708434,1,2,pt,MED,Europe
 '142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-04-10T05:13:00+00:00,Portugal,0.5568396336161187,1,1,pt,MED,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-03-29T05:00:00+00:00,Equatorial Guinea,0.5546430379000236,1,2,pt,WAF,Africa
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-04-11T04:34:00+00:00,Portugal,0.5546180270507741,0,1,pt,MED,Europe
@@ -180,7 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-04-11T04:34:00+00:00,,0.3254949955372108,0,1,pt,,
-'8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-04-17T05:16:00+00:00,Equatorial Guinea,0.32524208046881087,1,1,pt,WAF,Africa
+'8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-04-17T05:16:00+00:00,Equatorial Guinea,0.3252420804688108,1,1,pt,WAF,Africa
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-03-30T05:11:00+00:00,,0.324900125375018,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,pt,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pt,,
