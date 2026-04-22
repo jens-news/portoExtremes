@@ -166,8 +166,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-04-14T05:11:00+00:00,Bermuda,0.3442578447910108,1,1,pt,NAO,Atlantic Ocean
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,pt,,
-'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-04-09T04:57:00+00:00,,0.3408340894496867,0,1,pt,,
-'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-04-12T05:11:00+00:00,,0.3403493125865163,0,1,pt,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,pt,,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,pt,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,pt,,
@@ -488,6 +486,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,avalanche ao sul de Krasnoyarsk krai,2026-03-24T04:31:00+00:00,Russia,0.302811911339135,0,1,pt,ESB,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,tempestade na Áustria,2026-03-25T04:33:00+00:00,Austria,0.302796385673814,0,1,pt,WCE,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,inundação repentina sul da austrália cooper creek,2026-03-17T04:30:00+00:00,Australia,0.302789802788595,0,1,pt,CAU,Oceania
+'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-04-12T05:11:00+00:00,,0.3027855872370004,1,1,pt,,
 'd56de5f4df',extremes,Drought,#edc291,edo,falta de chuva letónia,2026-04-11T04:34:00+00:00,Latvia,0.3027847510710388,0,1,pt,WCE,Europe
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão austrália,2026-03-17T04:30:00+00:00,Australia,0.3027834925859256,0,1,pt,CAU,Oceania
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-03-17T04:30:00+00:00,Argentina,0.3027641468975316,0,1,pt,SES,South-America
@@ -640,6 +639,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aac8f93d28',extremes,Snow&Ice,#d60d2b,wmo,gelo no leste da Sérvia,2026-03-26T04:56:00+00:00,Serbia,0.3010525622516534,0,1,pt,MED,Europe
 '5966f3dffc',extremes,Storm,#b3b2b1,wmo,tempestade letônia,2026-04-04T04:30:00+00:00,Latvia,0.3010376338841719,0,1,pt,WCE,Europe
 '935b5342fa',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de luliang,2026-04-10T05:13:00+00:00,China,0.301010876882926,0,1,pt,EAS,Asia
+'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-04-09T04:57:00+00:00,,0.28970897603223367,1,1,pt,,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2026-03-19T04:35:00+00:00,Australia,0.2682049295787759,1,1,pt,EAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,inundação pluvial,2026-03-24T04:31:00+00:00,,0.2666313136317949,1,1,pt,,
 '9969e8e386',extremes,Flood,#030ba1,emdat,inundação região central,2026-03-24T04:32:00+00:00,Kenya,0.266162575425559,1,1,pt,SEAF,Africa
