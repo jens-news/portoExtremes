@@ -155,7 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,pt,,
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-04-14T05:11:00+00:00,Mozambique,0.3645257203123071,1,1,pt,ESAF,Africa
-'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-03-22T04:32:00+00:00,,0.36333883728152544,1,1,pt,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-03-22T04:32:00+00:00,,0.3633388372815254,1,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-04-01T05:12:00+00:00,,0.3615155320637989,0,1,pt,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-08T05:00:00+00:00,,0.3610782053814945,0,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-04-01T05:12:00+00:00,Macao,0.3562484379813788,1,1,pt,EAS,Asia
@@ -199,18 +199,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,pt,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-04-10T05:13:00+00:00,Australia,0.3108040651556846,0,1,pt,EAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,clima frio em Queensland,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,pt,CAU,Oceania
-'352775dd3c',extremes,Drought,#edc291,edo,seca nepal,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,pt,TIB,Asia
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,período de chuva no sul da Austrália,2026-04-12T05:12:00+00:00,Australia,0.3096086511659965,0,1,pt,SAU,Oceania
 '4508810067',extremes,Storm,#b3b2b1,wmo,tempestade litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,pt,NWS,South-America
-'04f990069a',extremes,Drought,#edc291,edo,falta de chuva na Bielorrússia,2026-04-22T05:13:00+00:00,Belarus,0.3088568151459622,0,1,pt,WCE,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,pt,,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2018 nt ciclone tropical marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pt,NAU,Oceania
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone austrália,2026-04-08T05:01:00+00:00,Australia,0.3082240002568389,0,1,pt,EAU,Oceania
-'7e68dc4baa',extremes,Drought,#edc291,edo,seca no Butão,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,pt,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,período de seca no Suriname,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,pt,NSA,South-America
-'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,pt,SPO,Oceania
-'ecd6c72a27',extremes,Drought,#edc291,edo,falta de chuva em Madagascar,2026-03-24T04:32:00+00:00,Madagascar,0.3078963385187357,0,1,pt,MDG,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-04-03T04:43:00+00:00,Vanuatu,0.3078225662309529,0,1,pt,SPO,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,pt,NZ,Oceania
 '0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-04-12T05:12:00+00:00,Estonia,0.3075900845856897,0,1,pt,NEU,Europe
@@ -661,3 +656,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,tempestade tempestade severa melbourne victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.2640552658270273,1,1,pt,SAU,Oceania
 '9b59bee21e',extremes,Drought,#edc291,edo,período de seca na Polónia,2026-04-08T05:01:00+00:00,Poland,0.2634794046372146,1,1,pt,WCE,Europe
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,inundação hobart inundação repentina Tasmânia 2018,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,pt,SAU,Oceania
+'352775dd3c',extremes,Drought,#edc291,edo,seca nepal,2026-04-02T04:42:00+00:00,Nepal,0.26317439054033165,1,1,pt,TIB,Asia
+'04f990069a',extremes,Drought,#edc291,edo,falta de chuva na Bielorrússia,2026-04-22T05:13:00+00:00,Belarus,0.26252829287406787,1,1,pt,WCE,Europe
+'ecd6c72a27',extremes,Drought,#edc291,edo,falta de chuva em Madagascar,2026-03-24T04:32:00+00:00,Madagascar,0.26186190274092536,1,1,pt,MDG,Africa
+'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-04-02T04:42:00+00:00,Vanuatu,0.2617273436554475,1,1,pt,SPO,Oceania
