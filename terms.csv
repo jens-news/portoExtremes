@@ -220,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152914913d',extremes,Heat Wave,#c40202,acwe,onda de calor na Tasmânia,2026-04-28T05:45:00+00:00,Australia,0.3147255271187567,0,1,pt,SAU,Oceania
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pt,SAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,temperaturas geladas no sul da Austrália,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pt,SAU,Oceania
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,período de chuva na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.31383303664264683,0,1,pt,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,período de frio no território do norte,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,pt,NAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,pt,SAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,pt,EPO,Pacific Ocean
@@ -235,6 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone 2018 nt ciclone tropical marcus,2026-04-01T05:13:00+00:00,,0.3082299465782532,0,1,pt,NAU,Oceania
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,ciclone austrália,2026-04-08T05:01:00+00:00,Australia,0.3082240002568389,0,1,pt,EAU,Oceania
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,tempestade em Auckland e ilha da grande barreira,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,pt,NZ,Oceania
+'2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldávia congelante,2026-04-29T05:40:00+00:00,Moldova,0.3072782131967367,0,1,pt,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,geada República Tcheca,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,pt,WCE,Europe
 'dea87e6ccd',extremes,Drought,#edc291,edo,período de seca na Letónia,2026-04-22T05:13:00+00:00,Latvia,0.307223753741334,0,1,pt,WCE,Europe
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,tempestade reino unido,2026-04-03T04:43:00+00:00,United Kingdom,0.3071108737152888,0,1,pt,NEU,Europe
@@ -286,6 +288,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-04-01T05:12:00+00:00,Russia,0.3056134234594387,0,1,pt,ESB,Europe
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-04-11T04:34:00+00:00,Paraguay,0.3056002080438844,0,1,pt,SES,South-America
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3055918263765068,0,1,pt,ARP,Asia
+'6c11585835',extremes,Drought,#edc291,edo,seca lituânia,2026-04-16T05:17:00+00:00,Lithuania,0.30557228695286387,0,1,pt,WCE,Europe
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,granizo seychelles,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,0,1,pt,EIO,Africa
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,tempestade litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,pt,NWS,South-America
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,neve na Islândia,2026-04-14T05:11:00+00:00,Iceland,0.3055010737245882,0,1,pt,GIC,Europe
