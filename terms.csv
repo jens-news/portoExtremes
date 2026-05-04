@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-04-10T05:13:00+00:00,Brazil,0.7894192470700493,1,2,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-04-11T04:34:00+00:00,Brazil,0.7570784485242859,0,1,pt,SAM,South-America
+'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-04-06T05:11:00+00:00,Portugal,0.7568477769855726,1,3,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-04-14T05:11:00+00:00,Brazil,0.7537680287676385,0,1,pt,SAM,South-America
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-04-04T04:30:00+00:00,Angola,0.75300910196979,0,1,pt,WSAF,Africa
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-04-11T04:34:00+00:00,Brazil,0.7509009589133517,0,1,pt,SAM,South-America
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-03-30T05:12:00+00:00,Portugal,0.7345500289966906,1,2,pt,NAO,Atlantic Ocean
-'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-04-06T05:11:00+00:00,Portugal,0.7252236297016967,0,1,pt,MED,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-04-27T05:40:00+00:00,Brazil,0.7114580407594128,1,2,pt,SAM,South-America
 '273bd7080e',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-04-08T05:01:00+00:00,Portugal,0.7077935475615844,1,2,pt,MED,Europe
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-04-06T05:11:00+00:00,Portugal,0.7066958480215362,0,1,pt,MED,Europe
@@ -98,7 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-04-06T05:11:00+00:00,Portugal,0.5012533247049851,1,1,pt,MED,Europe
 '723cfda4cd',extremes,Precipitation,#d60d2b,wmo,chuva santarém,2026-04-07T04:59:00+00:00,Portugal,0.500555715080752,0,1,pt,MED,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-04-07T04:58:00+00:00,,0.4992565202251044,1,2,pt,,
-'6883420f83',extremes,Thunderstorm,#53785a,wmo,tempo severo macau,2026-05-03T05:44:00+00:00,Macao,0.49750490706277384,1,1,pt,EAS,Asia
+'6883420f83',extremes,Thunderstorm,#53785a,wmo,tempo severo macau,2026-05-03T05:44:00+00:00,Macao,0.4975049070627738,1,1,pt,EAS,Asia
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-04-20T05:27:00+00:00,Portugal,0.4965138598490008,1,1,pt,MED,Europe
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-04-09T04:58:00+00:00,Portugal,0.4888408018792859,0,1,pt,MED,Europe
 'd8d5c8b66a',extremes,Precipitation,#d60d2b,wmo,chuva beja,2026-04-28T05:45:00+00:00,Portugal,0.4885266797849334,1,1,pt,MED,Europe
