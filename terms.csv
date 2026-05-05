@@ -54,11 +54,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-04-27T05:40:00+00:00,Portugal,0.573740557058364,1,2,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-04-08T05:01:00+00:00,Bermuda,0.573516340137763,0,1,pt,NAO,Atlantic Ocean
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-04-12T05:12:00+00:00,Portugal,0.5672675030256188,0,1,pt,MED,Europe
-'5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2026-05-04T05:50:00+00:00,Portugal,0.5670596218929486,0,1,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-04-10T05:13:00+00:00,Portugal,0.5664564782946566,0,1,pt,MED,Europe
 'ce292eee76',extremes,Storm,#b3b2b1,emdat,tempestade moçambique,2026-03-30T05:12:00+00:00,Mozambique,0.5659669449256065,1,1,pt,ESAF,Africa
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2026-04-26T05:25:00+00:00,Portugal,0.560484275442111,0,1,pt,MED,Europe
-'10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.5595810651654276,0,1,pt,MED,Europe
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-04-07T04:59:00+00:00,Portugal,0.5583637728796575,1,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-04-07T04:59:00+00:00,Portugal,0.5580819857708434,1,2,pt,MED,Europe
 '142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-04-10T05:13:00+00:00,Portugal,0.5568396336161187,1,1,pt,MED,Europe
@@ -67,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-04-28T05:45:00+00:00,Portugal,0.5545605151481972,1,1,pt,MED,Europe
 'a7e497a0ee',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-04-07T04:59:00+00:00,Portugal,0.5537594001645368,1,1,pt,MED,Europe
 'a15b8dc1cf',extremes,Precipitation,#d60d2b,wmo,chuva viana do castelo,2026-04-26T05:25:00+00:00,Portugal,0.5522454775665859,0,1,pt,MED,Europe
-'8d695d210f',extremes,Precipitation,#d60d2b,wmo,chuva madeira costa sul,2026-05-04T05:50:00+00:00,Portugal,0.5444490720537368,0,1,pt,MED,Europe
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-04-29T05:40:00+00:00,Portugal,0.5424226004209066,1,2,pt,MED,Europe
 '14c3c2cdd9',extremes,Thunderstorm,#53785a,wmo,granizo Beja,2026-04-10T05:13:00+00:00,Portugal,0.5412129435847641,1,2,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-04-21T05:15:00+00:00,Portugal,0.5406918311555068,0,1,pt,NAO,Atlantic Ocean
@@ -108,11 +105,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-04-27T05:40:00+00:00,Portugal,0.4870486093689837,1,1,pt,MED,Europe
 'bbdad2b9fb',extremes,Precipitation,#d60d2b,cmeter,inundações no brasil,2026-03-26T04:57:00+00:00,Brazil,0.4849207023883236,0,1,pt,SES,South-America
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-04-07T04:59:00+00:00,Portugal,0.483845431662899,1,1,pt,MED,Europe
+'5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2026-05-04T05:50:00+00:00,Portugal,0.48200067860900625,1,1,pt,MED,Europe
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-04-11T04:34:00+00:00,Portugal,0.4816023949336895,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-04-16T05:17:00+00:00,Angola,0.4812367231050523,0,1,pt,WSAF,Africa
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-04-27T05:40:00+00:00,Portugal,0.4806556332917874,1,1,pt,MED,Europe
 'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-04-26T05:25:00+00:00,Portugal,0.4761253147112837,1,1,pt,MED,Europe
 '96ba33cb89',extremes,Precipitation,#d60d2b,wmo,chuva torrencial castelo branco,2026-04-27T05:40:00+00:00,Portugal,0.4760343154750961,1,1,pt,MED,Europe
+'10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.47564390539061346,1,1,pt,MED,Europe
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-03-27T04:56:00+00:00,,0.4755950596958264,1,2,pt,,
 'fe9a8c919c',extremes,Thunderstorm,#53785a,wmo,granizo castelo branco,2026-04-28T05:45:00+00:00,Portugal,0.4700972340076341,1,1,pt,MED,Europe
 '6ff8dc0dc6',extremes,Precipitation,#d60d2b,wmo,aguaceiro coimbra,2026-04-27T05:40:00+00:00,Portugal,0.4683329181669314,1,1,pt,MED,Europe
@@ -120,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8507f9326',extremes,Precipitation,#d60d2b,wmo,precipitação viana do castelo,2026-04-29T05:40:00+00:00,Portugal,0.4646510477961964,1,1,pt,MED,Europe
 'b05413ddf2',extremes,Precipitation,#d60d2b,wmo,aguaceiro guarda,2026-04-26T05:25:00+00:00,Portugal,0.4641269918136941,1,1,pt,MED,Europe
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-04-27T05:40:00+00:00,Portugal,0.463577182008537,1,1,pt,MED,Europe
+'8d695d210f',extremes,Precipitation,#d60d2b,wmo,chuva madeira costa sul,2026-05-04T05:50:00+00:00,Portugal,0.4630817712456763,1,1,pt,MED,Europe
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-04-07T04:59:00+00:00,Timor Leste,0.4626393747244557,1,1,pt,SEA,Asia
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-04-07T04:59:00+00:00,Portugal,0.4625476819435659,1,2,pt,MED,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-03-31T05:00:00+00:00,Equatorial Guinea,0.4604664671930085,1,1,pt,WAF,Africa
