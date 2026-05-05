@@ -54,9 +54,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-04-27T05:40:00+00:00,Portugal,0.573740557058364,1,2,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-04-08T05:01:00+00:00,Bermuda,0.573516340137763,0,1,pt,NAO,Atlantic Ocean
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-04-12T05:12:00+00:00,Portugal,0.5672675030256188,0,1,pt,MED,Europe
+'5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2026-05-04T05:50:00+00:00,Portugal,0.5670596218929486,0,1,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-04-10T05:13:00+00:00,Portugal,0.5664564782946566,0,1,pt,MED,Europe
 'ce292eee76',extremes,Storm,#b3b2b1,emdat,tempestade moçambique,2026-03-30T05:12:00+00:00,Mozambique,0.5659669449256065,1,1,pt,ESAF,Africa
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2026-04-26T05:25:00+00:00,Portugal,0.560484275442111,0,1,pt,MED,Europe
+'10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.5595810651654276,0,1,pt,MED,Europe
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-04-07T04:59:00+00:00,Portugal,0.5583637728796575,1,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-04-07T04:59:00+00:00,Portugal,0.5580819857708434,1,2,pt,MED,Europe
 '142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-04-10T05:13:00+00:00,Portugal,0.5568396336161187,1,1,pt,MED,Europe
@@ -65,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-04-28T05:45:00+00:00,Portugal,0.5545605151481972,1,1,pt,MED,Europe
 'a7e497a0ee',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa sul,2026-04-07T04:59:00+00:00,Portugal,0.5537594001645368,1,1,pt,MED,Europe
 'a15b8dc1cf',extremes,Precipitation,#d60d2b,wmo,chuva viana do castelo,2026-04-26T05:25:00+00:00,Portugal,0.5522454775665859,0,1,pt,MED,Europe
+'8d695d210f',extremes,Precipitation,#d60d2b,wmo,chuva madeira costa sul,2026-05-04T05:50:00+00:00,Portugal,0.5444490720537368,0,1,pt,MED,Europe
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-04-29T05:40:00+00:00,Portugal,0.5424226004209066,1,2,pt,MED,Europe
 '14c3c2cdd9',extremes,Thunderstorm,#53785a,wmo,granizo Beja,2026-04-10T05:13:00+00:00,Portugal,0.5412129435847641,1,2,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-04-21T05:15:00+00:00,Portugal,0.5406918311555068,0,1,pt,NAO,Atlantic Ocean
@@ -144,7 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5154f42225',extremes,Thunderstorm,#53785a,wmo,tempo severo porto,2026-04-28T05:45:00+00:00,Portugal,0.4336911273228829,1,1,pt,MED,Europe
 '9f0423d739',extremes,Drought,#edc291,random,secura,2026-03-29T04:59:00+00:00,,0.4298810293672029,1,3,pt,,
 '6f0a52cb2f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial setúbal,2026-04-09T04:58:00+00:00,Portugal,0.4249524148121963,1,1,pt,MED,Europe
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-04-06T05:11:00+00:00,,0.42333353844912786,1,2,pt,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-04-06T05:11:00+00:00,,0.4233335384491278,1,2,pt,,
 '31af2038e5',extremes,Earthquake,#870007,usgs,terremoto pante makasar,2026-04-16T05:17:00+00:00,Timor Leste,0.4184676378367062,1,1,pt,SEA,Asia
 '39670c8999',extremes,Drought,#edc291,acwe,falta de chuva no sul da Austrália,2026-03-25T04:34:00+00:00,Australia,0.4160910847525205,1,2,pt,CAU,Oceania
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-04-12T05:11:00+00:00,,0.4149244731596473,1,2,pt,,
@@ -207,6 +210,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pt,,
+'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,"incêndio florestal em condados de argila, Flórida",2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,pt,WNA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,período de frio em Nova Gales do Sul,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,pt,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,clima frio Victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,pt,SAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
