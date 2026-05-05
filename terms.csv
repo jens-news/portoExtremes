@@ -157,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-04-06T05:11:00+00:00,,0.4103319213961516,1,2,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-05-03T05:43:00+00:00,,0.39947629736413,1,2,pt,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-04-17T05:15:00+00:00,,0.3987360670765234,0,1,pt,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-04-28T05:44:00+00:00,,0.3974428336530804,1,3,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-04-01T05:12:00+00:00,,0.395130777512817,0,1,pt,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-04-23T05:16:00+00:00,,0.3948872150785866,0,1,pt,,
 '288b409711',extremes,Earthquake,#870007,usgs,terremoto maubara,2026-04-20T05:26:00+00:00,Timor Leste,0.394246573587542,1,1,pt,SEA,Asia
@@ -197,13 +198,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,pt,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-04-06T05:11:00+00:00,,0.3350036665398402,0,1,pt,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-04-19T05:16:00+00:00,,0.3292701907376102,0,1,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,pt,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,pt,,
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-04-17T05:16:00+00:00,Equatorial Guinea,0.3252420804688108,1,1,pt,WAF,Africa
 'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-04-12T05:11:00+00:00,,0.3251773939002455,1,1,pt,,
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-04-26T05:25:00+00:00,,0.3245964723094341,0,1,pt,,
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-04-28T05:44:00+00:00,,0.3239824244658089,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-04-15T05:11:00+00:00,,0.323350996252047,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,pt,,
 'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-04-16T05:17:00+00:00,Timor Leste,0.3227182770512499,1,1,pt,SEA,Oceania
@@ -541,7 +539,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91377cc2a9',extremes,Drought,#edc291,acwe,seca no sul da Austrália,2026-03-31T05:00:00+00:00,Australia,0.2896923682123334,1,1,pt,SAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-04-07T04:58:00+00:00,,0.2858239734212904,1,2,pt,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,pt,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-04-19T05:16:00+00:00,,0.2798796621269687,1,1,pt,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,pt,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-04-26T05:25:00+00:00,,0.275907001463019,1,1,pt,,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconhecido Orlando,2026-04-17T05:16:00+00:00,United States,0.27172445786681,1,1,pt,ENA,North-America
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical indusa,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,pt,SIO,Indian Ocean
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconhecido Estados Unidos,2026-04-19T05:17:00+00:00,United States,0.2681418266921617,1,2,pt,ENA,North-America
