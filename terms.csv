@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c148cc1022',extremes,Storm,#b3b2b1,wmo,tempestade madeira costa norte,2026-04-12T05:12:00+00:00,Portugal,0.5672675030256188,0,1,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-04-10T05:13:00+00:00,Portugal,0.5664564782946566,0,1,pt,MED,Europe
 'ce292eee76',extremes,Storm,#b3b2b1,emdat,tempestade moçambique,2026-03-30T05:12:00+00:00,Mozambique,0.5659669449256065,1,1,pt,ESAF,Africa
-'207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-05-08T05:16:00+00:00,Portugal,0.562128092393145,0,1,pt,MED,Europe
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2026-04-26T05:25:00+00:00,Portugal,0.560484275442111,0,1,pt,MED,Europe
 'b0881a055f',extremes,Precipitation,#d60d2b,wmo,chuva setúbal,2026-04-07T04:59:00+00:00,Portugal,0.5583637728796575,1,2,pt,MED,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,tempestade leiria,2026-04-07T04:59:00+00:00,Portugal,0.5580819857708434,1,2,pt,MED,Europe
@@ -111,6 +110,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-04-11T04:34:00+00:00,Portugal,0.4816023949336895,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-04-16T05:17:00+00:00,Angola,0.4812367231050523,0,1,pt,WSAF,Africa
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-04-27T05:40:00+00:00,Portugal,0.4806556332917874,1,1,pt,MED,Europe
+'207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-05-08T05:16:00+00:00,Portugal,0.4794590585341732,1,1,pt,MED,Europe
 'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-04-26T05:25:00+00:00,Portugal,0.4761253147112837,1,1,pt,MED,Europe
 '96ba33cb89',extremes,Precipitation,#d60d2b,wmo,chuva torrencial castelo branco,2026-04-27T05:40:00+00:00,Portugal,0.4760343154750961,1,1,pt,MED,Europe
 '10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.4756439053906134,1,1,pt,MED,Europe
@@ -213,7 +213,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pt,,
-'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,período de calor na Austrália,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,pt,CAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,período de calor na Austrália,2026-05-04T05:50:00+00:00,Australia,0.3192591632685052,0,1,pt,CAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,pt,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,rajada de neve,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pt,,
