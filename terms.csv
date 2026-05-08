@@ -196,6 +196,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-04-06T05:11:00+00:00,,0.3459746081603271,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-04-13T05:27:00+00:00,,0.3452302295512072,1,2,pt,,
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-04-14T05:11:00+00:00,Bermuda,0.3442578447910108,1,1,pt,NAO,Atlantic Ocean
+'52af874334',extremes,Drought,#edc291,random,aridez,2026-05-07T05:46:00+00:00,,0.3434999112724363,0,1,pt,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,pt,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-04-28T05:44:00+00:00,,0.3406202321824552,1,1,pt,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,pt,,
@@ -214,9 +215,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical hagupit,2026-05-07T05:46:00+00:00,,0.3182896131307839,0,1,pt,EPO,Pacific Ocean
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,onda de calor em Queensland,2026-05-04T05:50:00+00:00,Australia,0.3179722418644156,0,1,pt,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,pt,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,rajada de neve,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pt,,
+'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-05-05T05:28:00+00:00,,0.31515885162446033,0,1,pt,,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pt,SAU,Oceania
+'0646039361',extremes,Drought,#edc291,acwe,falta de chuva na Tasmânia,2026-04-21T05:15:00+00:00,Australia,0.314628013585,0,1,pt,SAU,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,pt,,
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,temperaturas geladas no sul da Austrália,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,pt,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,período de frio no território do norte,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,pt,NAU,Oceania
@@ -531,8 +536,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.2605602691229823,1,1,pt,NWS,South-America
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais argélia,2026-04-11T04:34:00+00:00,Algeria,0.2604634075089188,1,1,pt,SAH,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-04-08T05:01:00+00:00,Argentina,0.2604568458454117,1,1,pt,SES,South-America
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neve Canadá,2026-04-08T05:01:00+00:00,Canada,0.26044082989933615,1,1,pt,NEN,North-America
-'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,precipitação argélia,2026-04-29T05:40:00+00:00,Algeria,0.26024010896738664,1,1,pt,SAH,Africa
-'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-04-06T05:11:00+00:00,Russia,0.26000224177044207,1,1,pt,ESB,Europe
-'ac8883b5db',extremes,Drought,#edc291,edo,período de seca na Bielorrússia,2026-04-18T04:57:00+00:00,Belarus,0.25999717005320644,1,1,pt,WCE,Europe
-'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-04-22T05:13:00+00:00,Finland,0.25992768980054104,1,1,pt,NEU,Europe
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neve Canadá,2026-04-08T05:01:00+00:00,Canada,0.2604408298993361,1,1,pt,NEN,North-America
+'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,precipitação argélia,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,pt,SAH,Africa
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-04-06T05:11:00+00:00,Russia,0.260002241770442,1,1,pt,ESB,Europe
+'ac8883b5db',extremes,Drought,#edc291,edo,período de seca na Bielorrússia,2026-04-18T04:57:00+00:00,Belarus,0.2599971700532064,1,1,pt,WCE,Europe
+'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,pt,NEU,Europe
