@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-04-05T05:01:00+00:00,Portugal,0.5789015780560044,0,1,pt,NAO,Atlantic Ocean
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-04-08T05:01:00+00:00,Portugal,0.5762010292148099,0,1,pt,MED,Europe
 '374bdabdae',extremes,Storm,#b3b2b1,wmo,tempestade madeira porto santo,2026-04-07T04:59:00+00:00,Portugal,0.5757230179368087,0,1,pt,MED,Europe
-'d7f1defa23',extremes,Precipitation,#d60d2b,wmo,chuva torrencial évora,2026-05-08T05:16:00+00:00,Portugal,0.5756890751771089,0,1,pt,MED,Europe
 'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-04-06T05:12:00+00:00,Bermuda,0.5752933327395621,0,1,pt,NAO,Atlantic Ocean
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-04-27T05:40:00+00:00,Portugal,0.573740557058364,1,2,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-04-08T05:01:00+00:00,Bermuda,0.573516340137763,0,1,pt,NAO,Atlantic Ocean
@@ -97,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-04-07T04:58:00+00:00,,0.4992565202251044,1,2,pt,,
 '6883420f83',extremes,Thunderstorm,#53785a,wmo,tempo severo macau,2026-05-03T05:44:00+00:00,Macao,0.4975049070627738,1,1,pt,EAS,Asia
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-04-20T05:27:00+00:00,Portugal,0.4965138598490008,1,1,pt,MED,Europe
+'d7f1defa23',extremes,Precipitation,#d60d2b,wmo,chuva torrencial évora,2026-05-08T05:16:00+00:00,Portugal,0.48933571390054253,1,1,pt,MED,Europe
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-04-09T04:58:00+00:00,Portugal,0.4888408018792859,0,1,pt,MED,Europe
 'd8d5c8b66a',extremes,Precipitation,#d60d2b,wmo,chuva beja,2026-04-28T05:45:00+00:00,Portugal,0.4885266797849334,1,1,pt,MED,Europe
 'd626409dfa',extremes,Precipitation,#d60d2b,wmo,chuva coimbra,2026-04-07T04:59:00+00:00,Portugal,0.4881119259500184,1,1,pt,MED,Europe
@@ -215,14 +215,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
-'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,período de chuva no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.3179863264112316,0,1,pt,CAU,Oceania
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,pt,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,rajada de neve,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pt,,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pt,SAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-04-19T05:16:00+00:00,,0.3144651054690082,0,1,pt,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,pt,,
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,pt,SAU,Oceania
-'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,tempestade tempestade de granizo sydney nova gales do sul 2015,2026-04-21T05:15:00+00:00,,0.31353566511126285,0,1,pt,EAU,Oceania
+'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,tempestade tempestade de granizo sydney nova gales do sul 2015,2026-04-21T05:15:00+00:00,,0.3135356651112628,0,1,pt,EAU,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,pt,,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,período de calor em Nova Gales do Sul,2026-05-06T05:43:00+00:00,Australia,0.3134956031876589,0,1,pt,EAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,pt,EPO,Pacific Ocean
@@ -485,6 +484,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,período de chuva em Nova Gales do Sul,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,pt,EAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,inverno ameno no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,pt,CAU,Oceania
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical hagupit,2026-05-07T05:46:00+00:00,,0.2705461711611663,1,1,pt,EPO,Pacific Ocean
+'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,período de chuva no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.27043839244954687,1,1,pt,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,onda de calor em Queensland,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,pt,CAU,Oceania
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconhecido Estados Unidos,2026-04-19T05:17:00+00:00,United States,0.2681418266921617,1,2,pt,ENA,North-America
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical sinlaku,2026-04-11T04:34:00+00:00,,0.2675599006787436,1,1,pt,NPO,Pacific Ocean
