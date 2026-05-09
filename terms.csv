@@ -177,7 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-04-18T04:56:00+00:00,,0.3805730235406221,0,1,pt,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-04-25T05:00:00+00:00,,0.3797167278654658,1,2,pt,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-04-23T05:16:00+00:00,,0.3778757280740421,1,1,pt,,
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-04-08T05:01:00+00:00,Saudi Arabia,0.37776985408669744,1,2,pt,ARP,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3777698540866974,1,2,pt,ARP,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,deslizamento de rochas,2026-04-20T05:26:00+00:00,,0.3767450893806127,1,1,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,pt,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-04-10T05:12:00+00:00,,0.3692854837815674,0,1,pt,,
@@ -198,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-04-06T05:11:00+00:00,,0.3459746081603271,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-04-13T05:27:00+00:00,,0.3452302295512072,1,2,pt,,
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-04-14T05:11:00+00:00,Bermuda,0.3442578447910108,1,1,pt,NAO,Atlantic Ocean
+'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-05-07T05:46:00+00:00,,0.3439613564058711,0,1,pt,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,pt,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-04-28T05:44:00+00:00,,0.3406202321824552,1,1,pt,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,pt,,
@@ -214,12 +215,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,pt,,
+'9d59b1d751',extremes,Flood,#030ba1,acwe,inundação repentina no sul da Austrália,2026-05-04T05:50:00+00:00,Australia,0.3194273971750887,0,1,pt,CAU,Oceania
+'2595e5c49a',extremes,Flood,#030ba1,acwe,nível de água alto na Austrália,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,pt,CAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,pt,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,pt,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,rajada de neve,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,pt,,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.314687066615574,0,1,pt,SAU,Oceania
+'3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-04-19T05:16:00+00:00,,0.3144651054690082,0,1,pt,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,pt,,
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,pt,SAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,período de calor em Nova Gales do Sul,2026-05-06T05:43:00+00:00,Australia,0.31349560318765896,0,1,pt,EAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,pt,EPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-04-10T05:13:00+00:00,Australia,0.3108040651556846,0,1,pt,EAU,Oceania
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-04-11T04:34:00+00:00,,0.3097074958574647,0,1,pt,,
@@ -528,4 +533,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac8883b5db',extremes,Drought,#edc291,edo,período de seca na Bielorrússia,2026-04-18T04:57:00+00:00,Belarus,0.2599971700532064,1,1,pt,WCE,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,pt,NEU,Europe
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguaceiro formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.259789477603012,1,1,pt,SES,South-America
-'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-04-11T04:34:00+00:00,Paraguay,0.25976017683730174,1,1,pt,SES,South-America
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-04-11T04:34:00+00:00,Paraguay,0.2597601768373017,1,1,pt,SES,South-America
