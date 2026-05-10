@@ -250,23 +250,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,trovoada áfrica do sul,2026-04-16T05:17:00+00:00,South Africa,0.3058874154319909,0,1,pt,WSAF,Africa
 'a29729e148',extremes,Storm,#b3b2b1,wmo,tempestade israel,2026-04-02T04:42:00+00:00,Israel,0.3058268324597389,0,1,pt,MED,Asia
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,tempestade em guezzam,2026-04-08T05:01:00+00:00,Algeria,0.3057155840718022,0,1,pt,SAH,Africa
-'5998b1a528',extremes,Thunderstorm,#53785a,wmo,granizo seychelles,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,0,1,pt,EIO,Africa
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,neve na Islândia,2026-04-14T05:11:00+00:00,Iceland,0.3055010737245882,0,1,pt,GIC,Europe
-'d68189cbca',extremes,Precipitation,#d60d2b,wmo,aguaceiro argélia,2026-04-26T05:25:00+00:00,Algeria,0.3054973815068953,0,1,pt,SAH,Africa
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,granizo África do Sul,2026-04-10T05:13:00+00:00,South Africa,0.3054459584785503,0,1,pt,WSAF,Africa
-'b9df18cf46',extremes,Storm,#b3b2b1,wmo,tempestade em áreas costeiras da costa norte,2026-04-06T05:11:00+00:00,Jamaica,0.3054282285911406,0,1,pt,CAR,North-America
-'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,onda de calor parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.3053470000218471,0,1,pt,SES,South-America
-'02ef3006a3',extremes,Precipitation,#d60d2b,wmo,chuva satun trang,2026-04-12T05:12:00+00:00,Thailand,0.3053446879369423,0,1,pt,SEA,Asia
-'e7357c22dd',extremes,Fog,#d60d2b,wmo,nevoeiro noroeste do negev oeste do negev,2026-04-23T05:16:00+00:00,Israel,0.3053439043328282,0,1,pt,MED,Asia
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,pt,,
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-04-12T05:12:00+00:00,Canada,0.3052108048283681,0,1,pt,NEN,North-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-04-14T05:11:00+00:00,Canada,0.3051407404402636,0,1,pt,NEN,North-America
-'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,pt,SPO,Oceania
-'b62570e7da',extremes,Precipitation,#d60d2b,wmo,chuva vanuatu,2026-04-23T05:16:00+00:00,Vanuatu,0.3050942890614109,0,1,pt,SPO,Oceania
-'9c373151bb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.3050731636725332,0,1,pt,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-04-16T05:17:00+00:00,New Zealand,0.305008846409516,0,1,pt,NZ,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-05-01T05:54:00+00:00,Canada,0.3049846968013258,0,1,pt,NEN,North-America
-'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,precipitação litoral e serra,2026-04-03T04:43:00+00:00,Ecuador,0.3049171763010511,0,1,pt,NWS,South-America
 '110d2ee2b9',extremes,Heat Wave,#c40202,wmo,onda de calor na região de Kaluga,2026-04-02T04:42:00+00:00,Russia,0.3049083413624503,0,1,pt,ESB,Europe
 'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,geada bouira,2026-04-02T04:42:00+00:00,Algeria,0.3048987922028955,0,1,pt,SAH,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-04-03T04:43:00+00:00,Ecuador,0.3048830539891154,0,1,pt,NWS,South-America
@@ -490,7 +480,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0646039361',extremes,Drought,#edc291,acwe,falta de chuva na Tasmânia,2026-04-21T05:15:00+00:00,Australia,0.26743381154725,1,1,pt,SAU,Oceania
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-04-19T05:16:00+00:00,,0.2672953396486569,1,1,pt,,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,período de chuva na Tasmânia,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,pt,SAU,Oceania
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,período de calor em Nova Gales do Sul,2026-05-06T05:43:00+00:00,Australia,0.26647126270951005,1,1,pt,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,período de calor em Nova Gales do Sul,2026-05-06T05:43:00+00:00,Australia,0.26647126270951,1,1,pt,EAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-04-29T05:40:00+00:00,Australia,0.2659566978677291,1,1,pt,EAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-04-08T05:01:00+00:00,Australia,0.2654445105242989,1,1,pt,NAU,Oceania
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropical vaianu,2026-04-06T05:11:00+00:00,,0.2652369163546083,1,1,pt,SPO,Pacific Ocean
@@ -516,3 +506,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0aa28870',extremes,Drought,#edc291,edo,falta de chuva Finlândia,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,pt,NEU,Europe
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguaceiro formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.259789477603012,1,1,pt,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-04-11T04:34:00+00:00,Paraguay,0.2597601768373017,1,1,pt,SES,South-America
+'5998b1a528',extremes,Thunderstorm,#53785a,wmo,granizo seychelles,2026-04-22T05:13:00+00:00,Seychelles,0.2597097907338214,1,1,pt,EIO,Africa
+'d68189cbca',extremes,Precipitation,#d60d2b,wmo,aguaceiro argélia,2026-04-26T05:25:00+00:00,Algeria,0.259672774280861,1,1,pt,SAH,Africa
+'b9df18cf46',extremes,Storm,#b3b2b1,wmo,tempestade em áreas costeiras da costa norte,2026-04-06T05:11:00+00:00,Jamaica,0.2596139943024695,1,1,pt,CAR,North-America
+'02ef3006a3',extremes,Precipitation,#d60d2b,wmo,chuva satun trang,2026-04-12T05:12:00+00:00,Thailand,0.259542984746401,1,1,pt,SEA,Asia
+'e7357c22dd',extremes,Fog,#d60d2b,wmo,nevoeiro noroeste do negev oeste do negev,2026-04-23T05:16:00+00:00,Israel,0.25954231868290395,1,1,pt,MED,Asia
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-04-06T05:11:00+00:00,Vanuatu,0.2593421674351802,1,1,pt,SPO,Oceania
+'b62570e7da',extremes,Precipitation,#d60d2b,wmo,chuva vanuatu,2026-04-23T05:16:00+00:00,Vanuatu,0.25933014570219926,1,1,pt,SPO,Oceania
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.2593121891216532,1,1,pt,SES,South-America
