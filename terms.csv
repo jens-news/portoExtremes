@@ -80,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4331259d0',extremes,Precipitation,#d60d2b,wmo,aguaceiro portalegre,2026-04-07T04:59:00+00:00,Portugal,0.5245855705172827,0,1,pt,MED,Europe
 'd1a9e65736',extremes,Storm,#b3b2b1,wmo,tempestade Beja,2026-04-08T05:01:00+00:00,Portugal,0.5215304136838084,1,1,pt,MED,Europe
 '9dda0c1476',extremes,Thunderstorm,#53785a,wmo,tempo severo braga,2026-04-27T05:40:00+00:00,Portugal,0.5174797870207365,1,2,pt,MED,Europe
+'f407ac1e22',extremes,Precipitation,#d60d2b,wmo,chuva aveiro,2026-05-10T05:51:00+00:00,Portugal,0.5152507092524589,1,2,pt,MED,Europe
 'a5fdaf89bd',extremes,Storm,#b3b2b1,wmo,tempestade setúbal,2026-04-10T05:13:00+00:00,Portugal,0.511425823827655,1,1,pt,MED,Europe
 'ea3fdaa22d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial madeira regiões montanhosas,2026-04-08T05:01:00+00:00,Portugal,0.5113741258710384,0,1,pt,MED,Europe
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-05-03T05:44:00+00:00,Macao,0.5113212176019124,1,1,pt,EAS,Asia
@@ -96,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-04-07T04:58:00+00:00,,0.4992565202251044,1,2,pt,,
 '6883420f83',extremes,Thunderstorm,#53785a,wmo,tempo severo macau,2026-05-03T05:44:00+00:00,Macao,0.4975049070627738,1,1,pt,EAS,Asia
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-04-20T05:27:00+00:00,Portugal,0.4965138598490008,1,1,pt,MED,Europe
-'f407ac1e22',extremes,Precipitation,#d60d2b,wmo,chuva aveiro,2026-05-10T05:51:00+00:00,Portugal,0.4952856022879607,0,1,pt,MED,Europe
 'd7f1defa23',extremes,Precipitation,#d60d2b,wmo,chuva torrencial évora,2026-05-08T05:16:00+00:00,Portugal,0.4893357139005425,1,1,pt,MED,Europe
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-04-09T04:58:00+00:00,Portugal,0.4888408018792859,0,1,pt,MED,Europe
 'd8d5c8b66a',extremes,Precipitation,#d60d2b,wmo,chuva beja,2026-04-28T05:45:00+00:00,Portugal,0.4885266797849334,1,1,pt,MED,Europe
@@ -119,7 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a73f3340e0',extremes,Precipitation,#d60d2b,wmo,chuva torrencial beja,2026-05-09T05:36:00+00:00,Portugal,0.4680837747806963,1,1,pt,MED,Europe
 '7d2493edb9',extremes,Precipitation,#d60d2b,wmo,aguaceiro vila real,2026-04-27T05:40:00+00:00,Portugal,0.4671560630759669,1,1,pt,MED,Europe
 'af14ba2bbd',extremes,Thunderstorm,#53785a,wmo,granizo aveiro,2026-05-10T05:51:00+00:00,Portugal,0.4668639377163217,1,1,pt,MED,Europe
-'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-05-10T05:51:00+00:00,Portugal,0.46566742131911615,1,1,pt,MED,Europe
+'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-05-10T05:51:00+00:00,Portugal,0.4656674213191161,1,1,pt,MED,Europe
 'b8507f9326',extremes,Precipitation,#d60d2b,wmo,precipitação viana do castelo,2026-04-29T05:40:00+00:00,Portugal,0.4646510477961964,1,1,pt,MED,Europe
 'b05413ddf2',extremes,Precipitation,#d60d2b,wmo,aguaceiro guarda,2026-04-26T05:25:00+00:00,Portugal,0.4641269918136941,1,1,pt,MED,Europe
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-04-27T05:40:00+00:00,Portugal,0.463577182008537,1,1,pt,MED,Europe
