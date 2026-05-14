@@ -38,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-04-09T04:58:00+00:00,Sao Tome and Principe,0.6098075845074574,1,1,pt,WAF,Africa
 'bd504bee0d',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-04-24T05:22:00+00:00,Guinea-Bissau,0.5997935510752077,1,1,pt,WAF,Africa
 '57cb2960c3',extremes,Precipitation,#d60d2b,wmo,chuva guarda,2026-04-28T05:45:00+00:00,Portugal,0.5995326652086854,1,3,pt,MED,Europe
+'cfa60f4659',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-05-14T06:02:00+00:00,Macao,0.5980900375241012,0,1,pt,EAS,Asia
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2026-04-06T05:12:00+00:00,Guinea-Bissau,0.5974745544088947,1,1,pt,WAF,Africa
 '8e13591831',extremes,Storm,#b3b2b1,wmo,tempestade castelo branco,2026-04-29T05:40:00+00:00,Portugal,0.5898929365885055,1,1,pt,MED,Europe
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-04-12T05:12:00+00:00,Portugal,0.5872638956422803,0,1,pt,MED,Europe
@@ -96,7 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6883420f83',extremes,Thunderstorm,#53785a,wmo,tempo severo macau,2026-05-03T05:44:00+00:00,Macao,0.4975049070627738,1,1,pt,EAS,Asia
 'fc004674ec',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo central,2026-04-20T05:27:00+00:00,Portugal,0.4965138598490008,1,1,pt,MED,Europe
 'd7f1defa23',extremes,Precipitation,#d60d2b,wmo,chuva torrencial évora,2026-05-08T05:16:00+00:00,Portugal,0.4893357139005425,1,1,pt,MED,Europe
-'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-04-06T05:12:00+00:00,Bermuda,0.48899933282862773,1,1,pt,NAO,Atlantic Ocean
+'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-04-06T05:12:00+00:00,Bermuda,0.4889993328286277,1,1,pt,NAO,Atlantic Ocean
 '91ea807eeb',extremes,Precipitation,#d60d2b,wmo,chuva faro,2026-04-09T04:58:00+00:00,Portugal,0.4888408018792859,0,1,pt,MED,Europe
 'd8d5c8b66a',extremes,Precipitation,#d60d2b,wmo,chuva beja,2026-04-28T05:45:00+00:00,Portugal,0.4885266797849334,1,1,pt,MED,Europe
 'd626409dfa',extremes,Precipitation,#d60d2b,wmo,chuva coimbra,2026-04-07T04:59:00+00:00,Portugal,0.4881119259500184,1,1,pt,MED,Europe
@@ -196,6 +197,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-27T05:39:00+00:00,,0.3649331318212676,0,1,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,pt,,
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-04-14T05:11:00+00:00,Mozambique,0.3645257203123071,1,1,pt,ESAF,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-14T06:02:00+00:00,Equatorial Guinea,0.36436999796943426,0,1,pt,WAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-04-07T04:59:00+00:00,Argentina,0.3638751467290997,1,3,pt,SES,South-America
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-05-07T05:46:00+00:00,,0.3635481321757596,1,1,pt,,
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,tempestade litoral e serra,2026-04-05T05:01:00+00:00,Ecuador,0.3616746908060888,1,2,pt,NWS,South-America
@@ -235,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,tempestade tempestade de granizo sydney nova gales do sul 2015,2026-04-21T05:15:00+00:00,,0.3135356651112628,0,1,pt,EAU,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,wmo,inundações na Austrália,2026-04-26T05:25:00+00:00,Australia,0.3129511824043872,0,1,pt,CAU,Oceania
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-28T05:44:00+00:00,,0.31205476021259104,0,1,pt,,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,falta de chuva Vitória,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,pt,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-04-10T05:13:00+00:00,Australia,0.3108040651556846,0,1,pt,EAU,Oceania
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-04-11T04:34:00+00:00,,0.3097074958574647,0,1,pt,,
@@ -246,6 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0877c3e614',extremes,Precipitation,#d60d2b,wmo,chuva torrencial região litoral,2026-04-30T05:46:00+00:00,Ecuador,0.3080908213612825,0,1,pt,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,chuva região amazônica,2026-05-03T05:44:00+00:00,Ecuador,0.308062466264118,0,1,pt,NWS,South-America
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,pt,WSAF,Africa
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,chuva áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3079943839372556,0,1,pt,WSAF,Africa
 '0daffd462e',extremes,Storm,#b3b2b1,eonet,supertufão sinlaku,2026-04-13T05:27:00+00:00,,0.3068805782456913,0,1,pt,NPO,Pacific Ocean
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-04-09T04:58:00+00:00,Argentina,0.3068240870934196,0,1,pt,SES,South-America
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2026-04-08T05:01:00+00:00,Australia,0.3066978458525062,0,1,pt,SAU,Oceania
@@ -427,7 +431,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,período de chuva no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.2704383924495468,1,1,pt,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,onda de calor em Queensland,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,pt,CAU,Oceania
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconhecido Estados Unidos,2026-04-19T05:17:00+00:00,United States,0.2681418266921617,1,2,pt,ENA,North-America
-'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-05-12T05:53:00+00:00,Australia,0.26771444553938656,1,1,pt,SAU,Oceania
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-05-12T05:53:00+00:00,Australia,0.2677144455393865,1,1,pt,SAU,Oceania
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical sinlaku,2026-04-11T04:34:00+00:00,,0.2675599006787436,1,1,pt,NPO,Pacific Ocean
 '152914913d',extremes,Heat Wave,#c40202,acwe,onda de calor na Tasmânia,2026-04-28T05:45:00+00:00,Australia,0.2675166980509432,1,1,pt,SAU,Oceania
 '0646039361',extremes,Drought,#edc291,acwe,falta de chuva na Tasmânia,2026-04-21T05:15:00+00:00,Australia,0.26743381154725,1,1,pt,SAU,Oceania
