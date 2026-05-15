@@ -66,10 +66,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-04-28T05:45:00+00:00,Bermuda,0.551253979018897,1,1,pt,NAO,Atlantic Ocean
 '5151cbced7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viseu,2026-04-28T05:45:00+00:00,Portugal,0.5462719632003544,0,1,pt,MED,Europe
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-04-29T05:40:00+00:00,Portugal,0.5424226004209066,1,2,pt,MED,Europe
-'4122f8943d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial vila real,2026-04-29T05:40:00+00:00,Portugal,0.5419720648675881,0,1,pt,MED,Europe
 '14c3c2cdd9',extremes,Thunderstorm,#53785a,wmo,granizo Beja,2026-04-10T05:13:00+00:00,Portugal,0.5412129435847641,1,2,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-04-21T05:15:00+00:00,Portugal,0.5406918311555068,0,1,pt,NAO,Atlantic Ocean
-'8cf0b46320',extremes,Precipitation,#d60d2b,wmo,precipitação évora,2026-04-27T05:40:00+00:00,Portugal,0.537691764378346,0,1,pt,MED,Europe
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-04-08T05:01:00+00:00,Portugal,0.5357068391605527,1,1,pt,MED,Europe
 'be0c6d04cd',extremes,Thunderstorm,#53785a,wmo,tempo severo guarda,2026-04-28T05:45:00+00:00,Portugal,0.5343114487411741,1,1,pt,MED,Europe
 '62df00c19e',extremes,Thunderstorm,#53785a,wmo,tempo severo coimbra,2026-04-28T05:45:00+00:00,Portugal,0.5333074809462249,1,1,pt,MED,Europe
@@ -130,8 +128,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-04-27T05:40:00+00:00,Portugal,0.463577182008537,1,1,pt,MED,Europe
 '8d695d210f',extremes,Precipitation,#d60d2b,wmo,chuva madeira costa sul,2026-05-04T05:50:00+00:00,Portugal,0.4630817712456763,1,1,pt,MED,Europe
 'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,precipitação porto,2026-04-07T04:59:00+00:00,Portugal,0.4625476819435659,1,2,pt,MED,Europe
+'4122f8943d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial vila real,2026-04-29T05:40:00+00:00,Portugal,0.46067625513744986,1,1,pt,MED,Europe
 '320898e453',extremes,Precipitation,#d60d2b,wmo,precipitação vila real,2026-04-28T05:45:00+00:00,Portugal,0.4603053788189332,1,1,pt,MED,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-04-16T05:16:00+00:00,,0.4599673945855034,1,2,pt,,
+'8cf0b46320',extremes,Precipitation,#d60d2b,wmo,precipitação évora,2026-04-27T05:40:00+00:00,Portugal,0.4579381197215941,1,1,pt,MED,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-04-24T05:22:00+00:00,Equatorial Guinea,0.4553004459173362,0,1,pt,WAF,Africa
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-05-04T05:49:00+00:00,,0.4524274843263458,1,2,pt,,
 '75be3599c2',extremes,Precipitation,#d60d2b,wmo,aguaceiro leiria,2026-05-08T05:16:00+00:00,Portugal,0.4516765768651638,1,1,pt,MED,Europe
