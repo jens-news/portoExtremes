@@ -194,7 +194,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-05-13T06:02:00+00:00,,0.3607381475817603,1,1,pt,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-04-20T05:26:00+00:00,,0.3582591654065565,1,2,pt,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-04-23T05:16:00+00:00,,0.3549639307027006,0,1,pt,,
-'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-05-02T05:23:00+00:00,,0.3545395458510074,0,1,pt,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-04-22T05:13:00+00:00,,0.3530544877294994,0,1,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-04-27T05:40:00+00:00,Timor Leste,0.3510968347550158,1,1,pt,SEA,Oceania
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-04-15T05:12:00+00:00,Macao,0.3489977996869795,1,1,pt,EAS,Asia
@@ -325,6 +324,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a57654f4ed',extremes,Earthquake,#870007,usgs,terremoto king cove,2026-04-13T05:27:00+00:00,Alaska,0.3021571634737194,0,1,pt,NWN,North-America
 '609a79d405',extremes,Wildfire,#d60d2b,wmo,incêndio florestal no condado de xichou,2026-04-11T04:34:00+00:00,China,0.3021388307540285,0,1,pt,EAS,Asia
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na região da cidade de Nelson,2026-04-12T05:12:00+00:00,New Zealand,0.3021127362136492,0,1,pt,NZ,Oceania
+'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-05-02T05:23:00+00:00,,0.3021086889733563,1,1,pt,,
 'afccf77c89',extremes,Storm,#b3b2b1,wmo,tempestade litora interandina e amazônia,2026-04-14T05:11:00+00:00,Ecuador,0.3021078708143394,0,1,pt,NWS,South-America
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,tempestade na Hungria,2026-04-17T05:16:00+00:00,Hungary,0.3020765051397529,0,1,pt,WCE,Europe
 '53e7a587b8',extremes,Drought,#edc291,edo,período de seca na Coreia do Norte,2026-04-13T05:28:00+00:00,North Korea,0.3020482878310204,0,1,pt,EAS,Asia
