@@ -143,6 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64e3d75854',extremes,Thunderstorm,#53785a,wmo,tempo severo Aveiro,2026-04-29T05:40:00+00:00,Portugal,0.4411683425901482,1,1,pt,MED,Europe
 '05756e6a91',extremes,Thunderstorm,#53785a,wmo,tempo severo Viseu,2026-04-27T05:40:00+00:00,Portugal,0.4407554371893841,1,1,pt,MED,Europe
 '862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-04-27T05:40:00+00:00,Portugal,0.4407159236120127,1,1,pt,MED,Europe
+'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-05-02T05:23:00+00:00,,0.43817611704146736,1,2,pt,,
 '124eee42ad',extremes,Thunderstorm,#53785a,wmo,trovoada viseu,2026-04-28T05:45:00+00:00,Portugal,0.4359647034601069,1,1,pt,MED,Europe
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundação do rio,2026-04-20T05:26:00+00:00,,0.435258801008949,1,2,pt,,
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2026-04-28T05:44:00+00:00,Timor Leste,0.4345454383108336,1,1,pt,SEA,Asia
@@ -197,7 +198,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-04-23T05:16:00+00:00,,0.3549639307027006,0,1,pt,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-04-22T05:13:00+00:00,,0.3530544877294994,0,1,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-04-27T05:40:00+00:00,Timor Leste,0.3510968347550158,1,1,pt,SEA,Oceania
-'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-05-02T05:23:00+00:00,,0.3491648973597095,0,1,pt,,
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-04-15T05:12:00+00:00,Macao,0.3489977996869795,1,1,pt,EAS,Asia
 'f6774fb5b2',extremes,Drought,#edc291,acwe,falta de chuva Vitória,2026-05-04T05:50:00+00:00,Australia,0.3482389200441081,1,2,pt,SAU,Oceania
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-04-22T05:13:00+00:00,,0.345785704054097,0,1,pt,,
