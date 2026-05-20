@@ -163,6 +163,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-04-28T05:44:00+00:00,,0.3974428336530804,1,3,pt,,
 '288b409711',extremes,Earthquake,#870007,usgs,terremoto maubara,2026-04-20T05:26:00+00:00,Timor Leste,0.394246573587542,1,1,pt,SEA,Asia
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-04-21T05:15:00+00:00,Timor Leste,0.39375717158198,1,1,pt,SEA,Oceania
+'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-05-01T05:54:00+00:00,,0.392357707613664,1,3,pt,,
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-05-01T05:54:00+00:00,,0.3901334711144071,0,1,pt,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,chuva torrencial,2026-04-13T05:27:00+00:00,,0.3855443489501551,0,1,pt,,
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-04-14T05:11:00+00:00,Cabo Verde,0.3843291019115981,1,1,pt,NAO,Atlantic Ocean
@@ -177,7 +178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-05-09T05:35:00+00:00,,0.3754013215475384,1,2,pt,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-05-03T05:43:00+00:00,,0.3685813845345615,1,2,pt,,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-04-24T05:21:00+00:00,,0.3683831203024377,0,1,pt,,
-'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-05-01T05:54:00+00:00,,0.3677125148396047,0,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,wmo,inundações na Austrália,2026-04-26T05:25:00+00:00,Australia,0.366458580043729,1,2,pt,CAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-27T05:39:00+00:00,,0.3649331318212676,0,1,pt,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-04-07T04:59:00+00:00,Argentina,0.3638751467290997,1,3,pt,SES,South-America
@@ -228,7 +228,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-14T06:02:00+00:00,Equatorial Guinea,0.3098645132740191,1,1,pt,WAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,pt,SES,South-America
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-04-15T05:11:00+00:00,,0.3082774465873569,0,1,pt,,
-'0877c3e614',extremes,Precipitation,#d60d2b,wmo,chuva torrencial região litoral,2026-04-30T05:46:00+00:00,Ecuador,0.3080908213612825,0,1,pt,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,chuva região amazônica,2026-05-03T05:44:00+00:00,Ecuador,0.308062466264118,0,1,pt,NWS,South-America
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,pt,WSAF,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,chuva áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3079943839372556,0,1,pt,WSAF,Africa
@@ -371,6 +370,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04f990069a',extremes,Drought,#edc291,edo,falta de chuva na Bielorrússia,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,pt,WCE,Europe
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,avalanche sochi,2026-04-19T05:16:00+00:00,Russia,0.2622551781524331,1,1,pt,ESB,Europe
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,chuva torrencial áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.2619556051578506,1,1,pt,WSAF,Africa
+'0877c3e614',extremes,Precipitation,#d60d2b,wmo,chuva torrencial região litoral,2026-04-30T05:46:00+00:00,Ecuador,0.26187719815709015,1,1,pt,NWS,South-America
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,precipitação república da moldávia,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pt,WCE,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldávia congelante,2026-04-29T05:40:00+00:00,Moldova,0.2611864812172262,1,1,pt,WCE,Europe
 'dea87e6ccd',extremes,Drought,#edc291,edo,período de seca na Letónia,2026-04-22T05:13:00+00:00,Latvia,0.2611401906801339,1,1,pt,WCE,Europe
