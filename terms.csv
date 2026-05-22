@@ -156,7 +156,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2595e5c49a',extremes,Flood,#030ba1,acwe,nível de água alto na Austrália,2026-05-04T05:50:00+00:00,Australia,0.4008227945483195,1,2,pt,CAU,Oceania
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-05-03T05:43:00+00:00,,0.39947629736413,1,2,pt,,
-'40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.3989403773377403,0,1,pt,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-04-28T05:44:00+00:00,,0.3974428336530804,1,3,pt,,
 '288b409711',extremes,Earthquake,#870007,usgs,terremoto maubara,2026-04-20T05:26:00+00:00,Timor Leste,0.394246573587542,1,1,pt,SEA,Asia
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-04-21T05:15:00+00:00,Timor Leste,0.39375717158198,1,1,pt,SEA,Oceania
@@ -174,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tufão,2026-05-03T05:43:00+00:00,,0.3685813845345615,1,2,pt,,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-04-24T05:21:00+00:00,,0.3683831203024377,0,1,pt,,
 '44211c95de',extremes,Flood,#030ba1,wmo,inundações na Austrália,2026-04-26T05:25:00+00:00,Australia,0.366458580043729,1,2,pt,CAU,Oceania
+'40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.36537283295930145,1,2,pt,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-04-27T05:39:00+00:00,,0.3649331318212676,0,1,pt,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-04-07T04:59:00+00:00,Argentina,0.3638751467290997,1,3,pt,SES,South-America
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-05-07T05:46:00+00:00,,0.3635481321757596,1,1,pt,,
@@ -266,7 +266,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957c870453',extremes,Drought,#edc291,edo,seca islândia,2026-04-21T05:15:00+00:00,Iceland,0.3044263957284792,0,1,pt,GIC,Europe
 '8e0946a5f2',extremes,Drought,#edc291,edo,falta de chuva Estônia,2026-04-19T05:16:00+00:00,Estonia,0.3044027302706069,0,1,pt,NEU,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-04-23T05:16:00+00:00,Canada,0.3042638033755329,0,1,pt,NEN,North-America
-'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-05-17T06:01:00+00:00,Bahrain,0.30417282080608116,0,1,pt,ARP,Asia
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,pt,ARP,Asia
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,pt,SWS,South-America
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,neve na Rússia,2026-04-27T05:40:00+00:00,Russia,0.3040306143114183,0,1,pt,ESB,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-05-11T06:14:00+00:00,Paraguay,0.3040289110279048,0,1,pt,SES,South-America
@@ -274,7 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-05-01T05:54:00+00:00,Argentina,0.3039691969434668,0,1,pt,SES,South-America
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,tempestade maldivas,2026-05-02T05:24:00+00:00,Maldives,0.3039152866597654,0,1,pt,EIO,Indian Ocean
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-05-10T05:51:00+00:00,Vanuatu,0.3038014772940418,0,1,pt,SPO,Oceania
-'829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-05-06T05:43:00+00:00,Jamaica,0.30378942524789954,0,1,pt,CAR,North-America
+'829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-05-06T05:43:00+00:00,Jamaica,0.3037894252478995,0,1,pt,CAR,North-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,tempo severo Nigéria,2026-05-08T05:16:00+00:00,Nigeria,0.3037810040806147,0,1,pt,WAF,Africa
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,trovoada Hong Kong,2026-05-19T06:33:00+00:00,Hong Kong,0.3037346404640965,0,1,pt,EAS,Asia
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-05-09T05:36:00+00:00,Solomon Islands,0.3037240799789759,0,1,pt,EPO,Oceania
