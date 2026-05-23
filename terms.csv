@@ -174,6 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13ee351c11',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo central,2026-05-11T06:14:00+00:00,Portugal,0.3609546102713901,1,1,pt,MED,Europe
 '54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-05-13T06:02:00+00:00,,0.3607381475817603,1,1,pt,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-04-20T05:26:00+00:00,,0.3582591654065565,1,2,pt,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-04-27T05:40:00+00:00,Timor Leste,0.3510968347550158,1,1,pt,SEA,Oceania
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,pt,,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,falta de chuva Vitória,2026-05-04T05:50:00+00:00,Australia,0.3482389200441081,1,2,pt,SAU,Oceania
@@ -190,7 +191,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,pt,,
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-05-05T05:29:00+00:00,Macao,0.3272466465661771,1,1,pt,EAS,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-05-18T06:38:00+00:00,,0.3259273607693181,0,1,pt,,
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.3243674231256447,0,1,pt,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-05-17T06:01:00+00:00,,0.3232164825327245,0,1,pt,,
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais áfrica do sul,2026-05-09T05:36:00+00:00,South Africa,0.3230289412091757,1,1,pt,WSAF,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,pt,,
@@ -212,7 +212,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,pt,SES,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-04-28T05:45:00+00:00,Argentina,0.3075939111804926,0,1,pt,SES,South-America
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,geada áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3075165279877251,0,1,pt,WSAF,Africa
-'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-04-26T05:25:00+00:00,Russia,0.3073871299989488,0,1,pt,ESB,Europe
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-04-30T05:46:00+00:00,Madagascar,0.3073676937653535,0,1,pt,MDG,Africa
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,distrito de Rain Buller,2026-05-08T05:16:00+00:00,New Zealand,0.3073587133009319,0,1,pt,NZ,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,gelo argentina,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,pt,SES,South-America
@@ -367,6 +366,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,pt,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,precipitação república da moldávia,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pt,WCE,Europe
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais na Tanzânia,2026-05-01T05:54:00+00:00,Tanzania,0.2613635101947453,1,1,pt,SEAF,Africa
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,avalanche na Rússia,2026-04-26T05:25:00+00:00,Russia,0.2612790604991065,1,1,pt,ESB,Europe
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,Moldávia congelante,2026-04-29T05:40:00+00:00,Moldova,0.2611864812172262,1,1,pt,WCE,Europe
 'dea87e6ccd',extremes,Drought,#edc291,edo,período de seca na Letónia,2026-04-22T05:13:00+00:00,Latvia,0.2611401906801339,1,1,pt,WCE,Europe
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.2605602691229823,1,1,pt,NWS,South-America
