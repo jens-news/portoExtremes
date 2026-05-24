@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-04-15T05:12:00+00:00,Brazil,0.6899517685491314,1,3,pt,SAM,South-America
 'ac41bc4290',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-04-07T04:59:00+00:00,Portugal,0.6871229785949287,1,2,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-04-12T05:12:00+00:00,Brazil,0.6866166608319028,1,3,pt,SAM,South-America
-'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-05-06T05:43:00+00:00,Sao Tome and Principe,0.683394907976805,0,1,pt,WAF,Africa
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.6793748911951614,0,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-05-24T06:22:00+00:00,Brazil,0.6782518728123581,1,2,pt,SAM,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,onda de calor brasil,2026-04-20T05:27:00+00:00,Brazil,0.6717092534733073,1,2,pt,SAM,South-America
@@ -46,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba252581f8',extremes,Precipitation,#d60d2b,wmo,chuva portalegre,2026-04-28T05:45:00+00:00,Portugal,0.5872407642160886,1,2,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-04-22T05:13:00+00:00,Mozambique,0.5849854915682771,1,1,pt,ESAF,Africa
 '3d19dfefeb',extremes,Thunderstorm,#53785a,wmo,trovoada portugal,2026-05-23T05:53:00+00:00,Portugal,0.5844373209765158,1,2,pt,MED,Europe
+'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-05-06T05:43:00+00:00,Sao Tome and Principe,0.5808856717802843,1,1,pt,WAF,Africa
 'ea3fdaa22d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial madeira regiões montanhosas,2026-05-05T05:29:00+00:00,Portugal,0.576557927083163,0,1,pt,MED,Europe
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,tempestade santarém,2026-04-27T05:40:00+00:00,Portugal,0.573740557058364,1,2,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-05-13T06:03:00+00:00,Angola,0.5683186973571666,1,1,pt,WSAF,Africa
@@ -94,7 +94,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-05-10T05:51:00+00:00,Portugal,0.4846779275163231,1,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-21T06:35:00+00:00,Cabo Verde,0.4820281669411693,0,1,pt,NAO,Atlantic Ocean
 '5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2026-05-04T05:50:00+00:00,Portugal,0.4820006786090062,1,1,pt,MED,Europe
-'628e8059a4',extremes,Thunderstorm,#53785a,wmo,granizo guarda,2026-05-23T05:53:00+00:00,Portugal,0.4815396221578172,0,1,pt,MED,Europe
 '2fcb5eaea8',extremes,Precipitation,#d60d2b,wmo,aguaceiro braga,2026-04-27T05:40:00+00:00,Portugal,0.4806556332917874,1,1,pt,MED,Europe
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-05-08T05:16:00+00:00,Portugal,0.4794590585341732,1,1,pt,MED,Europe
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-04-27T05:39:00+00:00,Timor Leste,0.479073960065128,1,1,pt,SEA,Asia
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-04-26T05:25:00+00:00,Portugal,0.4761253147112837,1,1,pt,MED,Europe
 '96ba33cb89',extremes,Precipitation,#d60d2b,wmo,chuva torrencial castelo branco,2026-04-27T05:40:00+00:00,Portugal,0.4760343154750961,1,1,pt,MED,Europe
 '10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.4756439053906134,1,1,pt,MED,Europe
+'628e8059a4',extremes,Thunderstorm,#53785a,wmo,granizo guarda,2026-05-23T05:53:00+00:00,Portugal,0.4753169035709867,1,1,pt,MED,Europe
 'bfbfc8bc96',extremes,Thunderstorm,#53785a,wmo,trovoada porto,2026-05-10T05:51:00+00:00,Portugal,0.4712618835747538,1,2,pt,MED,Europe
 'fe9a8c919c',extremes,Thunderstorm,#53785a,wmo,granizo castelo branco,2026-04-28T05:45:00+00:00,Portugal,0.4700972340076341,1,1,pt,MED,Europe
 '5ef605688d',extremes,Thunderstorm,#53785a,wmo,trovoada macau,2026-05-15T06:09:00+00:00,Macao,0.4696643630888235,1,1,pt,EAS,Asia
@@ -221,7 +221,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,período de calor no sul da Austrália,2026-05-05T05:29:00+00:00,Australia,0.3129167833735609,1,1,pt,SAU,Oceania
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-07T05:46:00+00:00,,0.3112876526952909,0,1,pt,,
-'92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.3111115525159482,0,1,pt,MDG,Africa
 '96f0408faf',extremes,Drought,#edc291,edo,seca letónia,2026-05-04T05:50:00+00:00,Latvia,0.3108189738357254,0,1,pt,WCE,Europe
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-14T06:02:00+00:00,Equatorial Guinea,0.3098645132740191,1,1,pt,WAF,Africa
 '9f05eaaf90',extremes,Drought,#edc291,edo,período de seca na Islândia,2026-05-21T06:35:00+00:00,Iceland,0.3083985333345354,0,1,pt,GIC,Europe
@@ -376,6 +375,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,inundando Nova Gales do Sul,2026-05-05T05:29:00+00:00,Australia,0.2650140493713013,1,1,pt,EAU,Oceania
 '4d446959e2',extremes,Drought,#edc291,edo,seca Estônia,2026-05-04T05:50:00+00:00,Estonia,0.2649815023944263,1,1,pt,NEU,Europe
 '6c34512524',extremes,Drought,#edc291,edo,falta de chuva sri lanka,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,pt,BOB,Asia
+'92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.26444481963855593,1,1,pt,MDG,Africa
 '628c73fc75',extremes,Drought,#edc291,edo,seca polónia,2026-05-05T05:29:00+00:00,Poland,0.2631394779759461,1,1,pt,WCE,Europe
 '04f990069a',extremes,Drought,#edc291,edo,falta de chuva na Bielorrússia,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,pt,WCE,Europe
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,chuva torrencial áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.2619556051578506,1,1,pt,WSAF,Africa
