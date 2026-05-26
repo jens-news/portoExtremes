@@ -90,7 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '125e47808a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial leiria,2026-04-29T05:40:00+00:00,Portugal,0.4877286431616114,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-05-09T05:36:00+00:00,Angola,0.4872873601588252,1,1,pt,WSAF,Africa
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-04-27T05:40:00+00:00,Portugal,0.4870486093689837,1,1,pt,MED,Europe
-'1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-05-25T06:53:00+00:00,Portugal,0.48665676377160094,1,1,pt,MED,Europe
+'1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-05-25T06:53:00+00:00,Portugal,0.4866567637716009,1,1,pt,MED,Europe
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-05-10T05:51:00+00:00,Portugal,0.4846779275163231,1,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-21T06:35:00+00:00,Cabo Verde,0.4820281669411693,0,1,pt,NAO,Atlantic Ocean
 '5c48d48a0b',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira regiões montanhosas,2026-05-04T05:50:00+00:00,Portugal,0.4820006786090062,1,1,pt,MED,Europe
@@ -149,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-05-10T05:51:00+00:00,Portugal,0.4264576743412229,1,1,pt,MED,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-05-19T06:33:00+00:00,,0.4184088674971437,1,3,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-05-01T05:54:00+00:00,Macao,0.4183915469023114,0,1,pt,EAS,Asia
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-05-25T06:52:00+00:00,,0.4165030614040587,1,2,pt,,
 '1df73acddb',extremes,Precipitation,#d60d2b,wmo,chuva torrencial açores grupo oriental,2026-05-11T06:14:00+00:00,Portugal,0.416127336035798,1,1,pt,MED,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,período de seca na República Tcheca,2026-05-04T05:50:00+00:00,Czechia,0.4122649008670976,1,2,pt,WCE,Europe
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-04-25T05:00:00+00:00,Macao,0.4113813164514848,1,1,pt,EAS,Asia
@@ -198,7 +199,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitação região amazônica,2026-05-06T05:43:00+00:00,Ecuador,0.337063080608809,1,2,pt,NWS,South-America
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-05-12T05:52:00+00:00,,0.33687654554823,1,1,pt,,
 '4b8dfdf3ab',extremes,Flood,#030ba1,emdat,enchente ceará,2026-05-19T06:33:00+00:00,Brazil,0.3366011443604566,1,1,pt,SAM,South-America
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-05-25T06:52:00+00:00,,0.3341799134165396,0,1,pt,,
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-12T05:53:00+00:00,Equatorial Guinea,0.3336507063773533,1,1,pt,WAF,Africa
 'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-05-09T05:36:00+00:00,Timor Leste,0.3317678196047091,1,1,pt,SEA,Oceania
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,pt,,
