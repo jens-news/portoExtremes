@@ -337,6 +337,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.3031011234916846,0,1,pt,NZ,Oceania
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.3030817403089885,0,1,pt,NSA,North-America
 '475ba7d4ed',extremes,Heat Wave,#c40202,wmo,onda de calor na Bielorrússia,2026-05-06T05:43:00+00:00,Belarus,0.3030808284021078,0,1,pt,WCE,Europe
+'d56de5f4df',extremes,Drought,#edc291,edo,falta de chuva letónia,2026-05-29T06:39:00+00:00,Latvia,0.30307876332767975,0,1,pt,WCE,Europe
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,geada estados unidos,2026-05-16T05:40:00+00:00,United States,0.3030761556886078,0,1,pt,CNA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-05-16T05:40:00+00:00,Solomon Islands,0.3030608503813626,0,1,pt,EPO,Oceania
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,onda de calor israel,2026-05-09T05:36:00+00:00,Israel,0.303004789200941,0,1,pt,MED,Asia
@@ -370,10 +371,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82a7e84a45',extremes,Snow&Ice,#d60d2b,wmo,região de neve de Rostov,2026-04-30T05:46:00+00:00,Russia,0.302313244643726,0,1,pt,ESB,Europe
 '31e0110198',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas das Ilhas Salomão,2026-05-11T06:14:00+00:00,Solomon Islands,0.3022893314544646,0,1,pt,EPO,Oceania
 'cf99db758d',extremes,Fog,#d60d2b,wmo,nevoeiro Letónia,2026-05-12T05:52:00+00:00,Latvia,0.3022858564305193,0,1,pt,WCE,Europe
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-05-17T06:01:00+00:00,Vanuatu,0.3022326573012027,0,1,pt,SPO,Oceania
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,gelo Finlândia,2026-04-24T05:22:00+00:00,Finland,0.3022324891910571,0,1,pt,NEU,Europe
+'7867822b00',extremes,Precipitation,#d60d2b,wmo,precipitação overstrand hermanus,2026-05-12T05:52:00+00:00,South Africa,0.3022309105521983,0,1,pt,WSAF,Africa
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,tempo severo seicheles,2026-04-27T05:40:00+00:00,Seychelles,0.3022260600965197,0,1,pt,EIO,Africa
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,tempestade no Canadá,2026-05-10T05:51:00+00:00,Canada,0.3021524137994265,0,1,pt,NEN,North-America
+'c630738b07',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas costeiras de Vanuatu.,2026-05-17T06:01:00+00:00,Vanuatu,0.302123164821871,0,1,pt,SPO,Oceania
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Índia,2026-05-15T06:09:00+00:00,India,0.3021095118577984,0,1,pt,SAS,Asia
 'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-05-02T05:23:00+00:00,,0.3021086889733563,1,1,pt,,
+'27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,avalanche ao sul de Krasnoyarsk krai,2026-05-10T05:51:00+00:00,Russia,0.3020964726050906,0,1,pt,ESB,Europe
+'6bab428eb7',extremes,Heat Wave,#c40202,wmo,onda de calor Bélgica,2026-05-26T06:31:00+00:00,Belgium,0.3020470038476004,0,1,pt,WCE,Europe
 '1a787f170e',extremes,Fog,#d60d2b,wmo,nevoeiro reino unido,2026-04-25T05:00:00+00:00,United Kingdom,0.302043095187611,0,1,pt,NEU,Europe
+'95b5264574',extremes,Heat Wave,#c40202,wmo,onda de calor no Canadá,2026-05-18T06:38:00+00:00,Canada,0.30203028619114464,0,1,pt,NEN,North-America
+'314d696add',extremes,Snow&Ice,#d60d2b,wmo,neve estados unidos,2026-05-16T05:40:00+00:00,United States,0.3020090126694399,0,1,pt,CNA,North-America
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,tempestade catar,2026-04-22T05:13:00+00:00,Qatar,0.3018743583707812,0,1,pt,ARP,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-04-24T05:21:00+00:00,,0.3018465118169421,0,1,pt,,
 'e873273000',extremes,Storm,#b3b2b1,wmo,tempestade maláui,2026-04-23T05:16:00+00:00,Malawi,0.3018097596637396,0,1,pt,ESAF,Africa
