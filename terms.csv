@@ -221,8 +221,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-05-23T05:52:00+00:00,,0.3198561337116705,0,1,pt,,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitação áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.3194144422387933,1,1,pt,WSAF,Africa
-'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Jangmi,2026-05-30T06:01:00+00:00,,0.3190210246836887,0,1,pt,NPO,Pacific Ocean
-'fec57a6213',extremes,Heat Wave,#c40202,cmeter,onda de calor europeia paris,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,1,pt,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,falta de chuva no oeste da Austrália,2026-05-27T06:46:00+00:00,Australia,0.3187355267638593,0,1,pt,CAU,Oceania
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,onda de calor paris,2026-05-29T06:39:00+00:00,France,0.3184455293375499,0,1,pt,,
 'efa91cca03',extremes,Drought,#edc291,acwe,baixo nível de água no oeste da Austrália,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,1,pt,CAU,Oceania
@@ -413,6 +411,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,período de chuva em Nova Gales do Sul,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,pt,EAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,clima frio no oeste da Austrália,2026-05-28T06:38:00+00:00,Australia,0.2714729945889123,1,1,pt,CAU,Oceania
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,onda de frio no oeste da Austrália,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,pt,CAU,Oceania
+'fec57a6213',extremes,Heat Wave,#c40202,cmeter,onda de calor europeia paris,2026-05-28T06:38:00+00:00,France,0.271343262462277,1,1,pt,,
+'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Jangmi,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,pt,NPO,Pacific Ocean
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,inverno ameno no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,pt,CAU,Oceania
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical hagupit,2026-05-07T05:46:00+00:00,,0.2705461711611663,1,1,pt,EPO,Pacific Ocean
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,período de chuva no oeste da Austrália,2026-05-04T05:50:00+00:00,Australia,0.2704383924495468,1,1,pt,CAU,Oceania
