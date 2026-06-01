@@ -205,7 +205,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-04-28T05:44:00+00:00,,0.3406202321824552,1,1,pt,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,pt,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,pt,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-05-15T06:09:00+00:00,,0.3384315010794707,0,1,pt,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.3383896172646126,1,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-05-16T05:40:00+00:00,,0.3371201972959511,1,1,pt,,
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitação região amazônica,2026-05-06T05:43:00+00:00,Ecuador,0.337063080608809,1,2,pt,NWS,South-America
@@ -221,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-05-30T06:01:00+00:00,,0.3251051617409697,0,1,pt,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-05-17T06:01:00+00:00,,0.3232164825327245,0,1,pt,,
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais áfrica do sul,2026-05-09T05:36:00+00:00,South Africa,0.3230289412091757,1,1,pt,WSAF,Africa
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-05-15T06:09:00+00:00,,0.32190985806040723,1,1,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-05-23T05:52:00+00:00,,0.3198561337116705,0,1,pt,,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitação áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.3194144422387933,1,1,pt,WSAF,Africa
@@ -342,7 +342,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,onda de calor Etiópia,2026-05-14T06:02:00+00:00,Ethiopia,0.3027792365947153,0,1,pt,NEAF,Africa
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais região insular,2026-05-11T06:14:00+00:00,Ecuador,0.3027764446346575,0,1,pt,NWS,South-America
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,neve Sérvia,2026-04-30T05:46:00+00:00,Serbia,0.3027661305352522,0,1,pt,MED,Europe
-'3bd2789f86',extremes,Earthquake,#870007,usgs,terremoto şalālah,2026-06-01T07:30:00+00:00,Oman,0.30276418688178386,0,1,pt,ARS,Indian Ocean
+'3bd2789f86',extremes,Earthquake,#870007,usgs,terremoto şalālah,2026-06-01T07:30:00+00:00,Oman,0.3027641868817838,0,1,pt,ARS,Indian Ocean
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitação equador,2026-05-09T05:36:00+00:00,Ecuador,0.3027170098087226,0,1,pt,NWS,South-America
 '922fde2aea',extremes,Drought,#edc291,edo,período de seca no Benin,2026-05-16T05:40:00+00:00,Benin,0.3027088688917165,0,1,pt,WAF,Africa
 '7fb436f320',extremes,Storm,#b3b2b1,wmo,tempestade m_table baía mesa baía,2026-05-11T06:14:00+00:00,South Africa,0.302688391968243,0,1,pt,WSAF,Africa
@@ -395,10 +395,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '570a505031',extremes,Heat Wave,#c40202,wmo,onda de calor perm krai,2026-05-15T06:09:00+00:00,Russia,0.3011943623237982,0,1,pt,ESB,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-05-17T06:01:00+00:00,Australia,0.3011704285335558,1,1,pt,SAU,Oceania
 '9511bd27df',extremes,Flood,#030ba1,wmo,inundação repentina sul da austrália warburton,2026-05-13T06:03:00+00:00,Australia,0.3011350049989897,0,1,pt,CAU,Oceania
-'2731214175',extremes,Heat Wave,#c40202,wmo,onda de calor região de kostroma,2026-05-17T06:01:00+00:00,Russia,0.30109823477865877,0,1,pt,ESB,Europe
+'2731214175',extremes,Heat Wave,#c40202,wmo,onda de calor região de kostroma,2026-05-17T06:01:00+00:00,Russia,0.3010982347786587,0,1,pt,ESB,Europe
 '110d2ee2b9',extremes,Heat Wave,#c40202,wmo,onda de calor na região de Kaluga,2026-05-21T06:35:00+00:00,Russia,0.3010969309157825,0,1,pt,ESB,Europe
-'95cbe1baef',extremes,Heat Wave,#c40202,wmo,onda de calor palo duro canyon,2026-05-16T05:40:00+00:00,United States,0.30104316951991755,0,1,pt,CNA,North-America
-'1d7d327aa2',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki e Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.30103012523396555,0,1,pt,NZ,Oceania
+'95cbe1baef',extremes,Heat Wave,#c40202,wmo,onda de calor palo duro canyon,2026-05-16T05:40:00+00:00,United States,0.3010431695199175,0,1,pt,CNA,North-America
+'1d7d327aa2',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki e Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,pt,NZ,Oceania
 'ed47655456',extremes,Heat Wave,#c40202,wmo,onda de calor na República do Tartaristão,2026-05-17T06:01:00+00:00,Russia,0.3010268773023564,0,1,pt,ESB,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-05-05T05:28:00+00:00,,0.295537163842982,1,1,pt,,
