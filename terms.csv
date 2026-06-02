@@ -236,10 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-07T05:46:00+00:00,,0.3112876526952909,0,1,pt,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-05-14T06:02:00+00:00,,0.3109513030756186,1,1,pt,,
-'6eff66ea81',extremes,Drought,#edc291,edo,seca brunei,2026-06-02T07:08:00+00:00,Brunei,0.3100093041516449,0,1,pt,SEA,Asia
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-14T06:02:00+00:00,Equatorial Guinea,0.3098645132740191,1,1,pt,WAF,Africa
-'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-05-15T06:09:00+00:00,Czechia,0.309661085798714,0,1,pt,WCE,Europe
-'2180c0c4a1',extremes,Drought,#edc291,edo,falta de chuva polónia,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,pt,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,deslizamento de rochas,2026-05-11T06:14:00+00:00,,0.3084171529179946,0,1,pt,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,pt,SES,South-America
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-05-15T06:09:00+00:00,Hungary,0.3081268644254411,0,1,pt,WCE,Europe
@@ -450,6 +447,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.2644448196385559,1,1,pt,MDG,Africa
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,onda de calor europeia bordeaux,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,pt,,
 '96f0408faf',extremes,Drought,#edc291,edo,seca letónia,2026-05-04T05:50:00+00:00,Latvia,0.2641961277603665,1,1,pt,WCE,Europe
+'6eff66ea81',extremes,Drought,#edc291,edo,seca brunei,2026-06-02T07:08:00+00:00,Brunei,0.26350790852889816,1,1,pt,SEA,Asia
+'2180c0c4a1',extremes,Drought,#edc291,edo,falta de chuva polónia,2026-06-02T07:08:00+00:00,Poland,0.26328603051745164,1,1,pt,WCE,Europe
+'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-05-15T06:09:00+00:00,Czechia,0.2632119229289069,1,1,pt,WCE,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-05-27T06:46:00+00:00,,0.2631853041794956,1,1,pt,,
 '628c73fc75',extremes,Drought,#edc291,edo,seca polónia,2026-05-05T05:29:00+00:00,Poland,0.2631394779759461,1,1,pt,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,período de seca na Islândia,2026-05-21T06:35:00+00:00,Iceland,0.262138768334355,1,1,pt,GIC,Europe
