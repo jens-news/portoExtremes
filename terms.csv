@@ -339,6 +339,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-05-01T05:54:00+00:00,Chile,0.3026071964831447,0,1,pt,SWS,South-America
 '5c657726ab',extremes,Drought,#edc291,edo,seca letónia,2026-05-20T06:33:00+00:00,Latvia,0.302604333916478,0,1,pt,WCE,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,congelando nos Estados Unidos,2026-05-16T05:40:00+00:00,United States,0.3025509254350048,0,1,pt,CNA,North-America
+'311c580f74',extremes,Drought,#edc291,edo,período de seca na Finlândia,2026-06-01T07:30:00+00:00,Finland,0.30254750216071946,0,1,pt,NEU,Europe
 '4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,aguaceiro Chade,2026-05-14T06:02:00+00:00,Chad,0.302526777054842,0,1,pt,SAH,Africa
 '13197f48c0',extremes,Precipitation,#d60d2b,wmo,chuva overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.3025224417894369,0,1,pt,WSAF,Africa
 '0b0bfa28bb',extremes,Fog,#d60d2b,wmo,entrada da lagoa de neblina,2026-05-10T05:51:00+00:00,Canada,0.3024922340254062,0,1,pt,NEN,North-America
@@ -359,6 +360,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c630738b07',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas costeiras de Vanuatu.,2026-05-17T06:01:00+00:00,Vanuatu,0.302123164821871,0,1,pt,SPO,Oceania
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Índia,2026-05-15T06:09:00+00:00,India,0.3021095118577984,0,1,pt,SAS,Asia
 'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-05-02T05:23:00+00:00,,0.3021086889733563,1,1,pt,,
+'9a9047ebfe',extremes,Drought,#edc291,edo,seca na Islândia,2026-06-01T07:30:00+00:00,Iceland,0.30210587114590953,0,1,pt,GIC,Europe
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,avalanche ao sul de Krasnoyarsk krai,2026-05-10T05:51:00+00:00,Russia,0.3020964726050906,0,1,pt,ESB,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,onda de calor Bélgica,2026-05-26T06:31:00+00:00,Belgium,0.3020470038476004,0,1,pt,WCE,Europe
 '95b5264574',extremes,Heat Wave,#c40202,wmo,onda de calor no Canadá,2026-05-18T06:38:00+00:00,Canada,0.3020302861911446,0,1,pt,NEN,North-America
@@ -391,8 +393,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki e Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,pt,NZ,Oceania
 'ed47655456',extremes,Heat Wave,#c40202,wmo,onda de calor na República do Tartaristão,2026-05-17T06:01:00+00:00,Russia,0.3010268773023564,0,1,pt,ESB,Europe
 'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,onda de calor região de Vladimir,2026-05-17T06:01:00+00:00,Russia,0.301009652104244,0,1,pt,ESB,Europe
+'f314bb7747',extremes,Flood,#030ba1,aidr,inundações pluviais na Austrália,2026-05-20T06:33:00+00:00,Australia,0.30094883509089415,0,1,pt,EAU,Oceania
 '2257c371a7',extremes,Thunderstorm,#53785a,wmo,tempo severo Guiné,2026-05-13T06:03:00+00:00,Guinea,0.3008468684152509,0,1,pt,WAF,Africa
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,onda de calor na Índia,2026-05-19T06:33:00+00:00,India,0.3008297960964039,0,1,pt,SAS,Asia
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,tempestade na áfrica do sul,2026-06-02T07:08:00+00:00,South Africa,0.30079121476468296,0,1,pt,WSAF,Africa
+'22828af238',extremes,Wildfire,#d60d2b,cmeter,incêndio florestal em Londres,2026-06-02T07:08:00+00:00,France,0.30074048412951015,0,1,pt,,
 '07f7c2e78c',extremes,Heat Wave,#c40202,wmo,onda de calor na região de tula,2026-05-16T05:40:00+00:00,Russia,0.300717239030182,0,1,pt,ESB,Europe
 'b0a627b1e6',extremes,Earthquake,#870007,usgs,terremoto Antígua e Barbuda,2026-05-17T06:01:00+00:00,Antigua and Barbuda,0.3007077732550065,0,1,pt,NAO,Atlantic Ocean
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-05-25T06:53:00+00:00,Canada,0.3007035542154876,0,1,pt,NEN,North-America
@@ -400,6 +405,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e649f95a38',extremes,Precipitation,#d60d2b,wmo,precipitação região litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.3006825904645622,0,1,pt,NWS,South-America
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,avalanche voss,2026-05-14T06:02:00+00:00,Norway,0.3006570710347001,0,1,pt,NEU,Europe
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,tempestade região litoral e interandina,2026-05-19T06:33:00+00:00,Ecuador,0.3006249484141345,0,1,pt,NWS,South-America
+'e12c49e365',extremes,Storm,#b3b2b1,wmo,tempestade região litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.3006016675456399,0,1,pt,NWS,South-America
+'1ac346e7e2',extremes,Drought,#edc291,edo,seca república democrática do congo,2026-05-16T05:40:00+00:00,Democratic Republic of the Congo,0.30059987593638704,0,1,pt,CAF,Africa
+'6ff5caa4ff',extremes,Earthquake,#870007,usgs,terremoto atka,2026-05-21T06:34:00+00:00,Alaska,0.30056178618486373,0,1,pt,NPO,Pacific Ocean
+'bc92de09b1',extremes,Flood,#030ba1,wmo,inundação repentina reino unido,2026-05-20T06:33:00+00:00,United Kingdom,0.3005221846034512,0,1,pt,NEU,Europe
+'4847502382',extremes,Storm,#b3b2b1,wmo,tempestade adrar,2026-05-28T06:38:00+00:00,Algeria,0.3005050273898103,0,1,pt,SAH,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,gelo Canadá,2026-05-01T05:54:00+00:00,Canada,0.2995342424434518,1,1,pt,NEN,North-America
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-05-05T05:28:00+00:00,,0.295537163842982,1,1,pt,,
@@ -453,7 +463,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,seca polónia,2026-05-05T05:29:00+00:00,Poland,0.2631394779759461,1,1,pt,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,período de seca na Islândia,2026-05-21T06:35:00+00:00,Iceland,0.262138768334355,1,1,pt,GIC,Europe
 'ecd6c72a27',extremes,Drought,#edc291,edo,falta de chuva em Madagascar,2026-05-11T06:14:00+00:00,Madagascar,0.2620936000787702,1,1,pt,MDG,Africa
-'815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-05-15T06:09:00+00:00,Hungary,0.26205784976162494,1,1,pt,WCE,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-05-15T06:09:00+00:00,Hungary,0.2620578497616249,1,1,pt,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-05-06T05:43:00+00:00,Czechia,0.2620273867035469,1,1,pt,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,pt,NWS,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,chuva torrencial áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.2619556051578506,1,1,pt,WSAF,Africa
