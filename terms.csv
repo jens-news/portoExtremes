@@ -244,24 +244,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-05-06T05:43:00+00:00,New Zealand,0.3072986177183093,0,1,pt,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-05-06T05:43:00+00:00,New Zealand,0.3072516510598797,0,1,pt,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,chuva Equador,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,pt,NWS,South-America
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,pt,SES,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,pt,NEN,North-America
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,avalanche noruega,2026-05-20T06:33:00+00:00,Norway,0.3067755264441464,0,1,pt,NEU,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canadá gelado,2026-05-03T05:44:00+00:00,Canada,0.3065390856733245,0,1,pt,NEN,North-America
 'dea87e6ccd',extremes,Drought,#edc291,edo,período de seca na Letónia,2026-05-17T06:01:00+00:00,Latvia,0.3064913839692404,0,1,pt,WCE,Europe
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,chuva Tanzânia,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,pt,SEAF,Africa
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,aguaceiro luxemburgo,2026-05-10T05:51:00+00:00,Luxembourg,0.305906196785266,0,1,pt,WCE,Europe
-'fa4ab5ca41',extremes,Drought,#edc291,edo,período de seca brunei,2026-05-17T06:01:00+00:00,Brunei,0.3055927177866875,0,1,pt,SEA,Asia
 '6d73764800',extremes,Earthquake,#870007,usgs,terremoto Silver Springs,2026-05-04T05:49:00+00:00,Nevada,0.3054906455696318,0,1,pt,WNA,North-America
-'0006615477',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Canadá,2026-05-28T06:38:00+00:00,Canada,0.3053568485195942,0,1,pt,NEN,North-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,registro de onda de calor. 3 pré-cordilheira,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,pt,SWS,South-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,geada Canadá,2026-05-01T05:54:00+00:00,Canada,0.3049846968013258,0,1,pt,NEN,North-America
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,chuva Tailândia,2026-05-01T05:54:00+00:00,Thailand,0.3047453425192614,0,1,pt,SEA,Asia
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,pt,NWS,South-America
-'fe5ac6d3b6',extremes,Drought,#edc291,edo,falta de chuva eslováquia,2026-05-26T06:31:00+00:00,Slovakia,0.3045193429699895,0,1,pt,WCE,Europe
-'9e020e244e',extremes,Drought,#edc291,edo,seca polónia,2026-05-23T05:53:00+00:00,Poland,0.3042308223442675,0,1,pt,WCE,Europe
-'0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-06-01T07:30:00+00:00,Estonia,0.3042161408766622,0,1,pt,NEU,Europe
-'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,pt,ARP,Asia
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-05-15T06:09:00+00:00,Canada,0.3041603950034258,0,1,pt,NEN,North-America
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,tempestade na Nigéria,2026-05-24T06:22:00+00:00,Nigeria,0.3041476296640066,0,1,pt,WAF,Africa
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,pt,SWS,South-America
@@ -470,6 +463,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,pt,NWS,South-America
 '53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-05-06T05:43:00+00:00,Lithuania,0.2612823522185536,1,1,pt,WCE,Europe
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,distrito de Rain Buller,2026-05-08T05:16:00+00:00,New Zealand,0.2612549063057921,1,1,pt,NZ,Oceania
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-05-01T05:54:00+00:00,Argentina,0.26109959295978363,1,1,pt,SES,South-America
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais no distrito de Westland,2026-05-06T05:43:00+00:00,New Zealand,0.2610883015158011,1,1,pt,NZ,Oceania
 '226e93183d',extremes,Precipitation,#d60d2b,wmo,precipitação nas cordilheiras do oeste,2026-05-21T06:35:00+00:00,New Zealand,0.2610548253812801,1,1,pt,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais região amazônica,2026-05-04T05:50:00+00:00,Ecuador,0.2609816667609969,1,1,pt,NWS,South-America
@@ -481,18 +475,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '016d682943',extremes,Snow&Ice,#d60d2b,wmo,África do Sul congelante,2026-05-11T06:14:00+00:00,South Africa,0.2601372698556076,1,1,pt,WSAF,Africa
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,chuva torrencial montenegro,2026-05-16T05:40:00+00:00,Montenegro,0.2599203181942551,1,1,pt,MED,Europe
 '023d124975',extremes,Drought,#edc291,edo,seca sri lanka,2026-05-14T06:02:00+00:00,Sri Lanka,0.2598675173611187,1,1,pt,BOB,Asia
+'fa4ab5ca41',extremes,Drought,#edc291,edo,período de seca brunei,2026-05-17T06:01:00+00:00,Brunei,0.25975381011868437,1,1,pt,SEA,Asia
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,granizo على بعض مناطق جنوب غرب ليبيا,2026-05-27T06:46:00+00:00,Libya,0.2597298002929441,1,1,pt,SAH,Africa
 '2fb9bcabc4',extremes,Drought,#edc291,edo,seca Estônia,2026-05-17T06:01:00+00:00,Estonia,0.2596641294717272,1,1,pt,NEU,Europe
 'e4d5bf1603',extremes,Drought,#edc291,edo,seca na Hungria,2026-05-06T05:43:00+00:00,Hungary,0.2596335142812708,1,1,pt,WCE,Europe
 '7cfed20fae',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais em Auckland e ilha da grande barreira,2026-06-01T07:30:00+00:00,New Zealand,0.2595844606152651,1,1,pt,NZ,Oceania
+'0006615477',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Canadá,2026-05-28T06:38:00+00:00,Canada,0.2595533212416551,1,1,pt,NEN,North-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,inundação repentina sul da austrália cooper creek,2026-05-23T05:53:00+00:00,Australia,0.2595419153468651,1,1,pt,CAU,Oceania
 '700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,precipitação westland ao sul de hokitika,2026-05-29T06:38:00+00:00,New Zealand,0.2594433789131665,1,1,pt,NZ,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,chuva torrencial naujaat,2026-05-24T06:22:00+00:00,Canada,0.2593527342600731,1,1,pt,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,congelando puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.259239098400375,1,1,pt,NEN,North-America
 '8e0946a5f2',extremes,Drought,#edc291,edo,falta de chuva Estônia,2026-05-10T05:51:00+00:00,Estonia,0.2589400512197,1,1,pt,NEU,Europe
 '64058b2dc1',extremes,Drought,#edc291,edo,período de seca na Hungria,2026-05-16T05:40:00+00:00,Hungary,0.2589371318883576,1,1,pt,WCE,Europe
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,falta de chuva eslováquia,2026-05-26T06:31:00+00:00,Slovakia,0.25884144152449107,1,1,pt,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,tempestade Tanzânia,2026-05-20T06:33:00+00:00,Tanzania,0.2588399501843786,1,1,pt,SEAF,Africa
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,tempestade catar,2026-05-19T06:33:00+00:00,Qatar,0.2588021283040311,1,1,pt,ARP,Asia
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,geada gatineau,2026-05-08T05:16:00+00:00,Canada,0.2587816229661466,1,1,pt,NEN,North-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Tailândia,2026-05-11T06:14:00+00:00,Thailand,0.2587737172818665,1,1,pt,SEA,Asia
 '98db96b6de',extremes,Drought,#edc291,edo,seca lituânia,2026-05-17T06:01:00+00:00,Lithuania,0.258746206538817,1,1,pt,WCE,Europe
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-05-17T06:01:00+00:00,Bahrain,0.2586969126851689,1,1,pt,ARP,Asia
+'9e020e244e',extremes,Drought,#edc291,edo,seca polónia,2026-05-23T05:53:00+00:00,Poland,0.25859619899262737,1,1,pt,WCE,Europe
+'0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-06-01T07:30:00+00:00,Estonia,0.25858371974516287,1,1,pt,NEU,Europe
