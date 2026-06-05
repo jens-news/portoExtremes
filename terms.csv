@@ -152,7 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,precipitação Canadá,2026-05-19T06:33:00+00:00,Canada,0.4095168397842379,1,2,pt,NEN,North-America
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,tempestade na Nigéria,2026-05-24T06:22:00+00:00,Nigeria,0.4086755002144056,1,2,pt,WAF,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-05-15T06:09:00+00:00,Canada,0.4083482110754926,1,3,pt,NEN,North-America
-'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-05-02T05:24:00+00:00,Paraguay,0.40826284323760353,1,2,pt,SES,South-America
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-05-02T05:24:00+00:00,Paraguay,0.4082628432376035,1,2,pt,SES,South-America
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-05-08T05:16:00+00:00,Cabo Verde,0.4042439350543073,1,1,pt,NAO,Atlantic Ocean
 '2595e5c49a',extremes,Flood,#030ba1,acwe,nível de água alto na Austrália,2026-05-04T05:50:00+00:00,Australia,0.4008227945483195,1,2,pt,CAU,Oceania
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,pt,,
@@ -248,7 +248,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-05-05T05:29:00+00:00,Chile,0.3036965985517285,0,1,pt,SWS,South-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – severa,2026-05-17T06:01:00+00:00,Paraguay,0.3036724905076355,0,1,pt,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-05-29T06:38:00+00:00,Paraguay,0.3036650998667485,0,1,pt,SES,South-America
-'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.3036504569362573,0,1,pt,WSAF,Africa
 'b977149cad',extremes,Storm,#b3b2b1,wmo,tempestade fiordland ao norte de som duvidoso,2026-05-07T05:46:00+00:00,New Zealand,0.3036205233746786,0,1,pt,NZ,Oceania
 '734861543c',extremes,Storm,#b3b2b1,wmo,tempestade região amazônica,2026-05-02T05:24:00+00:00,Ecuador,0.3035966218237025,0,1,pt,NWS,South-America
 'd8a981c851',extremes,Earthquake,#870007,usgs,terremoto lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.3035960980887154,0,1,pt,EPO,Pacific Ocean
@@ -391,6 +390,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-05-28T06:38:00+00:00,Argentina,0.2986886248146594,1,1,pt,SES,South-America
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,pt,,
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2026-05-05T05:29:00+00:00,South Africa,0.2962029483958187,1,1,pt,WSAF,Africa
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-05-05T05:28:00+00:00,,0.295537163842982,1,1,pt,,
 '9f0423d739',extremes,Drought,#edc291,random,secura,2026-05-10T05:51:00+00:00,,0.29420757189598,1,2,pt,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-05-05T05:28:00+00:00,,0.2937851138807912,1,1,pt,,
@@ -490,4 +490,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94d9daff60',extremes,Thunderstorm,#53785a,wmo,granizo em guezzam,2026-06-04T07:06:00+00:00,Algeria,0.2585017434209548,1,1,pt,SAH,Africa
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-05-10T05:51:00+00:00,Vanuatu,0.2582312556999355,1,1,pt,SPO,Oceania
 '563b781620',extremes,Thunderstorm,#53785a,wmo,tempo severo Nigéria,2026-05-08T05:16:00+00:00,Nigeria,0.2582138534685225,1,1,pt,WAF,Africa
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-05-09T05:36:00+00:00,Solomon Islands,0.25816546798212947,1,1,pt,EPO,Oceania
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-05-09T05:36:00+00:00,Solomon Islands,0.2581654679821294,1,1,pt,EPO,Oceania
