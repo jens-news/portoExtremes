@@ -193,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,trovoada áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3362487605484309,1,2,pt,WSAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-05-18T06:38:00+00:00,Ecuador,0.3340913477864091,1,2,pt,NWS,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-12T05:53:00+00:00,Equatorial Guinea,0.3336507063773533,1,1,pt,WAF,Africa
+'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-05-07T05:46:00+00:00,New Zealand,0.3330645374056562,1,2,pt,NZ,Oceania
 'aa649ecaff',extremes,Drought,#edc291,edo,falta de chuva timor leste,2026-05-09T05:36:00+00:00,Timor Leste,0.3317678196047091,1,1,pt,SEA,Oceania
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-05-14T06:02:00+00:00,,0.3310203183333245,0,1,pt,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-05-23T05:52:00+00:00,,0.3306971229449499,1,1,pt,,
@@ -250,7 +251,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-05-16T05:40:00+00:00,Argentina,0.3035810106561183,0,1,pt,SES,South-America
 '39edbba161',extremes,Wildfire,#d60d2b,wmo,incêndio florestal Letónia,2026-05-08T05:16:00+00:00,Latvia,0.3034246841709144,0,1,pt,WCE,Europe
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tempestade região amazônica,2026-05-11T06:14:00+00:00,Ecuador,0.3032771064519809,0,1,pt,NWS,South-America
-'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-05-07T05:46:00+00:00,New Zealand,0.3032523616537132,0,1,pt,NZ,Oceania
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,tempestade república da moldávia,2026-05-29T06:38:00+00:00,Republic of Moldova,0.3032454567949423,0,1,pt,WCE,Europe
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,tempestade nas águas costeiras do norte de Vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.3032345397551917,0,1,pt,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,pt,SPO,Oceania
@@ -496,4 +496,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '563b781620',extremes,Thunderstorm,#53785a,wmo,tempo severo Nigéria,2026-05-08T05:16:00+00:00,Nigeria,0.2582138534685225,1,1,pt,WAF,Africa
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-05-09T05:36:00+00:00,Solomon Islands,0.2581654679821294,1,1,pt,EPO,Oceania
 'b977149cad',extremes,Storm,#b3b2b1,wmo,tempestade fiordland ao norte de som duvidoso,2026-05-07T05:46:00+00:00,New Zealand,0.2580774448684768,1,1,pt,NZ,Oceania
-'862c45323e',extremes,Storm,#b3b2b1,wmo,tempestade região insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.25798273396576876,1,1,pt,NWS,South-America
+'862c45323e',extremes,Storm,#b3b2b1,wmo,tempestade região insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.2579827339657687,1,1,pt,NWS,South-America
