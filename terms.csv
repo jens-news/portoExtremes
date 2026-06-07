@@ -166,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-05-01T05:54:00+00:00,,0.392357707613664,1,3,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-05-25T06:52:00+00:00,,0.3912126101382842,0,1,pt,,
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-05-01T05:54:00+00:00,,0.3901334711144071,0,1,pt,,
+'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,chuva região litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3899261124454293,1,3,pt,NWS,South-America
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-05-21T06:34:00+00:00,,0.3858068990249555,0,1,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-05-03T05:43:00+00:00,,0.3833366462645316,0,1,pt,,
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-05-18T06:38:00+00:00,Guinea-Bissau,0.3812525172456497,1,1,pt,WAF,Africa
@@ -260,8 +261,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tempestade região amazônica,2026-05-11T06:14:00+00:00,Ecuador,0.3032771064519809,0,1,pt,NWS,South-America
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,neve áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3032073354416345,0,1,pt,WSAF,Africa
 'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial overstrand hermanus,2026-05-10T05:51:00+00:00,South Africa,0.3032014576748681,0,1,pt,WSAF,Africa
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.3031954448764587,0,1,pt,SES,South-America
-'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,chuva região litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3031784060855318,0,1,pt,NWS,South-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade na Nova Zelândia,2026-05-07T05:46:00+00:00,New Zealand,0.3031542502442765,0,1,pt,NZ,Oceania
 '74126f3d38',extremes,Drought,#edc291,edo,seca brunei,2026-05-23T05:53:00+00:00,Brunei,0.3031403093006152,0,1,pt,SEA,Asia
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,tempestade m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.3031278938221363,0,1,pt,WSAF,Africa
@@ -504,6 +503,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-05-09T05:36:00+00:00,Solomon Islands,0.2581654679821294,1,1,pt,EPO,Oceania
 'b977149cad',extremes,Storm,#b3b2b1,wmo,tempestade fiordland ao norte de som duvidoso,2026-05-07T05:46:00+00:00,New Zealand,0.2580774448684768,1,1,pt,NZ,Oceania
 '862c45323e',extremes,Storm,#b3b2b1,wmo,tempestade região insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.2579827339657687,1,1,pt,NWS,South-America
-'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,tempestade república da moldávia,2026-05-29T06:38:00+00:00,Republic of Moldova,0.25775863827570095,1,1,pt,WCE,Europe
-'6d88e6d571',extremes,Storm,#b3b2b1,wmo,tempestade nas águas costeiras do norte de Vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.25774935879191296,1,1,pt,SPO,Oceania
+'2c6b443aaa',extremes,Storm,#b3b2b1,wmo,tempestade república da moldávia,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2577586382757009,1,1,pt,WCE,Europe
+'6d88e6d571',extremes,Storm,#b3b2b1,wmo,tempestade nas águas costeiras do norte de Vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.2577493587919129,1,1,pt,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.2577482610419523,1,1,pt,SPO,Oceania
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.2577161281449899,1,1,pt,SES,South-America
