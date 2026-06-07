@@ -386,6 +386,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,gelo leste da Islândia,2026-06-03T07:23:00+00:00,Iceland,0.3002400538486984,0,1,pt,GIC,Europe
 '4c4410479d',extremes,Storm,#b3b2b1,wmo,tempestade taihape e parque nacional tongairo,2026-06-01T07:30:00+00:00,New Zealand,0.3002210564851306,0,1,pt,NZ,Oceania
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,avalanche indre fjordane,2026-05-23T05:53:00+00:00,Norway,0.3002161430297723,0,1,pt,NEU,Europe
+'940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-05-19T06:33:00+00:00,Australia,0.30019488680238543,0,1,pt,SAU,Oceania
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tempestade amazônica,2026-06-01T07:30:00+00:00,Ecuador,0.300194527358637,0,1,pt,NWS,South-America
 '7477f7090e',extremes,Storm,#b3b2b1,wmo,tempestade,2026-06-04T07:06:00+00:00,Qatar,0.3001679155259702,0,1,pt,ARP,Asia
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundação estados unidos,2026-05-19T06:33:00+00:00,United States,0.3001576542825244,0,1,pt,CNA,North-America
@@ -396,6 +397,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26eda32389',extremes,Fog,#d60d2b,wmo,nevoeiro centro báltico leste,2026-05-17T06:01:00+00:00,Latvia,0.3000416017888201,0,1,pt,WCE,Europe
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,onda de calor 19 distritos de Andhra Pradesh,2026-05-20T06:33:00+00:00,India,0.3000174614597084,0,1,pt,SAS,Asia
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,nevoeiro na Bielorrússia,2026-05-16T05:40:00+00:00,Belarus,0.2999967456389837,0,1,pt,WCE,Europe
+'1d47df9d63',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república da moldávia,2026-06-06T06:08:00+00:00,Republic of Moldova,0.29983030966744395,0,1,pt,WCE,Europe
+'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,avalanche jotunheimen,2026-05-22T06:32:00+00:00,Norway,0.29980980641123245,0,1,pt,NEU,Europe
+'28cbb3e262',extremes,Heat Wave,#c40202,wmo,registro de onda de calor. 1 pampa reg. 2 pampas,2026-06-02T07:08:00+00:00,Chile,0.29978293926886923,0,1,pt,SWS,South-America
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais argélia,2026-05-18T06:38:00+00:00,Algeria,0.29977740612282616,0,1,pt,SAH,Africa
+'0ebdc15703',extremes,Earthquake,#870007,usgs,terremoto kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.2996766311342087,0,1,pt,NPO,Pacific Ocean
+'b80e15f835',extremes,Snow&Ice,#d60d2b,wmo,gelo Rússia,2026-05-19T06:33:00+00:00,Russia,0.29963433873745177,0,1,pt,ESB,Europe
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-05-26T06:31:00+00:00,Argentina,0.2996283165321387,0,1,pt,SES,South-America
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,avalanche finnmarkskysten,2026-05-23T05:53:00+00:00,Norway,0.2996001803457932,0,1,pt,NEU,Europe
+'4299cdd13a',extremes,Storm,#b3b2b1,wmo,tempestade em Gana,2026-06-06T06:08:00+00:00,Ghana,0.2995862212876427,0,1,pt,WAF,Africa
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-05-28T06:38:00+00:00,Argentina,0.2986886248146594,1,1,pt,SES,South-America
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,pt,,
