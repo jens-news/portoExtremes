@@ -256,9 +256,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial overstrand hermanus,2026-05-10T05:51:00+00:00,South Africa,0.3032014576748681,0,1,pt,WSAF,Africa
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade na Nova Zelândia,2026-05-07T05:46:00+00:00,New Zealand,0.3031542502442765,0,1,pt,NZ,Oceania
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.3031011234916846,0,1,pt,NZ,Oceania
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,geada estados unidos,2026-05-16T05:40:00+00:00,United States,0.3030761556886078,0,1,pt,CNA,North-America
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-05-16T05:40:00+00:00,Solomon Islands,0.3030608503813626,0,1,pt,EPO,Oceania
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-05-30T06:01:00+00:00,,0.3030478782175108,0,1,pt,,
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,onda de calor israel,2026-05-09T05:36:00+00:00,Israel,0.303004789200941,0,1,pt,MED,Asia
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,tempestade águas de renbel makira temotu.,2026-05-08T05:16:00+00:00,Solomon Islands,0.303000446782763,0,1,pt,EPO,Oceania
 '59255472e8',extremes,Landslide,#572c03,wmo,deslizamento de terra na cidade de ganzhou,2026-05-15T06:09:00+00:00,China,0.3029671985007923,0,1,pt,EAS,Asia
@@ -430,7 +427,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.264536317921997,1,1,pt,MDG,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-05-07T05:46:00+00:00,Madagascar,0.2644448196385559,1,1,pt,MDG,Africa
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,onda de calor europeia bordeaux,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,pt,,
-'6b28028a94',extremes,Heat Wave,#c40202,acwe,onda de calor no sul da Austrália,2026-06-04T07:06:00+00:00,Australia,0.26354917820527496,1,1,pt,SAU,Oceania
+'6b28028a94',extremes,Heat Wave,#c40202,acwe,onda de calor no sul da Austrália,2026-06-04T07:06:00+00:00,Australia,0.2635491782052749,1,1,pt,SAU,Oceania
 '6eff66ea81',extremes,Drought,#edc291,edo,seca brunei,2026-06-02T07:08:00+00:00,Brunei,0.2635079085288981,1,1,pt,SEA,Asia
 '2180c0c4a1',extremes,Drought,#edc291,edo,falta de chuva polónia,2026-06-02T07:08:00+00:00,Poland,0.2632860305174516,1,1,pt,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-05-15T06:09:00+00:00,Czechia,0.2632119229289069,1,1,pt,WCE,Europe
@@ -445,7 +442,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,pt,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,precipitação república da moldávia,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pt,WCE,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,trovoada Líbia,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,pt,SAH,Africa
-'06adbcbae1',extremes,Drought,#edc291,edo,seca madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.26174751032584964,1,1,pt,MDG,Africa
+'06adbcbae1',extremes,Drought,#edc291,edo,seca madagascar,2026-05-31T06:40:00+00:00,Madagascar,0.2617475103258496,1,1,pt,MDG,Africa
 'd79f0cf217',extremes,Drought,#edc291,edo,seca eslováquia,2026-05-22T06:32:00+00:00,Slovakia,0.2617194471357,1,1,pt,WCE,Europe
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,aguaceiro tanzânia,2026-05-07T05:46:00+00:00,Tanzania,0.2613364493008454,1,1,pt,SEAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-05-23T05:53:00+00:00,Ecuador,0.2612908714949348,1,1,pt,NWS,South-America
@@ -493,9 +490,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c6b443aaa',extremes,Storm,#b3b2b1,wmo,tempestade república da moldávia,2026-05-29T06:38:00+00:00,Republic of Moldova,0.2577586382757009,1,1,pt,WCE,Europe
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,tempestade nas águas costeiras do norte de Vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.2577493587919129,1,1,pt,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.2577482610419523,1,1,pt,SPO,Oceania
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-05-30T06:01:00+00:00,,0.25774071148488414,1,1,pt,,
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.2577161281449899,1,1,pt,SES,South-America
 '74126f3d38',extremes,Drought,#edc291,edo,seca brunei,2026-05-23T05:53:00+00:00,Brunei,0.2576692629055229,1,1,pt,SEA,Asia
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,tempestade m_table bay table bay,2026-05-12T05:52:00+00:00,South Africa,0.2576587097488158,1,1,pt,WSAF,Africa
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,onda de calor na Argélia,2026-05-13T06:03:00+00:00,Algeria,0.2576473013553641,1,1,pt,SAH,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.2576194792626402,1,1,pt,NSA,North-America
 '475ba7d4ed',extremes,Heat Wave,#c40202,wmo,onda de calor na Bielorrússia,2026-05-06T05:43:00+00:00,Belarus,0.2576187041417916,1,1,pt,WCE,Europe
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,geada estados unidos,2026-05-16T05:40:00+00:00,United States,0.2576147323353166,1,1,pt,CNA,North-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-05-16T05:40:00+00:00,Solomon Islands,0.2576017228241582,1,1,pt,EPO,Oceania
