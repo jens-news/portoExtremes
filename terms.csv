@@ -379,9 +379,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ca12a416d',extremes,Precipitation,#d60d2b,wmo,chuva república do congo,2026-05-29T06:38:00+00:00,Republic of the Congo,0.3001205714720003,0,1,pt,CAF,Africa
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,onda de tempestade resoluta,2026-05-31T06:40:00+00:00,Canada,0.3001157987429571,0,1,pt,NEN,North-America
 'ddff2574c5',extremes,Flood,#030ba1,wmo,inundação no sul da Austrália Cooper Creek,2026-05-22T06:32:00+00:00,Australia,0.3000888693334936,0,1,pt,CAU,Oceania
+'103eea7ff7',extremes,Drought,#edc291,edo,falta de chuva na República Tcheca,2026-06-07T06:48:00+00:00,Czechia,0.3000449858107683,0,1,pt,WCE,Europe
 '26eda32389',extremes,Fog,#d60d2b,wmo,nevoeiro centro báltico leste,2026-05-17T06:01:00+00:00,Latvia,0.3000416017888201,0,1,pt,WCE,Europe
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,onda de calor 19 distritos de Andhra Pradesh,2026-05-20T06:33:00+00:00,India,0.3000174614597084,0,1,pt,SAS,Asia
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,nevoeiro na Bielorrússia,2026-05-16T05:40:00+00:00,Belarus,0.2999967456389837,0,1,pt,WCE,Europe
+'13b7157ed9',extremes,Earthquake,#870007,usgs,terremoto barbados,2026-05-31T06:40:00+00:00,Barbados,0.2998951155249694,0,1,pt,NSA,South-America
+'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,chuva mali,2026-06-07T06:48:00+00:00,Mali,0.2998919768512777,0,1,pt,SAH,Africa
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república da moldávia,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2998303096674439,0,1,pt,WCE,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,avalanche jotunheimen,2026-05-22T06:32:00+00:00,Norway,0.2998098064112324,0,1,pt,NEU,Europe
 '28cbb3e262',extremes,Heat Wave,#c40202,wmo,registro de onda de calor. 1 pampa reg. 2 pampas,2026-06-02T07:08:00+00:00,Chile,0.2997829392688692,0,1,pt,SWS,South-America
@@ -391,6 +394,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-05-26T06:31:00+00:00,Argentina,0.2996283165321387,0,1,pt,SES,South-America
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,avalanche finnmarkskysten,2026-05-23T05:53:00+00:00,Norway,0.2996001803457932,0,1,pt,NEU,Europe
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,tempestade em Gana,2026-06-06T06:08:00+00:00,Ghana,0.2995862212876427,0,1,pt,WAF,Africa
+'a647af24a8',extremes,Heat Wave,#c40202,wmo,onda de calor 21 distritos de telangana,2026-05-21T06:35:00+00:00,India,0.2995834885627765,0,1,pt,SAS,Asia
+'07d92b2cd9',extremes,Snow&Ice,#d60d2b,wmo,gelo zimbabwe,2026-05-29T06:38:00+00:00,Zimbabwe,0.2995417001402923,0,1,pt,ESAF,Africa
+'05396a2590',extremes,Storm,#b3b2b1,wmo,tempestade,2026-06-06T06:08:00+00:00,Qatar,0.29952732912008045,0,1,pt,ARP,Asia
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,avalanche hallingdal,2026-05-20T06:33:00+00:00,Norway,0.29950285143280564,0,1,pt,NEU,Europe
+'340033ca14',extremes,Earthquake,#870007,usgs,terremoto Kilmia,2026-05-31T06:40:00+00:00,Yemen,0.2994937212665093,0,1,pt,NEAF,Africa
+'6871a315cf',extremes,Heat Wave,#c40202,wmo,onda de calor em Limburgo,2026-05-26T06:31:00+00:00,Belgium,0.2994818222007294,0,1,pt,WCE,Europe
+'14578d9922',extremes,Snow Avalanche,#deddd5,wmo,avalanche lofoten e vesterålen,2026-05-22T06:32:00+00:00,Norway,0.2994629796040566,0,1,pt,NEU,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-05-28T06:38:00+00:00,Argentina,0.2986886248146594,1,1,pt,SES,South-America
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,pt,,
