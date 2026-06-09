@@ -184,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31af2038e5',extremes,Earthquake,#870007,usgs,terremoto pante makasar,2026-05-06T05:43:00+00:00,Timor Leste,0.35197565760847,1,1,pt,SEA,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-06-02T07:08:00+00:00,,0.3503206612032962,1,2,pt,,
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-05-28T06:38:00+00:00,Argentina,0.3500857396591858,1,3,pt,SES,South-America
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,pt,,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,falta de chuva Vitória,2026-05-04T05:50:00+00:00,Australia,0.3482389200441081,1,2,pt,SAU,Oceania
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-05-17T06:01:00+00:00,,0.3472378430271442,0,1,pt,,
@@ -223,8 +224,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-05-14T06:02:00+00:00,,0.3109513030756186,1,1,pt,,
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-05-14T06:02:00+00:00,Equatorial Guinea,0.3098645132740191,1,1,pt,WAF,Africa
 '15a9c61e3e',extremes,Landslide,#572c03,random,deslizamento de rochas,2026-05-11T06:14:00+00:00,,0.3084171529179946,0,1,pt,,
-'495243907b',extremes,Precipitation,#d60d2b,wmo,precipitação la majeure partie du pays.,2026-06-08T07:13:00+00:00,Mali,0.3081219063704075,0,1,pt,SAH,Africa
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-05-28T06:38:00+00:00,Argentina,0.3080620834865102,0,1,pt,SES,South-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,1,pt,SAU,Oceania
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,geada áfrica do sul,2026-05-06T05:43:00+00:00,South Africa,0.3075165279877251,0,1,pt,WSAF,Africa
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-05-06T05:43:00+00:00,New Zealand,0.3072986177183093,0,1,pt,NZ,Oceania
@@ -439,6 +438,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-05-15T06:09:00+00:00,Hungary,0.2620578497616249,1,1,pt,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-05-06T05:43:00+00:00,Czechia,0.2620273867035469,1,1,pt,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,pt,NWS,South-America
+'495243907b',extremes,Precipitation,#d60d2b,wmo,precipitação la majeure partie du pays.,2026-06-08T07:13:00+00:00,Mali,0.2619036204148463,1,1,pt,SAH,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,pt,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,precipitação república da moldávia,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,pt,WCE,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,trovoada Líbia,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,pt,SAH,Africa
