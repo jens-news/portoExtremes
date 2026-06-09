@@ -244,6 +244,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,pt,NWS,South-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-05-25T06:53:00+00:00,Australia,0.3045180230171425,0,1,pt,EAU,Oceania
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-06-08T07:13:00+00:00,,0.3044791866237643,1,1,pt,,
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-05-31T06:41:00+00:00,Australia,0.304426177526682,0,1,pt,SAU,Oceania
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,pt,SWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-05-11T06:14:00+00:00,Paraguay,0.3040289110279048,0,1,pt,SES,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-05-16T05:40:00+00:00,Argentina,0.3039754998436308,0,1,pt,SES,South-America
@@ -371,6 +372,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,avalanche indre fjordane,2026-05-23T05:53:00+00:00,Norway,0.3002161430297723,0,1,pt,NEU,Europe
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-05-19T06:33:00+00:00,Australia,0.3001948868023854,0,1,pt,SAU,Oceania
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tempestade amazônica,2026-06-01T07:30:00+00:00,Ecuador,0.300194527358637,0,1,pt,NWS,South-America
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-05-25T06:53:00+00:00,Chile,0.3001866271130127,0,1,pt,SWS,South-America
 '7477f7090e',extremes,Storm,#b3b2b1,wmo,tempestade,2026-06-04T07:06:00+00:00,Qatar,0.3001679155259702,0,1,pt,ARP,Asia
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundação estados unidos,2026-05-19T06:33:00+00:00,United States,0.3001576542825244,0,1,pt,CNA,North-America
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,avalanche tromsø,2026-05-22T06:32:00+00:00,Norway,0.300132385857061,0,1,pt,NEU,Europe
@@ -382,6 +384,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26eda32389',extremes,Fog,#d60d2b,wmo,nevoeiro centro báltico leste,2026-05-17T06:01:00+00:00,Latvia,0.3000416017888201,0,1,pt,WCE,Europe
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,onda de calor 19 distritos de Andhra Pradesh,2026-05-20T06:33:00+00:00,India,0.3000174614597084,0,1,pt,SAS,Asia
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,nevoeiro na Bielorrússia,2026-05-16T05:40:00+00:00,Belarus,0.2999967456389837,0,1,pt,WCE,Europe
+'d7b5dc98dc',extremes,Flood,#030ba1,wmo,inundação na Rússia,2026-05-27T06:46:00+00:00,Russia,0.29993628006642564,0,1,pt,ESB,Europe
 '13b7157ed9',extremes,Earthquake,#870007,usgs,terremoto barbados,2026-05-31T06:40:00+00:00,Barbados,0.2998951155249694,0,1,pt,NSA,South-America
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,chuva mali,2026-06-07T06:48:00+00:00,Mali,0.2998919768512777,0,1,pt,SAH,Africa
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república da moldávia,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2998303096674439,0,1,pt,WCE,Europe
