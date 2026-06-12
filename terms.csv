@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-05-22T06:32:00+00:00,Brazil,0.7542641597027377,0,1,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-05-24T06:22:00+00:00,Brazil,0.7448949430545924,0,1,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-06-06T06:08:00+00:00,Brazil,0.7432274921843477,0,1,pt,SAM,South-America
+'e8c44a4946',extremes,Snow&Ice,#d60d2b,wmo,geada santarém,2026-06-12T07:05:00+00:00,Portugal,0.7426677935671313,0,1,pt,MED,Europe
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-05-26T06:31:00+00:00,Portugal,0.7387947018741938,1,2,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.7285188375158871,1,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-05-23T05:53:00+00:00,Portugal,0.7262100500255919,1,3,pt,MED,Europe
@@ -17,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-05-26T06:31:00+00:00,Portugal,0.6863125210847963,1,1,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-05-25T06:53:00+00:00,Brazil,0.6852728288371216,1,3,pt,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-05-24T06:22:00+00:00,Brazil,0.6782518728123581,1,2,pt,SAM,South-America
+'9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-06-12T07:05:00+00:00,Portugal,0.6714855253382188,0,1,pt,MED,Europe
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-05-24T06:22:00+00:00,Portugal,0.6701804710284841,1,2,pt,MED,Europe
 '4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-05-27T06:46:00+00:00,Portugal,0.6620389831716453,1,1,pt,MED,Europe
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-05-26T06:31:00+00:00,Portugal,0.6612533454868632,1,2,pt,MED,Europe
@@ -32,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-05-26T06:31:00+00:00,Portugal,0.6439165697758359,1,1,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-05-11T06:14:00+00:00,Portugal,0.642242006640258,1,1,pt,NAO,Atlantic Ocean
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-05-27T06:46:00+00:00,Portugal,0.6386230661543723,1,1,pt,MED,Europe
+'580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-06-12T07:05:00+00:00,Portugal,0.6374721929558499,0,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-05-23T05:53:00+00:00,Portugal,0.6327016060300821,0,1,pt,MED,Europe
 'e6f88f4558',extremes,Fog,#d60d2b,wmo,nevoeiro portugal,2026-06-11T07:14:00+00:00,Portugal,0.6326891803510987,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-05-23T05:53:00+00:00,Portugal,0.6287991757147613,0,1,pt,MED,Europe
@@ -99,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-21T06:35:00+00:00,Cabo Verde,0.4820281669411693,0,1,pt,NAO,Atlantic Ocean
 'f2206627f4',extremes,Earthquake,#870007,usgs,terremoto venilale,2026-06-07T06:48:00+00:00,Timor Leste,0.4814794477308373,1,1,pt,SEA,Oceania
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-05-08T05:16:00+00:00,Portugal,0.4794590585341732,1,1,pt,MED,Europe
+'124eee42ad',extremes,Thunderstorm,#53785a,wmo,trovoada viseu,2026-06-12T07:05:00+00:00,Portugal,0.4794098025277156,0,1,pt,MED,Europe
 '9dda0c1476',extremes,Thunderstorm,#53785a,wmo,tempo severo braga,2026-05-23T05:53:00+00:00,Portugal,0.4787238142620831,0,1,pt,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-05-26T06:31:00+00:00,,0.4782564067948031,1,3,pt,,
 '10b6d9b4d3',extremes,Precipitation,#d60d2b,wmo,aguaceiro madeira costa sul,2026-05-05T05:29:00+00:00,Portugal,0.4756439053906134,1,1,pt,MED,Europe
@@ -124,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bceaf47e01',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bragança,2026-05-23T05:53:00+00:00,Portugal,0.4504608561010511,1,1,pt,MED,Europe
 'fcb3b0fcab',extremes,Thunderstorm,#53785a,wmo,granizo viana do castelo,2026-05-23T05:53:00+00:00,Portugal,0.4499375530727656,1,1,pt,MED,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,vendaval,2026-05-06T05:43:00+00:00,,0.4497449663214096,1,2,pt,,
+'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-06-12T07:05:00+00:00,Mozambique,0.4490737186928867,0,1,pt,ESAF,Africa
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-05-16T05:40:00+00:00,,0.4483990231458498,1,2,pt,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,redemoinho,2026-04-30T05:45:00+00:00,,0.4470106931927742,1,2,pt,,
 '5fca4dc93b',extremes,Precipitation,#d60d2b,wmo,chuva torrencial coimbra,2026-05-10T05:51:00+00:00,Portugal,0.4469754664217776,1,1,pt,MED,Europe
@@ -214,6 +219,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-05-15T06:09:00+00:00,,0.3219098580604072,1,1,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-05-23T05:52:00+00:00,,0.3198561337116705,0,1,pt,,
+'1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Amanda,2026-06-04T07:06:00+00:00,,0.3190785716273287,0,1,pt,NPO,Pacific Ocean
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-05-07T05:46:00+00:00,,0.3169644387870596,0,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-03T07:22:00+00:00,,0.3167262057948747,0,1,pt,,
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-05-08T05:16:00+00:00,Australia,0.3143576393347674,0,1,pt,SAU,Oceania
