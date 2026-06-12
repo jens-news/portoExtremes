@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-05-22T06:32:00+00:00,Brazil,0.7542641597027377,0,1,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-05-24T06:22:00+00:00,Brazil,0.7448949430545924,0,1,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-06-06T06:08:00+00:00,Brazil,0.7432274921843477,0,1,pt,SAM,South-America
-'e8c44a4946',extremes,Snow&Ice,#d60d2b,wmo,geada santarém,2026-06-12T07:05:00+00:00,Portugal,0.7426677935671313,0,1,pt,MED,Europe
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-05-26T06:31:00+00:00,Portugal,0.7387947018741938,1,2,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.7285188375158871,1,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-05-23T05:53:00+00:00,Portugal,0.7262100500255919,1,3,pt,MED,Europe
@@ -37,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-06-12T07:05:00+00:00,Portugal,0.6374721929558499,0,1,pt,MED,Europe
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,chuva torrencial portugal,2026-05-23T05:53:00+00:00,Portugal,0.6327016060300821,0,1,pt,MED,Europe
 'e6f88f4558',extremes,Fog,#d60d2b,wmo,nevoeiro portugal,2026-06-11T07:14:00+00:00,Portugal,0.6326891803510987,1,1,pt,MED,Europe
+'e8c44a4946',extremes,Snow&Ice,#d60d2b,wmo,geada santarém,2026-06-12T07:05:00+00:00,Portugal,0.6312676245320616,1,1,pt,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-05-23T05:53:00+00:00,Portugal,0.6287991757147613,0,1,pt,MED,Europe
 'efd0b457bf',extremes,Earthquake,#870007,usgs,terremoto santa bárbara,2026-05-15T06:09:00+00:00,Portugal,0.6276228018127531,1,1,pt,NAO,Atlantic Ocean
 '790ae7e53c',extremes,Snow&Ice,#d60d2b,wmo,gelo santarém,2026-06-11T07:14:00+00:00,Portugal,0.6268668244475615,1,1,pt,MED,Europe
@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade Leiria,2026-06-09T06:32:00+00:00,Portugal,0.6185937178154696,0,1,pt,MED,Europe
 '7fcdb08003',extremes,Precipitation,#d60d2b,wmo,chuva madeira porto santo,2026-05-04T05:50:00+00:00,Portugal,0.6173842853071081,1,2,pt,MED,Europe
 'e93c59e56e',extremes,Thunderstorm,#53785a,wmo,granizo portugal,2026-05-24T06:22:00+00:00,Portugal,0.6156819180449642,1,1,pt,MED,Europe
-'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-05-23T05:53:00+00:00,Portugal,0.6139937744817388,0,1,pt,MED,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-05-23T05:53:00+00:00,Portugal,0.6133979966010222,0,1,pt,MED,Europe
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-05-04T05:50:00+00:00,Sao Tome and Principe,0.612119577538292,1,1,pt,WAF,Africa
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-05-24T06:22:00+00:00,Portugal,0.6038015231682986,0,1,pt,MED,Europe
@@ -75,6 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-04-29T05:40:00+00:00,Portugal,0.5424226004209066,1,2,pt,MED,Europe
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-05-17T06:01:00+00:00,Sao Tome and Principe,0.5387562187598434,1,1,pt,WAF,Africa
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-05-04T05:50:00+00:00,Guinea-Bissau,0.5374953325478399,1,1,pt,WAF,Africa
+'e708ff2ca6',extremes,Precipitation,#d60d2b,wmo,chuva vila real,2026-05-23T05:53:00+00:00,Portugal,0.5373336048479395,1,2,pt,MED,Europe
 '3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-05-27T06:46:00+00:00,Portugal,0.5343395495757973,1,2,pt,MED,Europe
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-05-06T05:43:00+00:00,Bermuda,0.5342707794323746,1,1,pt,NAO,Atlantic Ocean
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-05-04T05:50:00+00:00,Mozambique,0.5324231128156498,1,1,pt,ESAF,Africa
