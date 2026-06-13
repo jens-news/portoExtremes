@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-05-24T06:22:00+00:00,Brazil,0.7448949430545924,0,1,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-06-06T06:08:00+00:00,Brazil,0.7432274921843477,0,1,pt,SAM,South-America
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-05-26T06:31:00+00:00,Portugal,0.7387947018741938,1,2,pt,MED,Europe
-'44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-06-13T06:38:00+00:00,Portugal,0.7319091603393282,0,1,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.7285188375158871,1,2,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-05-23T05:53:00+00:00,Portugal,0.7262100500255919,1,3,pt,MED,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-06-06T06:08:00+00:00,Brazil,0.7244185634106122,1,3,pt,SAM,South-America
@@ -44,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '790ae7e53c',extremes,Snow&Ice,#d60d2b,wmo,gelo santarém,2026-06-11T07:14:00+00:00,Portugal,0.6268668244475615,1,1,pt,MED,Europe
 '868b578649',extremes,Heat Wave,#c40202,wmo,onda de calor Bragança,2026-05-28T06:38:00+00:00,Portugal,0.6240796534929005,1,2,pt,MED,Europe
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-06-11T07:14:00+00:00,Portugal,0.6231615340627846,1,1,pt,MED,Europe
+'44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-06-13T06:38:00+00:00,Portugal,0.622272816288429,1,1,pt,MED,Europe
 '1a9efc956b',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-06-09T06:32:00+00:00,Portugal,0.6222292490889144,0,1,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-05-24T06:22:00+00:00,Portugal,0.6194952179188603,1,3,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade Leiria,2026-06-09T06:32:00+00:00,Portugal,0.6185937178154696,0,1,pt,MED,Europe
@@ -90,7 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-05-09T05:36:00+00:00,Equatorial Guinea,0.5002300956712793,0,1,pt,WAF,Africa
 '8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-05-23T05:53:00+00:00,Portugal,0.497327603330557,1,1,pt,MED,Europe
 'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-05-25T06:53:00+00:00,Portugal,0.4970414386862574,1,1,pt,MED,Europe
-'cd17892adf',extremes,Thunderstorm,#53785a,wmo,tempo severo Vila Real,2026-06-13T06:38:00+00:00,Portugal,0.49629985676279226,0,1,pt,MED,Europe
+'cd17892adf',extremes,Thunderstorm,#53785a,wmo,tempo severo Vila Real,2026-06-13T06:38:00+00:00,Portugal,0.4962998567627922,0,1,pt,MED,Europe
 '49ca9aab75',extremes,Thunderstorm,#53785a,wmo,trovoada vila real,2026-05-25T06:53:00+00:00,Portugal,0.4961041015384803,1,2,pt,MED,Europe
 'd7f1defa23',extremes,Precipitation,#d60d2b,wmo,chuva torrencial évora,2026-05-08T05:16:00+00:00,Portugal,0.4893357139005425,1,1,pt,MED,Europe
 '1ccd8c33a5',extremes,Drought,#edc291,edo,falta de chuva portugal,2026-05-10T05:51:00+00:00,Portugal,0.4886022024733246,1,2,pt,NAO,Atlantic Ocean
