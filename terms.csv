@@ -117,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-06-17T07:34:00+00:00,Bermuda,0.4675180559852739,0,1,pt,NAO,Atlantic Ocean
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-05-16T05:40:00+00:00,Macao,0.4634579785048425,0,1,pt,EAS,Asia
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-05-13T06:03:00+00:00,Timor Leste,0.4631441006114697,1,1,pt,SEA,Oceania
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-06-16T08:27:00+00:00,,0.46250629666358234,1,3,pt,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-06-16T08:27:00+00:00,,0.4625062966635823,1,3,pt,,
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-14T06:02:00+00:00,Cabo Verde,0.4599827912294006,0,1,pt,NAO,Atlantic Ocean
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-06-16T08:27:00+00:00,Angola,0.4577781048432548,1,1,pt,WSAF,Africa
 '180436048c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial açores grupo central,2026-05-19T06:33:00+00:00,Portugal,0.4568339206958984,1,1,pt,MED,Europe
@@ -180,9 +180,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-08T07:13:00+00:00,,0.3611731522643808,0,1,pt,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-06-11T07:14:00+00:00,,0.36039770228666,0,1,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-05-14T06:02:00+00:00,,0.3591828459661224,0,1,pt,,
-'55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.358871010574931,0,1,pt,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-06-12T07:05:00+00:00,,0.3556473963322429,0,1,pt,,
-'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-06-01T07:30:00+00:00,Bermuda,0.35498563718144016,1,1,pt,NAO,Atlantic Ocean
+'55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.3554904039886913,1,1,pt,,
+'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-06-01T07:30:00+00:00,Bermuda,0.3549856371814401,1,1,pt,NAO,Atlantic Ocean
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,chuva cidade da cidade do cabo cidade do cabo,2026-05-13T06:03:00+00:00,South Africa,0.3523179010191535,1,2,pt,WSAF,Africa
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-06-02T07:08:00+00:00,,0.3503206612032962,1,2,pt,,
