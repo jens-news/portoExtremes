@@ -20,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-06-12T07:05:00+00:00,Portugal,0.6714855253382188,0,1,pt,MED,Europe
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-05-24T06:22:00+00:00,Portugal,0.6701804710284841,1,2,pt,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-06-14T07:07:00+00:00,Sao Tome and Principe,0.6689098079537913,0,1,pt,WAF,Africa
+'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-06-16T08:27:00+00:00,Portugal,0.6670419305520585,0,1,pt,MED,Europe
 '4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-05-27T06:46:00+00:00,Portugal,0.6620389831716453,1,1,pt,MED,Europe
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-05-26T06:31:00+00:00,Portugal,0.6612533454868632,1,2,pt,MED,Europe
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-05-26T06:31:00+00:00,Portugal,0.66101716882619,1,1,pt,MED,Europe
@@ -48,6 +49,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '14a197e007',extremes,Precipitation,#d60d2b,wmo,precipitação portalegre,2026-06-13T06:38:00+00:00,Portugal,0.6216140585831752,0,1,pt,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-05-24T06:22:00+00:00,Portugal,0.6194952179188603,1,3,pt,MED,Europe
 '7fcdb08003',extremes,Precipitation,#d60d2b,wmo,chuva madeira porto santo,2026-05-04T05:50:00+00:00,Portugal,0.6173842853071081,1,2,pt,MED,Europe
+'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-06-14T07:07:00+00:00,Portugal,0.6166457670306379,0,1,pt,MED,Europe
+'8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-05-31T06:40:00+00:00,Angola,0.6165015430038191,0,1,pt,WSAF,Africa
 'e93c59e56e',extremes,Thunderstorm,#53785a,wmo,granizo portugal,2026-05-24T06:22:00+00:00,Portugal,0.6156819180449642,1,1,pt,MED,Europe
 '57cb2960c3',extremes,Precipitation,#d60d2b,wmo,chuva guarda,2026-04-28T05:45:00+00:00,Portugal,0.5995326652086854,1,3,pt,MED,Europe
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-06-07T06:48:00+00:00,Macao,0.5994086449456661,0,1,pt,EAS,Asia
@@ -56,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-05-27T06:46:00+00:00,Portugal,0.5937642061874848,1,1,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-05-19T06:33:00+00:00,Portugal,0.5934219738108963,1,1,pt,NAO,Atlantic Ocean
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-05-27T06:46:00+00:00,Portugal,0.5920699386563719,1,1,pt,MED,Europe
+'8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-06-01T07:30:00+00:00,Equatorial Guinea,0.5903428647656594,0,1,pt,WAF,Africa
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-05-28T06:38:00+00:00,Portugal,0.5879506094851088,1,1,pt,MED,Europe
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-05-30T06:01:00+00:00,Cabo Verde,0.5852652404288474,0,1,pt,NAO,Atlantic Ocean
 '3d19dfefeb',extremes,Thunderstorm,#53785a,wmo,trovoada portugal,2026-05-23T05:53:00+00:00,Portugal,0.5844373209765158,1,2,pt,MED,Europe
@@ -88,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,aguaceiro macau,2026-06-08T07:13:00+00:00,Macao,0.5129952443116699,1,1,pt,EAS,Asia
 '17df7f1e7f',extremes,Precipitation,#d60d2b,wmo,chuva viseu,2026-05-23T05:53:00+00:00,Portugal,0.5092833666738543,1,1,pt,MED,Europe
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,granizo macau,2026-06-07T06:48:00+00:00,Macao,0.5031710436290503,1,1,pt,EAS,Asia
+'862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-06-17T07:33:00+00:00,Portugal,0.502273091595479,0,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-06-17T07:34:00+00:00,Brazil,0.5010089840061989,0,1,pt,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-05-09T05:36:00+00:00,Equatorial Guinea,0.5002300956712793,0,1,pt,WAF,Africa
 '8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-05-23T05:53:00+00:00,Portugal,0.497327603330557,1,1,pt,MED,Europe
@@ -166,8 +171,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,chuva região litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3899261124454293,1,3,pt,NWS,South-America
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-06-10T06:49:00+00:00,,0.3898791162211061,0,1,pt,,
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-05-21T06:34:00+00:00,,0.3893210124501559,0,1,pt,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-06-03T07:22:00+00:00,,0.38869145703009794,0,1,pt,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-05-21T06:34:00+00:00,,0.3858068990249555,0,1,pt,,
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-05-18T06:38:00+00:00,Guinea-Bissau,0.3812525172456497,1,1,pt,WAF,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.3780392243158868,0,1,pt,WAF,Africa
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-05-16T05:40:00+00:00,,0.3772459334896459,1,2,pt,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-05-09T05:35:00+00:00,,0.3754013215475384,1,2,pt,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-06-10T06:49:00+00:00,,0.3743895767993208,0,1,pt,,
@@ -175,6 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-05-26T06:31:00+00:00,,0.3689887193634025,0,1,pt,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-06-14T07:06:00+00:00,,0.3657446585019209,0,1,pt,,
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.3653728329593014,1,2,pt,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3643675936207747,0,1,pt,,
 'a681807d30',extremes,Earthquake,#870007,usgs,terremoto viqueque,2026-06-17T07:33:00+00:00,Timor Leste,0.3631081376494475,1,1,pt,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3621791228158192,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-08T07:13:00+00:00,,0.3611731522643808,0,1,pt,,
@@ -183,12 +191,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-06-12T07:05:00+00:00,,0.3556473963322429,0,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.3554904039886913,1,1,pt,,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-06-01T07:30:00+00:00,Bermuda,0.3549856371814401,1,1,pt,NAO,Atlantic Ocean
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-05-30T06:01:00+00:00,,0.3532086175785003,0,1,pt,,
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,chuva cidade da cidade do cabo cidade do cabo,2026-05-13T06:03:00+00:00,South Africa,0.3523179010191535,1,2,pt,WSAF,Africa
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-06-02T07:08:00+00:00,,0.3503206612032962,1,2,pt,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-05-28T06:38:00+00:00,Argentina,0.3500857396591858,1,3,pt,SES,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-06-09T06:33:00+00:00,Equatorial Guinea,0.3497339743271028,0,1,pt,WAF,Africa
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,pt,,
+'59b529f428',extremes,Thunderstorm,#53785a,random,tempestade de granizo,2026-06-17T07:33:00+00:00,,0.34871940428435144,0,1,pt,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-05-17T06:01:00+00:00,,0.3472378430271442,0,1,pt,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-06-14T07:06:00+00:00,,0.3447610362690951,0,1,pt,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-05-24T06:22:00+00:00,,0.3405996201165261,1,1,pt,,
