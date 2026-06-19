@@ -92,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,aguaceiro macau,2026-06-08T07:13:00+00:00,Macao,0.5129952443116699,1,1,pt,EAS,Asia
 '17df7f1e7f',extremes,Precipitation,#d60d2b,wmo,chuva viseu,2026-05-23T05:53:00+00:00,Portugal,0.5092833666738543,1,1,pt,MED,Europe
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,granizo macau,2026-06-07T06:48:00+00:00,Macao,0.5031710436290503,1,1,pt,EAS,Asia
-'862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-06-17T07:33:00+00:00,Portugal,0.502273091595479,0,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-06-17T07:34:00+00:00,Brazil,0.5010089840061989,0,1,pt,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-05-09T05:36:00+00:00,Equatorial Guinea,0.5002300956712793,0,1,pt,WAF,Africa
 '8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-05-23T05:53:00+00:00,Portugal,0.497327603330557,1,1,pt,MED,Europe
@@ -139,6 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-05-23T05:53:00+00:00,Macao,0.4454463056801432,0,1,pt,EAS,Asia
 '791ee9f63b',extremes,Thunderstorm,#53785a,wmo,trovoada castelo branco,2026-06-13T06:38:00+00:00,Portugal,0.4411059185933029,1,1,pt,MED,Europe
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-05-08T05:16:00+00:00,,0.436193971338904,1,2,pt,,
+'862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-06-17T07:33:00+00:00,Portugal,0.4270821428561571,1,1,pt,MED,Europe
 '05756e6a91',extremes,Thunderstorm,#53785a,wmo,tempo severo Viseu,2026-06-14T07:07:00+00:00,Portugal,0.4229165665347789,1,1,pt,MED,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,onda de calor paris,2026-05-29T06:39:00+00:00,France,0.4227789549369174,1,2,pt,,
 'cd17892adf',extremes,Thunderstorm,#53785a,wmo,tempo severo Vila Real,2026-06-13T06:38:00+00:00,Portugal,0.4218548782483733,1,1,pt,MED,Europe
