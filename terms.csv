@@ -122,7 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-05-16T05:40:00+00:00,Macao,0.4634579785048425,0,1,pt,EAS,Asia
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-05-13T06:03:00+00:00,Timor Leste,0.4631441006114697,1,1,pt,SEA,Oceania
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-06-16T08:27:00+00:00,,0.4625062966635823,1,3,pt,,
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-06-03T07:22:00+00:00,,0.46210948204701174,1,3,pt,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-06-03T07:22:00+00:00,,0.4621094820470117,1,3,pt,,
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-14T06:02:00+00:00,Cabo Verde,0.4599827912294006,0,1,pt,NAO,Atlantic Ocean
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-06-16T08:27:00+00:00,Angola,0.4577781048432548,1,1,pt,WSAF,Africa
 '180436048c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial açores grupo central,2026-05-19T06:33:00+00:00,Portugal,0.4568339206958984,1,1,pt,MED,Europe
@@ -184,7 +184,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a681807d30',extremes,Earthquake,#870007,usgs,terremoto viqueque,2026-06-17T07:33:00+00:00,Timor Leste,0.3631081376494475,1,1,pt,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3621791228158192,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-08T07:13:00+00:00,,0.3611731522643808,0,1,pt,,
-'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-06-11T07:14:00+00:00,,0.36039770228666,0,1,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-05-14T06:02:00+00:00,,0.3591828459661224,0,1,pt,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-06-12T07:05:00+00:00,,0.3556473963322429,0,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.3554904039886913,1,1,pt,,
@@ -205,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.3383896172646126,1,1,pt,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-05-16T05:40:00+00:00,,0.3371201972959511,1,1,pt,,
 '4b8dfdf3ab',extremes,Flood,#030ba1,emdat,enchente ceará,2026-05-19T06:33:00+00:00,Brazil,0.3366011443604566,1,1,pt,SAM,South-America
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-06-11T07:14:00+00:00,,0.3351838903307578,1,2,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-06-06T06:08:00+00:00,,0.3349931239894067,1,1,pt,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-05-18T06:38:00+00:00,Ecuador,0.3340913477864091,1,2,pt,NWS,South-America
 'ccefefc59e',extremes,Drought,#edc291,random,seca repentina,2026-05-22T06:31:00+00:00,,0.3338158469378998,0,1,pt,,
