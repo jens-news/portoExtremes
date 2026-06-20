@@ -167,6 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-05-21T06:34:00+00:00,,0.4004422002238279,0,1,pt,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,pt,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-05-31T06:40:00+00:00,,0.3992226712820528,0,1,pt,,
+'d587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-06-12T07:05:00+00:00,,0.39208003649650863,0,1,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-05-25T06:52:00+00:00,,0.3912126101382842,0,1,pt,,
 'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,chuva região litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3899261124454293,1,3,pt,NWS,South-America
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-06-10T06:49:00+00:00,,0.3898791162211061,0,1,pt,,
@@ -192,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,chuva cidade da cidade do cabo cidade do cabo,2026-05-13T06:03:00+00:00,South Africa,0.3523179010191535,1,2,pt,WSAF,Africa
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-06-02T07:08:00+00:00,,0.3503206612032962,1,2,pt,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-06-09T06:32:00+00:00,,0.35012208576924764,0,1,pt,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-05-28T06:38:00+00:00,Argentina,0.3500857396591858,1,3,pt,SES,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-06-09T06:33:00+00:00,Equatorial Guinea,0.3497339743271028,0,1,pt,WAF,Africa
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.3490130860454594,0,1,pt,,
@@ -214,15 +216,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-05-18T06:38:00+00:00,,0.3259273607693181,0,1,pt,,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-05-30T06:01:00+00:00,,0.3251051617409697,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.3249530869596851,0,1,pt,,
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-06-17T07:33:00+00:00,,0.32457707700321736,0,1,pt,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-05-17T06:01:00+00:00,,0.3232164825327245,0,1,pt,,
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-06-19T07:39:00+00:00,,0.3207901723975555,0,1,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-05-23T05:52:00+00:00,,0.3198561337116705,0,1,pt,,
-'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-06-14T07:06:00+00:00,,0.31762581225730224,1,2,pt,,
+'5251a639fe',extremes,Wildfire,#d60d2b,eonet,incêndio florestal em kopshesut noroeste ártico do Alasca,2026-06-12T07:05:00+00:00,,0.31947494110845476,0,1,pt,,
+'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-06-14T07:06:00+00:00,,0.3176258122573022,1,2,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-03T07:22:00+00:00,,0.3167262057948747,0,1,pt,,
+'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,chuva forte nova gales do sul,2026-06-14T07:07:00+00:00,Australia,0.3155849110786476,0,1,pt,EAU,Oceania
+'acd0e1409b',extremes,Flood,#030ba1,acwe,inundando Nova Gales do Sul,2026-06-13T06:38:00+00:00,Australia,0.3148175692920001,0,1,pt,EAU,Oceania
+'16afad5339',extremes,Heat Wave,#c40202,acwe,inverno ameno no sul da Austrália,2026-06-19T07:39:00+00:00,Australia,0.3141477408125901,0,1,pt,CAU,Oceania
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-06-02T07:08:00+00:00,Australia,0.3136690692182996,0,1,pt,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,inundação na Austrália,2026-05-17T06:01:00+00:00,Australia,0.3125799332300237,0,1,pt,EAU,Oceania
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pt,,
 '806dd08d67',extremes,Flood,#030ba1,acwe,inundação Victoria,2026-06-15T08:36:00+00:00,Australia,0.3117070283404846,0,1,pt,SAU,Oceania
 '53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-05-30T06:01:00+00:00,Lithuania,0.3105315957587172,0,1,pt,WCE,Europe
+'ecd6c72a27',extremes,Drought,#edc291,edo,falta de chuva em Madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.3104988776816121,0,1,pt,MDG,Africa
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,incêndio florestal na Tasmânia,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,1,pt,SAU,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,chuva Equador,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,pt,NWS,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,pt,NEN,North-America
