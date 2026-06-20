@@ -151,6 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,inundação de rio austrália,2026-05-25T06:53:00+00:00,Australia,0.4089903345645711,1,2,pt,EAU,Oceania
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,tempestade na Nigéria,2026-05-24T06:22:00+00:00,Nigeria,0.4086755002144056,1,2,pt,WAF,Africa
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.4084851479989786,1,2,pt,SWS,South-America
+'4e1d59e985',extremes,Precipitation,#d60d2b,wmo,chuva Bulgária,2026-06-12T07:05:00+00:00,Bulgaria,0.4083833216802992,1,2,pt,MED,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-05-15T06:09:00+00:00,Canada,0.4083482110754926,1,3,pt,NEN,North-America
 'd2793b8bae',extremes,Drought,#edc291,edo,seca no sul do Sudão,2026-05-16T05:40:00+00:00,South Sudan,0.4081971387379641,1,2,pt,NEAF,Africa
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,onda de calor israel,2026-05-09T05:36:00+00:00,Israel,0.4078541008207998,1,2,pt,MED,Asia
@@ -226,7 +227,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,pt,SES,South-America
 'dea87e6ccd',extremes,Drought,#edc291,edo,período de seca na Letónia,2026-05-17T06:01:00+00:00,Latvia,0.3064913839692404,0,1,pt,WCE,Europe
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-06-08T07:13:00+00:00,,0.3044791866237643,1,1,pt,,
-'4e1d59e985',extremes,Precipitation,#d60d2b,wmo,chuva Bulgária,2026-06-12T07:05:00+00:00,Bulgaria,0.3038038725650579,0,1,pt,MED,Europe
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,trovoada Hong Kong,2026-05-19T06:33:00+00:00,Hong Kong,0.3037346404640965,0,1,pt,EAS,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-06-04T07:06:00+00:00,,0.3037171374429024,0,1,pt,,
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – severa,2026-05-17T06:01:00+00:00,Paraguay,0.3036724905076355,0,1,pt,SES,South-America
@@ -356,7 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-05-28T06:38:00+00:00,Argentina,0.2986886248146594,1,1,pt,SES,South-America
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-05-13T06:02:00+00:00,,0.2978384326660011,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,pt,,
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-05-21T06:35:00+00:00,Ecuador,0.29552983302317953,1,1,pt,NWS,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,tempestade no Equador,2026-05-21T06:35:00+00:00,Ecuador,0.2955298330231795,1,1,pt,NWS,South-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitação áfrica do sul,2026-06-02T07:08:00+00:00,South Africa,0.2866368760052293,1,1,pt,WSAF,Africa
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,chuva argélia,2026-06-10T06:49:00+00:00,Algeria,0.2835124263314084,1,1,pt,SAH,Africa
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,pt,,
@@ -373,9 +373,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,onda fria oeste da austrália,2026-05-29T06:39:00+00:00,Australia,0.2694731445990412,1,1,pt,CAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,chuva forte nova gales do sul,2026-06-14T07:07:00+00:00,Australia,0.2682471744168505,1,1,pt,EAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,inundando Nova Gales do Sul,2026-06-13T06:38:00+00:00,Australia,0.2675949338982001,1,1,pt,EAU,Oceania
-'16afad5339',extremes,Heat Wave,#c40202,acwe,inverno ameno no sul da Austrália,2026-06-19T07:39:00+00:00,Australia,0.26702557969070156,1,1,pt,CAU,Oceania
+'16afad5339',extremes,Heat Wave,#c40202,acwe,inverno ameno no sul da Austrália,2026-06-19T07:39:00+00:00,Australia,0.2670255796907015,1,1,pt,CAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-05-18T06:38:00+00:00,,0.2669563784062507,1,1,pt,,
-'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-06-02T07:08:00+00:00,Australia,0.26661870883555466,1,1,pt,SAU,Oceania
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-06-02T07:08:00+00:00,Australia,0.2666187088355546,1,1,pt,SAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,inundação no sul da Austrália,2026-06-04T07:06:00+00:00,Australia,0.2665703782992989,1,1,pt,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,inundação hobart inundação repentina Tasmânia 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,pt,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,inundação Victoria,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,pt,SAU,Oceania
