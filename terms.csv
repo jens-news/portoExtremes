@@ -66,7 +66,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6b5241e18',extremes,Fog,#d60d2b,wmo,nevoeiro santarém,2026-06-13T06:38:00+00:00,Portugal,0.5718914568038406,1,1,pt,MED,Europe
 '9273074d6d',extremes,Storm,#b3b2b1,wmo,tempestade portalegre,2026-06-12T07:05:00+00:00,Portugal,0.571212741537486,1,1,pt,MED,Europe
 '57cb2960c3',extremes,Precipitation,#d60d2b,wmo,chuva guarda,2026-06-17T07:33:00+00:00,Portugal,0.5710844374868871,0,1,pt,MED,Europe
-'142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-06-24T06:30:00+00:00,Portugal,0.5626703759782283,0,1,pt,MED,Europe
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-06-04T07:06:00+00:00,Portugal,0.5618716203051888,0,1,pt,NAO,Atlantic Ocean
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-06-02T07:08:00+00:00,Timor Leste,0.5599842593262863,0,1,pt,SEA,Oceania
 '9cb26e3a70',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-05-27T06:46:00+00:00,Portugal,0.5577513416974861,1,1,pt,MED,Europe
@@ -104,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-05-21T06:35:00+00:00,Cabo Verde,0.4820281669411693,0,1,pt,NAO,Atlantic Ocean
 'f2206627f4',extremes,Earthquake,#870007,usgs,terremoto venilale,2026-06-07T06:48:00+00:00,Timor Leste,0.4814794477308373,1,1,pt,SEA,Oceania
 '124eee42ad',extremes,Thunderstorm,#53785a,wmo,trovoada viseu,2026-06-12T07:05:00+00:00,Portugal,0.4794098025277156,0,1,pt,MED,Europe
+'142ceaad91',extremes,Storm,#b3b2b1,wmo,tempestade braga,2026-06-24T06:30:00+00:00,Portugal,0.47901990958149404,1,1,pt,MED,Europe
 '9dda0c1476',extremes,Thunderstorm,#53785a,wmo,tempo severo braga,2026-05-23T05:53:00+00:00,Portugal,0.4787238142620831,0,1,pt,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-05-26T06:31:00+00:00,,0.4782564067948031,1,3,pt,,
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-06-15T08:36:00+00:00,Portugal,0.476461083221421,1,1,pt,MED,Europe
@@ -184,10 +184,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a681807d30',extremes,Earthquake,#870007,usgs,terremoto viqueque,2026-06-17T07:33:00+00:00,Timor Leste,0.3631081376494475,1,1,pt,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3621791228158192,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-08T07:13:00+00:00,,0.3611731522643808,0,1,pt,,
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-06-24T06:29:00+00:00,,0.35554012948087055,0,1,pt,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.3554904039886913,1,1,pt,,
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-06-01T07:30:00+00:00,Bermuda,0.3549856371814401,1,1,pt,NAO,Atlantic Ocean
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-06-24T06:29:00+00:00,,0.35471404471161466,0,1,pt,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-06-24T06:29:00+00:00,,0.3547140447116146,0,1,pt,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,gelo marinho antártico,2026-05-30T06:01:00+00:00,,0.3532086175785003,0,1,pt,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-05-17T06:01:00+00:00,,0.351312369656798,1,2,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-06-02T07:08:00+00:00,,0.3503206612032962,1,2,pt,,
@@ -220,7 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-06-20T06:46:00+00:00,,0.3178459129350098,0,1,pt,,
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,iceberg d33a,2026-06-24T06:29:00+00:00,,0.3177282142465205,0,1,pt,EAN,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-06-14T07:06:00+00:00,,0.3176258122573022,1,2,pt,,
-'0642c90e96',extremes,Iceberg,#d60d2b,eonet,iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.31703660543155465,0,1,pt,WAN,Antarctica
+'0642c90e96',extremes,Iceberg,#d60d2b,eonet,iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.3170366054315546,0,1,pt,WAN,Antarctica
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-03T07:22:00+00:00,,0.3167262057948747,0,1,pt,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-06-07T06:49:00+00:00,Australia,0.3139927058238935,0,1,pt,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,pt,EAU,Oceania
