@@ -81,7 +81,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-05-30T06:01:00+00:00,Cabo Verde,0.5355755143645203,1,1,pt,NAO,Atlantic Ocean
 '3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-05-27T06:46:00+00:00,Portugal,0.5343395495757973,1,2,pt,MED,Europe
 'a7738c1b1e',extremes,Precipitation,#d60d2b,wmo,chuva braga,2026-06-14T07:07:00+00:00,Portugal,0.5288143161085452,1,2,pt,MED,Europe
-'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-06-12T07:05:00+00:00,Angola,0.5259499379065079,0,1,pt,WSAF,Africa
 '65822d5ce4',extremes,Thunderstorm,#53785a,wmo,salve vila real,2026-06-15T08:36:00+00:00,Portugal,0.525407802648181,1,1,pt,MED,Europe
 '49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-05-20T06:33:00+00:00,Portugal,0.5243591662511562,1,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-05-31T06:40:00+00:00,Angola,0.5243263565532462,1,1,pt,WSAF,Africa
@@ -130,11 +129,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-06-12T07:05:00+00:00,Mozambique,0.4490737186928867,0,1,pt,ESAF,Africa
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-05-16T05:40:00+00:00,,0.4483990231458498,1,2,pt,,
 'ba252581f8',extremes,Precipitation,#d60d2b,wmo,chuva portalegre,2026-06-14T07:07:00+00:00,Portugal,0.4480758601874088,1,1,pt,MED,Europe
+'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-06-12T07:05:00+00:00,Angola,0.4473574772205317,1,1,pt,WSAF,Africa
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-06-12T07:05:00+00:00,,0.4472748925275677,1,3,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-05-23T05:53:00+00:00,Macao,0.4454463056801432,0,1,pt,EAS,Asia
 '791ee9f63b',extremes,Thunderstorm,#53785a,wmo,trovoada castelo branco,2026-06-13T06:38:00+00:00,Portugal,0.4411059185933029,1,1,pt,MED,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-06-04T07:06:00+00:00,,0.4359135274929676,1,3,pt,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-06-06T06:08:00+00:00,,0.4281531280106593,0,1,pt,,
 '862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-06-17T07:33:00+00:00,Portugal,0.4270821428561571,1,1,pt,MED,Europe
 '05756e6a91',extremes,Thunderstorm,#53785a,wmo,tempo severo Viseu,2026-06-14T07:07:00+00:00,Portugal,0.4229165665347789,1,1,pt,MED,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,onda de calor paris,2026-05-29T06:39:00+00:00,France,0.4227789549369174,1,2,pt,,
@@ -181,6 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.365611117526759,0,1,pt,WAF,Africa
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.3653728329593014,1,2,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3643675936207747,0,1,pt,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-06-06T06:08:00+00:00,,0.3639301588090604,1,1,pt,,
 'a681807d30',extremes,Earthquake,#870007,usgs,terremoto viqueque,2026-06-17T07:33:00+00:00,Timor Leste,0.3631081376494475,1,1,pt,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3621791228158192,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-08T07:13:00+00:00,,0.3611731522643808,0,1,pt,,
