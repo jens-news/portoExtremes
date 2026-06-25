@@ -222,8 +222,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-06-14T07:06:00+00:00,,0.3176258122573022,1,2,pt,,
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.3170366054315546,0,1,pt,WAN,Antarctica
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-03T07:22:00+00:00,,0.3167262057948747,0,1,pt,,
+'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,iceberg a76c,2026-06-24T06:29:00+00:00,Antarctica,0.3160494325111736,0,1,pt,WAN,Antarctica
+'10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,iceberg a81,2026-06-24T06:29:00+00:00,Antarctica,0.31598149686092153,0,1,pt,EAN,Antarctica
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,iceberg b22h,2026-06-24T06:29:00+00:00,Antarctica,0.3151917905018551,0,1,pt,WAN,Antarctica
 '3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-06-07T06:49:00+00:00,Australia,0.3139927058238935,0,1,pt,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,pt,EAU,Oceania
+'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,iceberg d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,pt,EAN,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-05-20T06:32:00+00:00,,0.312194272952203,0,1,pt,,
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,pt,,
 '53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-05-30T06:01:00+00:00,Lithuania,0.3105315957587172,0,1,pt,WCE,Europe
@@ -239,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial no Canadá,2026-06-09T06:32:00+00:00,Canada,0.3079038355245579,0,1,pt,NEN,North-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitação equador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,0,1,pt,NWS,South-America
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-14T07:06:00+00:00,,0.3076174439158357,0,1,pt,,
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,chuva península de coromandel,2026-06-24T06:30:00+00:00,New Zealand,0.30756940341547295,0,1,pt,NZ,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,feitiço de calor Victoria,2026-06-13T06:38:00+00:00,Australia,0.3074830075499473,0,1,pt,SAU,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,chuva Equador,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,pt,NWS,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,pt,NEN,North-America
@@ -252,6 +257,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,trovoada gana,2026-06-11T07:14:00+00:00,Ghana,0.3058978525803111,0,1,pt,WAF,Africa
 '98db96b6de',extremes,Drought,#edc291,edo,seca lituânia,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,pt,WCE,Europe
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,tempestade Tanzânia,2026-06-13T06:38:00+00:00,Tanzania,0.30548530955316067,0,1,pt,SEAF,Africa
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.3054142373234477,0,1,pt,SES,South-America
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,tempestade em Madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.30541204315942044,0,1,pt,MDG,Africa
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-06-08T07:13:00+00:00,New Zealand,0.3052788071932884,0,1,pt,NZ,Oceania
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.3052596542920424,0,1,pt,SES,South-America
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-06-08T07:13:00+00:00,,0.3044791866237643,1,1,pt,,
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,trovoada Hong Kong,2026-05-19T06:33:00+00:00,Hong Kong,0.3037346404640965,0,1,pt,EAS,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-06-04T07:06:00+00:00,,0.3037171374429024,0,1,pt,,
