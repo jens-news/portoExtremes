@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-05-23T05:53:00+00:00,Brazil,0.7826673057124236,1,2,pt,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil congelante,2026-06-25T06:32:00+00:00,Brazil,0.7647012602802598,0,1,pt,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-05-24T06:22:00+00:00,Brazil,0.761137147628343,0,1,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-05-24T06:22:00+00:00,Brazil,0.7448949430545924,0,1,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-05-22T06:32:00+00:00,Brazil,0.739675915747327,1,3,pt,SAM,South-America
@@ -9,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-05-23T05:53:00+00:00,Portugal,0.7262100500255919,1,3,pt,MED,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-06-06T06:08:00+00:00,Brazil,0.7244185634106122,1,3,pt,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-05-22T06:32:00+00:00,Brazil,0.7220054807324692,1,2,pt,SAM,South-America
+'4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-06-14T07:07:00+00:00,Cabo Verde,0.7146487402379584,0,1,pt,NAO,Atlantic Ocean
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-05-21T06:35:00+00:00,Brazil,0.6993392326700073,1,2,pt,SAM,South-America
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-05-26T06:31:00+00:00,Portugal,0.6863125210847963,1,1,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-05-25T06:53:00+00:00,Brazil,0.6852728288371216,1,3,pt,SAM,South-America
@@ -26,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,gelo brasil,2026-06-15T08:36:00+00:00,Brazil,0.6541216402590804,1,2,pt,SAM,South-America
 '49fd9aa03f',extremes,Precipitation,#d60d2b,wmo,precipitação portugal,2026-06-14T07:07:00+00:00,Portugal,0.6538574424549004,1,3,pt,MED,Europe
 '7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-05-27T06:46:00+00:00,Portugal,0.6528417755753292,1,1,pt,MED,Europe
+'4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-06-14T07:07:00+00:00,Portugal,0.6465984102477921,0,1,pt,MED,Europe
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-05-28T06:38:00+00:00,Portugal,0.6446234328499346,1,2,pt,MED,Europe
 '7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-05-26T06:31:00+00:00,Portugal,0.6439165697758359,1,1,pt,MED,Europe
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-05-27T06:46:00+00:00,Portugal,0.6386230661543723,1,1,pt,MED,Europe
@@ -46,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-06-15T08:36:00+00:00,Portugal,0.6157048050262861,1,2,pt,NAO,Atlantic Ocean
 'e93c59e56e',extremes,Thunderstorm,#53785a,wmo,granizo portugal,2026-05-24T06:22:00+00:00,Portugal,0.6156819180449642,1,1,pt,MED,Europe
 '580da30ad3',extremes,Storm,#b3b2b1,wmo,tempestade faro,2026-06-12T07:05:00+00:00,Portugal,0.6141016040124724,1,1,pt,MED,Europe
+'d329a7ae6e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira regiões montanhosas,2026-07-01T06:52:00+00:00,Portugal,0.6131465361756732,0,1,pt,MED,Europe
 'eea2724753',extremes,Snow&Ice,#d60d2b,wmo,congelando portugal,2026-06-11T07:14:00+00:00,Portugal,0.5963977090808854,1,1,pt,MED,Europe
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,onda de calor castelo branco,2026-05-26T06:31:00+00:00,Portugal,0.594179757471122,1,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-06-14T07:07:00+00:00,Angola,0.5941393661139214,1,1,pt,WSAF,Africa
@@ -69,6 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-06-14T07:07:00+00:00,Portugal,0.5544862719822344,1,2,pt,MED,Europe
 '4aba7f7834',extremes,Heat Wave,#c40202,wmo,onda de calor leiria,2026-05-27T06:46:00+00:00,Portugal,0.5536161519929526,1,2,pt,MED,Europe
 '1a9efc956b',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-06-09T06:32:00+00:00,Portugal,0.5496130583922438,1,2,pt,MED,Europe
+'8e9896f0d1',extremes,Precipitation,#d60d2b,wmo,precipitação aveiro,2026-06-14T07:07:00+00:00,Portugal,0.547655140947057,0,1,pt,MED,Europe
 '58d94daf01',extremes,Storm,#b3b2b1,wmo,tempestade Leiria,2026-06-09T06:32:00+00:00,Portugal,0.5422992784040186,1,2,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-05-31T06:40:00+00:00,Guinea-Bissau,0.5416740694746899,1,1,pt,WAF,Africa
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-06-13T06:38:00+00:00,Portugal,0.5401322342917267,1,1,pt,MED,Europe
@@ -116,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-06-12T07:05:00+00:00,Guinea-Bissau,0.4565252999092066,1,1,pt,WAF,Africa
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-06-19T07:39:00+00:00,Sao Tome and Principe,0.4562886877479739,0,1,pt,WAF,Africa
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-06-04T07:06:00+00:00,,0.4562436145454028,1,3,pt,,
+'d16d72b759',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa sul,2026-07-01T06:52:00+00:00,Portugal,0.45578410271985026,0,1,pt,MED,Europe
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2026-06-08T07:13:00+00:00,Guinea-Bissau,0.4544417180154387,1,1,pt,WAF,Africa
 'b05413ddf2',extremes,Precipitation,#d60d2b,wmo,aguaceiro guarda,2026-06-15T08:36:00+00:00,Portugal,0.4535041890957474,1,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-06-12T07:05:00+00:00,Mozambique,0.4490737186928867,0,1,pt,ESAF,Africa
@@ -128,6 +134,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,chuva torrencial,2026-06-29T07:12:00+00:00,,0.4390867543091749,1,2,pt,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-06-04T07:06:00+00:00,,0.4359135274929676,1,3,pt,,
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-06-21T07:16:00+00:00,,0.4355289784120444,1,3,pt,,
+'f006bc815e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa norte,2026-07-01T06:52:00+00:00,Portugal,0.4326915198655679,0,1,pt,MED,Europe
 '862b72406b',extremes,Thunderstorm,#53785a,wmo,tempo severo castelo branco,2026-06-17T07:33:00+00:00,Portugal,0.4270821428561571,1,1,pt,MED,Europe
 '05756e6a91',extremes,Thunderstorm,#53785a,wmo,tempo severo Viseu,2026-06-14T07:07:00+00:00,Portugal,0.4229165665347789,1,1,pt,MED,Europe
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,onda de calor paris,2026-05-29T06:39:00+00:00,France,0.4227789549369174,1,2,pt,,
@@ -159,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-06-10T06:49:00+00:00,,0.3743895767993208,0,1,pt,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,redemoinho,2026-05-29T06:38:00+00:00,,0.3727328429223609,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-06-15T08:36:00+00:00,,0.3714577294995464,0,1,pt,,
+'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-06-15T08:36:00+00:00,Macao,0.3692337058087888,0,1,pt,EAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-06-14T07:06:00+00:00,,0.3657446585019209,0,1,pt,,
 '40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.3653728329593014,1,2,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3643675936207747,0,1,pt,,
@@ -200,6 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-06-15T08:36:00+00:00,,0.314784042907004,0,1,pt,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,chuvas torrenciais austrália,2026-06-07T06:49:00+00:00,Australia,0.3139927058238935,0,1,pt,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,pt,EAU,Oceania
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-07-01T06:52:00+00:00,,0.3117604310116892,0,1,pt,,
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,pt,,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3109194648977451,1,1,pt,WAF,Africa
 '53fda39314',extremes,Drought,#edc291,edo,falta de chuva Lituânia,2026-05-30T06:01:00+00:00,Lithuania,0.3105315957587172,0,1,pt,WCE,Europe
@@ -223,6 +232,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '291335c911',extremes,Drought,#edc291,edo,falta de chuva Gabão,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,pt,CAF,Africa
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,incêndio florestal na Antártica,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,pt,EAN,
 '3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-06-30T06:39:00+00:00,,0.3050964769423477,0,1,pt,,
+'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Tailândia,2026-06-21T07:16:00+00:00,Thailand,0.30507771282195195,0,1,pt,SEA,Asia
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial minganie anticosti,2026-06-16T08:27:00+00:00,Canada,0.3050633541862934,0,1,pt,NEN,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-06-19T07:39:00+00:00,New Zealand,0.3049271012157992,0,1,pt,NZ,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-06-08T07:13:00+00:00,Solomon Islands,0.3049004281614971,0,1,pt,EPO,Oceania
