@@ -234,6 +234,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempestade seicheles,2026-06-15T08:36:00+00:00,Seychelles,0.3051312631106738,0,1,pt,EIO,Africa
 '291335c911',extremes,Drought,#edc291,edo,falta de chuva Gabão,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,pt,CAF,Africa
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,incêndio florestal na Antártica,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,pt,EAN,
+'3fa143a609',extremes,Storm,#b3b2b1,random,nevasca de poeira,2026-06-30T06:39:00+00:00,,0.30509647694234776,0,1,pt,,
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial minganie anticosti,2026-06-16T08:27:00+00:00,Canada,0.3050633541862934,0,1,pt,NEN,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-06-19T07:39:00+00:00,New Zealand,0.3049271012157992,0,1,pt,NZ,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-06-08T07:13:00+00:00,Solomon Islands,0.3049004281614971,0,1,pt,EPO,Oceania
@@ -270,6 +271,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87931b9f82',extremes,Landslide,#572c03,aidr,fluxo de lama na Austrália,2026-06-27T06:09:00+00:00,Australia,0.303268815478413,0,1,pt,EAU,Oceania
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,onda de calor luxemburgo,2026-06-17T07:33:00+00:00,Luxembourg,0.3032379169443953,0,1,pt,WCE,Europe
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-05-30T06:01:00+00:00,Venezuela,0.3032219624565238,0,1,pt,NSA,South-America
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,tempestade مملكة البحرين والمناطق المحيطة بها,2026-06-30T06:39:00+00:00,Bahrain,0.3031330029248353,0,1,pt,ARP,Asia
 'c81c03f06e',extremes,Earthquake,#870007,usgs,terremoto beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.3029572219278041,0,1,pt,NAO,Atlantic Ocean
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-06-12T07:05:00+00:00,Chile,0.3029525174762827,0,1,pt,SWS,South-America
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,Chile congelante,2026-06-11T07:14:00+00:00,Chile,0.3029193782582176,0,1,pt,SWS,South-America
@@ -312,9 +314,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,geada chile,2026-06-12T07:05:00+00:00,Chile,0.3015668417864732,0,1,pt,SWS,South-America
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,onda de calor Etiópia,2026-06-10T06:49:00+00:00,Ethiopia,0.3015604014897514,0,1,pt,NEAF,Africa
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,chuva Chade,2026-06-17T07:33:00+00:00,Chad,0.3015192077375646,0,1,pt,SAH,Africa
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,geada austrália,2026-06-24T06:30:00+00:00,Australia,0.3014654432964623,0,1,pt,CAU,Oceania
+'4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Arkhangelsk,2026-06-10T06:49:00+00:00,Russia,0.30144146681474115,0,1,pt,ESB,Europe
 '9c4d852f5b',extremes,Earthquake,#870007,usgs,terremoto ao norte de svalbard,2026-06-04T07:06:00+00:00,,0.3013924996075283,0,1,pt,ARO,Arctica
+'734861543c',extremes,Storm,#b3b2b1,wmo,tempestade região amazônica,2026-06-13T06:38:00+00:00,Ecuador,0.3013570608998453,0,1,pt,NWS,South-America
+'0179e47b3d',extremes,Earthquake,#870007,usgs,terremoto unalaska,2026-06-15T08:36:00+00:00,Alaska,0.301316631511128,0,1,pt,NWN,North-America
 '38d6fb4787',extremes,Earthquake,#870007,usgs,terremoto na região da zona de fratura de Owen,2026-05-27T06:46:00+00:00,,0.301237269873381,0,1,pt,ARS,Indian Ocean
+'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,chuva Rússia,2026-06-18T07:16:00+00:00,Russia,0.3012186586775534,0,1,pt,ESB,Europe
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,neve Canadá,2026-06-13T06:38:00+00:00,Canada,0.3011625950309901,0,1,pt,NEN,North-America
 '95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-06-01T07:30:00+00:00,Yemen,0.3011575322060412,0,1,pt,NEAF,Africa
+'75e0f49183',extremes,Earthquake,#870007,usgs,terremoto pāhala,2026-06-19T07:39:00+00:00,Hawaii,0.30115398004966787,0,1,pt,NPO,Pacific Ocean
+'def0328fc5',extremes,Earthquake,#870007,usgs,terremoto villanueva,2026-06-18T07:16:00+00:00,Colombia,0.3011503862503407,0,1,pt,NWS,South-America
 'e058bc3eb7',extremes,Drought,#edc291,edo,seca no Sri Lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,pt,BOB,Asia
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki e Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,pt,NZ,Oceania
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gelo Islândia,2026-05-29T06:38:00+00:00,Iceland,0.3009961849102301,0,1,pt,GIC,Europe
