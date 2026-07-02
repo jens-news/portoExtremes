@@ -220,7 +220,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,pt,SES,South-America
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.3052596542920424,0,1,pt,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3051842879016181,0,1,pt,ARP,Asia
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,neve nova zelândia,2026-06-23T06:33:00+00:00,New Zealand,0.3051839076413183,0,1,pt,NZ,Oceania
@@ -366,8 +365,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,precipitação áfrica do sul,2026-06-02T07:08:00+00:00,South Africa,0.2866368760052293,1,1,pt,WSAF,Africa
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,chuva argélia,2026-06-10T06:49:00+00:00,Algeria,0.2835124263314084,1,1,pt,SAH,Africa
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-06-08T07:13:00+00:00,,0.281892713175703,1,1,pt,,
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-06-08T07:13:00+00:00,New Zealand,0.27750378778096185,1,1,pt,NZ,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-06-08T07:13:00+00:00,New Zealand,0.2775037877809618,1,1,pt,NZ,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,pt,,
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.27172093114823603,1,1,pt,SES,South-America
 '5251a639fe',extremes,Wildfire,#d60d2b,eonet,incêndio florestal em kopshesut noroeste ártico do Alasca,2026-06-12T07:05:00+00:00,,0.2715536999421865,1,1,pt,,
 '1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Amanda,2026-06-04T07:06:00+00:00,,0.2712167858832294,1,1,pt,NPO,Pacific Ocean
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Boris,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,pt,SCA,North-America
