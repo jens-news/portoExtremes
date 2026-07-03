@@ -93,11 +93,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,granizo macau,2026-06-07T06:48:00+00:00,Macao,0.5031710436290503,1,1,pt,EAS,Asia
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-06-15T08:36:00+00:00,Timor Leste,0.5016396560870172,1,2,pt,SEA,Oceania
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-06-17T07:34:00+00:00,Brazil,0.5010089840061989,0,1,pt,SAM,South-America
-'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,chuva torrencial braga,2026-05-25T06:53:00+00:00,Portugal,0.4970414386862574,1,1,pt,MED,Europe
 '49ca9aab75',extremes,Thunderstorm,#53785a,wmo,trovoada vila real,2026-05-25T06:53:00+00:00,Portugal,0.4961041015384803,1,2,pt,MED,Europe
-'5151cbced7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viseu,2026-05-25T06:53:00+00:00,Portugal,0.4914639028577879,1,1,pt,MED,Europe
 'c0602baaa8',extremes,Thunderstorm,#53785a,wmo,granizo porto,2026-06-14T07:07:00+00:00,Portugal,0.4902762119286681,1,3,pt,MED,Europe
-'1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-05-25T06:53:00+00:00,Portugal,0.4866567637716009,1,1,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-05-29T06:39:00+00:00,Sao Tome and Principe,0.4855491843865556,1,1,pt,WAF,Africa
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2026-06-09T06:32:00+00:00,Timor Leste,0.4847692421372546,1,1,pt,SEA,Asia
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-06-13T06:38:00+00:00,,0.4840348073461896,1,2,pt,,
@@ -152,14 +149,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,tempestade na Nigéria,2026-05-24T06:22:00+00:00,Nigeria,0.4086755002144056,1,2,pt,WAF,Africa
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.4084851479989786,1,2,pt,SWS,South-America
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,chuva Bulgária,2026-06-12T07:05:00+00:00,Bulgaria,0.4083833216802992,1,2,pt,MED,Europe
-'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-05-15T06:09:00+00:00,Canada,0.4083482110754926,1,3,pt,NEN,North-America
 'd56de5f4df',extremes,Drought,#edc291,edo,falta de chuva letónia,2026-05-29T06:39:00+00:00,Latvia,0.4077669638285277,1,2,pt,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-06-20T06:46:00+00:00,,0.4058447128144568,0,1,pt,,
 '56fc3fa1ff',extremes,Thunderstorm,#53785a,wmo,tempo severo Bragança,2026-06-15T08:36:00+00:00,Portugal,0.4056975862540589,1,1,pt,MED,Europe
 '23efc884ea',extremes,Heat Wave,#c40202,wmo,onda de calor madeira porto santo,2026-07-02T06:24:00+00:00,Portugal,0.3985035850086306,1,1,pt,MED,Europe
 '8b55e7f8a3',extremes,Drought,#edc291,edo,seca nas Bermudas,2026-06-17T07:34:00+00:00,Bermuda,0.3973903475874828,1,1,pt,NAO,Atlantic Ocean
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-06-12T07:05:00+00:00,,0.3920800364965086,0,1,pt,,
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-05-25T06:52:00+00:00,,0.3912126101382842,0,1,pt,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,tempestade de granizo,2026-06-17T07:33:00+00:00,,0.3907784303083653,1,2,pt,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,chuva recorde,2026-06-10T06:49:00+00:00,,0.3898791162211061,0,1,pt,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-06-07T06:48:00+00:00,,0.3898222134487048,0,1,pt,,
@@ -173,7 +168,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-06-15T08:36:00+00:00,Macao,0.3692337058087888,0,1,pt,EAS,Asia
 'f006bc815e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa norte,2026-07-01T06:52:00+00:00,Portugal,0.3680878218857327,1,1,pt,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-06-14T07:06:00+00:00,,0.3657446585019209,0,1,pt,,
-'40f675561f',extremes,Heat Wave,#c40202,random,verão mais quente,2026-05-22T06:31:00+00:00,,0.3653728329593014,1,2,pt,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3643675936207747,0,1,pt,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-06-06T06:08:00+00:00,,0.3639301588090604,1,1,pt,,
 'a681807d30',extremes,Earthquake,#870007,usgs,terremoto viqueque,2026-06-17T07:33:00+00:00,Timor Leste,0.3631081376494475,1,1,pt,SEA,Asia
@@ -200,7 +194,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,chuva nova zelândia,2026-06-20T06:47:00+00:00,New Zealand,0.3302447607053237,1,1,pt,NZ,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-06-12T07:05:00+00:00,,0.3288430841425738,1,1,pt,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-06-10T06:49:00+00:00,,0.3273719354847091,0,1,pt,,
-'84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-05-26T06:31:00+00:00,,0.3267167250422181,0,1,pt,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.3259880260106448,1,1,pt,SES,South-America
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-05-30T06:01:00+00:00,,0.3251051617409697,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-05-27T06:46:00+00:00,,0.3249530869596851,0,1,pt,,
@@ -225,7 +218,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,pt,NEN,North-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-05-27T06:46:00+00:00,Argentina,0.3066638944696219,0,1,pt,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,pt,SES,South-America
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-06-17T07:33:00+00:00,Argentina,0.3063710550957783,0,1,pt,SES,South-America
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,tempo severo Argélia,2026-07-02T06:24:00+00:00,Algeria,0.3057708344779594,0,1,pt,SAH,Africa
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
@@ -250,7 +242,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,tempestade marlborough ao norte de Clarence,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,pt,NZ,Oceania
 '8b27d7924c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial béchar,2026-06-14T07:07:00+00:00,Algeria,0.3045467118216011,0,1,pt,SAH,Africa
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-06-08T07:13:00+00:00,,0.3044791866237643,1,1,pt,,
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-07-01T06:52:00+00:00,Solomon Islands,0.30442147179509743,0,1,pt,EPO,Oceania
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-07-01T06:52:00+00:00,Solomon Islands,0.3044214717950974,0,1,pt,EPO,Oceania
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,granizo Canadá,2026-06-18T07:16:00+00:00,Canada,0.3043758374926353,0,1,pt,NEN,North-America
 'af6244e0ab',extremes,Drought,#edc291,edo,seca Nicarágua,2026-06-27T06:08:00+00:00,Nicaragua,0.3042993397806682,0,1,pt,SCA,North-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitação Arábia Saudita,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3042736800864519,0,1,pt,ARP,Asia
@@ -271,7 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9fdc419684',extremes,Drought,#edc291,edo,período de seca na República Tcheca,2026-06-20T06:47:00+00:00,Czechia,0.3034817916125162,0,1,pt,WCE,Europe
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,tempestade béchar,2026-06-17T07:33:00+00:00,Algeria,0.3034757796761167,0,1,pt,SAH,Africa
 '769c0da087',extremes,Storm,#b3b2b1,wmo,estado de tempestade do Kuwait,2026-06-16T08:27:00+00:00,Kuwait,0.3034713765410507,0,1,pt,ARP,Asia
-'e7db391dce',extremes,Storm,#b3b2b1,wmo,tempestade costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.30347122228653006,0,1,pt,SCA,North-America
+'e7db391dce',extremes,Storm,#b3b2b1,wmo,tempestade costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.30347122228653,0,1,pt,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.3034325564390294,0,1,pt,EAO,Atlantic Ocean
 '13104e853c',extremes,Drought,#edc291,edo,período de seca no Gabão,2026-06-23T06:33:00+00:00,Gabon,0.3034070935799138,0,1,pt,CAF,Africa
 '87931b9f82',extremes,Landslide,#572c03,aidr,fluxo de lama na Austrália,2026-06-27T06:09:00+00:00,Australia,0.303268815478413,0,1,pt,EAU,Oceania
@@ -336,7 +328,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95694d19cf',extremes,Earthquake,#870007,usgs,terremoto Iêmen,2026-06-01T07:30:00+00:00,Yemen,0.3011575322060412,0,1,pt,NEAF,Africa
 '75e0f49183',extremes,Earthquake,#870007,usgs,terremoto pāhala,2026-06-19T07:39:00+00:00,Hawaii,0.3011539800496678,0,1,pt,NPO,Pacific Ocean
 'def0328fc5',extremes,Earthquake,#870007,usgs,terremoto villanueva,2026-06-18T07:16:00+00:00,Colombia,0.3011503862503407,0,1,pt,NWS,South-America
-'e058bc3eb7',extremes,Drought,#edc291,edo,seca no Sri Lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,pt,BOB,Asia
 '406b2198bd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial região amazônica,2026-06-15T08:36:00+00:00,Ecuador,0.3010877348720477,0,1,pt,NWS,South-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,tempestade em Belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,pt,SCA,North-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitação região amazônica,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,pt,NWS,South-America
@@ -346,7 +337,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-06-18T07:16:00+00:00,,0.3010206703082695,0,1,pt,,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,gelo Islândia,2026-05-29T06:38:00+00:00,Iceland,0.3009961849102301,0,1,pt,GIC,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,onda de calor münster nord münster süd,2026-06-19T07:39:00+00:00,Germany,0.3009654161847701,0,1,pt,WCE,Europe
-'3b0e352b6e',extremes,Flood,#030ba1,wmo,inundação no sul da Austrália warburton,2026-06-16T08:27:00+00:00,Australia,0.30092143006332417,0,1,pt,CAU,Oceania
+'3b0e352b6e',extremes,Flood,#030ba1,wmo,inundação no sul da Austrália warburton,2026-06-16T08:27:00+00:00,Australia,0.3009214300633241,0,1,pt,CAU,Oceania
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,tempestade kuwait,2026-06-12T07:05:00+00:00,Kuwait,0.30090877200967,0,1,pt,ARP,Asia
 '08226562a9',extremes,Earthquake,#870007,usgs,terremoto fais,2026-06-25T06:32:00+00:00,Micronesia,0.3009038804513771,0,1,pt,NPO,Pacific Ocean
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2026-06-03T07:23:00+00:00,South Africa,0.3008718055649556,0,1,pt,WSAF,Africa
@@ -367,7 +358,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ca12a416d',extremes,Precipitation,#d60d2b,wmo,chuva república do congo,2026-05-29T06:38:00+00:00,Republic of the Congo,0.3001205714720003,0,1,pt,CAF,Africa
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,onda de tempestade resoluta,2026-05-31T06:40:00+00:00,Canada,0.3001157987429571,0,1,pt,NEN,North-America
 '103eea7ff7',extremes,Drought,#edc291,edo,falta de chuva na República Tcheca,2026-06-07T06:48:00+00:00,Czechia,0.3000449858107683,0,1,pt,WCE,Europe
-'d7b5dc98dc',extremes,Flood,#030ba1,wmo,inundação na Rússia,2026-05-27T06:46:00+00:00,Russia,0.2999362800664256,0,1,pt,ESB,Europe
 '13b7157ed9',extremes,Earthquake,#870007,usgs,terremoto barbados,2026-05-31T06:40:00+00:00,Barbados,0.2998951155249694,0,1,pt,NSA,South-America
 'e2ee762e4f',extremes,Precipitation,#d60d2b,wmo,chuva mali,2026-06-07T06:48:00+00:00,Mali,0.2998919768512777,0,1,pt,SAH,Africa
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na república da moldávia,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2998303096674439,0,1,pt,WCE,Europe
@@ -391,7 +381,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5251a639fe',extremes,Wildfire,#d60d2b,eonet,incêndio florestal em kopshesut noroeste ártico do Alasca,2026-06-12T07:05:00+00:00,,0.2715536999421865,1,1,pt,,
 '1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Amanda,2026-06-04T07:06:00+00:00,,0.2712167858832294,1,1,pt,NPO,Pacific Ocean
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Boris,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,pt,SCA,North-America
-'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Jangmi,2026-05-30T06:01:00+00:00,,0.2711678709811354,1,1,pt,NPO,Pacific Ocean
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Cristina,2026-06-12T07:05:00+00:00,,0.2709186933115594,1,1,pt,SCA,North-America
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,iceberg d33a,2026-06-24T06:29:00+00:00,,0.2700689821095424,1,1,pt,EAN,
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2694811146168214,1,1,pt,WAN,Antarctica
@@ -412,7 +401,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,inundação hobart inundação repentina Tasmânia 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,pt,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,inundação Victoria,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,pt,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-02T07:08:00+00:00,Madagascar,0.264536317921997,1,1,pt,MDG,Africa
-'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,onda de calor europeia bordeaux,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,pt,,
 'ecd6c72a27',extremes,Drought,#edc291,edo,falta de chuva em Madagascar,2026-06-01T07:30:00+00:00,Madagascar,0.2639240460293703,1,1,pt,MDG,Africa
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,onda de calor no sul da Austrália,2026-06-04T07:06:00+00:00,Australia,0.2635491782052749,1,1,pt,SAU,Oceania
 '6eff66ea81',extremes,Drought,#edc291,edo,seca brunei,2026-06-02T07:08:00+00:00,Brunei,0.2635079085288981,1,1,pt,SEA,Asia
@@ -436,6 +424,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,chuva belize,2026-06-11T07:14:00+00:00,Belize,0.2607354356315359,1,1,pt,SCA,North-America
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-06-13T06:38:00+00:00,,0.2606470823423356,1,1,pt,,
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Kemerovo,2026-06-26T06:36:00+00:00,Russia,0.2605751037337362,1,1,pt,ESB,Europe
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina congelante,2026-06-17T07:33:00+00:00,Argentina,0.2605654118314115,1,1,pt,SES,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,período de seca nas Ilhas Faroé,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,pt,NEU,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,chuva torrencial costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,pt,SCA,North-America
 '26dc110943',extremes,Drought,#edc291,edo,falta de chuva nicarágua,2026-06-12T07:05:00+00:00,Nicaragua,0.2602557758421571,1,1,pt,SCA,North-America
@@ -450,7 +439,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-05-31T06:41:00+00:00,Australia,0.2587622508976797,1,1,pt,SAU,Oceania
 '0511e6ef31',extremes,Drought,#edc291,edo,período de seca na Estônia,2026-06-01T07:30:00+00:00,Estonia,0.2585837197451628,1,1,pt,NEU,Europe
 '94d9daff60',extremes,Thunderstorm,#53785a,wmo,granizo em guezzam,2026-06-04T07:06:00+00:00,Algeria,0.2585017434209548,1,1,pt,SAH,Africa
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-05-30T06:01:00+00:00,,0.2577407114848841,1,1,pt,,
 '3bd2789f86',extremes,Earthquake,#870007,usgs,terremoto şalālah,2026-06-01T07:30:00+00:00,Oman,0.2573495588495162,1,1,pt,ARS,Indian Ocean
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-06-02T07:08:00+00:00,Chile,0.2572776846369248,1,1,pt,SWS,South-America
 '4382cd7beb',extremes,Earthquake,#870007,usgs,terremoto oistins,2026-06-02T07:08:00+00:00,Barbados,0.2572708662769122,1,1,pt,NSA,South-America
