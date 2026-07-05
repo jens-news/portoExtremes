@@ -227,8 +227,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
-'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-06-09T06:32:00+00:00,Vanuatu,0.3047126874191628,0,1,pt,SPO,Oceania
-'11ece58a02',extremes,Storm,#b3b2b1,wmo,tempestade no Bahrein,2026-06-16T08:27:00+00:00,Bahrain,0.3046547235711926,0,1,pt,ARP,Asia
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-06-10T06:49:00+00:00,Vanuatu,0.3046239061222118,0,1,pt,SPO,Oceania
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,tempestade marlborough ao norte de Clarence,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,pt,NZ,Oceania
 '8b27d7924c',extremes,Precipitation,#d60d2b,wmo,chuva torrencial béchar,2026-06-14T07:07:00+00:00,Algeria,0.3045467118216011,0,1,pt,SAH,Africa
@@ -455,7 +453,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,tempestade em Madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.2596002366855073,1,1,pt,MDG,Africa
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,geada haast pass sh6,2026-07-04T05:59:00+00:00,New Zealand,0.2595611993973886,1,1,pt,NZ,Oceania
 'a78a18febe',extremes,Fog,#d60d2b,wmo,nevoeiro zabaykalsky krai,2026-06-30T06:39:00+00:00,Russia,0.2595440625791954,1,1,pt,ESB,Europe
-'5a69bd9b04',extremes,Fog,#d60d2b,wmo,nevoeiro novay zemly,2026-06-30T06:39:00+00:00,Russia,0.25946688067088286,1,1,pt,ESB,Europe
+'5a69bd9b04',extremes,Fog,#d60d2b,wmo,nevoeiro novay zemly,2026-06-30T06:39:00+00:00,Russia,0.2594668806708828,1,1,pt,ESB,Europe
 'd709206c08',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 15 cordilheira,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,pt,SWS,South-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,tempestade seicheles,2026-06-15T08:36:00+00:00,Seychelles,0.2593615736440727,1,1,pt,EIO,Africa
 '291335c911',extremes,Drought,#edc291,edo,falta de chuva Gabão,2026-06-07T06:48:00+00:00,Gabon,0.2593515501034505,1,1,pt,CAF,Africa
@@ -465,8 +463,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Tailândia,2026-06-21T07:16:00+00:00,Thailand,0.2593160558986591,1,1,pt,SEA,Asia
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial minganie anticosti,2026-06-16T08:27:00+00:00,Canada,0.2593038510583493,1,1,pt,NEN,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-06-08T07:13:00+00:00,Solomon Islands,0.2591653639372725,1,1,pt,EPO,Oceania
-'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,tempestade malampa shefa e província de tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.25916227033076683,1,1,pt,SPO,Oceania
+'23ce7b59e3',extremes,Storm,#b3b2b1,wmo,tempestade malampa shefa e província de tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.2591622703307668,1,1,pt,SPO,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,inundação repentina Canadá,2026-06-22T08:39:00+00:00,Canada,0.2591132082936839,1,1,pt,NEN,North-America
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,tempestade no Bahrein,2026-06-16T08:27:00+00:00,Bahrain,0.2591065300355137,1,1,pt,ARP,Asia
+'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-06-09T06:32:00+00:00,Vanuatu,0.25900578430628834,1,1,pt,SPO,Oceania
 '94d9daff60',extremes,Thunderstorm,#53785a,wmo,granizo em guezzam,2026-06-04T07:06:00+00:00,Algeria,0.2585017434209548,1,1,pt,SAH,Africa
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-06-02T07:08:00+00:00,Chile,0.2572776846369248,1,1,pt,SWS,South-America
 '4382cd7beb',extremes,Earthquake,#870007,usgs,terremoto oistins,2026-06-02T07:08:00+00:00,Barbados,0.2572708662769122,1,1,pt,NSA,South-America
