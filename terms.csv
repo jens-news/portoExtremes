@@ -294,6 +294,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-06-10T06:49:00+00:00,Paraguay,0.3019066031736536,0,1,pt,SES,South-America
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,incêndio florestal no sul da Austrália,2026-06-15T08:36:00+00:00,Australia,0.3018995314907622,0,1,pt,CAU,Oceania
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-06-18T07:16:00+00:00,Paraguay,0.3018947325190121,0,1,pt,SES,South-America
+'7d3dc8961a',extremes,Thunderstorm,#53785a,wmo,trovoada república da buriácia,2026-07-06T06:52:00+00:00,Russia,0.3018605603059711,0,1,pt,ESB,Europe
 '76ad379230',extremes,Earthquake,#870007,usgs,terremoto Petropavlovsk Kamchatsky,2026-06-27T06:08:00+00:00,Russia,0.3018478608925725,0,1,pt,RFE,Asia
 'ce884fadc9',extremes,Earthquake,#870007,usgs,terremoto Guadalupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.3017475169647425,0,1,pt,NAO,Atlantic Ocean
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,avalanche sochi,2026-05-31T06:40:00+00:00,Russia,0.301745668568816,0,1,pt,ESB,Europe
@@ -364,10 +365,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dbc33b191',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de novosibirsk,2026-06-27T06:08:00+00:00,Russia,0.3003327709914331,0,1,pt,ESB,Europe
 '22bab77b3f',extremes,Storm,#b3b2b1,wmo,tempestade nas águas costeiras do norte.,2026-06-28T06:44:00+00:00,Vanuatu,0.3003269009937764,0,1,pt,SPO,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,tempestade na Índia,2026-06-30T06:39:00+00:00,India,0.3002815750674951,0,1,pt,SAS,Asia
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,inundações no Canadá,2026-07-01T06:52:00+00:00,Canada,0.30026604783829336,0,1,pt,NEN,North-America
+'e12c49e365',extremes,Storm,#b3b2b1,wmo,tempestade região litoral e interandina,2026-06-26T06:36:00+00:00,Ecuador,0.30025992259794115,0,1,pt,NWS,South-America
 '97ba994d49',extremes,Earthquake,#870007,usgs,terremoto omã,2026-06-04T07:06:00+00:00,Oman,0.300247166718407,0,1,pt,ARS,Indian Ocean
 'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,gelo leste da Islândia,2026-06-03T07:23:00+00:00,Iceland,0.3002400538486984,0,1,pt,GIC,Europe
+'5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,carregadores de gelo passam sh73,2026-06-25T06:32:00+00:00,New Zealand,0.30022738054127984,0,1,pt,NZ,Oceania
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão estados unidos,2026-07-04T05:59:00+00:00,United States,0.30022163960904225,0,1,pt,CNA,North-America
+'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Saratov,2026-06-18T07:16:00+00:00,Russia,0.30022106922734215,0,1,pt,ESB,Europe
 '4c4410479d',extremes,Storm,#b3b2b1,wmo,tempestade taihape e parque nacional tongairo,2026-06-01T07:30:00+00:00,New Zealand,0.3002210564851306,0,1,pt,NZ,Oceania
+'f89b96cf78',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-17T07:34:00+00:00,Czechia,0.30021306162537176,0,1,pt,WCE,Europe
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-07-03T06:09:00+00:00,Ecuador,0.3001946596178031,0,1,pt,NWS,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tempestade amazônica,2026-06-01T07:30:00+00:00,Ecuador,0.300194527358637,0,1,pt,NWS,South-America
+'70773b5956',extremes,Earthquake,#870007,usgs,terremoto no Alasca,2026-06-27T06:08:00+00:00,Alaska,0.3001888404048114,0,1,pt,NPO,Pacific Ocean
+'2267094058',extremes,Snow&Ice,#d60d2b,wmo,gelo nova zelândia,2026-06-24T06:30:00+00:00,New Zealand,0.3001755418663507,0,1,pt,NZ,Oceania
 '7477f7090e',extremes,Storm,#b3b2b1,wmo,tempestade,2026-06-04T07:06:00+00:00,Qatar,0.3001679155259702,0,1,pt,ARP,Asia
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,onda de tempestade resoluta,2026-05-31T06:40:00+00:00,Canada,0.3001157987429571,0,1,pt,NEN,North-America
 '103eea7ff7',extremes,Drought,#edc291,edo,falta de chuva na República Tcheca,2026-06-07T06:48:00+00:00,Czechia,0.3000449858107683,0,1,pt,WCE,Europe
