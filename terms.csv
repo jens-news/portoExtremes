@@ -164,6 +164,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-06-07T06:48:00+00:00,,0.3898222134487048,0,1,pt,,
 'd16d72b759',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa sul,2026-07-01T06:52:00+00:00,Portugal,0.3875665023118727,1,1,pt,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3850124845776585,1,2,pt,,
+'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas,2026-06-13T06:38:00+00:00,Solomon Islands,0.3794009002398529,1,2,pt,EPO,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.3780392243158868,0,1,pt,WAF,Africa
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-06-18T07:16:00+00:00,,0.3746622558132981,1,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-06-19T07:39:00+00:00,Macao,0.3745815873056055,0,1,pt,EAS,Asia
@@ -230,7 +231,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-06-08T07:13:00+00:00,,0.3044791866237643,1,1,pt,,
-'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas,2026-06-13T06:38:00+00:00,Solomon Islands,0.304295088517474,0,1,pt,EPO,Oceania
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,nevoeiro primorsky krai,2026-07-06T06:52:00+00:00,Russia,0.3042825245583052,0,1,pt,ESB,Europe
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitação Arábia Saudita,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3042736800864519,0,1,pt,ARP,Asia
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical higos,2026-06-24T06:29:00+00:00,,0.3042431923666929,0,1,pt,NPO,Pacific Ocean
