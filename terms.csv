@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,edo,seca brasil,2026-05-24T06:22:00+00:00,Brazil,0.7448949430545924,0,1,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-05-22T06:32:00+00:00,Brazil,0.739675915747327,1,3,pt,SAM,South-America
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-05-26T06:31:00+00:00,Portugal,0.7387947018741938,1,2,pt,MED,Europe
+'8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-06-19T07:39:00+00:00,Portugal,0.7318599950264034,0,1,pt,MED,Europe
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.7285188375158871,1,2,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-06-06T06:08:00+00:00,Brazil,0.7262446583566955,1,3,pt,SAM,South-America
@@ -13,8 +14,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-05-22T06:32:00+00:00,Brazil,0.7220054807324692,1,2,pt,SAM,South-America
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-06-21T07:16:00+00:00,Portugal,0.7185524612996136,0,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-06-14T07:07:00+00:00,Cabo Verde,0.7146487402379584,0,1,pt,NAO,Atlantic Ocean
+'7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-06-21T07:16:00+00:00,Portugal,0.7097241187001645,0,1,pt,MED,Europe
+'90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-06-22T08:39:00+00:00,Portugal,0.7053129997929817,0,1,pt,MED,Europe
+'0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-06-21T07:16:00+00:00,Portugal,0.700587581238321,0,1,pt,MED,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-05-21T06:35:00+00:00,Brazil,0.6993392326700073,1,2,pt,SAM,South-America
 'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-06-14T07:07:00+00:00,Bermuda,0.6905362900799665,1,2,pt,NAO,Atlantic Ocean
+'4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-06-21T07:16:00+00:00,Portugal,0.6890696687260794,0,1,pt,MED,Europe
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-05-25T06:53:00+00:00,Brazil,0.6852728288371216,1,3,pt,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-05-24T06:22:00+00:00,Brazil,0.6782518728123581,1,2,pt,SAM,South-America
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,tempestade portugal,2026-05-24T06:22:00+00:00,Portugal,0.6701804710284841,1,2,pt,MED,Europe
@@ -31,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-06-30T06:39:00+00:00,Portugal,0.6501313198860464,0,1,pt,MED,Europe
 'e36dee7382',extremes,Heat Wave,#c40202,wmo,onda de calor vila real,2026-06-21T07:16:00+00:00,Portugal,0.6486911843955908,1,3,pt,MED,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-06-14T07:07:00+00:00,Portugal,0.6465984102477921,0,1,pt,MED,Europe
+'0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-07-08T05:37:00+00:00,Portugal,0.6460951959880202,0,1,pt,MED,Europe
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-05-28T06:38:00+00:00,Portugal,0.6446234328499346,1,2,pt,MED,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-06-04T07:06:00+00:00,Brazil,0.6354204977212903,1,1,pt,SAM,South-America
 'e6f88f4558',extremes,Fog,#d60d2b,wmo,nevoeiro portugal,2026-06-11T07:14:00+00:00,Portugal,0.6326891803510987,1,1,pt,MED,Europe
@@ -154,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-06-07T06:48:00+00:00,,0.3898222134487048,0,1,pt,,
 'd16d72b759',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa sul,2026-07-01T06:52:00+00:00,Portugal,0.3875665023118727,1,1,pt,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-06-18T07:16:00+00:00,,0.3850124845776585,1,2,pt,,
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-07-08T05:37:00+00:00,,0.3827989196223368,0,1,pt,,
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas,2026-06-13T06:38:00+00:00,Solomon Islands,0.3794009002398529,1,2,pt,EPO,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-06-16T08:27:00+00:00,Equatorial Guinea,0.3780392243158868,0,1,pt,WAF,Africa
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-06-18T07:16:00+00:00,,0.3746622558132981,1,1,pt,,
@@ -254,6 +261,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40c057feb5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial altai krai,2026-07-04T05:59:00+00:00,Russia,0.3026639410688363,0,1,pt,ESB,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-06-25T06:32:00+00:00,Venezuela,0.3026319213195985,0,1,pt,NSA,South-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inundação Canadá,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,pt,NEN,North-America
+'832aa2c29e',extremes,Storm,#b3b2b1,wmo,tempestade todas as águas,2026-07-08T05:37:00+00:00,Solomon Islands,0.3025935608443585,0,1,pt,EPO,Oceania
+'a652d575aa',extremes,Thunderstorm,#53785a,wmo,tempo severo Roménia,2026-07-01T06:52:00+00:00,Romania,0.3025803415073196,0,1,pt,WCE,Europe
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,tempestade malampa shefa e província de tafea,2026-06-12T07:05:00+00:00,Vanuatu,0.3025512685731275,0,1,pt,SPO,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-06-15T08:36:00+00:00,Jamaica,0.302533643050985,0,1,pt,CAR,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-07-04T05:59:00+00:00,Chile,0.3025002074471121,0,1,pt,SWS,South-America
@@ -316,6 +325,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,tempestade Taranaki e Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,pt,NZ,Oceania
 'c40c3d7ce2',extremes,Flood,#030ba1,wmo,inundação na Suécia,2026-06-12T07:05:00+00:00,Sweden,0.3010269461394207,0,1,pt,NEU,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-06-18T07:16:00+00:00,,0.3010206703082695,0,1,pt,,
+'9d5914f39c',extremes,Storm,#b3b2b1,wmo,tempestade sul da Islândia,2026-07-08T05:37:00+00:00,Iceland,0.300979556887035,0,1,pt,GIC,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,onda de calor münster nord münster süd,2026-06-19T07:39:00+00:00,Germany,0.3009654161847701,0,1,pt,WCE,Europe
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,inundação no sul da Austrália warburton,2026-06-16T08:27:00+00:00,Australia,0.3009214300633241,0,1,pt,CAU,Oceania
 'd0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,tempestade kuwait,2026-06-12T07:05:00+00:00,Kuwait,0.30090877200967,0,1,pt,ARP,Asia
