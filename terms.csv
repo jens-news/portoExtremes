@@ -47,11 +47,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-06-20T06:47:00+00:00,Portugal,0.6240248361725901,1,2,pt,MED,Europe
 '84c5287db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro viseu,2026-06-14T07:07:00+00:00,Portugal,0.6237076524739792,1,2,pt,MED,Europe
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-06-11T07:14:00+00:00,Portugal,0.6231615340627846,1,1,pt,MED,Europe
-'03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-09T06:27:00+00:00,Portugal,0.622720474981567,0,1,pt,MED,Europe
 '44af485610',extremes,Snow&Ice,#d60d2b,wmo,geada portugal,2026-06-13T06:38:00+00:00,Portugal,0.622272816288429,1,1,pt,MED,Europe
 'd7e18db298',extremes,Precipitation,#d60d2b,wmo,chuva torrencial porto,2026-06-14T07:07:00+00:00,Portugal,0.6220959847623116,1,2,pt,MED,Europe
 '14a197e007',extremes,Precipitation,#d60d2b,wmo,precipitação portalegre,2026-06-13T06:38:00+00:00,Portugal,0.6216140585831752,0,1,pt,MED,Europe
-'8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-06-21T07:16:00+00:00,Angola,0.620596723605299,0,1,pt,WSAF,Africa
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,tempestade porto,2026-05-24T06:22:00+00:00,Portugal,0.6194952179188603,1,3,pt,MED,Europe
 'db5ce0d116',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-06-14T07:07:00+00:00,Portugal,0.6166457670306379,0,1,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-06-15T08:36:00+00:00,Portugal,0.6157048050262861,1,2,pt,NAO,Atlantic Ocean
@@ -83,7 +81,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ae6b88af4',extremes,Storm,#b3b2b1,wmo,tempestade bragança,2026-06-13T06:38:00+00:00,Portugal,0.5401322342917267,1,1,pt,MED,Europe
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-06-07T06:48:00+00:00,Timor Leste,0.5366320368898437,1,1,pt,SEA,Asia
 '3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-05-27T06:46:00+00:00,Portugal,0.5343395495757973,1,2,pt,MED,Europe
+'03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-09T06:27:00+00:00,Portugal,0.529312403734332,1,1,pt,MED,Europe
 'a7738c1b1e',extremes,Precipitation,#d60d2b,wmo,chuva braga,2026-06-14T07:07:00+00:00,Portugal,0.5288143161085452,1,2,pt,MED,Europe
+'8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-06-21T07:16:00+00:00,Angola,0.5278072450645042,1,1,pt,WSAF,Africa
 '65822d5ce4',extremes,Thunderstorm,#53785a,wmo,salve vila real,2026-06-15T08:36:00+00:00,Portugal,0.525407802648181,1,1,pt,MED,Europe
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-06-18T07:16:00+00:00,Macao,0.5239572589552672,1,2,pt,EAS,Asia
 'd329a7ae6e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira regiões montanhosas,2026-07-01T06:52:00+00:00,Portugal,0.5211745557493221,1,1,pt,MED,Europe
