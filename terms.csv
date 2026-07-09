@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-05-23T05:53:00+00:00,Brazil,0.7826673057124236,1,2,pt,SAM,South-America
-'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-07-06T06:52:00+00:00,Brazil,0.7660308657507259,0,1,pt,SAM,South-America
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-07-06T06:52:00+00:00,Brazil,0.782489560888117,1,3,pt,SAM,South-America
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil congelante,2026-06-25T06:32:00+00:00,Brazil,0.7647012602802598,0,1,pt,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-05-24T06:22:00+00:00,Brazil,0.761137147628343,0,1,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7444501363398445,0,1,pt,SAM,South-America
@@ -182,7 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-05-28T06:38:00+00:00,Argentina,0.3500857396591858,1,3,pt,SES,South-America
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-06-17T07:33:00+00:00,,0.3490319024054866,0,1,pt,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,redemoinho,2026-06-18T07:16:00+00:00,,0.3469692464143232,0,1,pt,,
-'560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-07-09T06:27:00+00:00,,0.34684906385754494,0,1,pt,,
+'560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-07-09T06:27:00+00:00,,0.3468490638575449,0,1,pt,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-06-15T08:36:00+00:00,,0.3456376631813894,0,1,pt,,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-20T06:46:00+00:00,,0.3389740346396422,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-06-16T08:27:00+00:00,,0.338887922373673,0,1,pt,,
@@ -212,7 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,"inundação na Tasmânia, junho, julho de 2016",2026-06-24T06:30:00+00:00,Australia,0.3146099309526618,0,1,pt,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,inundação repentina na Austrália,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,pt,EAU,Oceania
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,pt,,
-'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,iceberg d32,2026-06-24T06:29:00+00:00,,0.31153533743802675,0,1,pt,EAN,
+'5acb09ddba',extremes,Iceberg,#d60d2b,eonet,iceberg d32,2026-06-24T06:29:00+00:00,,0.3115353374380267,0,1,pt,EAN,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3109194648977451,1,1,pt,WAF,Africa
 'fe2660794a',extremes,Iceberg,#d60d2b,eonet,iceberg d35,2026-06-24T06:29:00+00:00,,0.3091127405842922,0,1,pt,EAN,
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.3090946046061608,0,1,pt,MDG,Africa
