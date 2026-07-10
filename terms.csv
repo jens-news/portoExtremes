@@ -147,6 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical higos,2026-06-24T06:29:00+00:00,,0.408756728511689,1,2,pt,NPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canadá gelado,2026-06-22T08:39:00+00:00,Canada,0.4084426703729797,1,2,pt,NEN,North-America
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,chuva Bulgária,2026-06-12T07:05:00+00:00,Bulgaria,0.4083833216802992,1,2,pt,MED,Europe
+'9fdc419684',extremes,Drought,#edc291,edo,período de seca na República Tcheca,2026-06-20T06:47:00+00:00,Czechia,0.40810953787063875,1,2,pt,WCE,Europe
 'd56de5f4df',extremes,Drought,#edc291,edo,falta de chuva letónia,2026-05-29T06:39:00+00:00,Latvia,0.4077669638285277,1,2,pt,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-06-20T06:46:00+00:00,,0.4058447128144568,0,1,pt,,
 '56fc3fa1ff',extremes,Thunderstorm,#53785a,wmo,tempo severo Bragança,2026-06-15T08:36:00+00:00,Portugal,0.4056975862540589,1,1,pt,MED,Europe
@@ -230,7 +231,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,pt,NZ,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-06-15T08:36:00+00:00,Canada,0.3038195256622304,0,1,pt,NEN,North-America
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-06-04T07:06:00+00:00,,0.3037171374429024,0,1,pt,,
-'9fdc419684',extremes,Drought,#edc291,edo,período de seca na República Tcheca,2026-06-20T06:47:00+00:00,Czechia,0.3034817916125162,0,1,pt,WCE,Europe
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,tempestade béchar,2026-06-17T07:33:00+00:00,Algeria,0.3034757796761167,0,1,pt,SAH,Africa
 '769c0da087',extremes,Storm,#b3b2b1,wmo,estado de tempestade do Kuwait,2026-06-16T08:27:00+00:00,Kuwait,0.3034713765410507,0,1,pt,ARP,Asia
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,tempestade costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.30347122228653,0,1,pt,SCA,North-America
