@@ -226,11 +226,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-06-18T07:16:00+00:00,Argentina,0.3078497863851435,0,1,pt,SES,South-America
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-14T07:06:00+00:00,,0.3076174439158357,0,1,pt,,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-06-24T06:30:00+00:00,Canada,0.3074482987728615,0,1,pt,NEN,North-America
-'c6a5702096',extremes,Precipitation,#d60d2b,wmo,chuva torrencial jal,2026-07-10T06:27:00+00:00,Mexico,0.307245707975498,0,1,pt,NCA,North-America
-'8d298839a5',extremes,Precipitation,#d60d2b,wmo,tamps de chuva ver,2026-07-10T06:27:00+00:00,Mexico,0.3072285356395693,0,1,pt,NCA,North-America
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.3056049632809423,0,1,pt,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,pt,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
@@ -337,6 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55f6b57ec6',extremes,Earthquake,#870007,usgs,terremoto dunhuang,2026-06-17T07:33:00+00:00,China,0.3008917475910431,0,1,pt,ECA,Asia
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,tempestade trinidad e tobago,2026-07-08T05:37:00+00:00,Trinidad and Tobago,0.3008878822949286,0,1,pt,NSA,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,tempestade áfrica do sul,2026-06-03T07:23:00+00:00,South Africa,0.3008718055649556,0,1,pt,WSAF,Africa
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.3008645787888009,1,2,pt,SES,South-America
 'ecb4dd4d1b',extremes,Fog,#d60d2b,wmo,nevoeiro nas secções costeiras da costa norte,2026-06-22T08:39:00+00:00,Canada,0.3008338261881651,0,1,pt,NEN,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,tempestade austrália,2026-06-26T06:36:00+00:00,Australia,0.3007896847642597,0,1,pt,CAU,Oceania
 '1878bbb853',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Tartaristão,2026-06-13T06:38:00+00:00,Russia,0.3007802057584675,0,1,pt,ESB,Europe
@@ -440,6 +438,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,feitiço de calor Victoria,2026-06-13T06:38:00+00:00,Australia,0.2613605564174552,1,1,pt,SAU,Oceania
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,trovoada Canadá,2026-06-28T06:44:00+00:00,Canada,0.2612092575337463,1,1,pt,NEN,North-America
 '355605856d',extremes,Precipitation,#d60d2b,wmo,precipitação Chade,2026-06-28T06:44:00+00:00,Chad,0.2611847480556495,1,1,pt,SAH,Africa
+'c6a5702096',extremes,Precipitation,#d60d2b,wmo,chuva torrencial jal,2026-07-10T06:27:00+00:00,Mexico,0.2611588517791733,1,1,pt,NCA,North-America
+'8d298839a5',extremes,Precipitation,#d60d2b,wmo,tamps de chuva ver,2026-07-10T06:27:00+00:00,Mexico,0.2611442552936339,1,1,pt,NCA,North-America
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,aguaceiro argélia,2026-06-26T06:36:00+00:00,Algeria,0.2609166812427231,1,1,pt,SAH,Africa
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,aguaceiro tanzânia,2026-07-07T06:30:00+00:00,Tanzania,0.2607973670375034,1,1,pt,SEAF,Africa
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,incêndio florestal distrito autônomo de khanty mansi,2026-06-17T07:33:00+00:00,Russia,0.2607613769511381,1,1,pt,ESB,Europe
