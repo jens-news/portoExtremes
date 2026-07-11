@@ -8,12 +8,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-05-26T06:31:00+00:00,Portugal,0.7387947018741938,1,2,pt,MED,Europe
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-06-19T07:39:00+00:00,Portugal,0.7318599950264034,0,1,pt,MED,Europe
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
+'22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-05-23T05:53:00+00:00,Portugal,0.7285188375158871,1,2,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-06-06T06:08:00+00:00,Brazil,0.7262446583566955,1,3,pt,SAM,South-America
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-05-23T05:53:00+00:00,Portugal,0.7262100500255919,1,3,pt,MED,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-06-06T06:08:00+00:00,Brazil,0.7244185634106122,1,3,pt,SAM,South-America
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-06-21T07:16:00+00:00,Portugal,0.7185524612996136,0,1,pt,MED,Europe
-'22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7149020609101842,0,1,pt,NAO,Atlantic Ocean
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-06-14T07:07:00+00:00,Cabo Verde,0.7146487402379584,0,1,pt,NAO,Atlantic Ocean
 '7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-06-21T07:16:00+00:00,Portugal,0.7097241187001645,0,1,pt,MED,Europe
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-06-21T07:16:00+00:00,Portugal,0.700587581238321,0,1,pt,MED,Europe
@@ -201,7 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,chuva nova zelândia,2026-06-20T06:47:00+00:00,New Zealand,0.3302447607053237,1,1,pt,NZ,Oceania
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-06-12T07:05:00+00:00,,0.3288430841425738,1,1,pt,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-06-10T06:49:00+00:00,,0.3273719354847091,0,1,pt,,
-'1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-24T06:29:00+00:00,,0.32652377805778826,0,1,pt,,
+'1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-24T06:29:00+00:00,,0.3265237780577882,0,1,pt,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-06T06:08:00+00:00,Argentina,0.3259880260106448,1,1,pt,SES,South-America
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incêndio florestal,2026-06-19T07:39:00+00:00,,0.3207901723975555,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,pt,,
@@ -226,7 +226,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-14T07:06:00+00:00,,0.3076174439158357,0,1,pt,,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-06-24T06:30:00+00:00,Canada,0.3074482987728615,0,1,pt,NEN,North-America
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Filipinas,2026-06-23T06:33:00+00:00,Philippines,0.3071944590274551,0,1,pt,SEA,Asia
-'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.30669448746527783,0,1,pt,NWS,South-America
+'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,chuva torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.3066944874652778,0,1,pt,NWS,South-America
 'fe07b8547c',extremes,Drought,#edc291,edo,seca na República Tcheca,2026-06-04T07:06:00+00:00,Czechia,0.306021903621799,0,1,pt,WCE,Europe
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
@@ -317,18 +317,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75e0f49183',extremes,Earthquake,#870007,usgs,terremoto pāhala,2026-06-19T07:39:00+00:00,Hawaii,0.3011539800496678,0,1,pt,NPO,Pacific Ocean
 'def0328fc5',extremes,Earthquake,#870007,usgs,terremoto villanueva,2026-06-18T07:16:00+00:00,Colombia,0.3011503862503407,0,1,pt,NWS,South-America
 '406b2198bd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial região amazônica,2026-06-15T08:36:00+00:00,Ecuador,0.3010877348720477,0,1,pt,NWS,South-America
-'62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.30106401923693504,0,1,pt,NCA,North-America
+'62e6cb1b6a',extremes,Precipitation,#d60d2b,wmo,chuva torrencial hgo pue tlax,2026-07-11T05:27:00+00:00,Mexico,0.301064019236935,0,1,pt,NCA,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,tempestade em Belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,pt,SCA,North-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitação região amazônica,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,pt,NWS,South-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,inundação repentina sul da austrália cooper creek,2026-06-14T07:07:00+00:00,Australia,0.3010485864950155,0,1,pt,CAU,Oceania
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,onda de calor attawapiskat fort albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.3010377238105338,0,1,pt,NEN,North-America
-'5834c8ea07',extremes,Precipitation,#d60d2b,wmo,aguaceiro quito,2026-07-11T05:27:00+00:00,Ecuador,0.30103293942760007,0,1,pt,NWS,South-America
+'5834c8ea07',extremes,Precipitation,#d60d2b,wmo,aguaceiro quito,2026-07-11T05:27:00+00:00,Ecuador,0.3010329394276,0,1,pt,NWS,South-America
 'c40c3d7ce2',extremes,Flood,#030ba1,wmo,inundação na Suécia,2026-06-12T07:05:00+00:00,Sweden,0.3010269461394207,0,1,pt,NEU,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-06-18T07:16:00+00:00,,0.3010206703082695,0,1,pt,,
 '62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Penza,2026-07-09T06:27:00+00:00,Russia,0.3009989176410653,0,1,pt,ESB,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,tempestade sul da Islândia,2026-07-08T05:37:00+00:00,Iceland,0.300979556887035,0,1,pt,GIC,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,onda de calor münster nord münster süd,2026-06-19T07:39:00+00:00,Germany,0.3009654161847701,0,1,pt,WCE,Europe
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,nevoeiro estados unidos,2026-06-27T06:08:00+00:00,United States,0.30093275367920036,0,1,pt,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,nevoeiro estados unidos,2026-06-27T06:08:00+00:00,United States,0.3009327536792003,0,1,pt,CNA,North-America
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,nevoeiro Lituânia,2026-07-11T05:27:00+00:00,Lithuania,0.3009292416649228,0,1,pt,WCE,Europe
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,inundação no sul da Austrália warburton,2026-06-16T08:27:00+00:00,Australia,0.3009214300633241,0,1,pt,CAU,Oceania
 '72fa239364',extremes,Precipitation,#d60d2b,wmo,chuva torrencial dgo nay sin,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,pt,NCA,North-America
