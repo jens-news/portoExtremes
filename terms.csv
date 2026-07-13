@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-07-03T06:09:00+00:00,Macao,0.5956259098080792,0,1,pt,EAS,Asia
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-06-14T07:07:00+00:00,Angola,0.5941393661139214,1,1,pt,WSAF,Africa
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-06-01T07:30:00+00:00,Equatorial Guinea,0.5903428647656594,0,1,pt,WAF,Africa
-'d68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-06-19T07:39:00+00:00,Cabo Verde,0.5802668336701882,0,1,pt,NAO,Atlantic Ocean
 'a3d1def002',extremes,Storm,#b3b2b1,wmo,tempestade viseu,2026-06-16T08:27:00+00:00,Portugal,0.5787609109692498,1,1,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-06-11T07:14:00+00:00,Portugal,0.5784347304673028,1,1,pt,MED,Europe
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-06-20T06:47:00+00:00,Cabo Verde,0.5777051720147522,0,1,pt,NAO,Atlantic Ocean
@@ -68,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-06-04T07:06:00+00:00,Portugal,0.5618716203051888,0,1,pt,NAO,Atlantic Ocean
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-06-14T07:07:00+00:00,Portugal,0.5544862719822344,1,2,pt,MED,Europe
 'f63fff75f8',extremes,Heat Wave,#c40202,wmo,onda de calor viseu,2026-06-22T08:39:00+00:00,Portugal,0.5513472299139451,1,2,pt,MED,Europe
+'d68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-06-19T07:39:00+00:00,Cabo Verde,0.55067692861966,1,1,pt,NAO,Atlantic Ocean
 '1a9efc956b',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-06-09T06:32:00+00:00,Portugal,0.5496130583922438,1,2,pt,MED,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-06-14T07:07:00+00:00,Portugal,0.5496086487106232,1,1,pt,MED,Europe
 '0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-07-08T05:37:00+00:00,Portugal,0.5491809165898172,1,1,pt,MED,Europe
