@@ -193,7 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,redemoinho,2026-06-18T07:16:00+00:00,,0.3469692464143232,0,1,pt,,
 '560b05d603',extremes,Heat Wave,#c40202,random,onda de calor,2026-07-09T06:27:00+00:00,,0.3468490638575449,0,1,pt,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-06-15T08:36:00+00:00,,0.3456376631813894,0,1,pt,,
-'a47d8d0227',extremes,Drought,#edc291,edo,período de seca na Eslováquia,2026-06-28T06:44:00+00:00,Slovakia,0.33944285070407676,1,2,pt,WCE,Europe
+'a47d8d0227',extremes,Drought,#edc291,edo,período de seca na Eslováquia,2026-06-28T06:44:00+00:00,Slovakia,0.3394428507040767,1,2,pt,WCE,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-20T06:46:00+00:00,,0.3389740346396422,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-06-16T08:27:00+00:00,,0.338887922373673,0,1,pt,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-07-06T06:52:00+00:00,,0.3380330567639508,0,1,pt,,
@@ -222,6 +222,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,pt,,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3109194648977451,1,1,pt,WAF,Africa
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,pt,WCE,Europe
+'b1eb375b87',extremes,Drought,#edc291,edo,falta de chuva uganda,2026-07-05T06:25:00+00:00,Uganda,0.3103018735727284,0,1,pt,SEAF,Africa
+'02bc9c64a4',extremes,Drought,#edc291,edo,falta de chuva camboja,2026-07-13T05:53:00+00:00,Cambodia,0.3093128387630029,0,1,pt,SEA,Asia
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.3090946046061608,0,1,pt,MDG,Africa
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,gelo argentina,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,pt,SES,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-06-28T06:44:00+00:00,Canada,0.3081992830688982,0,1,pt,NEN,North-America
@@ -231,10 +233,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,pt,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,chuva torrencial argentina,2026-06-18T07:16:00+00:00,Argentina,0.3078497863851435,0,1,pt,SES,South-America
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-14T07:06:00+00:00,,0.3076174439158357,0,1,pt,,
+'b3e00f492f',extremes,Drought,#edc291,edo,seca belize,2026-07-13T05:53:00+00:00,Belize,0.3075088751705788,0,1,pt,SCA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-06-24T06:30:00+00:00,Canada,0.3074482987728615,0,1,pt,NEN,North-America
+'17065d269f',extremes,Drought,#edc291,edo,falta de chuva honduras,2026-07-07T06:30:00+00:00,Honduras,0.30675051048624585,0,1,pt,SCA,North-America
+'f3d653a8ff',extremes,Drought,#edc291,edo,seca comores,2026-06-29T07:13:00+00:00,Comoros,0.30668204878765654,0,1,pt,ESAF,Africa
+'83f2a9deea',extremes,Drought,#edc291,edo,período de seca na França,2026-06-26T06:36:00+00:00,France,0.30655584225402177,0,1,pt,WCE,Europe
+'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.30595075917917014,0,1,pt,NCA,North-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,chuva chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,pt,NCA,North-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,pt,NSA,South-America
+'0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-06-23T06:33:00+00:00,Luxembourg,0.3051854686193789,0,1,pt,WCE,Europe
+'a03bfb69ba',extremes,Drought,#edc291,edo,período de seca na Suíça,2026-06-26T06:36:00+00:00,Switzerland,0.3051533382415271,0,1,pt,WCE,Europe
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.3047858897621854,0,1,pt,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-16T08:27:00+00:00,Chile,0.3042095388379119,0,1,pt,SWS,South-America
