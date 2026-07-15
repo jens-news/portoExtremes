@@ -251,11 +251,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f426032e8',extremes,Drought,#edc291,edo,período de seca no Butão,2026-07-04T05:59:00+00:00,Bhutan,0.304970339043592,0,1,pt,TIB,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-07-03T06:09:00+00:00,New Zealand,0.3048715139354062,0,1,pt,NZ,Oceania
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,pt,SPO,Oceania
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.3047858897621854,0,1,pt,SES,South-America
+'2f30862216',extremes,Drought,#edc291,edo,período de seca na Áustria,2026-07-05T06:25:00+00:00,Austria,0.30472275010261307,0,1,pt,WCE,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-16T08:27:00+00:00,Chile,0.3042095388379119,0,1,pt,SWS,South-America
 '85c98951d6',extremes,Drought,#edc291,edo,falta de chuva montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.304189084580297,0,1,pt,MED,Europe
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,pt,NZ,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-06-15T08:36:00+00:00,Canada,0.3038195256622304,0,1,pt,NEN,North-America
+'335616d808',extremes,Drought,#edc291,edo,seca costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.3034880354308975,0,1,pt,SCA,South-America
+'023d124975',extremes,Drought,#edc291,edo,seca sri lanka,2026-06-26T06:36:00+00:00,Sri Lanka,0.3032831712873186,0,1,pt,BOB,Asia
+'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República da Moldávia,2026-07-13T05:53:00+00:00,Republic of Moldova,0.303250884706239,0,1,pt,WCE,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,onda de calor luxemburgo,2026-06-17T07:33:00+00:00,Luxembourg,0.3032379169443953,0,1,pt,WCE,Europe
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-06-20T06:47:00+00:00,New Zealand,0.3031703012333977,0,1,pt,NZ,Oceania
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,onda de calor França,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,pt,WCE,Europe
@@ -263,6 +268,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,trovoada roménia,2026-06-30T06:39:00+00:00,Romania,0.3030046189187867,0,1,pt,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,seca polónia,2026-07-04T05:59:00+00:00,Poland,0.3029937234222032,0,1,pt,WCE,Europe
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-06-12T07:05:00+00:00,Chile,0.3029525174762827,0,1,pt,SWS,South-America
+'fa6f243498',extremes,Precipitation,#d60d2b,wmo,chuva torrencial mich,2026-07-14T05:14:00+00:00,Mexico,0.30295036218745275,0,1,pt,NCA,North-America
+'08945238c8',extremes,Snow&Ice,#d60d2b,wmo,neve chile,2026-07-14T05:14:00+00:00,Chile,0.3029282148150259,0,1,pt,SWS,South-America
 '90522631da',extremes,Precipitation,#d60d2b,wmo,precipitação Índia,2026-07-03T06:09:00+00:00,India,0.302893610804583,0,1,pt,SAS,Asia
 '190bcda954',extremes,Storm,#b3b2b1,wmo,tempestade em Fort Nelson,2026-07-01T06:52:00+00:00,Canada,0.3028582566584142,0,1,pt,NEN,North-America
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,onda de calor na Alemanha,2026-06-18T07:16:00+00:00,Germany,0.3028056342829996,0,1,pt,WCE,Europe
@@ -272,10 +279,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40c057feb5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial altai krai,2026-07-04T05:59:00+00:00,Russia,0.3026639410688363,0,1,pt,ESB,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-06-25T06:32:00+00:00,Venezuela,0.3026319213195985,0,1,pt,NSA,South-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inundação Canadá,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,pt,NEN,North-America
+'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Ulyanovsk,2026-07-09T06:27:00+00:00,Russia,0.30261015934627367,0,1,pt,ESB,Europe
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,tempestade todas as águas,2026-07-08T05:37:00+00:00,Solomon Islands,0.3025935608443585,0,1,pt,EPO,Oceania
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,tempo severo Roménia,2026-07-01T06:52:00+00:00,Romania,0.3025803415073196,0,1,pt,WCE,Europe
 '47ff492c3a',extremes,Storm,#b3b2b1,wmo,tempestade malampa shefa e província de tafea,2026-06-12T07:05:00+00:00,Vanuatu,0.3025512685731275,0,1,pt,SPO,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-06-15T08:36:00+00:00,Jamaica,0.302533643050985,0,1,pt,CAR,North-America
+'91a13c4ea2',extremes,Fog,#d60d2b,wmo,nevoeiro sanirajak igloulik,2026-07-14T05:14:00+00:00,Canada,0.30250217904232324,0,1,pt,NEN,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-07-04T05:59:00+00:00,Chile,0.3025002074471121,0,1,pt,SWS,South-America
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,tempestade seychelles,2026-06-16T08:27:00+00:00,Seychelles,0.3024951940556014,0,1,pt,EIO,Africa
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tempestade região amazônica,2026-06-15T08:36:00+00:00,Ecuador,0.3024597322920832,0,1,pt,NWS,South-America
@@ -284,6 +293,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,tempestade na Islândia,2026-07-12T05:43:00+00:00,Iceland,0.3023388228201146,0,1,pt,GIC,Europe
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-06-23T06:32:00+00:00,,0.3022990568151539,0,1,pt,,
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Equador,2026-06-13T06:38:00+00:00,Ecuador,0.3022906770294079,0,1,pt,NWS,South-America
+'54559d4fe4',extremes,Thunderstorm,#53785a,wmo,trovoada moosonee,2026-07-14T05:14:00+00:00,Canada,0.3022893278624632,0,1,pt,NEN,North-America
 '95b5264574',extremes,Heat Wave,#c40202,wmo,onda de calor no Canadá,2026-07-01T06:52:00+00:00,Canada,0.3022826517450618,0,1,pt,NEN,North-America
 '27ff8af872',extremes,Drought,#edc291,edo,seca na Dinamarca,2026-07-11T05:27:00+00:00,Denmark,0.3022676031426677,0,1,pt,NEU,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Rússia,2026-06-26T06:36:00+00:00,Russia,0.3021884675085341,0,1,pt,ESB,Europe
