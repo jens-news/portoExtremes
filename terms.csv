@@ -239,8 +239,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,pt,NSA,South-America
 '7f426032e8',extremes,Drought,#edc291,edo,período de seca no Butão,2026-07-04T05:59:00+00:00,Bhutan,0.304970339043592,0,1,pt,TIB,Asia
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
-'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,pt,SPO,Oceania
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.3047858897621854,0,1,pt,SES,South-America
 '2f30862216',extremes,Drought,#edc291,edo,período de seca na Áustria,2026-07-05T06:25:00+00:00,Austria,0.304722750102613,0,1,pt,WCE,Europe
 'fcba098edb',extremes,Heat Wave,#c40202,wmo,onda de calor norte da Macedônia,2026-07-16T05:25:00+00:00,North Macedonia,0.3045811677965245,0,1,pt,MED,Europe
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,onda de calor região leste,2026-07-16T05:25:00+00:00,North Macedonia,0.3043382537279583,0,1,pt,MED,Europe
@@ -423,6 +421,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,terremoto Nikolski,2026-06-27T06:08:00+00:00,Alaska,0.2997494039126939,0,1,pt,NPO,Pacific Ocean
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,chuva Índia,2026-06-30T06:39:00+00:00,India,0.2997070144040353,0,1,pt,SAS,Asia
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progresso,2026-07-01T06:52:00+00:00,Mexico,0.2996909623032126,0,1,pt,NCA,North-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.2907897498692862,1,2,pt,SES,South-America
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,avalanche de neve,2026-06-21T07:16:00+00:00,,0.2890954087441452,1,1,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-06-27T06:08:00+00:00,,0.2842976949665814,1,1,pt,,
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,tempestade no Canadá,2026-06-20T06:47:00+00:00,Canada,0.2840827183868736,1,2,pt,NEN,North-America
@@ -486,7 +485,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,nevoeiro região de omsk,2026-06-17T07:33:00+00:00,Russia,0.2604939862766894,1,1,pt,ESB,Europe
 'aacf82e274',extremes,Drought,#edc291,edo,período de seca nas Ilhas Faroé,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,pt,NEU,Europe
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,chuva torrencial costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,pt,SCA,North-America
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-07-03T06:09:00+00:00,New Zealand,0.26034090684509525,1,1,pt,NZ,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-07-03T06:09:00+00:00,New Zealand,0.2603409068450952,1,1,pt,NZ,Oceania
 'fa06cd330a',extremes,Landslide,#572c03,wmo,deslizamento de terra na China,2026-07-04T05:59:00+00:00,China,0.26029800153492,1,1,pt,EAS,Asia
 'dba9977fc1',extremes,Drought,#edc291,edo,falta de chuva nas Ilhas Faroé,2026-06-18T07:16:00+00:00,Faroe Islands,0.2601794736614367,1,1,pt,NEU,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-06-20T06:47:00+00:00,Madagascar,0.2601790240716141,1,1,pt,MDG,Africa
@@ -513,6 +512,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ce7b59e3',extremes,Storm,#b3b2b1,wmo,tempestade malampa shefa e província de tafea,2026-06-14T07:07:00+00:00,Vanuatu,0.2591622703307668,1,1,pt,SPO,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,inundação repentina Canadá,2026-06-22T08:39:00+00:00,Canada,0.2591132082936839,1,1,pt,NEN,North-America
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,tempestade no Bahrein,2026-06-16T08:27:00+00:00,Bahrain,0.2591065300355137,1,1,pt,ARP,Asia
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.2590749564435608,1,1,pt,SPO,Oceania
 '31919931b3',extremes,Landslide,#572c03,wmo,deslizamento de rochas na China,2026-07-03T06:09:00+00:00,China,0.2590264513725927,1,1,pt,EAS,Asia
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,tempestade marlborough ao norte de Clarence,2026-06-20T06:47:00+00:00,New Zealand,0.2589092707321383,1,1,pt,NZ,Oceania
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,granizo Canadá,2026-06-18T07:16:00+00:00,Canada,0.25886947686874,1,1,pt,NEN,North-America
