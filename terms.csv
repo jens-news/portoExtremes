@@ -230,7 +230,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-17T07:33:00+00:00,Chile,0.3052203072470481,0,1,pt,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,pt,NSA,South-America
-'a03bfb69ba',extremes,Drought,#edc291,edo,período de seca na Suíça,2026-06-26T06:36:00+00:00,Switzerland,0.3051533382415271,0,1,pt,WCE,Europe
 '7f426032e8',extremes,Drought,#edc291,edo,período de seca no Butão,2026-07-04T05:59:00+00:00,Bhutan,0.304970339043592,0,1,pt,TIB,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,tempestade nova zelândia,2026-07-03T06:09:00+00:00,New Zealand,0.3048715139354062,0,1,pt,NZ,Oceania
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,pt,SES,South-America
@@ -481,15 +480,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa06cd330a',extremes,Landslide,#572c03,wmo,deslizamento de terra na China,2026-07-04T05:59:00+00:00,China,0.26029800153492,1,1,pt,EAS,Asia
 'dba9977fc1',extremes,Drought,#edc291,edo,falta de chuva nas Ilhas Faroé,2026-06-18T07:16:00+00:00,Faroe Islands,0.2601794736614367,1,1,pt,NEU,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-06-20T06:47:00+00:00,Madagascar,0.2601790240716141,1,1,pt,MDG,Africa
-'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.26005814530229454,1,1,pt,NCA,North-America
+'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.2600581453022945,1,1,pt,NCA,North-America
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,chuva torrencial costa rica,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,pt,SCA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,tempo severo Argélia,2026-07-02T06:24:00+00:00,Algeria,0.2599052093062655,1,1,pt,SAH,Africa
 'd053965012',extremes,Fog,#d60d2b,wmo,nevoeiro zimbabwe,2026-07-02T06:24:00+00:00,Zimbabwe,0.2597209402595343,1,1,pt,ESAF,Africa
+'a03bfb69ba',extremes,Drought,#edc291,edo,período de seca na Suíça,2026-06-26T06:36:00+00:00,Switzerland,0.259680367505298,1,1,pt,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,tempestade Tanzânia,2026-06-13T06:38:00+00:00,Tanzania,0.2596625131201865,1,1,pt,SEAF,Africa
-'b2ab090487',extremes,Precipitation,#d60d2b,wmo,chuva chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.25960619501812593,1,1,pt,NCA,North-America
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,chuva chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.2596061950181259,1,1,pt,NCA,North-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,tempestade em Madagascar,2026-06-22T08:39:00+00:00,Madagascar,0.2596002366855073,1,1,pt,MDG,Africa
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,geada haast pass sh6,2026-07-04T05:59:00+00:00,New Zealand,0.2595611993973886,1,1,pt,NZ,Oceania
-'0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-06-23T06:33:00+00:00,Luxembourg,0.25955766332647207,1,1,pt,WCE,Europe
+'0a54633be0',extremes,Drought,#edc291,edo,falta de chuva luxemburgo,2026-06-23T06:33:00+00:00,Luxembourg,0.259557663326472,1,1,pt,WCE,Europe
 'a78a18febe',extremes,Fog,#d60d2b,wmo,nevoeiro zabaykalsky krai,2026-06-30T06:39:00+00:00,Russia,0.2595440625791954,1,1,pt,ESB,Europe
 '5a69bd9b04',extremes,Fog,#d60d2b,wmo,nevoeiro novay zemly,2026-06-30T06:39:00+00:00,Russia,0.2594668806708828,1,1,pt,ESB,Europe
 'd709206c08',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 15 cordilheira,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,pt,SWS,South-America
