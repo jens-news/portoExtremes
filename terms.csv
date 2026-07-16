@@ -149,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,geada inverno,2026-06-29T07:12:00+00:00,,0.4135495313678151,1,3,pt,,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,chuva torrencial no Canadá,2026-06-09T06:32:00+00:00,Canada,0.4118682751958742,1,2,pt,NEN,North-America
 '7467da3199',extremes,Drought,#edc291,edo,seca no Gabão,2026-06-25T06:32:00+00:00,Gabon,0.4114873279014761,1,2,pt,CAF,Africa
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-07-09T06:27:00+00:00,Argentina,0.4113671226220198,1,3,pt,SES,South-America
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Filipinas,2026-06-23T06:33:00+00:00,Philippines,0.4112653051733368,1,2,pt,SEA,Asia
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-07-14T05:15:00+00:00,Equatorial Guinea,0.410309811863436,0,1,pt,WAF,Africa
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,neve nova zelândia,2026-06-23T06:33:00+00:00,New Zealand,0.4097063514951205,1,2,pt,NZ,Oceania
@@ -226,7 +227,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,pt,,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3109194648977451,1,1,pt,WAF,Africa
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,pt,WCE,Europe
-'103eea7ff7',extremes,Drought,#edc291,edo,falta de chuva na República Tcheca,2026-06-29T07:13:00+00:00,Czechia,0.309706199824739,0,1,pt,WCE,Europe
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.3090946046061608,0,1,pt,MDG,Africa
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,gelo argentina,2026-06-09T06:32:00+00:00,Argentina,0.3082857536819383,0,1,pt,SES,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,tempo severo Canadá,2026-06-28T06:44:00+00:00,Canada,0.3081992830688982,0,1,pt,NEN,North-America
@@ -236,7 +236,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-06-14T07:06:00+00:00,,0.3076174439158357,0,1,pt,,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,nevoeiro Canadá,2026-06-24T06:30:00+00:00,Canada,0.3074482987728615,0,1,pt,NEN,North-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,chuva argentina,2026-07-09T06:27:00+00:00,Argentina,0.3070140731382051,0,1,pt,SES,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,pt,NCA,North-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,pt,SEAF,Africa
 'b2ab090487',extremes,Precipitation,#d60d2b,wmo,chuva chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,pt,NCA,North-America
@@ -454,6 +453,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '393400b105',extremes,Drought,#edc291,edo,seca porto rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.2642612618177331,1,1,pt,CAR,North-America
 'b1eb375b87',extremes,Drought,#edc291,edo,falta de chuva uganda,2026-07-05T06:25:00+00:00,Uganda,0.2639066075368191,1,1,pt,SEAF,Africa
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,proibição de incêndio no sul da Austrália,2026-06-14T07:07:00+00:00,Australia,0.2634392399814636,1,1,pt,SAU,Oceania
+'103eea7ff7',extremes,Drought,#edc291,edo,falta de chuva na República Tcheca,2026-06-29T07:13:00+00:00,Czechia,0.2632502698510282,1,1,pt,WCE,Europe
 '792a35d4a4',extremes,Flood,#030ba1,random,inundação pluvial,2026-06-18T07:16:00+00:00,,0.2631563155995434,1,1,pt,,
 '02bc9c64a4',extremes,Drought,#edc291,edo,falta de chuva camboja,2026-07-13T05:53:00+00:00,Cambodia,0.2630659279485525,1,1,pt,SEA,Asia
 'fe2660794a',extremes,Iceberg,#d60d2b,eonet,iceberg d35,2026-06-24T06:29:00+00:00,,0.2627458294966484,1,1,pt,EAN,
