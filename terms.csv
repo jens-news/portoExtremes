@@ -156,6 +156,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical higos,2026-06-24T06:29:00+00:00,,0.408756728511689,1,2,pt,NPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canadá gelado,2026-06-22T08:39:00+00:00,Canada,0.4084426703729797,1,2,pt,NEN,North-America
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,chuva Bulgária,2026-06-12T07:05:00+00:00,Bulgaria,0.4083833216802992,1,2,pt,MED,Europe
+'335616d808',extremes,Drought,#edc291,edo,seca costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.40826486011626284,1,2,pt,SCA,South-America
 '9fdc419684',extremes,Drought,#edc291,edo,período de seca na República Tcheca,2026-06-20T06:47:00+00:00,Czechia,0.4081095378706387,1,2,pt,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-06-20T06:46:00+00:00,,0.4058447128144568,0,1,pt,,
 '56fc3fa1ff',extremes,Thunderstorm,#53785a,wmo,tempo severo Bragança,2026-06-15T08:36:00+00:00,Portugal,0.4056975862540589,1,1,pt,MED,Europe
@@ -190,7 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-06-13T06:38:00+00:00,,0.3593496774348727,1,1,pt,,
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-06-12T07:05:00+00:00,Timor Leste,0.3576557522663526,1,1,pt,SEA,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,pt,,
-'85c98951d6',extremes,Drought,#edc291,edo,falta de chuva montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.35566543234779785,1,2,pt,MED,Europe
+'85c98951d6',extremes,Drought,#edc291,edo,falta de chuva montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.3556654323477978,1,2,pt,MED,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-06-17T07:33:00+00:00,,0.3554904039886913,1,1,pt,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,queda de temperatura,2026-06-24T06:29:00+00:00,,0.3547140447116146,0,1,pt,,
@@ -244,7 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-06-16T08:27:00+00:00,Chile,0.3042095388379119,0,1,pt,SWS,South-America
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,pt,NZ,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-06-15T08:36:00+00:00,Canada,0.3038195256622304,0,1,pt,NEN,North-America
-'335616d808',extremes,Drought,#edc291,edo,seca costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.3034880354308975,0,1,pt,SCA,South-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,chuva torrencial no México,2026-07-12T05:43:00+00:00,Mexico,0.3033632979836823,0,1,pt,NCA,North-America
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,onda de calor val d'hérens,2026-07-14T05:14:00+00:00,Switzerland,0.303357478607527,0,1,pt,WCE,Europe
 '023d124975',extremes,Drought,#edc291,edo,seca sri lanka,2026-06-26T06:36:00+00:00,Sri Lanka,0.3032831712873186,0,1,pt,BOB,Asia
@@ -492,7 +492,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa06cd330a',extremes,Landslide,#572c03,wmo,deslizamento de terra na China,2026-07-04T05:59:00+00:00,China,0.26029800153492,1,1,pt,EAS,Asia
 'dba9977fc1',extremes,Drought,#edc291,edo,falta de chuva nas Ilhas Faroé,2026-06-18T07:16:00+00:00,Faroe Islands,0.2601794736614367,1,1,pt,NEU,Europe
 '92035e2c20',extremes,Drought,#edc291,edo,período de seca em Madagascar,2026-06-20T06:47:00+00:00,Madagascar,0.2601790240716141,1,1,pt,MDG,Africa
-'1956cfff74',extremes,Wildfire,#d60d2b,acwe,proibição de incêndio em Victoria,2026-07-17T05:27:00+00:00,Australia,0.26014428828274894,1,1,pt,SAU,Oceania
+'1956cfff74',extremes,Wildfire,#d60d2b,acwe,proibição de incêndio em Victoria,2026-07-17T05:27:00+00:00,Australia,0.2601442882827489,1,1,pt,SAU,Oceania
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.2600581453022945,1,1,pt,NCA,North-America
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,chuva torrencial costa rica,2026-07-04T05:59:00+00:00,Costa Rica,0.2599236503055544,1,1,pt,SCA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,tempo severo Argélia,2026-07-02T06:24:00+00:00,Algeria,0.2599052093062655,1,1,pt,SAH,Africa
