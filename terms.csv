@@ -254,8 +254,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-06-20T06:47:00+00:00,New Zealand,0.3031703012333977,0,1,pt,NZ,Oceania
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,onda de calor França,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,pt,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inundação Canadá,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,pt,NEN,North-America
-'a652d575aa',extremes,Thunderstorm,#53785a,wmo,tempo severo Roménia,2026-07-01T06:52:00+00:00,Romania,0.3025803415073196,0,1,pt,WCE,Europe
-'829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-06-15T08:36:00+00:00,Jamaica,0.302533643050985,0,1,pt,CAR,North-America
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,nevoeiro sanirajak igloulik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,pt,NEN,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-07-04T05:59:00+00:00,Chile,0.3025002074471121,0,1,pt,SWS,South-America
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,tempestade noroeste da Islândia,2026-07-15T05:15:00+00:00,Iceland,0.3024970925502759,0,1,pt,GIC,Europe
@@ -554,4 +552,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,registro de congelamento. 11 Patagônia Subandina Norte,2026-07-17T05:27:00+00:00,Chile,0.2573091481704213,1,1,pt,SWS,South-America
 '40c057feb5',extremes,Precipitation,#d60d2b,wmo,chuva torrencial altai krai,2026-07-04T05:59:00+00:00,Russia,0.2572643499085109,1,1,pt,ESB,Europe
 'c54798ae88',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Moldávia,2026-07-12T05:43:00+00:00,Moldova,0.2572191567040143,1,1,pt,WCE,Europe
-'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Ulyanovsk,2026-07-09T06:27:00+00:00,Russia,0.25721863544433254,1,1,pt,ESB,Europe
+'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Ulyanovsk,2026-07-09T06:27:00+00:00,Russia,0.2572186354443325,1,1,pt,ESB,Europe
+'a652d575aa',extremes,Thunderstorm,#53785a,wmo,tempo severo Roménia,2026-07-01T06:52:00+00:00,Romania,0.2571932902812217,1,1,pt,WCE,Europe
