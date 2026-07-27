@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e36dee7382',extremes,Heat Wave,#c40202,wmo,onda de calor vila real,2026-06-21T07:16:00+00:00,Portugal,0.6486911843955908,1,3,pt,MED,Europe
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-06-25T06:32:00+00:00,Cabo Verde,0.6476962722923931,1,2,pt,NAO,Atlantic Ocean
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-07-04T05:59:00+00:00,Portugal,0.6470022932602496,1,2,pt,MED,Europe
-'20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-07-27T06:05:00+00:00,Portugal,0.646899486350104,0,1,pt,MED,Europe
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,onda de calor castelo branco,2026-06-19T07:39:00+00:00,Portugal,0.6320822559016832,1,3,pt,MED,Europe
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-07-08T05:37:00+00:00,Sao Tome and Principe,0.6288064736548893,0,1,pt,WAF,Africa
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-07-07T06:30:00+00:00,Mozambique,0.6242499284932933,0,1,pt,ESAF,Africa
@@ -60,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-07-16T05:25:00+00:00,Macao,0.5902895604512367,0,1,pt,EAS,Asia
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-07-08T05:37:00+00:00,Brazil,0.5875825252274166,1,3,pt,SAM,South-America
 '57cb2960c3',extremes,Precipitation,#d60d2b,wmo,chuva guarda,2026-06-17T07:33:00+00:00,Portugal,0.5710844374868871,0,1,pt,MED,Europe
+'20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-07-27T06:05:00+00:00,Portugal,0.5645606509837953,1,2,pt,MED,Europe
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-07-07T06:30:00+00:00,Brazil,0.5584503123971489,0,1,pt,SAM,South-America
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-07-14T05:15:00+00:00,Portugal,0.5556645505175475,0,1,pt,NAO,Atlantic Ocean
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-06-14T07:07:00+00:00,Portugal,0.5544862719822344,1,2,pt,MED,Europe
@@ -253,7 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8db658717e',extremes,Flood,#030ba1,wmo,inundação repentina na Austrália,2026-07-17T05:27:00+00:00,Australia,0.3021497769831705,0,1,pt,CAU,Oceania
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-07-20T05:54:00+00:00,Vanuatu,0.3019913678735016,0,1,pt,SPO,Oceania
 '596a132822',extremes,Storm,#b3b2b1,wmo,tempestade,2026-07-21T05:36:00+00:00,Bahrain,0.3019679073889137,0,1,pt,ARP,Asia
-'584710ade2',extremes,Storm,#b3b2b1,wmo,onda de tempestade pribilof ilhas águas próximas à costa,2026-07-21T05:36:00+00:00,United States,0.30195417552348325,0,1,pt,CNA,North-America
+'584710ade2',extremes,Storm,#b3b2b1,wmo,onda de tempestade pribilof ilhas águas próximas à costa,2026-07-21T05:36:00+00:00,United States,0.3019541755234832,0,1,pt,CNA,North-America
 '66a3eabe76',extremes,Earthquake,#870007,usgs,terremoto maurício,2026-07-08T05:37:00+00:00,Mauritius,0.3018996370986152,0,1,pt,SIO,Indian Ocean
 'b923131e8f',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de volgogrado,2026-07-04T05:59:00+00:00,Russia,0.3018790708961645,0,1,pt,ESB,Europe
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tempestade adak para o lado de kiska bering,2026-07-10T06:27:00+00:00,United States,0.3018653448887767,0,1,pt,CNA,North-America
