@@ -142,6 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,precipitação Tailândia,2026-06-18T07:16:00+00:00,Thailand,0.4071745734769031,1,2,pt,SEA,Asia
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na Rússia,2026-06-26T06:36:00+00:00,Russia,0.407160227382254,1,2,pt,ESB,Europe
 '2180c0c4a1',extremes,Drought,#edc291,edo,falta de chuva polónia,2026-06-23T06:33:00+00:00,Poland,0.4067745054616523,1,2,pt,WCE,Europe
+'66a3eabe76',extremes,Earthquake,#870007,usgs,terremoto maurício,2026-07-08T05:37:00+00:00,Mauritius,0.4067647065338229,1,2,pt,SIO,Indian Ocean
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-06-20T06:46:00+00:00,,0.4058447128144568,0,1,pt,,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,onda de calor região leste,2026-07-16T05:25:00+00:00,North Macedonia,0.4045473415778555,1,3,pt,MED,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-06-25T06:32:00+00:00,Venezuela,0.4012427405354518,1,3,pt,NSA,South-America
@@ -198,7 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-07-10T06:27:00+00:00,,0.3303422496825707,1,1,pt,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,pt,,
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.32894014898830304,1,1,pt,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-06-24T06:29:00+00:00,,0.3265237780577882,0,1,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,pt,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-07-13T05:53:00+00:00,,0.3240001306429278,0,1,pt,,
@@ -210,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,pt,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,pt,,
-'1b98918e9b',extremes,Storm,#b3b2b1,wmo,tempestade nas águas do norte.,2026-07-28T05:31:00+00:00,Vanuatu,0.31078408527240586,1,1,pt,SPO,Oceania
+'1b98918e9b',extremes,Storm,#b3b2b1,wmo,tempestade nas águas do norte.,2026-07-28T05:31:00+00:00,Vanuatu,0.3107840852724058,1,1,pt,SPO,Oceania
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,pt,WCE,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-07-26T05:46:00+00:00,,0.3103483934680126,0,1,pt,,
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.3090946046061608,0,1,pt,MDG,Africa
@@ -240,16 +241,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inundação Canadá,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,pt,NEN,North-America
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,chuva Arábia Saudita,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3025761512210617,0,1,pt,ARP,Asia
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,nevoeiro sanirajak igloulik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,pt,NEN,North-America
-'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitação Arábia Saudita,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3024256317542781,0,1,pt,ARP,Asia
 'd5197c0b14',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Saratov,2026-07-09T06:27:00+00:00,Russia,0.3023464380328074,0,1,pt,ESB,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,onda de calor verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.3023404974298067,0,1,pt,WCE,Europe
 '95b5264574',extremes,Heat Wave,#c40202,wmo,onda de calor no Canadá,2026-07-01T06:52:00+00:00,Canada,0.3022826517450618,0,1,pt,NEN,North-America
-'dac860fd6d',extremes,Storm,#b3b2b1,wmo,tempestade em Madagascar,2026-07-23T05:40:00+00:00,Madagascar,0.3022791661683013,0,1,pt,MDG,Africa
 '8db658717e',extremes,Flood,#030ba1,wmo,inundação repentina na Austrália,2026-07-17T05:27:00+00:00,Australia,0.3021497769831705,0,1,pt,CAU,Oceania
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-07-20T05:54:00+00:00,Vanuatu,0.3019913678735016,0,1,pt,SPO,Oceania
 '596a132822',extremes,Storm,#b3b2b1,wmo,tempestade,2026-07-21T05:36:00+00:00,Bahrain,0.3019679073889137,0,1,pt,ARP,Asia
-'584710ade2',extremes,Storm,#b3b2b1,wmo,onda de tempestade pribilof ilhas águas próximas à costa,2026-07-21T05:36:00+00:00,United States,0.3019541755234832,0,1,pt,CNA,North-America
-'66a3eabe76',extremes,Earthquake,#870007,usgs,terremoto maurício,2026-07-08T05:37:00+00:00,Mauritius,0.3018996370986152,0,1,pt,SIO,Indian Ocean
 'b923131e8f',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de volgogrado,2026-07-04T05:59:00+00:00,Russia,0.3018790708961645,0,1,pt,ESB,Europe
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tempestade adak para o lado de kiska bering,2026-07-10T06:27:00+00:00,United States,0.3018653448887767,0,1,pt,CNA,North-America
 '7d3dc8961a',extremes,Thunderstorm,#53785a,wmo,trovoada república da buriácia,2026-07-06T06:52:00+00:00,Russia,0.3018605603059711,0,1,pt,ESB,Europe
@@ -496,7 +493,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81f79ba492',extremes,Storm,#b3b2b1,wmo,tempestade região interandina e amazônica,2026-07-03T06:09:00+00:00,Ecuador,0.2587646484800733,1,1,pt,NWS,South-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,tempestade nas Ilhas Salomão,2026-07-01T06:52:00+00:00,Solomon Islands,0.2587582510258328,1,1,pt,EPO,Oceania
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,nevoeiro primorsky krai,2026-07-06T06:52:00+00:00,Russia,0.2586401458745594,1,1,pt,ESB,Europe
-'027da6a4db',extremes,Storm,#b3b2b1,wmo,onda de tempestade no estreito de Clarence,2026-07-28T05:31:00+00:00,United States,0.25858589245336555,1,1,pt,CNA,North-America
+'027da6a4db',extremes,Storm,#b3b2b1,wmo,onda de tempestade no estreito de Clarence,2026-07-28T05:31:00+00:00,United States,0.2585858924533655,1,1,pt,CNA,North-America
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,onda de calor região de skopje,2026-07-17T05:27:00+00:00,North Macedonia,0.2585117221092529,1,1,pt,MED,Europe
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas,2026-07-10T06:27:00+00:00,Solomon Islands,0.2583693511115014,1,1,pt,EPO,Oceania
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,tempestade região litoral e interandina,2026-06-25T06:32:00+00:00,Ecuador,0.2583319955428714,1,1,pt,NWS,South-America
@@ -533,11 +530,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,onda de calor chile,2026-07-04T05:59:00+00:00,Chile,0.2571251763300453,1,1,pt,SWS,South-America
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,tempestade noroeste da Islândia,2026-07-15T05:15:00+00:00,Iceland,0.2571225286677345,1,1,pt,GIC,Europe
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,registro de onda de tempestade. 4 cordilheira,2026-07-19T05:37:00+00:00,Chile,0.2570891445468663,1,1,pt,SWS,South-America
+'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,precipitação Arábia Saudita,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2570617869911364,1,1,pt,ARP,Asia
 '2433af70de',extremes,Storm,#b3b2b1,wmo,tempestade em Belize,2026-07-07T06:30:00+00:00,Belize,0.2570574331349459,1,1,pt,SCA,North-America
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,tempestade horowhenua e costa kapiti,2026-06-25T06:32:00+00:00,New Zealand,0.2570300126622258,1,1,pt,NZ,Oceania
 'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,registro de congelamento. 3 cordilheira,2026-07-15T05:15:00+00:00,Chile,0.2569594006742083,1,1,pt,SWS,South-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,trovoada moosonee,2026-07-14T05:14:00+00:00,Canada,0.2569459286830937,1,1,pt,NEN,North-America
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,tempestade Tanzânia,2026-07-06T06:52:00+00:00,Tanzania,0.2569435974265333,1,1,pt,SEAF,Africa
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,tempestade em Madagascar,2026-07-23T05:40:00+00:00,Madagascar,0.2569372912430561,1,1,pt,MDG,Africa
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,onda de calor basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.2568810349885546,1,1,pt,WCE,Europe
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,tempestade área 2 – moderada,2026-07-22T05:35:00+00:00,Paraguay,0.2568788322761552,1,1,pt,SES,South-America
 '7638ee2306',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Kurgan,2026-07-17T05:27:00+00:00,Russia,0.2568646776413211,1,1,pt,ESB,Europe
@@ -551,4 +550,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a715281618',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-07-13T05:53:00+00:00,Vanuatu,0.2567010482021239,1,1,pt,SPO,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,estrada deserta de gelo sh1,2026-07-24T05:36:00+00:00,New Zealand,0.2566859006402279,1,1,pt,NZ,Oceania
 '53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Irkutsk,2026-07-05T06:25:00+00:00,Russia,0.2566615309970883,1,1,pt,ESB,Europe
+'584710ade2',extremes,Storm,#b3b2b1,wmo,onda de tempestade pribilof ilhas águas próximas à costa,2026-07-21T05:36:00+00:00,United States,0.2566610491949607,1,1,pt,CNA,North-America
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,chuva torrencial na Índia,2026-06-30T06:39:00+00:00,India,0.2566295411899424,1,1,pt,SAS,Asia
