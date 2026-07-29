@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,chuva portugal,2026-06-12T07:05:00+00:00,Portugal,0.6682416164962257,1,3,pt,MED,Europe
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-06-14T07:07:00+00:00,Brazil,0.6657904007728969,1,2,pt,SAM,South-America
 '4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-06-21T07:16:00+00:00,Portugal,0.6619827156393897,1,3,pt,MED,Europe
-'9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-07-11T05:27:00+00:00,Cabo Verde,0.6600249645684257,0,1,pt,NAO,Atlantic Ocean
 '65f4c9b834',extremes,Drought,#edc291,edo,período de seca Guiné Bissau,2026-06-30T06:39:00+00:00,Guinea-Bissau,0.6596071576297081,0,1,pt,WAF,Africa
 '61bcd02de5',extremes,Drought,#edc291,edo,seca moçambique,2026-07-02T06:24:00+00:00,Mozambique,0.655167559322404,0,1,pt,ESAF,Africa
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-07-26T05:46:00+00:00,Portugal,0.6542330161378398,1,3,pt,MED,Europe
@@ -48,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84c5287db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro viseu,2026-06-14T07:07:00+00:00,Portugal,0.6237076524739792,1,2,pt,MED,Europe
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,terremoto santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.6225005095529073,1,1,pt,NAO,Atlantic Ocean
 'd7e18db298',extremes,Precipitation,#d60d2b,wmo,chuva torrencial porto,2026-06-14T07:07:00+00:00,Portugal,0.6220959847623116,1,2,pt,MED,Europe
+'9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-07-11T05:27:00+00:00,Cabo Verde,0.6217712948831619,1,1,pt,NAO,Atlantic Ocean
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-07-22T05:35:00+00:00,Cabo Verde,0.621095494312083,0,1,pt,NAO,Atlantic Ocean
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-07-20T05:54:00+00:00,Portugal,0.6207346565130072,0,1,pt,NAO,Atlantic Ocean
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-06-15T08:36:00+00:00,Portugal,0.6157048050262861,1,2,pt,NAO,Atlantic Ocean
@@ -218,7 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,tempestade nas águas do norte.,2026-07-28T05:31:00+00:00,Vanuatu,0.3107840852724058,1,1,pt,SPO,Oceania
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.3105050234304856,0,1,pt,WCE,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-07-26T05:46:00+00:00,,0.3103483934680126,0,1,pt,,
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-07-28T05:31:00+00:00,Argentina,0.30977632007721395,0,1,pt,SES,South-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-07-28T05:31:00+00:00,Argentina,0.3097763200772139,0,1,pt,SES,South-America
 '6977541e84',extremes,Drought,#edc291,edo,seca em Madagascar,2026-06-25T06:32:00+00:00,Madagascar,0.3090946046061608,0,1,pt,MDG,Africa
 '563b781620',extremes,Thunderstorm,#53785a,wmo,tempo severo Nigéria,2026-07-28T05:31:00+00:00,Nigeria,0.3085548059572512,0,1,pt,WAF,Africa
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-06-29T07:12:00+00:00,,0.3083653096399728,0,1,pt,,
@@ -239,7 +239,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,pt,NZ,Oceania
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-07-03T06:09:00+00:00,Russia,0.3038023382983596,0,1,pt,ESB,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-07-07T06:30:00+00:00,Chile,0.3037251436890014,0,1,pt,SWS,South-America
-'55b46ae31c',extremes,Storm,#b3b2b1,wmo,tempestade naâma,2026-07-29T05:37:00+00:00,Algeria,0.30367380048592174,0,1,pt,SAH,Africa
+'55b46ae31c',extremes,Storm,#b3b2b1,wmo,tempestade naâma,2026-07-29T05:37:00+00:00,Algeria,0.3036738004859217,0,1,pt,SAH,Africa
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,tempestade Canadá,2026-07-06T06:52:00+00:00,Canada,0.3032729183231222,0,1,pt,NEN,North-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,onda de calor França,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,pt,WCE,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-07-08T05:37:00+00:00,Chile,0.3031566766767615,0,1,pt,SWS,South-America
