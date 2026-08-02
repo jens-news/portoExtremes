@@ -125,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical higos,2026-06-24T06:29:00+00:00,,0.408756728511689,1,2,pt,NPO,Pacific Ocean
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,onda de calor chipre,2026-07-12T05:43:00+00:00,Cyprus,0.4087343317974233,1,2,pt,MED,Europe
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,tempestade na Jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.4086135436402658,1,2,pt,CAR,North-America
-'8e164fcef9',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas costeiras.,2026-08-02T05:42:00+00:00,Vanuatu,0.40853828672978354,1,2,pt,SPO,Oceania
+'8e164fcef9',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas costeiras.,2026-08-02T05:42:00+00:00,Vanuatu,0.4085382867297835,1,2,pt,SPO,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Canadá gelado,2026-06-22T08:39:00+00:00,Canada,0.4084426703729797,1,2,pt,NEN,North-America
 '335616d808',extremes,Drought,#edc291,edo,seca costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.4082648601162628,1,2,pt,SCA,South-America
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,tempestade todas as águas,2026-07-08T05:37:00+00:00,Solomon Islands,0.4081046167177047,1,2,pt,EPO,Oceania
@@ -197,6 +197,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-07-20T05:54:00+00:00,Vanuatu,0.3319926926924764,1,2,pt,SPO,Oceania
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-07-10T06:27:00+00:00,,0.3318123543799274,1,1,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-07-10T06:27:00+00:00,,0.3303422496825707,1,1,pt,,
+'8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,pt,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,pt,,
@@ -243,7 +244,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,tempestade no Paraguai,2026-07-29T05:37:00+00:00,Paraguay,0.302328227907078,0,1,pt,SES,South-America
 '95b5264574',extremes,Heat Wave,#c40202,wmo,onda de calor no Canadá,2026-07-01T06:52:00+00:00,Canada,0.3022826517450618,0,1,pt,NEN,North-America
 '8db658717e',extremes,Flood,#030ba1,wmo,inundação repentina na Austrália,2026-07-17T05:27:00+00:00,Australia,0.3021497769831705,0,1,pt,CAU,Oceania
-'8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3021276512143053,0,1,pt,NWS,South-America
 '596a132822',extremes,Storm,#b3b2b1,wmo,tempestade,2026-07-21T05:36:00+00:00,Bahrain,0.3019679073889137,0,1,pt,ARP,Asia
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,onda de calor na maior parte do Egito,2026-07-31T05:51:00+00:00,Egypt,0.30194856060454,0,1,pt,SAH,Africa
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Kemerovo,2026-07-18T05:10:00+00:00,Russia,0.3018784320610052,0,1,pt,ESB,Europe
@@ -418,7 +418,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,chuva Índia,2026-06-30T06:39:00+00:00,India,0.2997070144040353,0,1,pt,SAS,Asia
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progresso,2026-07-01T06:52:00+00:00,Mexico,0.2996909623032126,0,1,pt,NCA,North-America
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-07-07T06:30:00+00:00,,0.2964776097041158,1,2,pt,,
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-07-21T05:36:00+00:00,,0.29585553351609206,1,1,pt,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-07-21T05:36:00+00:00,,0.295855533516092,1,1,pt,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.2907897498692862,1,2,pt,SES,South-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,pt,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,gelo argentina,2026-06-30T06:39:00+00:00,Argentina,0.2864466626468715,1,1,pt,SES,South-America
