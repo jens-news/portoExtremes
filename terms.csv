@@ -247,18 +247,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Kemerovo,2026-07-18T05:10:00+00:00,Russia,0.3018784320610052,0,1,pt,ESB,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-07-03T06:09:00+00:00,,0.3017694620169271,0,1,pt,,
 '516cca4753',extremes,Storm,#b3b2b1,wmo,tempestade canterbury high country,2026-07-29T05:37:00+00:00,New Zealand,0.3017076775944151,0,1,pt,NZ,Oceania
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,trovoada Índia,2026-06-30T06:39:00+00:00,India,0.301555497563852,0,1,pt,SAS,Asia
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-07-23T05:40:00+00:00,New Zealand,0.3015295932218577,0,1,pt,NZ,Oceania
-'829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.3015123490138555,0,1,pt,CAR,North-America
-'f6f32944d1',extremes,Heat Wave,#c40202,wmo,onda de calor gros de vaud,2026-07-09T06:27:00+00:00,Switzerland,0.3015102311919501,0,1,pt,WCE,Europe
-'fb2669902d',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Samara,2026-07-08T05:37:00+00:00,Russia,0.3015092642755736,0,1,pt,ESB,Europe
-'30e79eda20',extremes,Storm,#b3b2b1,wmo,tempestade sudeste da Islândia,2026-07-25T05:29:00+00:00,Iceland,0.3015027515484879,0,1,pt,GIC,Europe
-'184472a9b7',extremes,Heat Wave,#c40202,wmo,onda de calor na região de Polog,2026-07-16T05:25:00+00:00,North Macedonia,0.3015012515128243,0,1,pt,MED,Europe
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-07-25T05:29:00+00:00,Solomon Islands,0.301482253240154,0,1,pt,EPO,Oceania
-'04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Hong Kong Sar China,2026-07-25T05:29:00+00:00,Hong Kong,0.3014533883769734,0,1,pt,EAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-07-14T05:14:00+00:00,New Zealand,0.30145279132772,0,1,pt,NZ,Oceania
-'c37650b8be',extremes,Flood,#030ba1,wmo,inundação repentina na Rússia,2026-07-03T06:09:00+00:00,Russia,0.3014491966713688,0,1,pt,ESB,Europe
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundação estados unidos,2026-07-21T05:36:00+00:00,United States,0.3014062521629426,0,1,pt,CNA,North-America
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitação Tanzânia,2026-07-04T05:59:00+00:00,Tanzania,0.3014057390895612,0,1,pt,SEAF,Africa
 '7ba1677e33',extremes,Wildfire,#d60d2b,wmo,incêndio florestal evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.3013954553330185,0,1,pt,ESB,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,tempestade na Argélia,2026-07-05T06:25:00+00:00,Algeria,0.3013935608421396,0,1,pt,SAH,Africa
@@ -411,6 +401,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,pt,,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-07-04T05:59:00+00:00,Ecuador,0.2828498693904752,1,2,pt,NWS,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tempestade região litoral,2026-07-03T06:09:00+00:00,Ecuador,0.2792310362315651,1,1,pt,NWS,South-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundação estados unidos,2026-07-21T05:36:00+00:00,United States,0.2761454343385012,1,1,pt,CNA,North-America
 '8626b81b9b',extremes,Flood,#030ba1,emdat,inundação zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.2720064152251044,1,1,pt,NWS,South-America
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-07-02T06:23:00+00:00,,0.2719157901137981,1,1,pt,,
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,incêndio florestal Victoria,2026-07-04T05:59:00+00:00,Australia,0.269963471236045,1,1,pt,SAU,Oceania
@@ -562,7 +553,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6382a3f479',extremes,Storm,#b3b2b1,wmo,tempestade costeira otago,2026-07-31T05:51:00+00:00,New Zealand,0.2564244249994791,1,1,pt,NZ,Oceania
 '0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,trovoada zabaykalsky krai,2026-07-21T05:36:00+00:00,Russia,0.2564036690037127,1,1,pt,ESB,Europe
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,tempestade em todas as águas de Vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.2563933853230042,1,1,pt,SPO,Oceania
-'5670a1ef99',extremes,Wildfire,#d60d2b,wmo,incêndio florestal em Altai Krai,2026-07-17T05:27:00+00:00,Russia,0.25637129786267254,1,1,pt,ESB,Europe
+'5670a1ef99',extremes,Wildfire,#d60d2b,wmo,incêndio florestal em Altai Krai,2026-07-17T05:27:00+00:00,Russia,0.2563712978626725,1,1,pt,ESB,Europe
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,tempestade no sul da Islândia,2026-07-09T06:27:00+00:00,Iceland,0.256347694866916,1,1,pt,GIC,Europe
 '499dfc6c4a',extremes,Storm,#b3b2b1,wmo,tempestade províncias de limarí e choapa,2026-07-18T05:10:00+00:00,Chile,0.2563401812119058,1,1,pt,SWS,South-America
 '355605856d',extremes,Precipitation,#d60d2b,wmo,precipitação Chade,2026-08-02T05:42:00+00:00,Chad,0.2563327268287251,1,1,pt,SAH,Africa
+'829105287e',extremes,Storm,#b3b2b1,wmo,tempestade jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.25628549666177713,1,1,pt,CAR,North-America
+'f6f32944d1',extremes,Heat Wave,#c40202,wmo,onda de calor gros de vaud,2026-07-09T06:27:00+00:00,Switzerland,0.2562836965131576,1,1,pt,WCE,Europe
+'fb2669902d',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Samara,2026-07-08T05:37:00+00:00,Russia,0.25628287463423755,1,1,pt,ESB,Europe
+'30e79eda20',extremes,Storm,#b3b2b1,wmo,tempestade sudeste da Islândia,2026-07-25T05:29:00+00:00,Iceland,0.2562773388162147,1,1,pt,GIC,Europe
+'184472a9b7',extremes,Heat Wave,#c40202,wmo,onda de calor na região de Polog,2026-07-16T05:25:00+00:00,North Macedonia,0.2562760637859007,1,1,pt,MED,Europe
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-07-25T05:29:00+00:00,Solomon Islands,0.2562599152541309,1,1,pt,EPO,Oceania
+'04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Hong Kong Sar China,2026-07-25T05:29:00+00:00,Hong Kong,0.25623538012042735,1,1,pt,EAS,Asia
+'c37650b8be',extremes,Flood,#030ba1,wmo,inundação repentina na Rússia,2026-07-03T06:09:00+00:00,Russia,0.2562318171706635,1,1,pt,ESB,Europe
