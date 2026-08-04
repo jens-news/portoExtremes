@@ -120,6 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-07-14T05:15:00+00:00,Equatorial Guinea,0.410309811863436,0,1,pt,WAF,Africa
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,neve nova zelândia,2026-06-23T06:33:00+00:00,New Zealand,0.4097063514951205,1,2,pt,NZ,Oceania
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,granizo Irã,2026-07-24T05:36:00+00:00,Iran,0.4093342832412139,1,2,pt,WCA,Asia
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,gelo austrália,2026-07-17T05:27:00+00:00,Australia,0.40927499608964746,1,2,pt,CAU,Oceania
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,onda de calor na Argélia,2026-07-09T06:27:00+00:00,Algeria,0.4090706269355987,1,2,pt,SAH,Africa
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,bloco de gelo,2026-07-23T05:39:00+00:00,,0.408949877541267,1,2,pt,,
 'af6244e0ab',extremes,Drought,#edc291,edo,seca Nicarágua,2026-06-27T06:08:00+00:00,Nicaragua,0.408804453813568,1,2,pt,SCA,North-America
@@ -226,9 +227,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,geada austrália,2026-07-15T05:15:00+00:00,Australia,0.3065017831696294,0,1,pt,CAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,inundação Victoria,2026-07-17T05:27:00+00:00,Australia,0.3056007439821042,0,1,pt,SAU,Oceania
 '7f426032e8',extremes,Drought,#edc291,edo,período de seca no Butão,2026-07-04T05:59:00+00:00,Bhutan,0.304970339043592,0,1,pt,TIB,Asia
-'5ae54b6586',extremes,Storm,#b3b2b1,wmo,registro de onda de tempestade. 3 litoral,2026-08-03T05:57:00+00:00,Chile,0.3049064932626528,0,1,pt,SWS,South-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,geada chile,2026-07-14T05:14:00+00:00,Chile,0.3048856015900293,0,1,pt,SWS,South-America
-'bad96a5f0d',extremes,Storm,#b3b2b1,wmo,tempestade litoral e interandina,2026-08-03T05:57:00+00:00,Ecuador,0.3047483250039233,0,1,pt,NWS,South-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.3046608233045473,0,1,pt,EAO,Atlantic Ocean
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,pt,,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,onda de calor na Rússia,2026-07-03T06:09:00+00:00,Russia,0.3038023382983596,0,1,pt,ESB,Europe
@@ -237,7 +236,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,onda de calor França,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,pt,WCE,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,tempestade chile,2026-07-08T05:37:00+00:00,Chile,0.3031566766767615,0,1,pt,SWS,South-America
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,tempestade seychelles,2026-07-08T05:37:00+00:00,Seychelles,0.3030227607709381,0,1,pt,EIO,Africa
-'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,gelo austrália,2026-07-17T05:27:00+00:00,Australia,0.3027350601054677,0,1,pt,CAU,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,congelando na Austrália,2026-07-18T05:10:00+00:00,Australia,0.3026788203888607,0,1,pt,CAU,Oceania
 '766190540a',extremes,Storm,#b3b2b1,wmo,tempestade na Tanzânia,2026-07-25T05:29:00+00:00,Tanzania,0.3026443706657261,0,1,pt,SEAF,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,inundação Canadá,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,pt,NEN,North-America
@@ -425,7 +423,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,onda de tempestade,2026-07-07T06:30:00+00:00,,0.2964776097041158,1,2,pt,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-07-21T05:36:00+00:00,,0.295855533516092,1,1,pt,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,tempestade argentina,2026-06-26T06:36:00+00:00,Argentina,0.2907897498692862,1,2,pt,SES,South-America
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-07-20T05:54:00+00:00,,0.28931053760164394,1,1,pt,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-07-20T05:54:00+00:00,,0.2893105376016439,1,1,pt,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,feitiço molhado,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,pt,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,gelo argentina,2026-06-30T06:39:00+00:00,Argentina,0.2864466626468715,1,1,pt,SES,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tempestade Equador,2026-07-04T05:59:00+00:00,Ecuador,0.2828498693904752,1,2,pt,NWS,South-America
@@ -477,8 +475,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 15 cordilheira,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,pt,SWS,South-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,tempestade Nigéria,2026-07-28T05:31:00+00:00,Nigeria,0.259412190707697,1,1,pt,WAF,Africa
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,registro de onda de tempestade. 15 cordilheira,2026-07-02T06:24:00+00:00,Chile,0.2593304784209408,1,1,pt,SWS,South-America
+'5ae54b6586',extremes,Storm,#b3b2b1,wmo,registro de onda de tempestade. 3 litoral,2026-08-03T05:57:00+00:00,Chile,0.25917051927325485,1,1,pt,SWS,South-America
 'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,tempo severo na Bielorrússia,2026-07-13T05:53:00+00:00,Belarus,0.2591689678824961,1,1,pt,WCE,Europe
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,tempestade vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.2590749564435608,1,1,pt,SPO,Oceania
+'bad96a5f0d',extremes,Storm,#b3b2b1,wmo,tempestade litoral e interandina,2026-08-03T05:57:00+00:00,Ecuador,0.2590360762533348,1,1,pt,NWS,South-America
 '31919931b3',extremes,Landslide,#572c03,wmo,deslizamento de rochas na China,2026-07-03T06:09:00+00:00,China,0.2590264513725927,1,1,pt,EAS,Asia
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,tempestade no sudeste da Islândia,2026-07-29T05:37:00+00:00,Iceland,0.2590102663611223,1,1,pt,GIC,Europe
 'fcba098edb',extremes,Heat Wave,#c40202,wmo,onda de calor norte da Macedônia,2026-07-16T05:25:00+00:00,North Macedonia,0.2588939926270458,1,1,pt,MED,Europe
