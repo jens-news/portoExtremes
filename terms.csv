@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-07-06T06:52:00+00:00,Brazil,0.782489560888117,1,3,pt,SAM,South-America
+'3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.7681268431389262,0,1,pt,WAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-07-06T06:52:00+00:00,Brazil,0.7600432028789728,0,1,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-04T05:59:00+00:00,Brazil,0.7572086534759341,0,1,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.7555773701631666,0,1,pt,SAM,South-America
@@ -13,10 +14,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-07-14T05:15:00+00:00,Angola,0.7198999099900595,1,2,pt,WSAF,Africa
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-07-03T06:09:00+00:00,Angola,0.7191217879563239,0,1,pt,WSAF,Africa
+'0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-07-27T06:05:00+00:00,Portugal,0.7133888871725212,0,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-07-13T05:53:00+00:00,Mozambique,0.7113243412946834,0,1,pt,ESAF,Africa
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-06-30T06:39:00+00:00,Portugal,0.7094669857669759,0,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-07-13T05:53:00+00:00,Brazil,0.6977292052810203,0,1,pt,SAM,South-America
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-08-01T05:42:00+00:00,Portugal,0.6906690135405037,0,1,pt,MED,Europe
+'7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-07-26T05:46:00+00:00,Portugal,0.6903255589891033,0,1,pt,MED,Europe
+'7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-07-26T05:46:00+00:00,Portugal,0.6843026477867071,0,1,pt,MED,Europe
+'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.6781901188976008,0,1,pt,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-08-01T05:42:00+00:00,Sao Tome and Principe,0.67580383940479,0,1,pt,WAF,Africa
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-06-21T07:16:00+00:00,Portugal,0.6738989135332429,1,2,pt,MED,Europe
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-06-22T08:39:00+00:00,Portugal,0.6711082541343792,1,2,pt,MED,Europe
@@ -38,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-07-08T05:37:00+00:00,Sao Tome and Principe,0.6288064736548893,0,1,pt,WAF,Africa
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-07-30T05:24:00+00:00,Angola,0.6260834381388979,1,2,pt,WSAF,Africa
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-07-07T06:30:00+00:00,Mozambique,0.6242499284932933,0,1,pt,ESAF,Africa
+'28d39c6daf',extremes,Storm,#b3b2b1,wmo,tempestade açores grupo oriental,2026-08-06T05:33:00+00:00,Portugal,0.6227680683771772,0,1,pt,MED,Europe
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,terremoto santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.6225005095529073,1,1,pt,NAO,Atlantic Ocean
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-07-11T05:27:00+00:00,Cabo Verde,0.6217712948831619,1,1,pt,NAO,Atlantic Ocean
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-07-20T05:54:00+00:00,Portugal,0.6207346565130072,0,1,pt,NAO,Atlantic Ocean
@@ -161,6 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e020e244e',extremes,Drought,#edc291,edo,seca polónia,2026-07-04T05:59:00+00:00,Poland,0.3706447249088727,1,2,pt,WCE,Europe
 '9f50f80ea2',extremes,Drought,#edc291,edo,período de seca no Montenegro,2026-07-11T05:27:00+00:00,Montenegro,0.3705471059347205,1,2,pt,MED,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,pt,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-07-20T05:54:00+00:00,,0.36503768375828716,0,1,pt,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-07-06T06:52:00+00:00,,0.3634832603116336,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,pt,,
 '83f2a9deea',extremes,Drought,#edc291,edo,período de seca na França,2026-06-26T06:36:00+00:00,France,0.3632727359159184,1,2,pt,WCE,Europe
@@ -183,9 +190,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a47d8d0227',extremes,Drought,#edc291,edo,período de seca na Eslováquia,2026-06-28T06:44:00+00:00,Slovakia,0.3394428507040767,1,2,pt,WCE,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,tempestade no Canadá,2026-08-02T05:42:00+00:00,Canada,0.3383744976240344,1,2,pt,NEN,North-America
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-07-06T06:52:00+00:00,,0.3380330567639508,0,1,pt,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-07-27T06:05:00+00:00,,0.33574709559110316,0,1,pt,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-07-30T05:24:00+00:00,,0.3350671230544314,1,2,pt,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-07-05T06:24:00+00:00,,0.3349572219878221,0,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-07-05T06:24:00+00:00,,0.334931906599438,1,1,pt,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-07-31T05:51:00+00:00,,0.33432243416625196,0,1,pt,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-07-28T05:30:00+00:00,,0.3335783254199613,0,1,pt,,
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,tempestade na Arábia Saudita,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3325213458995031,1,2,pt,ARP,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,pt,,
@@ -203,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-07-29T05:37:00+00:00,,0.3212987324271233,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,pt,,
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,tempestade melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.3151881603388378,0,1,pt,SAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,pt,SAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,pt,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,pt,,
@@ -538,4 +548,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Hong Kong Sar China,2026-07-25T05:29:00+00:00,Hong Kong,0.2562353801204273,1,1,pt,EAS,Asia
 '7ba1677e33',extremes,Wildfire,#d60d2b,wmo,incêndio florestal evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.2561861370330657,1,1,pt,ESB,Europe
 'c779108988',extremes,Wildfire,#d60d2b,wmo,incêndio florestal eslovénia central,2026-07-11T05:27:00+00:00,Slovenia,0.2561457090938657,1,1,pt,WCE,Europe
-'954932e1f1',extremes,Precipitation,#d60d2b,wmo,chuva litoral e interandina,2026-08-02T05:42:00+00:00,Ecuador,0.25610394168396966,1,1,pt,NWS,South-America
+'954932e1f1',extremes,Precipitation,#d60d2b,wmo,chuva litoral e interandina,2026-08-02T05:42:00+00:00,Ecuador,0.2561039416839696,1,1,pt,NWS,South-America
