@@ -153,7 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura mínima mais baixa,2026-07-20T05:54:00+00:00,,0.3836460855398723,0,1,pt,,
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-07-01T06:52:00+00:00,,0.3799678834516128,0,1,pt,,
 '24b660695f',extremes,Landslide,#572c03,wmo,deslizamento de terra na China,2026-07-03T06:09:00+00:00,China,0.3788621833929942,1,2,pt,EAS,Asia
-'0308bedb90',extremes,Fog,#d60d2b,wmo,nevoeiro Montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.37692130151130726,1,2,pt,MED,Europe
+'0308bedb90',extremes,Fog,#d60d2b,wmo,nevoeiro Montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.3769213015113072,1,2,pt,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-07-17T05:27:00+00:00,Paraguay,0.3768813681801675,1,2,pt,SES,South-America
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-07-17T05:27:00+00:00,,0.3768301822737742,0,1,pt,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-08-02T05:41:00+00:00,,0.3711908468206547,0,1,pt,,
@@ -243,9 +243,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-07-03T06:09:00+00:00,,0.3017694620169271,0,1,pt,,
 '516cca4753',extremes,Storm,#b3b2b1,wmo,tempestade canterbury high country,2026-07-29T05:37:00+00:00,New Zealand,0.3017076775944151,0,1,pt,NZ,Oceania
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,estrada congelante da coroa,2026-07-23T05:40:00+00:00,New Zealand,0.3015295932218577,0,1,pt,NZ,Oceania
-'c779108988',extremes,Wildfire,#d60d2b,wmo,incêndio florestal eslovénia central,2026-07-11T05:27:00+00:00,Slovenia,0.3013478930516067,0,1,pt,WCE,Europe
-'954932e1f1',extremes,Precipitation,#d60d2b,wmo,chuva litoral e interandina,2026-08-02T05:42:00+00:00,Ecuador,0.3012987549223173,0,1,pt,NWS,South-America
-'aab7909052',extremes,Fog,#d60d2b,wmo,nevoeiro Israel,2026-07-02T06:24:00+00:00,Israel,0.3012525180371609,0,1,pt,MED,Asia
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,precipitação منطقة منطقة مكة المكرمة الطائف,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3012255510132959,0,1,pt,ARP,Asia
 '87ce5fed51',extremes,Drought,#edc291,edo,seca montenegro,2026-07-18T05:10:00+00:00,Montenegro,0.3012247486779451,0,1,pt,MED,Europe
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,precipitação nova zelândia,2026-07-29T05:37:00+00:00,New Zealand,0.3012213245968649,0,1,pt,NZ,Oceania
@@ -540,3 +537,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,tempestade Ilhas Salomão,2026-07-25T05:29:00+00:00,Solomon Islands,0.2562599152541309,1,1,pt,EPO,Oceania
 '04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,furacão Hong Kong Sar China,2026-07-25T05:29:00+00:00,Hong Kong,0.2562353801204273,1,1,pt,EAS,Asia
 '7ba1677e33',extremes,Wildfire,#d60d2b,wmo,incêndio florestal evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.2561861370330657,1,1,pt,ESB,Europe
+'c779108988',extremes,Wildfire,#d60d2b,wmo,incêndio florestal eslovénia central,2026-07-11T05:27:00+00:00,Slovenia,0.2561457090938657,1,1,pt,WCE,Europe
+'954932e1f1',extremes,Precipitation,#d60d2b,wmo,chuva litoral e interandina,2026-08-02T05:42:00+00:00,Ecuador,0.25610394168396966,1,1,pt,NWS,South-America
