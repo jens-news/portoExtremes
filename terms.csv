@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f006bc815e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa norte,2026-08-07T04:37:00+00:00,Portugal,0.7019652243319309,0,1,pt,MED,Europe
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-07-13T05:53:00+00:00,Brazil,0.6977292052810203,0,1,pt,SAM,South-America
+'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-07-26T05:46:00+00:00,Portugal,0.6952849856434081,0,1,pt,MED,Europe
 'd16d72b759',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa sul,2026-07-31T05:51:00+00:00,Portugal,0.6947805329564438,0,1,pt,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incêndio florestal em Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6915426444353406,1,2,pt,MED,Europe
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-08-01T05:42:00+00:00,Portugal,0.6906690135405037,0,1,pt,MED,Europe
@@ -40,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fdf0f3824e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto rebordosa,2026-08-07T11:06:00+00:00,Portugal,0.6725807428930978,1,1,pt,MED,Europe
 '125cbbcc8c',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto recarei,2026-08-07T11:06:00+00:00,Portugal,0.6725667107845993,1,1,pt,MED,Europe
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-06-22T08:39:00+00:00,Portugal,0.6711082541343792,1,2,pt,MED,Europe
+'23efc884ea',extremes,Heat Wave,#c40202,wmo,onda de calor madeira porto santo,2026-08-06T05:33:00+00:00,Portugal,0.6705285955884485,0,1,pt,MED,Europe
 '4b5b5f4d0e',extremes,Wildfire,#d60d2b,effis,incêndio florestal viseu Dão Lafões Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6686076861650994,1,1,pt,MED,Europe
 'fed1854897',extremes,Wildfire,#d60d2b,effis,incêndio florestal área metropolitana do porto portugal,2026-08-07T09:56:00+00:00,Portugal,0.6686067812042348,1,1,pt,MED,Europe
 '7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-07-26T05:46:00+00:00,Portugal,0.6684879847059552,1,3,pt,MED,Europe
@@ -67,12 +69,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-07-20T05:54:00+00:00,Portugal,0.6207346565130072,0,1,pt,NAO,Atlantic Ocean
 '731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-06-28T06:44:00+00:00,Timor Leste,0.610567277379767,0,1,pt,SEA,Oceania
 '4aba7f7834',extremes,Heat Wave,#c40202,wmo,onda de calor leiria,2026-07-01T06:52:00+00:00,Portugal,0.6044093753812144,1,2,pt,MED,Europe
+'56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.6034811681053134,0,1,pt,WAF,Africa
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-07-03T06:09:00+00:00,Macao,0.5956259098080792,0,1,pt,EAS,Asia
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-07-03T06:09:00+00:00,Portugal,0.5948282937327901,1,2,pt,MED,Europe
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-07-16T05:25:00+00:00,Macao,0.5902895604512367,0,1,pt,EAS,Asia
 '63b77c6e40',extremes,Drought,#edc291,edo,período de seca no brasil,2026-07-08T05:37:00+00:00,Brazil,0.5875825252274166,1,3,pt,SAM,South-America
+'7d90e8f8f0',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal viseu dar lafões santiago de cassurrães e póvoa de cervães,2026-08-08T03:51:00+00:00,Portugal,0.5800339904109241,0,1,pt,MED,Europe
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-08-03T05:58:00+00:00,Cabo Verde,0.5736038418538507,1,1,pt,NAO,Atlantic Ocean
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-07-27T06:05:00+00:00,Portugal,0.5645606509837953,1,2,pt,MED,Europe
+'7409bb7af6',extremes,Earthquake,#870007,usgs,terremoto santa cruz da graciosa,2026-08-07T09:56:00+00:00,Portugal,0.5612014267853764,0,1,pt,NAO,Atlantic Ocean
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-07-14T05:15:00+00:00,Portugal,0.5556645505175475,0,1,pt,NAO,Atlantic Ocean
 '0b7d2d63db',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo central,2026-07-08T05:37:00+00:00,Portugal,0.5491809165898172,1,1,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-08-04T05:32:00+00:00,Guinea-Bissau,0.5484846169759864,0,1,pt,WAF,Africa
@@ -80,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-07-09T06:27:00+00:00,Angola,0.5411958258383555,1,1,pt,WSAF,Africa
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-07-07T06:30:00+00:00,Brazil,0.5387241996284857,1,2,pt,SAM,South-America
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,aguaceiro portugal,2026-07-29T05:37:00+00:00,Portugal,0.5362808462876275,1,1,pt,MED,Europe
+'3e51fddafa',extremes,Wildfire,#d60d2b,effis,incêndio viseu Dão Lafões Portugal,2026-08-08T03:51:00+00:00,Portugal,0.536212265006459,0,1,pt,MED,Europe
 'f2206627f4',extremes,Earthquake,#870007,usgs,terremoto venilale,2026-06-29T07:12:00+00:00,Timor Leste,0.5350571049652035,0,1,pt,SEA,Oceania
 '03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-09T06:27:00+00:00,Portugal,0.529312403734332,1,1,pt,MED,Europe
 'd68a95630d',extremes,Drought,#edc291,edo,falta de chuva cabo verde,2026-07-22T05:35:00+00:00,Cabo Verde,0.5283812151652706,1,1,pt,NAO,Atlantic Ocean
@@ -123,7 +129,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-07-04T05:59:00+00:00,,0.4271322368901585,1,3,pt,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-07-08T05:37:00+00:00,,0.4258291416789863,1,2,pt,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,deslizamento de rochas,2026-07-02T06:23:00+00:00,,0.4238761535476146,1,2,pt,,
+'4c742a8948',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto canedo vale e vila maior,2026-08-07T09:56:00+00:00,Portugal,0.4230247053894338,0,1,pt,MED,Europe
+'7c7bc6f830',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto rebordosa,2026-08-07T09:56:00+00:00,Portugal,0.42260755503648034,0,1,pt,MED,Europe
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-07-11T05:27:00+00:00,Macao,0.4209861238962435,0,1,pt,EAS,Asia
+'0c567dec7b',extremes,Wildfire,#d60d2b,effis,bushfire portugal médio tejo envendos,2026-08-07T09:56:00+00:00,Portugal,0.42071363321445115,0,1,pt,MED,Europe
+'97ef6665a5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto recarei,2026-08-07T09:56:00+00:00,Portugal,0.41959345564792716,0,1,pt,MED,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-07-01T06:52:00+00:00,,0.4152963963599358,1,2,pt,,
 'b445ee6ee0',extremes,Drought,#edc291,edo,seca el salvador,2026-08-04T05:32:00+00:00,El Salvador,0.4149356257512875,1,2,pt,SCA,North-America
 '815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.4143793149159127,1,2,pt,WCE,Europe
