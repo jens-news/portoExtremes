@@ -99,9 +99,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-08-03T05:58:00+00:00,Timor Leste,0.5039034413111242,0,1,pt,SEA,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-07-08T05:37:00+00:00,Equatorial Guinea,0.5017688249763886,0,1,pt,WAF,Africa
 '75dafff63a',extremes,Thunderstorm,#53785a,wmo,granizo macau,2026-07-03T06:09:00+00:00,Macao,0.4987092218103495,0,1,pt,EAS,Asia
-'7d90e8f8f0',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal viseu dar lafões santiago de cassurrães e póvoa de cervães,2026-08-08T03:51:00+00:00,Portugal,0.49302889184928544,1,1,pt,MED,Europe
+'7d90e8f8f0',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal viseu dar lafões santiago de cassurrães e póvoa de cervães,2026-08-08T03:51:00+00:00,Portugal,0.4930288918492854,1,1,pt,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-06-28T06:44:00+00:00,,0.4818438289550598,1,2,pt,,
-'959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-07-26T05:46:00+00:00,Timor Leste,0.48020035333077893,1,2,pt,SEA,Oceania
+'959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-07-26T05:46:00+00:00,Timor Leste,0.4802003533307789,1,2,pt,SEA,Oceania
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-06-26T06:35:00+00:00,,0.4780869245889414,1,2,pt,,
 '7409bb7af6',extremes,Earthquake,#870007,usgs,terremoto santa cruz da graciosa,2026-08-07T09:56:00+00:00,Portugal,0.47702121276757,1,1,pt,NAO,Atlantic Ocean
 '47d1948db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo ocidental,2026-07-11T05:27:00+00:00,Portugal,0.4769656953152753,1,1,pt,MED,Europe
@@ -199,9 +199,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,tempestade uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3578414123454939,1,2,pt,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-07-21T05:36:00+00:00,Paraguay,0.3575539780602186,1,2,pt,SES,South-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,pt,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-07-27T06:05:00+00:00,,0.35624076330837096,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 '85c98951d6',extremes,Drought,#edc291,edo,falta de chuva montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.3556654323477978,1,2,pt,MED,Europe
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-07-18T05:10:00+00:00,Macao,0.3544459795265688,1,1,pt,EAS,Asia
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-08-07T04:37:00+00:00,,0.3531397668442019,0,1,pt,,
+'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-07-23T05:39:00+00:00,,0.3528933403705131,0,1,pt,,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tempestade Uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3484267279949515,1,2,pt,SES,South-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,onda de calor na Suíça,2026-07-08T05:37:00+00:00,Switzerland,0.3479741842553598,1,3,pt,WCE,Europe
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,tempestade na Amazônia,2026-08-02T05:42:00+00:00,Ecuador,0.3469275742050344,1,2,pt,NWS,South-America
@@ -225,6 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7747997246',extremes,Fog,#d60d2b,wmo,nevoeiro Rússia,2026-07-17T05:27:00+00:00,Russia,0.332036978869921,1,2,pt,ESB,Europe
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-07-20T05:54:00+00:00,Vanuatu,0.3319926926924764,1,2,pt,SPO,Oceania
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-07-10T06:27:00+00:00,,0.3318123543799274,1,1,pt,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-08-09T03:59:00+00:00,,0.3309815246116556,0,1,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-07-10T06:27:00+00:00,,0.3303422496825707,1,1,pt,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,pt,,
@@ -233,6 +237,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidade do solo,2026-07-13T05:53:00+00:00,,0.3240001306429278,0,1,pt,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-07-29T05:37:00+00:00,,0.3212987324271233,0,1,pt,,
+'9c704e4826',extremes,Wildfire,#d60d2b,effis,incêndio selvagem no Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.31975751439977185,0,1,pt,MED,Asia
+'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal no Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.31975673338533467,0,1,pt,MED,Asia
+'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,incêndio selvagem sarafend líbano,2026-08-07T11:06:00+00:00,Lebanon,0.31975624818756754,0,1,pt,MED,Asia
+'2094eeff3e',extremes,Wildfire,#d60d2b,effis,incêndio selvagem nabi youcheaa Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.3197562420673727,0,1,pt,MED,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,incêndio florestal mardin turquia,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,1,pt,WCA,Asia
+'5400f1e65e',extremes,Wildfire,#d60d2b,effis,incêndio florestal em kilis Síria,2026-08-07T11:06:00+00:00,Syria,0.31975623943359593,0,1,pt,MED,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,pt,,
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,tempestade melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.3151881603388378,0,1,pt,SAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,pt,SAU,Oceania
