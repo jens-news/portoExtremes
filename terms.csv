@@ -116,7 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-08-04T05:31:00+00:00,,0.4563574518309061,1,3,pt,,
 '3e51fddafa',extremes,Wildfire,#d60d2b,effis,incêndio viseu Dão Lafões Portugal,2026-08-08T03:51:00+00:00,Portugal,0.4557804252554902,1,1,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-07-16T05:25:00+00:00,Bermuda,0.4553008731868503,1,1,pt,NAO,Atlantic Ocean
-'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-07-31T05:51:00+00:00,Bermuda,0.45473096859016454,1,1,pt,NAO,Atlantic Ocean
+'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-07-31T05:51:00+00:00,Bermuda,0.4547309685901645,1,1,pt,NAO,Atlantic Ocean
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-07-14T05:14:00+00:00,,0.4527356402618508,1,2,pt,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-07-13T05:53:00+00:00,,0.4519598304714772,1,2,pt,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mais precipitação,2026-07-15T05:15:00+00:00,,0.4471141766942198,1,3,pt,,
@@ -185,7 +185,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f50f80ea2',extremes,Drought,#edc291,edo,período de seca no Montenegro,2026-07-11T05:27:00+00:00,Montenegro,0.3705471059347205,1,2,pt,MED,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-07-20T05:54:00+00:00,,0.3650376837582871,0,1,pt,,
-'0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-07-06T06:52:00+00:00,,0.3634832603116336,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-08-08T03:51:00+00:00,,0.3617647535085105,0,1,pt,,
 '4c742a8948',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto canedo vale e vila maior,2026-08-07T09:56:00+00:00,Portugal,0.3595709995810187,1,1,pt,MED,Europe
@@ -198,6 +197,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-07-27T06:05:00+00:00,,0.3562407633083709,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-07-18T05:10:00+00:00,Macao,0.3544459795265688,1,1,pt,EAS,Asia
+'0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-07-06T06:52:00+00:00,,0.3533277079315552,1,1,pt,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-08-07T04:37:00+00:00,,0.3531397668442019,0,1,pt,,
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-07-23T05:39:00+00:00,,0.3528933403705131,0,1,pt,,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tempestade Uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3484267279949515,1,2,pt,SES,South-America
