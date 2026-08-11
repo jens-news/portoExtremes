@@ -65,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,terremoto santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.6225005095529073,1,1,pt,NAO,Atlantic Ocean
 '9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-07-11T05:27:00+00:00,Cabo Verde,0.6217712948831619,1,1,pt,NAO,Atlantic Ocean
 'f224285544',extremes,Drought,#edc291,edo,seca portugal,2026-07-20T05:54:00+00:00,Portugal,0.6207346565130072,0,1,pt,NAO,Atlantic Ocean
-'731557e0bc',extremes,Earthquake,#870007,usgs,terremoto timor leste,2026-06-28T06:44:00+00:00,Timor Leste,0.610567277379767,0,1,pt,SEA,Oceania
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-07-26T05:46:00+00:00,Portugal,0.607492387796897,1,1,pt,MED,Europe
 '4aba7f7834',extremes,Heat Wave,#c40202,wmo,onda de calor leiria,2026-07-01T06:52:00+00:00,Portugal,0.6044093753812144,1,2,pt,MED,Europe
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-07-03T06:09:00+00:00,Macao,0.5956259098080792,0,1,pt,EAS,Asia
@@ -129,11 +128,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,calor recorde,2026-07-14T05:14:00+00:00,,0.4283611281467439,1,3,pt,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-07-04T05:59:00+00:00,,0.4271322368901585,1,3,pt,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiração,2026-07-08T05:37:00+00:00,,0.4258291416789863,1,2,pt,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-07-31T05:51:00+00:00,,0.4252744290413141,1,3,pt,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,deslizamento de rochas,2026-07-02T06:23:00+00:00,,0.4238761535476146,1,2,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-07-11T05:27:00+00:00,Macao,0.4209861238962435,0,1,pt,EAS,Asia
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-07-01T06:52:00+00:00,,0.4152963963599358,1,2,pt,,
 'b445ee6ee0',extremes,Drought,#edc291,edo,seca el salvador,2026-08-04T05:32:00+00:00,El Salvador,0.4149356257512875,1,2,pt,SCA,North-America
-'815e4bf638',extremes,Drought,#edc291,edo,falta de chuva na Hungria,2026-06-29T07:13:00+00:00,Hungary,0.4143793149159127,1,2,pt,WCE,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,geada argentina,2026-06-30T06:39:00+00:00,Argentina,0.4136489417097934,1,2,pt,SES,South-America
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,geada inverno,2026-06-29T07:12:00+00:00,,0.4135495313678151,1,3,pt,,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitação argentina,2026-07-09T06:27:00+00:00,Argentina,0.4124829309218124,1,2,pt,SES,South-America
@@ -197,7 +196,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-07-27T06:05:00+00:00,,0.3562407633083709,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-07-18T05:10:00+00:00,Macao,0.3544459795265688,1,1,pt,EAS,Asia
-'0a8e5743d9',extremes,Landslide,#572c03,random,deslizamento de terra,2026-07-06T06:52:00+00:00,,0.3533277079315552,1,1,pt,,
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-07-23T05:39:00+00:00,,0.3528933403705131,0,1,pt,,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tempestade Uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3484267279949515,1,2,pt,SES,South-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,onda de calor na Suíça,2026-07-08T05:37:00+00:00,Switzerland,0.3479741842553598,1,3,pt,WCE,Europe
@@ -215,7 +213,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-07-27T06:05:00+00:00,,0.3357470955911031,0,1,pt,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-07-30T05:24:00+00:00,,0.3350671230544314,1,2,pt,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,nevasca,2026-07-05T06:24:00+00:00,,0.3349572219878221,0,1,pt,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-07-31T05:51:00+00:00,,0.3343224341662519,0,1,pt,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-07-28T05:30:00+00:00,,0.3335783254199613,0,1,pt,,
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,tempestade na Arábia Saudita,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3325213458995031,1,2,pt,ARP,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,pt,,
