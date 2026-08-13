@@ -97,9 +97,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d20737377',extremes,Wildfire,#d60d2b,effis,incêndio florestal tâmega e sousa portugal,2026-08-12T04:22:00+00:00,Portugal,0.5104099726641612,1,1,pt,MED,Europe
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-08-03T05:58:00+00:00,Timor Leste,0.5039034413111242,0,1,pt,SEA,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-07-08T05:37:00+00:00,Equatorial Guinea,0.5017688249763886,0,1,pt,WAF,Africa
-'75dafff63a',extremes,Thunderstorm,#53785a,wmo,granizo macau,2026-07-03T06:09:00+00:00,Macao,0.4987092218103495,0,1,pt,EAS,Asia
 '7d90e8f8f0',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal viseu dar lafões santiago de cassurrães e póvoa de cervães,2026-08-08T03:51:00+00:00,Portugal,0.4930288918492854,1,1,pt,MED,Europe
 '3523f32f75',extremes,Heat Wave,#c40202,meteo,alta temperatura portugal,2026-08-07T11:06:00+00:00,Portugal,0.489532962058971,1,2,pt,MED,Europe
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-07-08T05:37:00+00:00,,0.48596977240822736,1,3,pt,,
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-07-26T05:46:00+00:00,Timor Leste,0.4802003533307789,1,2,pt,SEA,Oceania
 '7409bb7af6',extremes,Earthquake,#870007,usgs,terremoto santa cruz da graciosa,2026-08-07T09:56:00+00:00,Portugal,0.47702121276757,1,1,pt,NAO,Atlantic Ocean
 '47d1948db9',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo ocidental,2026-07-11T05:27:00+00:00,Portugal,0.4769656953152753,1,1,pt,MED,Europe
@@ -161,7 +161,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-06-25T06:32:00+00:00,Venezuela,0.4012427405354518,1,3,pt,NSA,South-America
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-07-30T05:24:00+00:00,,0.3964056090971463,1,1,pt,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-07-03T06:09:00+00:00,,0.3961794603747952,1,2,pt,,
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,dia mais frio,2026-07-08T05:37:00+00:00,,0.3947742728866846,0,1,pt,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-07-29T05:37:00+00:00,,0.3930536126863927,0,1,pt,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-08-12T04:22:00+00:00,,0.3921249227623739,0,1,pt,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-07-11T05:26:00+00:00,,0.3899525229505126,0,1,pt,,
@@ -235,12 +234,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9074be8300',extremes,Wildfire,#d60d2b,effis,"incêndio florestal em Izmir, Turquia",2026-08-07T09:56:00+00:00,Turkey,0.3197562151916568,0,1,pt,MED,Asia
 '8c6ebb2fce',extremes,Wildfire,#d60d2b,effis,incêndio florestal ancara turquia,2026-08-07T11:06:00+00:00,Turkey,0.3197562150106203,0,1,pt,MED,Asia
 '19e2e5e511',extremes,Wildfire,#d60d2b,effis,incêndio florestal isparta turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197562132398012,0,1,pt,MED,Asia
-'eec56caa4e',extremes,Wildfire,#d60d2b,effis,incêndio florestal caraş severin romênia,2026-08-07T09:56:00+00:00,Romania,0.31975621192348225,0,1,pt,WCE,Europe
-'f931fb4985',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montana Bulgária,2026-08-07T09:56:00+00:00,Bulgaria,0.31975621019379613,0,1,pt,MED,Europe
+'eec56caa4e',extremes,Wildfire,#d60d2b,effis,incêndio florestal caraş severin romênia,2026-08-07T09:56:00+00:00,Romania,0.3197562119234822,0,1,pt,WCE,Europe
+'f931fb4985',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montana Bulgária,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,pt,MED,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,incêndio selvagem рашка област sérvia,2026-08-07T11:06:00+00:00,Serbia,0.3197562101351033,0,1,pt,MED,Europe
 'e7298fae8f',extremes,Wildfire,#d60d2b,effis,incêndio selvagem btaaboura Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.3197562084353376,0,1,pt,MED,Asia
-'27290ff5eb',extremes,Wildfire,#d60d2b,effis,incêndio florestal kladanj Bósnia e Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.31975620832607343,0,1,pt,MED,Europe
-'39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,incêndio selvagem ancara turquia,2026-08-07T11:06:00+00:00,Turkey,0.31975620817195777,0,1,pt,MED,Asia
+'27290ff5eb',extremes,Wildfire,#d60d2b,effis,incêndio florestal kladanj Bósnia e Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197562083260734,0,1,pt,MED,Europe
+'39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,incêndio selvagem ancara turquia,2026-08-07T11:06:00+00:00,Turkey,0.3197562081719577,0,1,pt,MED,Asia
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,incêndio selvagem barcelona espanha,2026-08-07T11:06:00+00:00,Spain,0.3197562003661338,0,1,pt,MED,Europe
 '56932be330',extremes,Wildfire,#d60d2b,effis,incêndio florestal isparta turquia,2026-08-07T11:06:00+00:00,Turkey,0.3197561887556467,0,1,pt,MED,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,pt,,
