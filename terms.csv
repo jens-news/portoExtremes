@@ -227,6 +227,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,redemoinho de poeira,2026-07-14T05:14:00+00:00,,0.3295099433181396,1,1,pt,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,pt,,
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-08-14T04:24:00+00:00,,0.3275282821651916,0,1,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,pt,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,pt,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,furacão,2026-07-29T05:37:00+00:00,,0.3212987324271233,0,1,pt,,
@@ -260,6 +261,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,incêndio selvagem no sudoeste da Irlanda,2026-08-07T11:06:00+00:00,Ireland,0.3197559567312558,0,1,pt,NEU,Europe
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,incêndio florestal eskişehir Turquia,2026-08-07T11:06:00+00:00,Turkey,0.3197559552493551,0,1,pt,MED,Asia
 '1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-07T09:56:00+00:00,Algeria,0.3197559171131001,0,1,pt,MED,Africa
+'da1ba9730c',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Síria,2026-08-07T11:06:00+00:00,Syria,0.3197554577078092,0,1,pt,MED,Asia
+'1e3db537cb',extremes,Wildfire,#d60d2b,effis,incêndio florestal niederösterreich sul áustria,2026-08-07T11:06:00+00:00,Austria,0.31975540375102374,0,1,pt,WCE,Europe
+'38c3444fa0',extremes,Wildfire,#d60d2b,effis,incêndio florestal мачванска област Bósnia e Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.31975537664033793,0,1,pt,MED,Europe
+'f3ede15a48',extremes,Wildfire,#d60d2b,effis,incêndio selvagem keski suomi Finlândia,2026-08-07T09:56:00+00:00,Finland,0.31975517483557303,0,1,pt,NEU,Europe
+'71c228acb5',extremes,Wildfire,#d60d2b,effis,fogo selvagem na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197550392879362,0,1,pt,MED,Asia
+'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Croácia,2026-08-07T11:06:00+00:00,Croatia,0.3197541634697097,0,1,pt,WCE,Europe
+'7942a3c79f',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197540477275936,0,1,pt,MED,Asia
+'5ab0a2836b',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,pt,MED,Asia
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-07T09:56:00+00:00,Romania,0.3197538738301362,0,1,pt,MED,Europe
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,pt,SAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,pt,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,pt,,
