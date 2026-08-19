@@ -194,6 +194,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c567dec7b',extremes,Wildfire,#d60d2b,effis,bushfire portugal médio tejo envendos,2026-08-07T09:56:00+00:00,Portugal,0.3576065882322834,1,1,pt,MED,Europe
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,tempestade área 1 – grave,2026-07-21T05:36:00+00:00,Paraguay,0.3575539780602186,1,2,pt,SES,South-America
 '97ef6665a5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto recarei,2026-08-07T09:56:00+00:00,Portugal,0.356654437300738,1,1,pt,MED,Europe
+'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Croácia,2026-08-07T11:06:00+00:00,Croatia,0.35647450728258656,1,2,pt,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-07-27T06:05:00+00:00,,0.3562407633083709,0,1,pt,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-29T05:37:00+00:00,,0.3547236608785239,0,1,pt,,
@@ -224,7 +225,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,pt,,
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montana Bulgária,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,pt,MED,Europe
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,incêndio florestal majdel baana Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,pt,MED,Asia
-'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Croácia,2026-08-07T11:06:00+00:00,Croatia,0.3197541634697097,0,1,pt,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197540477275936,0,1,pt,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,pt,MED,Asia
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-07T09:56:00+00:00,Romania,0.3197538738301362,0,1,pt,MED,Europe
@@ -404,7 +404,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,incêndio florestal niederösterreich sul áustria,2026-08-07T11:06:00+00:00,Austria,0.2717920931883701,1,1,pt,WCE,Europe
 '38c3444fa0',extremes,Wildfire,#d60d2b,effis,incêndio florestal мачванска област Bósnia e Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2717920701442872,1,1,pt,MED,Europe
 'f3ede15a48',extremes,Wildfire,#d60d2b,effis,incêndio selvagem keski suomi Finlândia,2026-08-07T09:56:00+00:00,Finland,0.271791898610237,1,1,pt,NEU,Europe
-'71c228acb5',extremes,Wildfire,#d60d2b,effis,fogo selvagem na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.27179178339474575,1,1,pt,MED,Asia
+'71c228acb5',extremes,Wildfire,#d60d2b,effis,fogo selvagem na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.2717917833947457,1,1,pt,MED,Asia
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,tempestade melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,pt,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,"tempestade, vento forte e chuvas Victoria 2024",2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,pt,SAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,supertufão golfinho,2026-07-30T05:24:00+00:00,,0.2660558188490732,1,1,pt,NPO,Pacific Ocean
