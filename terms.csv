@@ -185,7 +185,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0308bedb90',extremes,Fog,#d60d2b,wmo,nevoeiro Montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.3769213015113072,1,2,pt,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-07-17T05:27:00+00:00,Paraguay,0.3768813681801675,1,2,pt,SES,South-America
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-07-17T05:27:00+00:00,,0.3768301822737742,0,1,pt,,
-'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-08-18T03:23:00+00:00,,0.3736932896487818,0,1,pt,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-08-02T05:41:00+00:00,,0.3711908468206547,0,1,pt,,
 '9f50f80ea2',extremes,Drought,#edc291,edo,período de seca no Montenegro,2026-07-11T05:27:00+00:00,Montenegro,0.3705471059347205,1,2,pt,MED,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,pt,,
@@ -205,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-29T05:37:00+00:00,,0.3547236608785239,0,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-07-18T05:10:00+00:00,Macao,0.3544459795265688,1,1,pt,EAS,Asia
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-08-18T03:23:00+00:00,,0.3498638534741918,1,2,pt,,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tempestade Uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3484267279949515,1,2,pt,SES,South-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,onda de calor na Suíça,2026-07-08T05:37:00+00:00,Switzerland,0.3479741842553598,1,3,pt,WCE,Europe
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,tempestade na Amazônia,2026-08-02T05:42:00+00:00,Ecuador,0.3469275742050344,1,2,pt,NWS,South-America
