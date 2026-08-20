@@ -2,6 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,fogo selvagem portugal,2026-08-07T09:56:00+00:00,Portugal,0.8229603722269216,1,2,pt,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-07-06T06:52:00+00:00,Brazil,0.7964867674471269,1,2,pt,SAM,South-America
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.7934662866386373,1,3,pt,MED,Europe
+'12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7877355258888677,1,3,pt,SAM,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-08-05T05:31:00+00:00,Brazil,0.7854312553090468,1,2,pt,SAM,South-America
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-07-06T06:52:00+00:00,Brazil,0.782489560888117,1,3,pt,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-08-07T04:37:00+00:00,Brazil,0.7808216053418394,1,2,pt,SAM,South-America
@@ -10,9 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.7555773701631666,0,1,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7490081925257033,0,1,pt,SAM,South-America
-'12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7444501363398445,0,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-07-10T06:27:00+00:00,Sao Tome and Principe,0.742723356689747,1,2,pt,WAF,Africa
-'d24b8b247d',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-20T03:26:00+00:00,Portugal,0.7418771037672945,0,1,pt,MED,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
@@ -68,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-07-26T05:46:00+00:00,Portugal,0.6469930849044153,1,1,pt,MED,Europe
 'f63fff75f8',extremes,Heat Wave,#c40202,wmo,onda de calor viseu,2026-07-26T05:46:00+00:00,Portugal,0.6459228090509676,1,1,pt,MED,Europe
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,onda de calor castelo branco,2026-07-29T05:37:00+00:00,Portugal,0.6392630190835771,1,2,pt,MED,Europe
+'d24b8b247d',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-20T03:26:00+00:00,Portugal,0.6305955382022004,1,1,pt,MED,Europe
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-07-08T05:37:00+00:00,Sao Tome and Principe,0.6288064736548893,0,1,pt,WAF,Africa
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-07-30T05:24:00+00:00,Angola,0.6260834381388979,1,2,pt,WSAF,Africa
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,terremoto santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.6225005095529073,1,1,pt,NAO,Atlantic Ocean
