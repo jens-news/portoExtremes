@@ -9,18 +9,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-07-07T06:30:00+00:00,Brazil,0.757472552885595,1,3,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.7555773701631666,0,1,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7490081925257033,0,1,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7444501363398445,0,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-07-10T06:27:00+00:00,Sao Tome and Principe,0.742723356689747,1,2,pt,WAF,Africa
+'d24b8b247d',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-20T03:26:00+00:00,Portugal,0.7418771037672945,0,1,pt,MED,Europe
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-07-28T05:31:00+00:00,Portugal,0.7267469631953384,0,1,pt,MED,Europe
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-07-26T05:46:00+00:00,Portugal,0.7246608034030774,0,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-07-14T05:15:00+00:00,Angola,0.7198999099900595,1,2,pt,WSAF,Africa
+'ba50f2ea51',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-20T03:26:00+00:00,Portugal,0.7186336700184289,0,1,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-07-13T05:53:00+00:00,Mozambique,0.7113243412946834,0,1,pt,ESAF,Africa
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-07-13T05:53:00+00:00,Brazil,0.6977292052810203,0,1,pt,SAM,South-America
+'b7cd50311a',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto oliveira de azeméis santiago da riba ul ul macinhata da seixa e madail,2026-08-20T03:26:00+00:00,Portugal,0.6941839700021656,0,1,pt,MED,Europe
+'7ad7552719',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-20T03:26:00+00:00,Portugal,0.694176205916369,0,1,pt,MED,Europe
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incêndio florestal em Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6915426444353406,1,2,pt,MED,Europe
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,onda de calor portugal,2026-08-01T05:42:00+00:00,Portugal,0.6906690135405037,0,1,pt,MED,Europe
@@ -47,7 +52,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.6631090078895164,1,2,pt,WAF,Africa
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-07-31T05:51:00+00:00,Portugal,0.6617798720111405,0,1,pt,NAO,Atlantic Ocean
 '03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-30T05:24:00+00:00,Portugal,0.6615016202829163,0,1,pt,MED,Europe
+'d9745f9b90',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho gandra e taião,2026-08-20T03:26:00+00:00,Portugal,0.6598989591393936,0,1,pt,MED,Europe
+'d698310409',extremes,Wildfire,#d60d2b,effis,fogo selvagem alto minho portugal,2026-08-20T03:26:00+00:00,Portugal,0.656519676636766,0,1,pt,MED,Europe
+'d9061ad5d5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho refóios do lima,2026-08-20T03:26:00+00:00,Portugal,0.6564207563829075,0,1,pt,MED,Europe
+'2274ae48d4',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho geraz do lima santa maria santa leocádia e moreira e deão,2026-08-20T03:26:00+00:00,Portugal,0.6553317734283547,0,1,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-08-16T03:28:00+00:00,Portugal,0.6549021801616781,1,2,pt,MED,Europe
+'00929a0dde',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho padroso,2026-08-20T03:26:00+00:00,Portugal,0.6545430218704414,0,1,pt,MED,Europe
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-07-26T05:46:00+00:00,Portugal,0.6542330161378398,1,3,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.6529078166680873,1,1,pt,WAF,Africa
 '868b578649',extremes,Heat Wave,#c40202,wmo,onda de calor Bragança,2026-07-26T05:46:00+00:00,Portugal,0.651943491407146,1,2,pt,MED,Europe
