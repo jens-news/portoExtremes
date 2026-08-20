@@ -15,11 +15,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
-'1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-07-28T05:31:00+00:00,Portugal,0.7267469631953384,0,1,pt,MED,Europe
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-07-26T05:46:00+00:00,Portugal,0.7246608034030774,0,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-07-14T05:15:00+00:00,Angola,0.7198999099900595,1,2,pt,WSAF,Africa
-'ba50f2ea51',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-20T03:26:00+00:00,Portugal,0.7186336700184289,0,1,pt,MED,Europe
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
+'1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-07-28T05:31:00+00:00,Portugal,0.7126850537160376,1,2,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-07-13T05:53:00+00:00,Mozambique,0.7113243412946834,0,1,pt,ESAF,Africa
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-07-13T05:53:00+00:00,Brazil,0.6977292052810203,0,1,pt,SAM,South-America
@@ -75,6 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a33c806058',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal tâmega e sousa ribas,2026-08-19T03:26:00+00:00,Portugal,0.6200125877754604,0,1,pt,MED,Europe
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-08-04T05:32:00+00:00,Mozambique,0.6167589418673347,1,1,pt,ESAF,Africa
 '65822d5ce4',extremes,Thunderstorm,#53785a,wmo,salve vila real,2026-08-15T03:13:00+00:00,Portugal,0.6109623675379898,0,1,pt,MED,Europe
+'ba50f2ea51',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-20T03:26:00+00:00,Portugal,0.6108386195156645,1,1,pt,MED,Europe
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-07-29T05:38:00+00:00,Mozambique,0.6105104900668807,1,1,pt,ESAF,Africa
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-07-26T05:46:00+00:00,Portugal,0.607492387796897,1,1,pt,MED,Europe
 '3995ab7237',extremes,Wildfire,#d60d2b,effis,incêndio selvagem beiras e serra da estrela portugal,2026-08-19T03:26:00+00:00,Portugal,0.6064583330203374,0,1,pt,MED,Europe
