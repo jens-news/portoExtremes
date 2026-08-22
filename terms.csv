@@ -4,19 +4,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.7934662866386373,1,3,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7877355258888677,1,3,pt,SAM,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-08-05T05:31:00+00:00,Brazil,0.7854312553090468,1,2,pt,SAM,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.7848271508763394,1,3,pt,SAM,South-America
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-07-06T06:52:00+00:00,Brazil,0.782489560888117,1,3,pt,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-08-07T04:37:00+00:00,Brazil,0.7808216053418394,1,2,pt,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-07-08T05:37:00+00:00,Brazil,0.7727170341441039,1,3,pt,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-07-07T06:30:00+00:00,Brazil,0.757472552885595,1,3,pt,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.7555773701631666,0,1,pt,SAM,South-America
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.7517260881967629,0,1,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7490081925257033,0,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-07-10T06:27:00+00:00,Sao Tome and Principe,0.742723356689747,1,2,pt,WAF,Africa
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-06-30T06:39:00+00:00,Portugal,0.7297332584134266,1,3,pt,MED,Europe
 '22e2976426',extremes,Earthquake,#870007,usgs,terremoto portugal,2026-07-11T05:27:00+00:00,Portugal,0.7296547617736565,1,3,pt,NAO,Atlantic Ocean
-'6947750349',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes moimenta e montuto,2026-08-22T03:22:00+00:00,Portugal,0.7212389498752472,0,1,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-07-14T05:15:00+00:00,Angola,0.7198999099900595,1,2,pt,WSAF,Africa
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-07-28T05:31:00+00:00,Portugal,0.7126850537160376,1,2,pt,MED,Europe
@@ -65,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-07-30T05:24:00+00:00,Angola,0.6260834381388979,1,2,pt,WSAF,Africa
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-08-04T05:32:00+00:00,Mozambique,0.6167589418673347,1,1,pt,ESAF,Africa
 '19c3cbd03e',extremes,Wildfire,#d60d2b,effis,incêndio florestal terras de trás os montes portugal,2026-08-22T03:22:00+00:00,Portugal,0.6133763109593492,1,1,pt,MED,Europe
+'6947750349',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes moimenta e montuto,2026-08-22T03:22:00+00:00,Portugal,0.6130531073939601,1,1,pt,MED,Europe
 'ba50f2ea51',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-20T03:26:00+00:00,Portugal,0.6108386195156645,1,1,pt,MED,Europe
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-07-29T05:38:00+00:00,Mozambique,0.6105104900668807,1,1,pt,ESAF,Africa
 '5bdf7df757',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes moimenta e montuto,2026-08-22T03:22:00+00:00,Portugal,0.6081520582137312,0,1,pt,MED,Europe
