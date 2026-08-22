@@ -46,16 +46,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-07-26T05:46:00+00:00,Portugal,0.6684879847059552,1,3,pt,MED,Europe
 'd16d72b759',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa sul,2026-07-31T05:51:00+00:00,Portugal,0.6658634830129772,1,2,pt,MED,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.6631090078895164,1,2,pt,WAF,Africa
-'03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-30T05:24:00+00:00,Portugal,0.6615016202829163,0,1,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-08-16T03:28:00+00:00,Portugal,0.6549021801616781,1,2,pt,MED,Europe
-'00929a0dde',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho padroso,2026-08-20T03:26:00+00:00,Portugal,0.6545430218704414,0,1,pt,MED,Europe
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-07-26T05:46:00+00:00,Portugal,0.6542330161378398,1,3,pt,MED,Europe
 '3e5f311da7',extremes,Drought,#edc291,edo,período de seca são tomé e príncipe,2026-07-24T05:36:00+00:00,Sao Tome and Principe,0.6529078166680873,1,1,pt,WAF,Africa
 '868b578649',extremes,Heat Wave,#c40202,wmo,onda de calor Bragança,2026-07-26T05:46:00+00:00,Portugal,0.651943491407146,1,2,pt,MED,Europe
-'68962baddb',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-19T03:26:00+00:00,Portugal,0.6517040557452579,0,1,pt,MED,Europe
-'d4bc3ab399',extremes,Wildfire,#d60d2b,effis,wild fire portugal beiras e serra da estrela mêda outeiro de gatos e fonte longa,2026-08-19T03:26:00+00:00,Portugal,0.6509751682605671,0,1,pt,MED,Europe
 '13ee351c11',extremes,Precipitation,#d60d2b,wmo,chuva açores grupo central,2026-07-12T05:43:00+00:00,Portugal,0.6502144126925008,1,2,pt,MED,Europe
-'9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-08-04T05:32:00+00:00,Cabo Verde,0.6489583871987652,0,1,pt,NAO,Atlantic Ocean
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-07-13T05:53:00+00:00,Brazil,0.6480227794888672,1,2,pt,SAM,South-America
 '7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-07-26T05:46:00+00:00,Portugal,0.6469930849044153,1,1,pt,MED,Europe
 '441b461c0c',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho jolda madalena e rio cabrão,2026-08-21T03:30:00+00:00,Portugal,0.6461255510637623,0,1,pt,MED,Europe
@@ -96,14 +91,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc1695f893',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.5693811737163829,0,1,pt,MED,Europe
 '83a200b1f3',extremes,Thunderstorm,#53785a,wmo,tempo severo faro,2026-08-17T03:28:00+00:00,Portugal,0.5646502497363024,1,1,pt,MED,Europe
 '20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-07-27T06:05:00+00:00,Portugal,0.5645606509837953,1,2,pt,MED,Europe
+'03600649c5',extremes,Precipitation,#d60d2b,wmo,aguaceiro açores grupo oriental,2026-07-30T05:24:00+00:00,Portugal,0.5622763772404789,1,1,pt,MED,Europe
 'd9745f9b90',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho gandra e taião,2026-08-20T03:26:00+00:00,Portugal,0.5609141152684846,1,1,pt,MED,Europe
 'd698310409',extremes,Wildfire,#d60d2b,effis,fogo selvagem alto minho portugal,2026-08-20T03:26:00+00:00,Portugal,0.558041725141251,1,1,pt,MED,Europe
 'd9061ad5d5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho refóios do lima,2026-08-20T03:26:00+00:00,Portugal,0.5579576429254713,1,1,pt,MED,Europe
 '2274ae48d4',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho geraz do lima santa maria santa leocádia e moreira e deão,2026-08-20T03:26:00+00:00,Portugal,0.5570320074141015,1,1,pt,MED,Europe
 '629a45b1e5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto lomba,2026-08-19T03:26:00+00:00,Portugal,0.5565226569079695,1,1,pt,MED,Europe
+'00929a0dde',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho padroso,2026-08-20T03:26:00+00:00,Portugal,0.5563615685898752,1,1,pt,MED,Europe
 'afb611a4c3',extremes,Drought,#edc291,edo,seca portugal,2026-07-14T05:15:00+00:00,Portugal,0.5556645505175475,0,1,pt,NAO,Atlantic Ocean
 '8fefe12eed',extremes,Drought,#edc291,edo,seca cabo verde,2026-08-07T11:06:00+00:00,Cabo Verde,0.5545242783671676,1,1,pt,NAO,Atlantic Ocean
+'68962baddb',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro bigorne magueija e pretarouca,2026-08-19T03:26:00+00:00,Portugal,0.5539484473834693,1,1,pt,MED,Europe
 'ec47b15e52',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal tâmega e sousa vila boa de quires e maureles,2026-08-12T04:22:00+00:00,Portugal,0.5535537579274977,1,1,pt,MED,Europe
+'d4bc3ab399',extremes,Wildfire,#d60d2b,effis,wild fire portugal beiras e serra da estrela mêda outeiro de gatos e fonte longa,2026-08-19T03:26:00+00:00,Portugal,0.553328893021482,1,1,pt,MED,Europe
+'9436b23234',extremes,Drought,#edc291,edo,seca cabo verde,2026-08-04T05:32:00+00:00,Cabo Verde,0.5522146891189504,1,1,pt,NAO,Atlantic Ocean
 '49998e9dbb',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal ave são gens,2026-08-14T04:24:00+00:00,Portugal,0.5398425280600949,1,1,pt,MED,Europe
 'df69856718',extremes,Wildfire,#d60d2b,effis,incêndio florestal viseu dar lafões portugal,2026-08-09T03:59:00+00:00,Portugal,0.539481936577748,1,1,pt,MED,Europe
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-07-07T06:30:00+00:00,Brazil,0.5387241996284857,1,2,pt,SAM,South-America
@@ -182,7 +182,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,chuvas torrenciais nova zelândia,2026-07-14T05:14:00+00:00,New Zealand,0.4063848876285619,1,2,pt,NZ,Oceania
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,onda de calor região leste,2026-07-16T05:25:00+00:00,North Macedonia,0.4045473415778555,1,3,pt,MED,Europe
 '6a9f8159fe',extremes,Thunderstorm,#53785a,wmo,tempo severo évora,2026-08-16T03:28:00+00:00,Portugal,0.3993029089380912,1,1,pt,MED,Europe
-'5ef605688d',extremes,Thunderstorm,#53785a,wmo,trovoada macau,2026-07-16T05:25:00+00:00,Macao,0.3969866390281862,1,1,pt,EAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,temperatura escaldante,2026-07-30T05:24:00+00:00,,0.3964056090971463,1,1,pt,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-08-15T03:13:00+00:00,,0.395793749284207,0,1,pt,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-07-29T05:37:00+00:00,,0.3930536126863927,0,1,pt,,
@@ -198,12 +197,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0308bedb90',extremes,Fog,#d60d2b,wmo,nevoeiro Montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.3769213015113072,1,2,pt,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tempestade Paraguai,2026-07-17T05:27:00+00:00,Paraguay,0.3768813681801675,1,2,pt,SES,South-America
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-07-17T05:27:00+00:00,,0.3768301822737742,0,1,pt,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-08-05T05:31:00+00:00,,0.37577284291035057,0,1,pt,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-08-05T05:31:00+00:00,,0.3757728429103505,0,1,pt,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,inundação,2026-08-02T05:41:00+00:00,,0.3711908468206547,0,1,pt,,
-'9f50f80ea2',extremes,Drought,#edc291,edo,período de seca no Montenegro,2026-07-11T05:27:00+00:00,Montenegro,0.3705471059347205,1,2,pt,MED,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,dia mais quente,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,pt,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno ameno,2026-07-20T05:54:00+00:00,,0.3650376837582871,0,1,pt,,
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-08-19T03:25:00+00:00,,0.36407651380914335,0,1,pt,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-08-19T03:25:00+00:00,,0.3640765138091433,0,1,pt,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,inverno mais frio,2026-08-07T11:06:00+00:00,,0.363786885368804,0,1,pt,,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-08-15T03:13:00+00:00,,0.3636685851602528,0,1,pt,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,chuva forte,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,pt,,
@@ -220,7 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-29T05:37:00+00:00,,0.3547236608785239,0,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-07-18T05:10:00+00:00,Macao,0.3544459795265688,1,1,pt,EAS,Asia
-'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-08-21T03:30:00+00:00,Macao,0.35195463422514717,0,1,pt,EAS,Asia
+'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-08-21T03:30:00+00:00,Macao,0.3519546342251471,0,1,pt,EAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-08-18T03:23:00+00:00,,0.3498638534741918,1,2,pt,,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tempestade Uruguai,2026-07-19T05:37:00+00:00,Uruguay,0.3484267279949515,1,2,pt,SES,South-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,onda de calor na Suíça,2026-07-08T05:37:00+00:00,Switzerland,0.3479741842553598,1,3,pt,WCE,Europe
@@ -271,11 +269,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,incêndio florestal no norte da Macedônia,2026-08-07T11:06:00+00:00,North Macedonia,0.3197482222950916,0,1,pt,MED,Europe
 '14a41389eb',extremes,Wildfire,#d60d2b,effis,incêndio florestal no norte da Macedónia,2026-08-07T09:56:00+00:00,North Macedonia,0.3197475326321216,0,1,pt,MED,Europe
 '3438303391',extremes,Wildfire,#d60d2b,effis,incêndio florestal montenegro,2026-08-07T11:06:00+00:00,Montenegro,0.3197471167543358,0,1,pt,MED,Europe
-'4ff9a5d897',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Sérvia,2026-08-07T09:56:00+00:00,Serbia,0.31974701337302014,0,1,pt,MED,Europe
+'4ff9a5d897',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Sérvia,2026-08-07T09:56:00+00:00,Serbia,0.3197470133730201,0,1,pt,MED,Europe
 '56c99f5cea',extremes,Wildfire,#d60d2b,effis,incêndio florestal no Líbano niha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.319746803707472,0,1,pt,MED,Asia
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,incêndio florestal türkiye mardin n.a.,2026-08-07T11:06:00+00:00,Turkey,0.3197467715600904,0,1,pt,WCA,Asia
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Irlanda,2026-08-07T09:56:00+00:00,Ireland,0.3197467636900591,0,1,pt,NEU,Europe
-'313b8b380b',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Síria n.a. n / D.,2026-08-07T11:06:00+00:00,Syria,0.31974631411313714,0,1,pt,MED,Asia
+'313b8b380b',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Síria n.a. n / D.,2026-08-07T11:06:00+00:00,Syria,0.3197463141131371,0,1,pt,MED,Asia
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,inundação repentina na Tasmânia,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,pt,SAU,Oceania
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,pt,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,vendaval de inverno,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,pt,,
@@ -286,7 +284,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclone tropical estados unidos,2026-07-20T05:54:00+00:00,United States,0.3075700010374123,0,1,pt,CNA,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,tempestade Nova Zelândia,2026-07-24T05:36:00+00:00,New Zealand,0.3070735762585919,1,1,pt,NZ,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tufão estados unidos,2026-07-20T05:54:00+00:00,United States,0.3070304478588792,0,1,pt,CNA,North-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,geada austrália,2026-07-15T05:15:00+00:00,Australia,0.3065017831696294,0,1,pt,CAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,inundação Victoria,2026-07-17T05:27:00+00:00,Australia,0.3056007439821042,0,1,pt,SAU,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,terremoto georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.3046608233045473,0,1,pt,EAO,Atlantic Ocean
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,pt,,
@@ -307,14 +304,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3db0f2ddbc',extremes,Storm,#b3b2b1,wmo,tempestade 07 08a 08b,2026-07-31T05:51:00+00:00,Chile,0.3011544544705974,0,1,pt,SWS,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incêndio florestal nos Estados Unidos,2026-07-18T05:10:00+00:00,United States,0.3011486306152988,0,1,pt,WNA,North-America
 '9cf34e6f8a',extremes,Heat Wave,#c40202,wmo,onda de calor região nordeste,2026-07-17T05:27:00+00:00,North Macedonia,0.3011272300760038,0,1,pt,MED,Europe
-'be3e20465e',extremes,Storm,#b3b2b1,wmo,tempestade Belize,2026-07-15T05:15:00+00:00,Belize,0.3010756463784764,0,1,pt,SCA,North-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,tempestade Bahrein,2026-07-21T05:36:00+00:00,Bahrain,0.3010550193542439,0,1,pt,ARP,Asia
 '4424a7edaf',extremes,Storm,#b3b2b1,wmo,tempestade bay st. Jorge,2026-07-19T05:37:00+00:00,Canada,0.3009743130306302,0,1,pt,NEN,North-America
 '44b85ec39d',extremes,Flood,#030ba1,wmo,centro de inundação da república de Sakha,2026-07-19T05:37:00+00:00,Russia,0.3009413319598319,0,1,pt,ESB,Europe
 '2485b754b2',extremes,Fog,#d60d2b,wmo,nevoeiro altai krai,2026-07-29T05:37:00+00:00,Russia,0.3009383646662309,0,1,pt,ESB,Europe
 '4edc7586ed',extremes,Flood,#030ba1,wmo,centro de inundações repentinas da república de Sakha,2026-07-23T05:40:00+00:00,Russia,0.3009052781189423,0,1,pt,ESB,Europe
 'e7357c22dd',extremes,Fog,#d60d2b,wmo,nevoeiro noroeste do negev oeste do negev,2026-07-31T05:51:00+00:00,Israel,0.300882389285708,0,1,pt,MED,Asia
-'d0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,tempestade kuwait,2026-07-15T05:15:00+00:00,Kuwait,0.3008292628544062,0,1,pt,ARP,Asia
 '0c65536a96',extremes,Heat Wave,#c40202,wmo,onda de calor região da pelagônia,2026-07-16T05:25:00+00:00,North Macedonia,0.3008059264796082,0,1,pt,MED,Europe
 '630b164795',extremes,Wildfire,#d60d2b,wmo,incêndio florestal em Israel,2026-07-25T05:29:00+00:00,Israel,0.3008048649829196,0,1,pt,MED,Asia
 '8a947734a5',extremes,Fog,#d60d2b,wmo,nevoeiro região de vologda,2026-07-28T05:31:00+00:00,Russia,0.3007563685394777,0,1,pt,ESB,Europe
@@ -324,7 +319,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,tempestade kiska para o lado attu bering,2026-07-25T05:29:00+00:00,United States,0.3006876963340423,0,1,pt,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,inundação na Austrália,2026-07-18T05:10:00+00:00,Australia,0.3006753149338437,0,1,pt,CAU,Oceania
 '60b2c23708',extremes,Flood,#030ba1,wmo,inundação na região de Tyumen,2026-07-27T06:05:00+00:00,Russia,0.3006596970210016,0,1,pt,ESB,Europe
-'52e6ca3f85',extremes,Storm,#b3b2b1,wmo,registro de tempestade. 9 vale longitudinal,2026-07-15T05:15:00+00:00,Chile,0.3006487686073132,0,1,pt,SWS,South-America
 'c9de150e59',extremes,Fog,#d60d2b,wmo,nevoeiro distrito autônomo de chukotka,2026-07-25T05:29:00+00:00,Russia,0.30062057406855,0,1,pt,ESB,Europe
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,onda de tempestade águas da ilha de são mateus,2026-07-21T05:36:00+00:00,United States,0.3005545633680057,0,1,pt,CNA,North-America
 '404a3ce925',extremes,Fog,#d60d2b,wmo,nevoeiro região de Kaliningrado,2026-07-16T05:25:00+00:00,Russia,0.3005502722810017,0,1,pt,ESB,Europe
@@ -341,11 +335,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffd87268c6',extremes,Storm,#b3b2b1,wmo,tempestade nas águas do sudeste,2026-07-24T05:36:00+00:00,Solomon Islands,0.3002279184356573,0,1,pt,EPO,Oceania
 '95ea98243a',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de sverdlovsk,2026-07-28T05:31:00+00:00,Russia,0.3001741241187787,0,1,pt,ESB,Europe
 'da616f2571',extremes,Earthquake,#870007,usgs,terremoto pichigua,2026-07-17T05:27:00+00:00,Peru,0.3001141057841304,0,1,pt,SAM,South-America
-'3e1f1cf827',extremes,Fog,#d60d2b,wmo,nevoeiro região de Bryansk,2026-07-15T05:15:00+00:00,Russia,0.3001058248095218,0,1,pt,ESB,Europe
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,nevoeiro distrito autônomo de khanty mansi,2026-07-26T05:46:00+00:00,Russia,0.3001051728699593,0,1,pt,ESB,Europe
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Bashkortostan,2026-08-02T05:42:00+00:00,Russia,0.3000399821134978,0,1,pt,ESB,Europe
 'cb9bd733f7',extremes,Heat Wave,#c40202,wmo,onda de calor ghor e aqaba,2026-07-30T05:24:00+00:00,Jordan,0.2999820566738113,0,1,pt,MED,Asia
-'c76cb9fc29',extremes,Heat Wave,#c40202,wmo,onda de calor região sudoeste,2026-07-16T05:25:00+00:00,North Macedonia,0.2999650286524506,0,1,pt,MED,Europe
 '6eb74257af',extremes,Storm,#b3b2b1,wmo,tempestade no estado do Kuwait,2026-07-20T05:54:00+00:00,Kuwait,0.2999497816260409,0,1,pt,ARP,Asia
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-07-28T05:31:00+00:00,Canada,0.2999436168745938,0,1,pt,NEN,North-America
 'e25656c7b5',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Oryol,2026-07-29T05:37:00+00:00,Russia,0.2998916949288401,0,1,pt,ESB,Europe
