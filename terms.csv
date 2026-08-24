@@ -2,6 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,fogo selvagem portugal,2026-08-07T09:56:00+00:00,Portugal,0.8229603722269216,1,2,pt,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-07-06T06:52:00+00:00,Brazil,0.7964867674471269,1,2,pt,SAM,South-America
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.7934662866386373,1,3,pt,MED,Europe
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.792646390093237,1,3,pt,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-07-07T06:30:00+00:00,Brazil,0.7877355258888677,1,3,pt,SAM,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil congelando,2026-08-05T05:31:00+00:00,Brazil,0.7854312553090468,1,2,pt,SAM,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.7848271508763394,1,3,pt,SAM,South-America
@@ -10,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-07-08T05:37:00+00:00,Brazil,0.7727170341441039,1,3,pt,SAM,South-America
 'a3eec67232',extremes,Wildfire,#d60d2b,effis,incêndio terras de trás os montes portugal,2026-08-23T03:30:00+00:00,Portugal,0.7720220809478786,1,3,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-07-07T06:30:00+00:00,Brazil,0.757472552885595,1,3,pt,SAM,South-America
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.7555773701631666,0,1,pt,SAM,South-America
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil congelante,2026-08-23T03:30:00+00:00,Brazil,0.7511067201923581,0,1,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7490081925257033,0,1,pt,SAM,South-America
@@ -22,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
 '1246852f54',extremes,Heat Wave,#c40202,wmo,onda de calor coimbra,2026-07-28T05:31:00+00:00,Portugal,0.7126850537160376,1,2,pt,MED,Europe
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-07-26T05:46:00+00:00,Portugal,0.7089009917815047,1,3,pt,MED,Europe
-'730aa26661',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes mirandela,2026-08-23T03:30:00+00:00,Portugal,0.7075837110203324,0,1,pt,MED,Europe
 'c01c09fac9',extremes,Drought,#edc291,edo,seca moçambique,2026-07-13T05:53:00+00:00,Mozambique,0.7050757351004808,1,2,pt,ESAF,Africa
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-07-31T05:51:00+00:00,Portugal,0.699573717525259,1,2,pt,NAO,Atlantic Ocean
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
@@ -75,6 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'abc98b2f94',extremes,Storm,#b3b2b1,wmo,tempestade aveiro,2026-08-23T03:30:00+00:00,Portugal,0.6053050653575975,0,1,pt,MED,Europe
 '3ad40dcab5',extremes,Storm,#b3b2b1,wmo,tempestade guarda,2026-08-23T03:30:00+00:00,Portugal,0.6051854564057048,0,1,pt,MED,Europe
 'a5fabaab6d',extremes,Drought,#edc291,edo,seca bermudas,2026-08-06T05:33:00+00:00,Bermuda,0.6019599783110188,0,1,pt,NAO,Atlantic Ocean
+'730aa26661',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes mirandela,2026-08-23T03:30:00+00:00,Portugal,0.6014461543672824,1,1,pt,MED,Europe
 '4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-08-15T03:13:00+00:00,Portugal,0.6008156452425896,1,3,pt,MED,Europe
 'beb3300dc5',extremes,Thunderstorm,#53785a,wmo,trovoada faro,2026-08-16T03:28:00+00:00,Portugal,0.59565618586586,1,1,pt,MED,Europe
 '270356f7b2',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes moimenta e montuto,2026-08-23T03:30:00+00:00,Portugal,0.5912051650441262,0,1,pt,MED,Europe
