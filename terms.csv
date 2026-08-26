@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,fogo selvagem portugal,2026-08-07T09:56:00+00:00,Portugal,0.8229603722269216,1,2,pt,MED,Europe
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-07-06T06:52:00+00:00,Brazil,0.7964867674471269,1,2,pt,SAM,South-America
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.7934662866386373,1,3,pt,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-07-18T05:10:00+00:00,Brazil,0.792646390093237,1,3,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7916080436468478,1,3,pt,SAM,South-America
@@ -157,7 +156,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b80889f434',extremes,Drought,#edc291,edo,período de seca nas bermudas,2026-07-31T05:51:00+00:00,Bermuda,0.4547309685901645,1,1,pt,NAO,Atlantic Ocean
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-08-16T03:28:00+00:00,Angola,0.4546794789205659,0,1,pt,WSAF,Africa
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-07-14T05:14:00+00:00,,0.4527356402618508,1,2,pt,,
-'f9a3abc8c2',extremes,Landslide,#572c03,random,fluxo de lama,2026-07-13T05:53:00+00:00,,0.4519598304714772,1,2,pt,,
 'b6cef22543',extremes,Drought,#edc291,random,restrição hídrica,2026-07-23T05:39:00+00:00,,0.4510094443149361,1,2,pt,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mais precipitação,2026-07-15T05:15:00+00:00,,0.4471141766942198,1,3,pt,,
 '1c16ddc688',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal região de coimbra fajão vidual,2026-08-22T03:22:00+00:00,Portugal,0.4463055700383627,1,1,pt,MED,Europe
@@ -224,7 +222,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cúpula de calor,2026-07-22T05:35:00+00:00,,0.3454258795399148,0,1,pt,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-08-02T05:41:00+00:00,,0.3443038411381258,1,1,pt,,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,tempestade austrália,2026-07-17T05:27:00+00:00,Australia,0.3438526096502052,1,2,pt,EAU,Oceania
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-07-25T05:28:00+00:00,,0.3425177032389536,0,1,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-08-11T04:01:00+00:00,,0.3419881186980321,0,1,pt,,
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,tempestade na Austrália,2026-07-21T05:36:00+00:00,Australia,0.3416607724113347,1,2,pt,CAU,Oceania
 '3bd22ea970',extremes,Wildfire,#d60d2b,effis,incêndio florestal área metropolitana do porto portugal,2026-08-07T09:56:00+00:00,Portugal,0.3406206563250947,1,1,pt,MED,Europe
@@ -234,6 +231,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-07-30T05:24:00+00:00,,0.3350671230544314,1,2,pt,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,trovoada,2026-07-28T05:30:00+00:00,,0.3335783254199613,0,1,pt,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,pt,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,ano mais frio,2026-07-25T05:28:00+00:00,,0.3324568041167469,1,2,pt,,
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,onda de calor Arábia Saudita,2026-07-21T05:36:00+00:00,Saudi Arabia,0.3324048831734792,1,2,pt,ARP,Asia
 '7747997246',extremes,Fog,#d60d2b,wmo,nevoeiro Rússia,2026-07-17T05:27:00+00:00,Russia,0.332036978869921,1,2,pt,ESB,Europe
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,tempestade no canal e nas águas do sul.,2026-07-20T05:54:00+00:00,Vanuatu,0.3319926926924764,1,2,pt,SPO,Oceania
@@ -242,7 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg partindo,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,pt,,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-08-22T03:22:00+00:00,,0.3250201254127751,0,1,pt,,
-'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-07T09:56:00+00:00,Romania,0.32224083775561574,1,1,pt,MED,Europe
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-07T09:56:00+00:00,Romania,0.3222408377556157,1,1,pt,MED,Europe
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montana Bulgária,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,pt,MED,Europe
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,incêndio florestal majdel baana Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,pt,MED,Asia
 '51639203d2',extremes,Wildfire,#d60d2b,effis,incêndio florestal denizli turquia,2026-08-07T11:06:00+00:00,Turkey,0.3197536642189644,0,1,pt,MED,Asia
@@ -330,7 +328,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,nevoeiro distrito autônomo de khanty mansi,2026-07-26T05:46:00+00:00,Russia,0.3001051728699593,0,1,pt,ESB,Europe
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na República do Bashkortostan,2026-08-02T05:42:00+00:00,Russia,0.3000399821134978,0,1,pt,ESB,Europe
 'cb9bd733f7',extremes,Heat Wave,#c40202,wmo,onda de calor ghor e aqaba,2026-07-30T05:24:00+00:00,Jordan,0.2999820566738113,0,1,pt,MED,Asia
-'6eb74257af',extremes,Storm,#b3b2b1,wmo,tempestade no estado do Kuwait,2026-07-20T05:54:00+00:00,Kuwait,0.2999497816260409,0,1,pt,ARP,Asia
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,chuva Canadá,2026-07-28T05:31:00+00:00,Canada,0.2999436168745938,0,1,pt,NEN,North-America
 'e25656c7b5',extremes,Wildfire,#d60d2b,wmo,incêndio florestal na região de Oryol,2026-07-29T05:37:00+00:00,Russia,0.2998916949288401,0,1,pt,ESB,Europe
 '8920fe8008',extremes,Storm,#b3b2b1,wmo,tempestade no Irã,2026-07-21T05:36:00+00:00,Iran,0.2998863187990959,0,1,pt,WCA,Asia
