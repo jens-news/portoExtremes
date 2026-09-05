@@ -120,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a23bbf67d4',extremes,Precipitation,#d60d2b,wmo,chuva porto,2026-08-26T03:34:00+00:00,Portugal,0.5445969278525707,0,1,pt,MED,Europe
 '5d73c9f6c9',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho geraz do lima santa maria santa leocádia e moreira e deão,2026-08-20T03:26:00+00:00,Portugal,0.5440187089171429,1,1,pt,MED,Europe
 'ea9e176a70',extremes,Wildfire,#d60d2b,effis,incêndio florestal alto minho portugal,2026-08-20T03:26:00+00:00,Portugal,0.5431023005036126,1,1,pt,MED,Europe
-'320898e453',extremes,Precipitation,#d60d2b,wmo,precipitação vila real,2026-08-27T13:00:00+00:00,Portugal,0.5423550938066107,0,1,pt,MED,Europe
 '49998e9dbb',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal ave são gens,2026-08-14T04:24:00+00:00,Portugal,0.5398425280600949,1,1,pt,MED,Europe
 'df69856718',extremes,Wildfire,#d60d2b,effis,incêndio florestal viseu dar lafões portugal,2026-08-09T03:59:00+00:00,Portugal,0.539481936577748,1,1,pt,MED,Europe
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-08-24T03:32:00+00:00,Portugal,0.5394555119644638,1,1,pt,MED,Europe
@@ -165,6 +164,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d90e8f8f0',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal viseu dar lafões santiago de cassurrães e póvoa de cervães,2026-08-08T03:51:00+00:00,Portugal,0.4930288918492854,1,1,pt,MED,Europe
 '3523f32f75',extremes,Heat Wave,#c40202,meteo,alta temperatura portugal,2026-08-07T11:06:00+00:00,Portugal,0.489532962058971,1,2,pt,MED,Europe
 '8ee7be87ba',extremes,Precipitation,#d60d2b,wmo,chuva torrencial guarda,2026-08-24T03:32:00+00:00,Portugal,0.4892510204630458,1,1,pt,MED,Europe
+'320898e453',extremes,Precipitation,#d60d2b,wmo,precipitação vila real,2026-08-27T13:00:00+00:00,Portugal,0.4892398397356191,1,2,pt,MED,Europe
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-07-31T05:51:00+00:00,,0.4852120086724556,1,2,pt,,
 'e1903bc3b9',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.4845988090711471,1,1,pt,MED,Europe
 'fc1695f893',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.4839739976589254,1,1,pt,MED,Europe
@@ -187,7 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66fe9fc98a',extremes,Thunderstorm,#53785a,wmo,tempo severo Santarém,2026-08-23T03:30:00+00:00,Portugal,0.4638894775613962,0,1,pt,MED,Europe
 'a9fe2d405f',extremes,Precipitation,#d60d2b,wmo,aguaceiro setúbal,2026-08-23T03:30:00+00:00,Portugal,0.4635189132006511,1,1,pt,MED,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,vendaval,2026-08-16T03:27:00+00:00,,0.4626489535116255,1,3,pt,,
-'bceaf47e01',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bragança,2026-08-26T03:34:00+00:00,Portugal,0.46244972497262377,1,1,pt,MED,Europe
+'bceaf47e01',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bragança,2026-08-26T03:34:00+00:00,Portugal,0.4624497249726237,1,1,pt,MED,Europe
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-08-10T04:13:00+00:00,,0.4621229446515931,1,2,pt,,
 '92777b5f3e',extremes,Drought,#edc291,edo,seca timor leste,2026-08-27T13:00:00+00:00,Timor Leste,0.4619270322833303,0,1,pt,SEA,Oceania
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-08-01T05:42:00+00:00,Macao,0.4578748054893241,0,1,pt,EAS,Asia
