@@ -170,7 +170,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ee7be87ba',extremes,Precipitation,#d60d2b,wmo,chuva torrencial guarda,2026-08-24T03:32:00+00:00,Portugal,0.4892510204630458,1,1,pt,MED,Europe
 '320898e453',extremes,Precipitation,#d60d2b,wmo,precipitação vila real,2026-08-27T13:00:00+00:00,Portugal,0.4892398397356191,1,2,pt,MED,Europe
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,gotas de mercúrio,2026-07-31T05:51:00+00:00,,0.4852120086724556,1,2,pt,,
-'3b5a32e02d',extremes,Precipitation,#d60d2b,wmo,precipitação lisboa,2026-08-26T03:34:00+00:00,Portugal,0.48520792630317583,1,2,pt,MED,Europe
+'3b5a32e02d',extremes,Precipitation,#d60d2b,wmo,precipitação lisboa,2026-08-26T03:34:00+00:00,Portugal,0.4852079263031758,1,2,pt,MED,Europe
 'e1903bc3b9',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.4845988090711471,1,1,pt,MED,Europe
 'fc1695f893',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.4839739976589254,1,1,pt,MED,Europe
 'ba25383476',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal região de coimbra fajão vidual,2026-08-23T03:30:00+00:00,Portugal,0.4837810056283063,0,1,pt,MED,Europe
@@ -272,16 +272,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-29T05:37:00+00:00,,0.3547236608785239,0,1,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-08-18T03:23:00+00:00,,0.3529848145198915,0,1,pt,,
+'62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-09-05T07:04:00+00:00,,0.35171916697147876,0,1,pt,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,congelamento,2026-08-18T03:23:00+00:00,,0.3498638534741918,1,2,pt,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-08-25T03:27:00+00:00,,0.34862079397428625,0,1,pt,,
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3479909771976726,1,2,pt,MED,Asia
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,tempestade na Amazônia,2026-08-02T05:42:00+00:00,Ecuador,0.3469275742050344,1,2,pt,NWS,South-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-08-02T05:41:00+00:00,,0.3443038411381258,1,1,pt,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-08-30T08:29:00+00:00,,0.34414457972421864,0,1,pt,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,ano mais quente,2026-08-11T04:01:00+00:00,,0.3419881186980321,0,1,pt,,
 '3bd22ea970',extremes,Wildfire,#d60d2b,effis,incêndio florestal área metropolitana do porto portugal,2026-08-07T09:56:00+00:00,Portugal,0.3406206563250947,1,1,pt,MED,Europe
 'a6edaed3ba',extremes,Wildfire,#d60d2b,effis,incêndio florestal médio tejo portugal,2026-08-07T09:56:00+00:00,Portugal,0.340614872606482,1,1,pt,MED,Europe
+'8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-09-05T07:04:00+00:00,,0.33970867073499383,0,1,pt,,
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,tempestade no Canadá,2026-08-02T05:42:00+00:00,Canada,0.3383744976240344,1,2,pt,NEN,North-America
+'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-09-03T07:20:00+00:00,Macao,0.33779565290004954,0,1,pt,EAS,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,precipitação forte,2026-07-30T05:24:00+00:00,,0.3350671230544314,1,2,pt,,
+'1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-08-29T09:18:00+00:00,,0.33168346890907474,0,1,pt,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,geada,2026-08-31T08:51:00+00:00,,0.3315847465255091,0,1,pt,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,onda de frio,2026-08-29T09:18:00+00:00,,0.33148451346144936,0,1,pt,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,tempestade,2026-08-02T05:41:00+00:00,,0.3314658062810428,0,1,pt,,
+'9f0423d739',extremes,Drought,#edc291,random,secura,2026-08-27T13:00:00+00:00,,0.33006280547216543,0,1,pt,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-08-22T03:22:00+00:00,,0.3250201254127751,0,1,pt,,
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-07T09:56:00+00:00,Romania,0.3222408377556157,1,1,pt,MED,Europe
@@ -320,6 +329,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a320301f76',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Argélia,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,pt,MED,Africa
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Bósnia e Herzegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.3197440414140085,0,1,pt,MED,Europe
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,incêndio florestal no Líbano nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,pt,MED,Asia
+'69791e5a17',extremes,Flood,#030ba1,random,inundação repentina,2026-09-03T07:20:00+00:00,,0.31834926527015833,0,1,pt,,
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3104910605684545,1,1,pt,MED,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,pt,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-08-09T03:59:00+00:00,,0.3044735991017254,1,2,pt,,
