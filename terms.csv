@@ -7,12 +7,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.7848271508763394,1,3,pt,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,onda de frio brasil,2026-08-07T04:37:00+00:00,Brazil,0.7808216053418394,1,2,pt,SAM,South-America
 'a3eec67232',extremes,Wildfire,#d60d2b,effis,incêndio terras de trás os montes portugal,2026-08-23T03:30:00+00:00,Portugal,0.7720220809478786,1,3,pt,MED,Europe
+'7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-09-05T07:05:00+00:00,Portugal,0.7648372461016063,1,2,pt,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-09-06T07:16:00+00:00,Brazil,0.761252813246621,0,1,pt,SAM,South-America
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-08-23T03:30:00+00:00,Brazil,0.7510355141623607,1,3,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-08-31T08:51:00+00:00,Brazil,0.7369859830835022,1,2,pt,SAM,South-America
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
-'7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-09-05T07:05:00+00:00,Portugal,0.723161448354831,0,1,pt,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-08-15T03:13:00+00:00,Brazil,0.7166759572949666,1,3,pt,SAM,South-America
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil congelante,2026-08-23T03:30:00+00:00,Brazil,0.7137407421635044,1,2,pt,SAM,South-America
@@ -179,7 +179,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7409bb7af6',extremes,Earthquake,#870007,usgs,terremoto santa cruz da graciosa,2026-08-07T09:56:00+00:00,Portugal,0.47702121276757,1,1,pt,NAO,Atlantic Ocean
 '05756e6a91',extremes,Thunderstorm,#53785a,wmo,tempo severo Viseu,2026-08-23T03:30:00+00:00,Portugal,0.4765769579997339,0,1,pt,MED,Europe
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-08-23T03:30:00+00:00,Portugal,0.4758440804815069,1,1,pt,MED,Europe
-'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-08-26T03:34:00+00:00,Equatorial Guinea,0.47528170114472323,0,1,pt,WAF,Africa
+'9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-08-26T03:34:00+00:00,Equatorial Guinea,0.4752817011447232,0,1,pt,WAF,Africa
 'be0c6d04cd',extremes,Thunderstorm,#53785a,wmo,tempo severo guarda,2026-08-24T03:32:00+00:00,Portugal,0.47170495697824,0,1,pt,MED,Europe
 'fcb3b0fcab',extremes,Thunderstorm,#53785a,wmo,granizo viana do castelo,2026-08-23T03:30:00+00:00,Portugal,0.4703292701900689,0,1,pt,MED,Europe
 'e93c59e56e',extremes,Thunderstorm,#53785a,wmo,granizo portugal,2026-08-23T03:30:00+00:00,Portugal,0.4697287320030642,1,2,pt,MED,Europe
@@ -334,7 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,incêndio florestal no Líbano nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,pt,MED,Asia
 '69791e5a17',extremes,Flood,#030ba1,random,inundação repentina,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,pt,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical etau,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,pt,NPO,Pacific Ocean
-'54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-08-22T03:22:00+00:00,,0.31811164015833315,0,1,pt,,
+'54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,pt,,
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Turquia,2026-08-07T09:56:00+00:00,Turkey,0.3104910605684545,1,1,pt,MED,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,pt,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-08-09T03:59:00+00:00,,0.3044735991017254,1,2,pt,,
