@@ -125,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6a4025044',extremes,Storm,#b3b2b1,wmo,tempestade coimbra,2026-08-24T03:32:00+00:00,Portugal,0.5394555119644638,1,1,pt,MED,Europe
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,tempestade viana do castelo,2026-08-26T03:34:00+00:00,Portugal,0.5394485037315543,1,1,pt,MED,Europe
 '37b4f059db',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto pinheiro da bemposta travanca e palmaz,2026-08-20T03:26:00+00:00,Portugal,0.5387067541427782,1,1,pt,MED,Europe
+'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-08-16T03:28:00+00:00,Angola,0.536627572082481,1,2,pt,WSAF,Africa
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-08-24T03:32:00+00:00,Portugal,0.5356250767185361,1,2,pt,MED,Europe
 'b6f783cdfa',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal tâmega e sousa teixeira e teixeiró,2026-08-13T04:26:00+00:00,Portugal,0.5356056203740747,1,1,pt,MED,Europe
 '8ba9599d35',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho navió e vitorino dos piães,2026-08-20T03:26:00+00:00,Portugal,0.5348187759198516,1,1,pt,MED,Europe
@@ -188,12 +189,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bceaf47e01',extremes,Precipitation,#d60d2b,wmo,chuva torrencial Bragança,2026-08-26T03:34:00+00:00,Portugal,0.4624497249726237,1,1,pt,MED,Europe
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nacional de furacões,2026-08-10T04:13:00+00:00,,0.4621229446515931,1,2,pt,,
 '16a8cea79c',extremes,Storm,#b3b2b1,wmo,tempestade Bragança,2026-09-05T07:05:00+00:00,Portugal,0.4585792446169899,1,1,pt,MED,Europe
-'72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-08-01T05:42:00+00:00,Macao,0.4578748054893241,0,1,pt,EAS,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,gelo marinho ártico,2026-08-03T05:57:00+00:00,,0.4568719221358328,1,2,pt,,
 '82d648b882',extremes,Drought,#edc291,random,seca,2026-08-04T05:31:00+00:00,,0.4563574518309061,1,3,pt,,
 '3e51fddafa',extremes,Wildfire,#d60d2b,effis,incêndio viseu Dão Lafões Portugal,2026-08-08T03:51:00+00:00,Portugal,0.4557804252554902,1,1,pt,MED,Europe
 '3d19dfefeb',extremes,Thunderstorm,#53785a,meteo,trovoada portugal,2026-08-15T03:13:00+00:00,Portugal,0.4550103893961322,1,1,pt,MED,Europe
-'537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-08-16T03:28:00+00:00,Angola,0.4546794789205659,0,1,pt,WSAF,Africa
 '3c1aa3e805',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo beirã,2026-09-01T07:57:00+00:00,Portugal,0.4506706747825951,0,1,pt,MED,Europe
 'b2b78a57e3',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal região de coimbra fajão vidual,2026-08-24T03:32:00+00:00,Portugal,0.4500617815948972,0,1,pt,MED,Europe
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-08-15T03:13:00+00:00,Macao,0.4472074267875089,0,1,pt,EAS,Asia
@@ -210,7 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f24ce754a3',extremes,Drought,#edc291,edo,seca timor leste,2026-08-03T05:58:00+00:00,Timor Leste,0.4286179551144555,1,1,pt,SEA,Oceania
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-07-31T05:51:00+00:00,,0.4252744290413141,1,3,pt,,
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-08-12T04:22:00+00:00,,0.4237769276353395,1,2,pt,,
-'8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-09-08T07:23:00+00:00,Mozambique,0.42098547644402856,1,1,pt,ESAF,Africa
+'8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-09-08T07:23:00+00:00,Mozambique,0.4209854764440285,1,1,pt,ESAF,Africa
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,chuva torrencial,2026-08-15T03:13:00+00:00,,0.4202056655532025,1,2,pt,,
 '89bc7b7f87',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal ave ardegão arnozela e seidões,2026-09-08T07:23:00+00:00,Portugal,0.4200636621794978,0,1,pt,MED,Europe
 '1294658211',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal cávado oliveira,2026-09-08T07:23:00+00:00,Portugal,0.419141768533512,0,1,pt,MED,Europe
