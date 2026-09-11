@@ -65,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-08-23T03:30:00+00:00,Portugal,0.6358333272425425,1,3,pt,MED,Europe
 'e0d40401ca',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-26T03:34:00+00:00,Portugal,0.6315539108003597,1,1,pt,MED,Europe
 'd24b8b247d',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-20T03:26:00+00:00,Portugal,0.6305955382022004,1,1,pt,MED,Europe
-'20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-09-06T07:16:00+00:00,Portugal,0.6302347300761693,0,1,pt,MED,Europe
 '8e3ceed119',extremes,Drought,#edc291,edo,seca angola,2026-07-30T05:24:00+00:00,Angola,0.6260834381388979,1,2,pt,WSAF,Africa
 '75be3599c2',extremes,Precipitation,#d60d2b,wmo,aguaceiro leiria,2026-08-24T03:32:00+00:00,Portugal,0.6233813191288637,1,2,pt,MED,Europe
 '036a614dbd',extremes,Drought,#edc291,edo,período de seca em Moçambique,2026-08-04T05:32:00+00:00,Mozambique,0.6167589418673347,1,1,pt,ESAF,Africa
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d1ceffa9e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alentejo central redondo,2026-09-10T07:28:00+00:00,Portugal,0.5388101176501753,1,1,pt,MED,Europe
 '37b4f059db',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto pinheiro da bemposta travanca e palmaz,2026-08-20T03:26:00+00:00,Portugal,0.5387067541427782,1,1,pt,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,falta de chuva angola,2026-08-16T03:28:00+00:00,Angola,0.536627572082481,1,2,pt,WSAF,Africa
+'20518df42d',extremes,Heat Wave,#c40202,wmo,onda de calor portalegre,2026-09-06T07:16:00+00:00,Portugal,0.5358495355647439,1,1,pt,MED,Europe
 '207425ce99',extremes,Precipitation,#d60d2b,wmo,chuva castelo branco,2026-08-24T03:32:00+00:00,Portugal,0.5356250767185361,1,2,pt,MED,Europe
 'b6f783cdfa',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal tâmega e sousa teixeira e teixeiró,2026-08-13T04:26:00+00:00,Portugal,0.5356056203740747,1,1,pt,MED,Europe
 '8ba9599d35',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho navió e vitorino dos piães,2026-08-20T03:26:00+00:00,Portugal,0.5348187759198516,1,1,pt,MED,Europe
@@ -362,13 +362,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,incêndio selvagem n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.3155537337751957,0,1,pt,MED,Africa
 'df6e516080',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.315553600182234,0,1,pt,MED,Africa
 '61a5e9ca11',extremes,Wildfire,#d60d2b,effis,incêndio selvagem Montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3155400016913728,0,1,pt,MED,Europe
-'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.31552219715436786,0,1,pt,MED,Africa
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.3155221971543678,0,1,pt,MED,Africa
 'fd6adbd9f6',extremes,Wildfire,#d60d2b,effis,incêndio selvagem na Ucrânia,2026-08-27T13:00:00+00:00,Ukraine,0.3155106660340943,0,1,pt,WCE,Europe
 '8539144296',extremes,Wildfire,#d60d2b,effis,incêndio florestal црна гора montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3154730564244714,0,1,pt,MED,Europe
-'2f03e0c694',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.31546894565685046,0,1,pt,MED,Africa
+'2f03e0c694',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.3154689456568504,0,1,pt,MED,Africa
 'e7b18ddef5',extremes,Wildfire,#d60d2b,effis,incêndio selvagem n.a. Ucrânia,2026-08-27T13:00:00+00:00,Ukraine,0.3154555051772442,0,1,pt,WCE,Europe
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.3154521030269896,0,1,pt,MED,Africa
-'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-27T13:00:00+00:00,Romania,0.31543381786825375,0,1,pt,WCE,Europe
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-27T13:00:00+00:00,Romania,0.3154338178682537,0,1,pt,WCE,Europe
 '875f042526',extremes,Wildfire,#d60d2b,effis,incêndio florestal вардарски macedônia do norte,2026-08-27T13:00:00+00:00,North Macedonia,0.3154088575263001,0,1,pt,MED,Europe
 '92f7b20243',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Sérvia,2026-08-27T13:00:00+00:00,Serbia,0.3154083392908405,0,1,pt,MED,Europe
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,incêndio florestal caraş severin romênia,2026-08-27T13:00:00+00:00,Romania,0.3154016502283921,0,1,pt,MED,Europe
@@ -376,11 +376,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f79466631',extremes,Wildfire,#d60d2b,effis,incêndio florestal trebinje Bósnia e Herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3152945382894207,0,1,pt,MED,Europe
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Marie,2026-09-03T07:20:00+00:00,,0.3152872897717339,0,1,pt,NPO,Pacific Ocean
 'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,incêndio florestal dubrovačko neretvanska županija croácia,2026-08-27T13:00:00+00:00,Croatia,0.3152809345346262,0,1,pt,MED,Europe
-'fcaebcf157',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.31525656994322004,0,1,pt,MED,Africa
+'fcaebcf157',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.31525656994322,0,1,pt,MED,Africa
 'dd25cffe03',extremes,Wildfire,#d60d2b,effis,incêndio selvagem n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.3152414082175976,0,1,pt,MED,Africa
 '8a66cd48ef',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Argélia n.a. n / D.,2026-08-27T13:00:00+00:00,Algeria,0.315232717290989,0,1,pt,MED,Africa
 '0e210e66dd',extremes,Wildfire,#d60d2b,effis,incêndio florestal полошки macedônia do norte,2026-08-27T13:00:00+00:00,North Macedonia,0.3152200978646529,0,1,pt,MED,Europe
-'8b9b805fcc',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Noruega,2026-08-27T13:00:00+00:00,Norway,0.31520846551293796,0,1,pt,NEU,Europe
+'8b9b805fcc',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Noruega,2026-08-27T13:00:00+00:00,Norway,0.3152084655129379,0,1,pt,NEU,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-08-09T03:59:00+00:00,,0.3044735991017254,1,2,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-08-21T03:30:00+00:00,Macao,0.299161439091375,1,1,pt,EAS,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,geada noturna,2026-08-14T04:24:00+00:00,,0.2783990398404128,1,1,pt,,
