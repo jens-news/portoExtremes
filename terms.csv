@@ -207,7 +207,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c16ddc688',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal região de coimbra fajão vidual,2026-08-22T03:22:00+00:00,Portugal,0.4463055700383627,1,1,pt,MED,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,período de frio,2026-08-07T04:37:00+00:00,,0.4455972368175716,1,3,pt,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,onda fria,2026-08-08T03:51:00+00:00,,0.4442688523004158,1,3,pt,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-08-07T04:37:00+00:00,,0.44268804847845095,1,2,pt,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,verão indiano,2026-08-07T04:37:00+00:00,,0.4426880484784509,1,2,pt,,
 'dffff32af8',extremes,Thunderstorm,#53785a,wmo,granizo portalegre,2026-08-17T03:28:00+00:00,Portugal,0.4420555652662099,1,1,pt,MED,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,neve acumulada,2026-08-03T05:57:00+00:00,,0.4404990004617513,1,2,pt,,
 'fcb3b0fcab',extremes,Thunderstorm,#53785a,wmo,granizo viana do castelo,2026-08-23T03:30:00+00:00,Portugal,0.4396801346615586,1,1,pt,MED,Europe
@@ -235,12 +235,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-30T08:29:00+00:00,,0.3896507524747915,0,1,pt,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-08-26T03:33:00+00:00,,0.3885601951587258,0,1,pt,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-09-02T07:16:00+00:00,,0.3880782505259038,0,1,pt,,
+'4dc8bdbf14',extremes,Flood,#030ba1,random,inundação do rio,2026-08-31T08:51:00+00:00,,0.3869390499991262,1,2,pt,,
 '3c1aa3e805',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo beirã,2026-09-01T07:57:00+00:00,Portugal,0.3830700735652058,1,1,pt,MED,Europe
 'b2b78a57e3',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal região de coimbra fajão vidual,2026-08-24T03:32:00+00:00,Portugal,0.3825525143556626,1,1,pt,MED,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-09-01T07:57:00+00:00,,0.3823029825886961,0,1,pt,,
 'ae915a462e',extremes,Drought,#edc291,edo,seca macau,2026-08-15T03:13:00+00:00,Macao,0.3801263127693826,1,1,pt,EAS,Asia
-'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-09-03T07:20:00+00:00,,0.3786652342507065,0,1,pt,,
-'4dc8bdbf14',extremes,Flood,#030ba1,random,inundação do rio,2026-08-31T08:51:00+00:00,,0.3778823235283838,0,1,pt,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,soprando neve,2026-09-06T07:16:00+00:00,,0.3770317690291929,0,1,pt,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcão,2026-08-25T03:27:00+00:00,,0.3758755767876381,0,1,pt,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,desintegração de uma geleira,2026-08-05T05:31:00+00:00,,0.3757728429103505,0,1,pt,,
@@ -296,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,secura,2026-08-27T13:00:00+00:00,,0.3300628054721654,0,1,pt,,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,chuva litoral,2026-08-02T05:42:00+00:00,Ecuador,0.3299427667139777,1,2,pt,NWS,South-America
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-08-22T03:22:00+00:00,,0.3250201254127751,0,1,pt,,
+'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-09-03T07:20:00+00:00,,0.3218654491131005,1,1,pt,,
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montana Bulgária,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,pt,MED,Europe
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,incêndio florestal majdel baana Líbano,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,pt,MED,Asia
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,incêndio selvagem na Albânia,2026-08-07T09:56:00+00:00,Albania,0.3197530742103976,0,1,pt,MED,Europe
