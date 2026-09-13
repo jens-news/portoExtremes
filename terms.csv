@@ -20,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-07-26T05:46:00+00:00,Portugal,0.7089009917815047,1,3,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-08-18T03:24:00+00:00,Brazil,0.7039334571483502,1,2,pt,SAM,South-America
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-09-03T07:20:00+00:00,Portugal,0.7025499803026138,1,2,pt,MED,Europe
+'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.7013407134541164,1,2,pt,MED,Europe
 '726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-07-31T05:51:00+00:00,Portugal,0.699573717525259,1,2,pt,NAO,Atlantic Ocean
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
@@ -51,12 +52,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62df00c19e',extremes,Thunderstorm,#53785a,wmo,tempo severo coimbra,2026-08-26T03:34:00+00:00,Portugal,0.663044760411425,1,2,pt,MED,Europe
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-09-01T07:58:00+00:00,Macao,0.662971134453983,1,2,pt,EAS,Asia
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-09-03T07:20:00+00:00,Portugal,0.6626570758703549,1,2,pt,MED,Europe
-'7829461982',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo ponte de sor tramaga e vale de açor,2026-09-12T07:19:00+00:00,Portugal,0.6591236146706304,0,1,pt,MED,Europe
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-09-07T07:29:00+00:00,Portugal,0.6551116079681599,1,2,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-08-16T03:28:00+00:00,Portugal,0.6549021801616781,1,2,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-08-27T13:00:00+00:00,Angola,0.6548861458797942,1,2,pt,WSAF,Africa
 'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-07-26T05:46:00+00:00,Portugal,0.6542330161378398,1,3,pt,MED,Europe
-'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.648459645240137,0,1,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-08-25T03:27:00+00:00,Brazil,0.6482596948415591,1,3,pt,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-09-06T07:16:00+00:00,Brazil,0.6473649212596279,1,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-08-17T03:28:00+00:00,Sao Tome and Principe,0.6405960556304667,1,2,pt,WAF,Africa
@@ -104,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e99f8a16bb',extremes,Wildfire,#d60d2b,effis,incêndio florestal alto alentejo portugal,2026-09-12T07:19:00+00:00,Portugal,0.5632995659814641,1,1,pt,MED,Europe
 '815f0bc0f5',extremes,Heat Wave,#c40202,wmo,onda de calor aveiro,2026-08-16T03:28:00+00:00,Portugal,0.5626756210485312,1,1,pt,MED,Europe
 'd9745f9b90',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho gandra e taião,2026-08-20T03:26:00+00:00,Portugal,0.5609141152684846,1,1,pt,MED,Europe
+'7829461982',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo ponte de sor tramaga e vale de açor,2026-09-12T07:19:00+00:00,Portugal,0.5602550724700358,1,1,pt,MED,Europe
 'd698310409',extremes,Wildfire,#d60d2b,effis,fogo selvagem alto minho portugal,2026-08-20T03:26:00+00:00,Portugal,0.558041725141251,1,1,pt,MED,Europe
 'd9061ad5d5',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho refóios do lima,2026-08-20T03:26:00+00:00,Portugal,0.5579576429254713,1,1,pt,MED,Europe
 '2274ae48d4',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho geraz do lima santa maria santa leocádia e moreira e deão,2026-08-20T03:26:00+00:00,Portugal,0.5570320074141015,1,1,pt,MED,Europe
