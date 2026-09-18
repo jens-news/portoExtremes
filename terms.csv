@@ -12,11 +12,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil congelante,2026-08-23T03:30:00+00:00,Brazil,0.7137407421635044,1,2,pt,SAM,South-America
 '615fb7678a',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-08-27T13:00:00+00:00,Portugal,0.7112331689624649,1,2,pt,MED,Europe
-'7f35d557e3',extremes,Heat Wave,#c40202,wmo,onda de calor lisboa,2026-07-26T05:46:00+00:00,Portugal,0.7089009917815047,1,3,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-08-18T03:24:00+00:00,Brazil,0.7039334571483502,1,2,pt,SAM,South-America
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-09-03T07:20:00+00:00,Portugal,0.7025499803026138,1,2,pt,MED,Europe
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.7013407134541164,1,2,pt,MED,Europe
-'726848c66e',extremes,Drought,#edc291,edo,período de seca em portugal,2026-07-31T05:51:00+00:00,Portugal,0.699573717525259,1,2,pt,NAO,Atlantic Ocean
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incêndio florestal em Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6915426444353406,1,2,pt,MED,Europe
@@ -37,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f006bc815e',extremes,Heat Wave,#c40202,wmo,onda de calor madeira costa norte,2026-08-07T04:37:00+00:00,Portugal,0.6719704706821412,1,2,pt,MED,Europe
 '4b5b5f4d0e',extremes,Wildfire,#d60d2b,effis,incêndio florestal viseu Dão Lafões Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6686076861650994,1,1,pt,MED,Europe
 'fed1854897',extremes,Wildfire,#d60d2b,effis,incêndio florestal área metropolitana do porto portugal,2026-08-07T09:56:00+00:00,Portugal,0.6686067812042348,1,1,pt,MED,Europe
-'7c0497a8cf',extremes,Heat Wave,#c40202,wmo,onda de calor évora,2026-07-26T05:46:00+00:00,Portugal,0.6684879847059552,1,3,pt,MED,Europe
 'cfa60f4659',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-08-14T04:24:00+00:00,Macao,0.6644417372272444,1,2,pt,EAS,Asia
 '56dca2743f',extremes,Drought,#edc291,edo,período de seca na Guiné Equatorial,2026-08-07T11:06:00+00:00,Equatorial Guinea,0.6631090078895164,1,2,pt,WAF,Africa
 '62df00c19e',extremes,Thunderstorm,#53785a,wmo,tempo severo coimbra,2026-08-26T03:34:00+00:00,Portugal,0.663044760411425,1,2,pt,MED,Europe
@@ -47,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-09-07T07:29:00+00:00,Portugal,0.6551116079681599,1,2,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-08-16T03:28:00+00:00,Portugal,0.6549021801616781,1,2,pt,MED,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-08-27T13:00:00+00:00,Angola,0.6548861458797942,1,2,pt,WSAF,Africa
-'a2c1328a2a',extremes,Heat Wave,#c40202,wmo,onda de calor guarda,2026-07-26T05:46:00+00:00,Portugal,0.6542330161378398,1,3,pt,MED,Europe
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-08-25T03:27:00+00:00,Brazil,0.6482596948415591,1,3,pt,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-09-06T07:16:00+00:00,Brazil,0.6473649212596279,1,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-08-17T03:28:00+00:00,Sao Tome and Principe,0.6405960556304667,1,2,pt,WAF,Africa
@@ -206,7 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-08-26T03:34:00+00:00,Equatorial Guinea,0.4039894459730146,1,1,pt,WAF,Africa
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-08-28T14:31:00+00:00,,0.4016609513165604,1,2,pt,,
 '6a9f8159fe',extremes,Thunderstorm,#53785a,wmo,tempo severo évora,2026-08-16T03:28:00+00:00,Portugal,0.3993029089380912,1,1,pt,MED,Europe
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-09-10T07:28:00+00:00,,0.39855348734867213,1,3,pt,,
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-09-10T07:28:00+00:00,,0.3985534873486721,1,3,pt,,
 '66fe9fc98a',extremes,Thunderstorm,#53785a,wmo,tempo severo Santarém,2026-08-23T03:30:00+00:00,Portugal,0.3944560709271867,1,1,pt,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-08-20T03:26:00+00:00,,0.3927680188723025,0,1,pt,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-08-26T03:33:00+00:00,,0.3885601951587258,0,1,pt,,
@@ -246,7 +242,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-08-23T03:30:00+00:00,Equatorial Guinea,0.3473408144824441,1,1,pt,WAF,Africa
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-09-05T07:04:00+00:00,,0.3402794582893932,1,2,pt,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-09-05T07:04:00+00:00,,0.3397086707349938,0,1,pt,,
-'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-09-03T07:20:00+00:00,Macao,0.3377956529000495,0,1,pt,EAS,Asia
 '72eb62ae47',extremes,Drought,#edc291,edo,período de seca macau,2026-08-25T03:27:00+00:00,Macao,0.3350545972939718,1,1,pt,EAS,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-08-25T03:27:00+00:00,,0.3350277948781432,1,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,pt,,
@@ -311,4 +306,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-08-21T03:30:00+00:00,Macao,0.299161439091375,1,1,pt,EAS,Asia
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-09-06T07:16:00+00:00,Equatorial Guinea,0.2943851295555685,1,1,pt,WAF,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-08-30T08:29:00+00:00,,0.2926729077655858,1,1,pt,,
-'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical moke,2026-08-25T03:27:00+00:00,,0.26990008344651845,1,1,pt,NPO,Pacific Ocean
+'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-09-03T07:20:00+00:00,Macao,0.28712630496504205,1,1,pt,EAS,Asia
+'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical moke,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,pt,NPO,Pacific Ocean
