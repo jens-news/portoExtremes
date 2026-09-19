@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-08-18T03:24:00+00:00,Brazil,0.7039334571483502,1,2,pt,SAM,South-America
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-09-03T07:20:00+00:00,Portugal,0.7025499803026138,1,2,pt,MED,Europe
 'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.7013407134541164,1,2,pt,MED,Europe
-'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,incêndio florestal douro portugal,2026-08-07T09:56:00+00:00,Portugal,0.6985872696144291,1,1,pt,MED,Europe
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incêndio florestal em Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6915426444353406,1,2,pt,MED,Europe
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.6902359014267067,2,3,pt,SAM,South-America
@@ -34,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd061badb4',extremes,Drought,#edc291,edo,seca brasil,2026-08-25T03:27:00+00:00,Brazil,0.6482596948415591,1,3,pt,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-09-06T07:16:00+00:00,Brazil,0.6473649212596279,1,1,pt,SAM,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,falta de chuva são tomé e príncipe,2026-08-17T03:28:00+00:00,Sao Tome and Principe,0.6405960556304667,1,2,pt,WAF,Africa
-'42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.6385596950964153,3,2,pt,MED,Europe
 '06532967b8',extremes,Drought,#edc291,edo,falta de chuva brasil,2026-08-31T08:51:00+00:00,Brazil,0.6370973346979582,1,3,pt,SAM,South-America
 '9e3f2c6665',extremes,Storm,#b3b2b1,wmo,tempestade lisboa,2026-08-23T03:30:00+00:00,Portugal,0.6358333272425425,1,3,pt,MED,Europe
 'e0d40401ca',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal área metropolitana do porto cabreiros e albergaria da serra,2026-08-26T03:34:00+00:00,Portugal,0.6315539108003597,1,1,pt,MED,Europe
@@ -142,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc1695f893',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto minho rio frio,2026-08-21T03:30:00+00:00,Portugal,0.4839739976589254,1,1,pt,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,avalanche,2026-09-10T07:28:00+00:00,,0.4837769465707691,1,3,pt,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gafanhotos,2026-08-12T04:22:00+00:00,,0.4837562293480177,1,2,pt,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-09-02T07:16:00+00:00,,0.4800165279470182,1,2,pt,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,neve derretida,2026-08-13T04:26:00+00:00,,0.4795051874630549,1,2,pt,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-09-12T07:19:00+00:00,,0.4792230594973505,1,2,pt,,
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,chuva torrencial viana do castelo,2026-08-23T03:30:00+00:00,Portugal,0.4758440804815069,1,1,pt,MED,Europe
@@ -193,7 +192,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a9f8159fe',extremes,Thunderstorm,#53785a,wmo,tempo severo évora,2026-08-16T03:28:00+00:00,Portugal,0.3993029089380912,1,1,pt,MED,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-09-10T07:28:00+00:00,,0.3985534873486721,1,3,pt,,
 '66fe9fc98a',extremes,Thunderstorm,#53785a,wmo,tempo severo Santarém,2026-08-23T03:30:00+00:00,Portugal,0.3944560709271867,1,1,pt,MED,Europe
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,gafanhoto,2026-09-02T07:16:00+00:00,,0.3880782505259038,0,1,pt,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-09-01T07:57:00+00:00,,0.3879211669831572,1,2,pt,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundação do rio,2026-08-31T08:51:00+00:00,,0.3869390499991262,1,2,pt,,
 '3c1aa3e805',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo beirã,2026-09-01T07:57:00+00:00,Portugal,0.3830700735652058,1,1,pt,MED,Europe
