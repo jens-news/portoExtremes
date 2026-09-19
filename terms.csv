@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-08-23T03:30:00+00:00,Brazil,0.7660580447652793,2,3,pt,SAM,South-America
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal,2026-08-07T09:56:00+00:00,Portugal,0.7512465236428416,2,3,pt,MED,Europe
-'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-08-23T03:30:00+00:00,Brazil,0.7510355141623607,1,3,pt,SAM,South-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,tempo severo portugal,2026-08-16T03:28:00+00:00,Portugal,0.7494415656633779,1,2,pt,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-08-31T08:51:00+00:00,Brazil,0.7369859830835022,1,2,pt,SAM,South-America
 'e6200fd658',extremes,Drought,#edc291,edo,seca angola,2026-08-01T05:42:00+00:00,Angola,0.7338539237730146,1,2,pt,WSAF,Africa
@@ -175,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,granizo,2026-08-20T03:26:00+00:00,,0.4388071510414571,1,3,pt,,
 '676a85a2fa',extremes,Drought,#edc291,edo,seca são tomé e príncipe,2026-08-28T14:32:00+00:00,Sao Tome and Principe,0.4383702893294235,1,1,pt,WAF,Africa
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-08-15T03:13:00+00:00,,0.437849360439963,1,3,pt,,
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-08-26T03:33:00+00:00,,0.43523050088491694,1,3,pt,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-08-26T03:33:00+00:00,,0.4352305008849169,1,3,pt,,
 '791ee9f63b',extremes,Thunderstorm,#53785a,wmo,trovoada castelo branco,2026-08-24T03:32:00+00:00,Portugal,0.4294413245745362,1,2,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-08-26T03:34:00+00:00,Guinea-Bissau,0.4260953828320742,1,1,pt,WAF,Africa
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frio recorde,2026-07-31T05:51:00+00:00,,0.4252744290413141,1,3,pt,,
@@ -284,10 +284,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b9b805fcc',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Noruega,2026-08-27T13:00:00+00:00,Norway,0.3152084655129379,0,1,pt,NEU,Europe
 '4f8dad48b5',extremes,Wildfire,#d60d2b,effis,incêndio florestal na França,2026-08-27T13:00:00+00:00,France,0.3151911495246902,0,1,pt,WCE,Europe
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,incêndio florestal tulcea romênia,2026-08-27T13:00:00+00:00,Romania,0.3151728801406534,0,1,pt,WCE,Europe
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,mergulhos de mercúrio,2026-08-15T03:13:00+00:00,,0.3151603473381734,1,1,pt,,
 '28bedc733d',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3151500598379531,0,1,pt,MED,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,bacias de poeira,2026-08-27T13:00:00+00:00,,0.3122272124579374,1,1,pt,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,frente de água,2026-08-09T03:59:00+00:00,,0.3044735991017254,1,2,pt,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,surto de lago glaciar,2026-08-18T03:23:00+00:00,,0.3000370923419078,1,1,pt,,
 'ac1f437023',extremes,Drought,#edc291,edo,seca macau,2026-08-21T03:30:00+00:00,Macao,0.299161439091375,1,1,pt,EAS,Asia
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-09-06T07:16:00+00:00,Equatorial Guinea,0.2943851295555685,1,1,pt,WAF,Africa
