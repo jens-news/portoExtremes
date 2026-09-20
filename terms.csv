@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-09-09T07:32:00+00:00,Brazil,0.7332146281766814,2,3,pt,SAM,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7246680070998206,2,3,pt,SAM,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-09-09T07:32:00+00:00,Brazil,0.7190975698592701,3,3,pt,SAM,South-America
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,seca cabo verde,2026-08-27T13:00:00+00:00,Cabo Verde,0.7181382100479352,1,2,pt,NAO,Atlantic Ocean
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitação brasil,2026-08-15T03:13:00+00:00,Brazil,0.7166759572949666,1,3,pt,SAM,South-America
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,tempestade em portugal,2026-08-06T05:33:00+00:00,Portugal,0.7165970620307027,1,3,pt,MED,Europe
@@ -120,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a88b8dd3',extremes,Drought,#edc291,edo,falta de chuva Guiné Bissau,2026-08-17T03:28:00+00:00,Guinea-Bissau,0.5085441291438166,1,1,pt,WAF,Africa
 '270356f7b2',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes moimenta e montuto,2026-08-23T03:30:00+00:00,Portugal,0.5025243902875073,1,1,pt,MED,Europe
 '4c99b963c4',extremes,Earthquake,#870007,usgs,terremoto lospalos,2026-08-25T03:27:00+00:00,Timor Leste,0.5016145640219388,1,1,pt,SEA,Asia
-'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-08-27T13:00:00+00:00,Portugal,0.5015881865926456,1,1,pt,MED,Europe
 'be0c6d04cd',extremes,Thunderstorm,#53785a,wmo,tempo severo guarda,2026-08-24T03:32:00+00:00,Portugal,0.5013992584315039,1,2,pt,MED,Europe
 'bff56e4df5',extremes,Wildfire,#d60d2b,effis,incêndio florestal no Alentejo centro de Portugal,2026-09-10T07:28:00+00:00,Portugal,0.4987668759814143,1,1,pt,MED,Europe
 'a00084983d',extremes,Thunderstorm,#53785a,wmo,trovoada Aveiro,2026-08-27T13:00:00+00:00,Portugal,0.4981998761849115,1,2,pt,MED,Europe
@@ -173,6 +172,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,erupção do vulcão,2026-08-15T03:13:00+00:00,,0.437849360439963,1,3,pt,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,granizo,2026-08-26T03:33:00+00:00,,0.4352305008849169,1,3,pt,,
 '791ee9f63b',extremes,Thunderstorm,#53785a,wmo,trovoada castelo branco,2026-08-24T03:32:00+00:00,Portugal,0.4294413245745362,1,2,pt,MED,Europe
+'c379495f21',extremes,Precipitation,#d60d2b,wmo,aguaceiro bragança,2026-08-27T13:00:00+00:00,Portugal,0.42634995860374875,2,1,pt,MED,Europe
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-08-26T03:34:00+00:00,Guinea-Bissau,0.4260953828320742,1,1,pt,WAF,Africa
 '52af874334',extremes,Drought,#edc291,random,aridez,2026-08-12T04:22:00+00:00,,0.4237769276353395,1,2,pt,,
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-09-08T07:23:00+00:00,Mozambique,0.4209854764440285,1,1,pt,ESAF,Africa
@@ -282,6 +282,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,pt,NPO,Pacific Ocean
 '5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical moke,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,pt,NPO,Pacific Ocean
 'ec98366bcb',extremes,Flood,#030ba1,aidr,inundação no sudeste da Austrália 2016,2026-08-30T08:30:00+00:00,Australia,0.2687204391932855,1,1,pt,SAU,Oceania
-'fed99381dc',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.26813428757294117,1,1,pt,MED,Africa
+'fed99381dc',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.2681342875729411,1,1,pt,MED,Africa
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,incêndio florestal caraş severin romênia,2026-08-27T13:00:00+00:00,Romania,0.2680914026941333,1,1,pt,MED,Europe
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.267968084451737,1,1,pt,MED,Africa
