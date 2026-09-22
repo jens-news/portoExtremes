@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615fb7678a',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-08-27T13:00:00+00:00,Portugal,0.7112331689624649,1,2,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-08-18T03:24:00+00:00,Brazil,0.7039334571483502,1,2,pt,SAM,South-America
 '90213cba9a',extremes,Heat Wave,#c40202,wmo,onda de calor setúbal,2026-09-03T07:20:00+00:00,Portugal,0.7025499803026138,1,2,pt,MED,Europe
-'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.7013407134541164,1,2,pt,MED,Europe
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,incêndio florestal em Portugal,2026-08-07T09:56:00+00:00,Portugal,0.6915426444353406,1,2,pt,MED,Europe
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.6902359014267067,2,3,pt,SAM,South-America
@@ -43,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4409ccb8a7',extremes,Precipitation,#d60d2b,wmo,precipitação bragança,2026-08-24T03:32:00+00:00,Portugal,0.6033975619334584,1,3,pt,MED,Europe
 '730aa26661',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal terras de trás os montes mirandela,2026-08-23T03:30:00+00:00,Portugal,0.6014461543672824,1,1,pt,MED,Europe
 '4bf9660a80',extremes,Heat Wave,#c40202,wmo,onda de calor porto,2026-08-15T03:13:00+00:00,Portugal,0.6008156452425896,1,3,pt,MED,Europe
+'e4bab913ee',extremes,Heat Wave,#c40202,wmo,onda de calor braga,2026-09-12T07:19:00+00:00,Portugal,0.596139711435999,2,1,pt,MED,Europe
 'beb3300dc5',extremes,Thunderstorm,#53785a,wmo,trovoada faro,2026-08-16T03:28:00+00:00,Portugal,0.59565618586586,1,1,pt,MED,Europe
 'a90f4cf9e4',extremes,Precipitation,#d60d2b,wmo,precipitação leiria,2026-08-26T03:34:00+00:00,Portugal,0.5948374939047909,1,3,pt,MED,Europe
 'c10b00c3cf',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal médio tejo mouriscas,2026-09-01T07:57:00+00:00,Portugal,0.5933627049642702,1,1,pt,MED,Europe
@@ -143,6 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,tempo severo,2026-08-23T03:30:00+00:00,,0.4678439644457471,1,3,pt,,
 '5fca4dc93b',extremes,Precipitation,#d60d2b,wmo,chuva torrencial coimbra,2026-08-26T03:34:00+00:00,Portugal,0.4657423949475496,1,1,pt,MED,Europe
 '9f2045596d',extremes,Precipitation,#d60d2b,wmo,chuva torrencial aveiro,2026-08-26T03:34:00+00:00,Portugal,0.465605799457456,1,1,pt,MED,Europe
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-08-19T03:25:00+00:00,,0.4644412567377718,1,3,pt,,
 '4fc27158cd',extremes,Precipitation,#d60d2b,wmo,chuva torrencial lisboa,2026-08-23T03:30:00+00:00,Portugal,0.4644406068282424,1,1,pt,MED,Europe
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tempestade tropical,2026-08-23T03:30:00+00:00,,0.4642131873532036,1,3,pt,,
 'a679a52e44',extremes,Drought,#edc291,edo,falta de chuva bermudas,2026-08-19T03:26:00+00:00,Bermuda,0.4641211264172313,1,1,pt,NAO,Atlantic Ocean
@@ -194,7 +195,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,deslizamento de terra,2026-08-15T03:13:00+00:00,,0.373160841477124,1,2,pt,,
 'a7d549affe',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal douro louredo e fornelos,2026-09-10T07:28:00+00:00,Portugal,0.3668585456257369,1,1,pt,MED,Europe
 '16e8098c9b',extremes,Wildfire,#d60d2b,effis,incêndios florestais região de coimbra portugal,2026-08-22T03:22:00+00:00,Portugal,0.3653207016174106,1,1,pt,MED,Europe
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,calor,2026-08-19T03:25:00+00:00,,0.3640765138091433,0,1,pt,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempestade,2026-08-20T03:26:00+00:00,,0.3613473118527079,0,1,pt,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,tempestade de neve,2026-09-09T07:32:00+00:00,,0.3573649853674385,1,1,pt,,
 '89bc7b7f87',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal ave ardegão arnozela e seidões,2026-09-08T07:23:00+00:00,Portugal,0.3570541128525731,1,1,pt,MED,Europe
