@@ -184,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-08-28T14:31:00+00:00,,0.4016609513165604,1,2,pt,,
 '1405131905',extremes,Thunderstorm,#53785a,random,granizo,2026-08-29T09:18:00+00:00,,0.4005216922090771,1,3,pt,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,geada,2026-09-10T07:28:00+00:00,,0.3985534873486721,1,3,pt,,
+'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,furacão karina,2026-08-31T08:51:00+00:00,,0.3960972946121669,1,2,pt,NPO,Pacific Ocean
 '95b2881221',extremes,Precipitation,#d60d2b,random,rio atmosférico,2026-09-01T07:57:00+00:00,,0.3879211669831572,1,2,pt,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,inundação do rio,2026-08-31T08:51:00+00:00,,0.3869390499991262,1,2,pt,,
 '3c1aa3e805',extremes,Wildfire,#d60d2b,effis,incêndio florestal portugal alto alentejo beirã,2026-09-01T07:57:00+00:00,Portugal,0.3830700735652058,1,1,pt,MED,Europe
@@ -225,7 +226,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,inundação repentina,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,pt,,
 '54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,pt,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,furacão Marie,2026-09-04T07:23:00+00:00,,0.3179343136353981,0,1,pt,NPO,Pacific Ocean
-'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,furacão karina,2026-08-31T08:51:00+00:00,,0.3178790642496082,0,1,pt,NPO,Pacific Ocean
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Lowell,2026-08-31T08:51:00+00:00,,0.3178224029215653,0,1,pt,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Júlio,2026-08-26T03:33:00+00:00,,0.3175669230411359,0,1,pt,NPO,Pacific Ocean
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,furacão Lowell,2026-09-02T07:16:00+00:00,,0.3172348526717112,0,1,pt,NPO,Pacific Ocean
@@ -257,7 +257,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e210e66dd',extremes,Wildfire,#d60d2b,effis,incêndio florestal полошки macedônia do norte,2026-08-27T13:00:00+00:00,North Macedonia,0.3152200978646529,0,1,pt,MED,Europe
 '8b9b805fcc',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Noruega,2026-08-27T13:00:00+00:00,Norway,0.3152084655129379,0,1,pt,NEU,Europe
 '4f8dad48b5',extremes,Wildfire,#d60d2b,effis,incêndio florestal na França,2026-08-27T13:00:00+00:00,France,0.3151911495246902,0,1,pt,WCE,Europe
-'62f5b29317',extremes,Wildfire,#d60d2b,effis,incêndio florestal tulcea romênia,2026-08-27T13:00:00+00:00,Romania,0.3151728801406534,0,1,pt,WCE,Europe
 '28bedc733d',extremes,Wildfire,#d60d2b,effis,incêndio florestal Montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3151500598379531,0,1,pt,MED,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,bacias de poeira,2026-08-27T13:00:00+00:00,,0.3122272124579374,1,1,pt,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-08-21T03:30:00+00:00,,0.3050232686954781,1,2,pt,,
@@ -273,3 +272,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.2681342875729411,1,1,pt,MED,Africa
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,incêndio florestal caraş severin romênia,2026-08-27T13:00:00+00:00,Romania,0.2680914026941333,1,1,pt,MED,Europe
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,incêndio florestal n.a. Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.267968084451737,1,1,pt,MED,Africa
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,incêndio florestal tulcea romênia,2026-08-27T13:00:00+00:00,Romania,0.2678969481195554,1,1,pt,WCE,Europe
