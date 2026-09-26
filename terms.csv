@@ -194,6 +194,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8cb5db3b79',extremes,Wildfire,#d60d2b,effis,incêndio florestal alto tâmega portugal,2026-09-03T07:20:00+00:00,Portugal,0.3481211976853589,1,1,pt,MED,Europe
 '69494b0be5',extremes,Wildfire,#d60d2b,effis,incêndio florestal região de coimbra portugal,2026-08-24T03:32:00+00:00,Portugal,0.3476652257460919,1,1,pt,MED,Europe
 'c4be795f03',extremes,Drought,#edc291,edo,falta de chuva na Guiné Equatorial,2026-08-23T03:30:00+00:00,Equatorial Guinea,0.3473408144824441,1,1,pt,WAF,Africa
+'690c0d80e6',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Itália,2026-08-27T13:00:00+00:00,Italy,0.34428059536574696,1,2,pt,MED,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,terremoto,2026-09-05T07:04:00+00:00,,0.3402794582893932,1,2,pt,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempestade de areia,2026-08-25T03:27:00+00:00,,0.3350277948781432,1,1,pt,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,pt,,
@@ -222,7 +223,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Romênia,2026-08-27T13:00:00+00:00,Romania,0.3154338178682537,0,1,pt,WCE,Europe
 '875f042526',extremes,Wildfire,#d60d2b,effis,incêndio florestal вардарски macedônia do norte,2026-08-27T13:00:00+00:00,North Macedonia,0.3154088575263001,0,1,pt,MED,Europe
 '92f7b20243',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Sérvia,2026-08-27T13:00:00+00:00,Serbia,0.3154083392908405,0,1,pt,MED,Europe
-'690c0d80e6',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Itália,2026-08-27T13:00:00+00:00,Italy,0.3153887945479376,0,1,pt,MED,Europe
 '7f79466631',extremes,Wildfire,#d60d2b,effis,incêndio florestal trebinje Bósnia e Herzegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3152945382894207,0,1,pt,MED,Europe
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Marie,2026-09-03T07:20:00+00:00,,0.3152872897717339,0,1,pt,NPO,Pacific Ocean
 'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,incêndio florestal dubrovačko neretvanska županija croácia,2026-08-27T13:00:00+00:00,Croatia,0.3152809345346262,0,1,pt,MED,Europe
@@ -235,7 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f29727ea9',extremes,Drought,#edc291,edo,seca Guiné Equatorial,2026-09-06T07:16:00+00:00,Equatorial Guinea,0.2943851295555685,1,1,pt,WAF,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg antártica,2026-08-30T08:29:00+00:00,,0.2926729077655858,1,1,pt,,
 'ffb1582a8d',extremes,Drought,#edc291,edo,falta de chuva macau,2026-09-03T07:20:00+00:00,Macao,0.287126304965042,1,1,pt,EAS,Asia
-'8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-09-05T07:04:00+00:00,,0.27892763535878023,2,1,pt,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,tempestade de poeira,2026-09-05T07:04:00+00:00,,0.2789276353587802,2,1,pt,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,pt,NPO,Pacific Ocean
 '5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical moke,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,pt,NPO,Pacific Ocean
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical iselle,2026-08-25T03:27:00+00:00,,0.2694556602892496,1,1,pt,NPO,Pacific Ocean
