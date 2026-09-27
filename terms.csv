@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.7118280669439384,3,3,pt,SAM,South-America
 '615fb7678a',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-08-27T13:00:00+00:00,Portugal,0.7112331689624649,1,2,pt,MED,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,seca brasil,2026-08-18T03:24:00+00:00,Brazil,0.7039334571483502,1,2,pt,SAM,South-America
 'c034cfb266',extremes,Thunderstorm,#53785a,wmo,trovoada portalegre,2026-08-16T03:28:00+00:00,Portugal,0.6938473143972417,1,2,pt,MED,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62df00c19e',extremes,Thunderstorm,#53785a,wmo,tempo severo coimbra,2026-08-26T03:34:00+00:00,Portugal,0.663044760411425,1,2,pt,MED,Europe
 'e625fa296a',extremes,Storm,#b3b2b1,wmo,tempestade macau,2026-09-01T07:58:00+00:00,Macao,0.662971134453983,1,2,pt,EAS,Asia
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-09-03T07:20:00+00:00,Portugal,0.6626570758703549,1,2,pt,MED,Europe
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tempestade brasil,2026-08-17T03:28:00+00:00,Brazil,0.6600053119023476,4,3,pt,SAM,South-America
 'a3eec67232',extremes,Wildfire,#d60d2b,effis,incêndio terras de trás os montes portugal,2026-08-23T03:30:00+00:00,Portugal,0.6562189338056968,2,2,pt,MED,Europe
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-09-07T07:29:00+00:00,Portugal,0.6551116079681599,1,2,pt,MED,Europe
 '4a8c38b42f',extremes,Heat Wave,#c40202,wmo,onda de calor viana do castelo,2026-08-16T03:28:00+00:00,Portugal,0.6549021801616781,1,2,pt,MED,Europe
@@ -143,7 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,exposição extrema ao calor,2026-08-22T03:22:00+00:00,,0.4273172116008588,1,2,pt,,
 '50a78e5c68',extremes,Drought,#edc291,edo,seca Guiné Bissau,2026-08-26T03:34:00+00:00,Guinea-Bissau,0.4260953828320742,1,1,pt,WAF,Africa
 '8b3539a59c',extremes,Drought,#edc291,edo,falta de chuva moçambique,2026-09-08T07:23:00+00:00,Mozambique,0.4209854764440285,1,1,pt,ESAF,Africa
-'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Lowell,2026-08-31T08:51:00+00:00,,0.42074910248333053,1,2,pt,NPO,Pacific Ocean
+'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical Lowell,2026-08-31T08:51:00+00:00,,0.4207491024833305,1,2,pt,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,inundação costeira,2026-08-22T03:22:00+00:00,,0.4206949241345831,1,2,pt,,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Itália,2026-08-27T13:00:00+00:00,Italy,0.418674264577868,1,2,pt,MED,Europe
 '8b9b805fcc',extremes,Wildfire,#d60d2b,effis,incêndio florestal na Noruega,2026-08-27T13:00:00+00:00,Norway,0.4182272256859972,1,2,pt,NEU,Europe
