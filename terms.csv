@@ -2,6 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-09-06T07:16:00+00:00,Brazil,0.7456486983600812,3,2,pt,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,chuva brasil,2026-09-09T07:32:00+00:00,Brazil,0.7289445869505953,5,3,pt,SAM,South-America
 '615fb7678a',extremes,Storm,#b3b2b1,wmo,tempestade vila real,2026-08-27T13:00:00+00:00,Portugal,0.7112331689624649,1,2,pt,MED,Europe
+'9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-08-27T13:00:00+00:00,Angola,0.706803238997825,2,2,pt,WSAF,Africa
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,neve brasil,2026-08-22T03:22:00+00:00,Brazil,0.6902359014267067,2,3,pt,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,chuva torrencial brasil,2026-08-31T08:51:00+00:00,Brazil,0.6768881306209769,2,2,pt,SAM,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,gelo brasil,2026-08-23T03:30:00+00:00,Brazil,0.6726357474290258,3,3,pt,SAM,South-America
@@ -10,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a67d956829',extremes,Heat Wave,#c40202,wmo,onda de calor faro,2026-09-03T07:20:00+00:00,Portugal,0.6626570758703549,1,2,pt,MED,Europe
 'a3eec67232',extremes,Wildfire,#d60d2b,effis,incêndio terras de trás os montes portugal,2026-08-23T03:30:00+00:00,Portugal,0.6562189338056968,2,2,pt,MED,Europe
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,onda de calor beja,2026-09-07T07:29:00+00:00,Portugal,0.6551116079681599,1,2,pt,MED,Europe
-'9a93354f3b',extremes,Drought,#edc291,edo,período de seca em angola,2026-08-27T13:00:00+00:00,Angola,0.6548861458797942,1,2,pt,WSAF,Africa
 'f63fff75f8',extremes,Heat Wave,#c40202,wmo,onda de calor viseu,2026-09-05T07:05:00+00:00,Portugal,0.6527477680836755,2,2,pt,MED,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,geada brasil,2026-08-23T03:30:00+00:00,Brazil,0.6511499230504874,3,2,pt,SAM,South-America
 '7bb40cd5c3',extremes,Heat Wave,#c40202,wmo,onda de calor santarém,2026-09-05T07:05:00+00:00,Portugal,0.6501116741863654,2,1,pt,MED,Europe
@@ -127,7 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,pt,,
 '959012e5b8',extremes,Drought,#edc291,edo,período de seca em Timor Leste,2026-09-12T07:19:00+00:00,Timor Leste,0.3301859356225279,1,1,pt,SEA,Oceania
 'a652c78afc',extremes,Drought,#edc291,random,megaseca,2026-09-03T07:20:00+00:00,,0.3218654491131005,1,1,pt,,
-'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,incêndio selvagem na Grécia,2026-08-27T13:00:00+00:00,Greece,0.3156959462890867,0,1,pt,MED,Europe
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,incêndio selvagem na Itália,2026-08-27T13:00:00+00:00,Italy,0.315633727732999,0,1,pt,MED,Europe
 '9d1b29af9d',extremes,Wildfire,#d60d2b,effis,incêndio selvagem na Tunísia,2026-08-27T13:00:00+00:00,Tunisia,0.3155590958380176,0,1,pt,MED,Africa
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,incêndio selvagem n.a. Argélia,2026-08-27T13:00:00+00:00,Algeria,0.3155537337751957,0,1,pt,MED,Africa
@@ -149,4 +148,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,pt,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,tempestade tropical bang lang,2026-08-31T08:51:00+00:00,,0.2694121232757997,1,1,pt,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,trovoada austrália,2026-09-01T07:58:00+00:00,Australia,0.2692042423542264,1,1,pt,EAU,Oceania
-'ec98366bcb',extremes,Flood,#030ba1,aidr,inundação no sudeste da Austrália 2016,2026-08-30T08:30:00+00:00,Australia,0.2687204391932855,1,1,pt,SAU,Oceania
